@@ -5,8 +5,11 @@
  * https://github.com/zoltan-dulac/css3TrueColorAnimator
  *
  * Generated with the following options: 
- * --ms=50
  * --output=cube
+ * --ms=50
+ * --no-apng
+ * --no-gif
+ * --jxr-quality=77
  *
  */
 	
@@ -27,6 +30,10 @@
 	    background: url('./cube-stitched.png') left center;
 	    animation: cubeplay 5000ms steps( 100) infinite;
 	    -webkit-animation: cubeplay 5000ms steps( 100) infinite;
+	}
+	
+	html.no-apng.no-webp.jpegxr.cssanimations .cube {
+	    background: url('./cube-stitched.jxr') left center;
 	}
 	
 	html.no-apng.no-webp.no-cssanimations .cube {

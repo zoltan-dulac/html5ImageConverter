@@ -5,8 +5,10 @@
  * https://github.com/zoltan-dulac/css3TrueColorAnimator
  *
  * Generated with the following options: 
- * --ms=75
  * --output=ballanim
+ * --ms=50
+ * --jxr-quality=75
+ * --jp2-quality=50
  *
  */
 	
@@ -24,10 +26,15 @@
 	}
 	
 	html.no-apng.no-webp.cssanimations .ballanim {
-	    background: url('./ballanim-stitched.png') left center;
-	    animation: ballanimplay 1500ms steps( 20) infinite;
-	    -webkit-animation: ballanimplay 1500ms steps( 20) infinite;
+	    background: url('./ballanim-stitched-mini.png') left center;
+	    animation: ballanimplay 1000ms steps( 20) infinite;
+	    -webkit-animation: ballanimplay 1000ms steps( 20) infinite;
 	}
+	
+	html.no-apng.no-webp.jpegxr.cssanimations .ballanim {
+	    background: url('./ballanim-stitched.jxr') left center;
+	}
+	
 	
 	html.no-apng.no-webp.no-cssanimations .ballanim {
 	    background: url('./ballanim.gif') left center;
