@@ -11,7 +11,8 @@
  * --jp2-quality=50
  *
  */
-	
+@import url('css/png-quant.css');
+
 	.ballanim {
 	  width: 100px;
 	  height: 100px;
@@ -25,10 +26,21 @@
 	  background: url('./ballanim.png');
 	}
 	
-	html.no-apng.no-webp.cssanimations .ballanim {
-	    background: url('./ballanim-stitched-mini.png') left center;
+	html.no-apng.no-webp.cssanimations .ballanim,
+	html.cssanimations .ballanim.quant
+	{
 	    animation: ballanimplay 1000ms steps( 20) infinite;
 	    -webkit-animation: ballanimplay 1000ms steps( 20) infinite;
+	}
+	
+	html.no-apng.no-webp.jpeg2000.cssanimations .ballanim {
+	    background: url('./ballanim-stitched.jp2') left center;
+	    
+	}
+	
+	html.no-apng.no-webp.no-jpeg200.cssanimations .ballanim {
+	    background: url('./ballanim-stitched-mini.png') left center;
+	    
 	}
 	
 	html.no-apng.no-webp.jpegxr.cssanimations .ballanim {

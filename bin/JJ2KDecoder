@@ -1,0 +1,6 @@
+#!/bin/sh
+
+CLASSPATH="/Users/zhawry/git/jj2000-read-only/target/jj2000-5.2-SNAPSHOT.jar:$CLASSPATH"
+export CLASSPATH
+
+java JJ2KDecoder $*
