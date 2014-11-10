@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    
+    <title>CSS3 Alpha Channel Image Converter</title>
+    <meta http-equiv='X-UA-Compatible' content='IE=Edge' />
+    <link href='test.css' type='text/css' rel='stylesheet' />
+    <style>body { background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAACWBAMAAABp8toqAAAALVBMVEUJCQkAAMAyAGoTExMWFhYdHR0AIUw9GmXAAADAAMAAwAAAwMDAwADAwMD////k4POZAAAAn0lEQVRo3u3OsRFBQRSG0W3B6IAGzGwk0AUt6EOmBK8FqVAJlEAsU4M3ov3XKIA5X7Q7d+aeW+7R7dp2OUfHaIgO+7bdJCoQCAQCgUAgEAgEAoFAIBAIBAKBQCAQCAQCgUAgEAgEAoH8AZLfaW1b5qKY1TzgFLNVng6BQCA/iWw/evY9Zn3z2rcoY+/XZmydQwgEAoFAIBAIBAKBQL4hL8jp+jVpb0RHAAAAAElFTkSuQmCC') 50% 0 no-repeat; background-size: cover;}</style>
+    <script async=true src=../../js/picturefill.js></script>
+  </head>
+
+  <body>
+
+  	<picture>
+          <!--[if IE 9]><video style='display: none;'><![endif]-->
+          <source srcset='dice.jxr' type='image/vnd.ms-photo'>
+          <source srcset='dice.jp2' type='image/jp2'>
+          <source srcset='dice.webp' type='image/webp'>
+          <source srcset='dice-quant.png' type='image/webp'>
+          <!--[if IE 9]></video><![endif]-->
+          <img srcset='dice-quant.png' alt='dice'>
+    </picture>
+</body>
+</html>
+
