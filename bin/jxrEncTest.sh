@@ -24,7 +24,7 @@ do
 	for i in 2 3
 	do
 		JXR_FILE="$FILESTUB-$TYPE-$i.jxr"
-		JxrEncApp -i $FILESTUB.tif -o $JXR_FILE -c $TYPE -q 0.5 -a $i -Q 64   > /dev/null 2> /dev/null
+		JxrEncApp -i $FILESTUB.tif -o $JXR_FILE -c $TYPE -q 0.7 -a $i -Q 60   > /dev/null 2> /dev/null
 	
 		if [ "$?" != "0" ]
 		then

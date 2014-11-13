@@ -6,7 +6,7 @@ FILEARGS=`echo "$ARGS" | grep -v '\--'`
 
 WEBP_QUAL=80
 JP2_QUAL=80
-JXR_QUAL=80
+JXR_QUAL=85
 
 #
 # getArg(): get double dashed argument value

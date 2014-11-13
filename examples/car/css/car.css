@@ -1,0 +1,36 @@
+body {
+	height: 100vh;
+	width: 5260px;	
+	background-color: black;
+	background-image: url('../city-scale.jpg');
+	background-size: auto 100%;
+	background-repeat: repeat-x;
+	background-position: 0 0;
+	-webkit-animation-name: citymove;
+	-webkit-animation-duration: 2000ms;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-iteration-count: infinite;
+	
+	animation-name: citymove;
+	animation-duration: 2000ms;
+	animation-timing-function: linear;
+	animation-iteration-count: infinite;
+}
+
+@-webkit-keyframes citymove {
+	from {
+		background-position: 0 0;
+	}
+	to { 
+		background-position: -5260px 0;
+	}
+}
+
+@keyframes citymove {
+	from {
+		background-position: 0 0;
+	}
+	to { 
+		background-position: -5260px 0;
+	}
+}
