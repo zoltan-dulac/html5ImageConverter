@@ -1,0 +1,686 @@
+Started ../../bin/html5AnimatedImageConverter --  Sat Dec 20 13:36:48 EST 2014
+Creating dir /tmp/95522.truecolor.tmp/
+Disassembling PNG spinfox.png
+
+APNG Disassembler 2.7
+
+Reading 'spinfox.png'...
+extracting frame 1 of 25
+extracting frame 2 of 25
+extracting frame 3 of 25
+extracting frame 4 of 25
+extracting frame 5 of 25
+extracting frame 6 of 25
+extracting frame 7 of 25
+extracting frame 8 of 25
+extracting frame 9 of 25
+extracting frame 10 of 25
+extracting frame 11 of 25
+extracting frame 12 of 25
+extracting frame 13 of 25
+extracting frame 14 of 25
+extracting frame 15 of 25
+extracting frame 16 of 25
+extracting frame 17 of 25
+extracting frame 18 of 25
+extracting frame 19 of 25
+extracting frame 20 of 25
+extracting frame 21 of 25
+extracting frame 22 of 25
+extracting frame 23 of 25
+extracting frame 24 of 25
+extracting frame 25 of 25
+all done
+Converting to apng
+
+APNG Assembler 2.8 using 7ZIP with 15 iterations
+
+reading file01.png (1 of 25)
+reading file02.png (2 of 25)
+reading file03.png (3 of 25)
+reading file04.png (4 of 25)
+reading file05.png (5 of 25)
+reading file06.png (6 of 25)
+reading file07.png (7 of 25)
+reading file08.png (8 of 25)
+reading file09.png (9 of 25)
+reading file10.png (10 of 25)
+reading file11.png (11 of 25)
+reading file12.png (12 of 25)
+reading file13.png (13 of 25)
+reading file14.png (14 of 25)
+reading file15.png (15 of 25)
+reading file16.png (16 of 25)
+reading file17.png (17 of 25)
+reading file18.png (18 of 25)
+reading file19.png (19 of 25)
+reading file20.png (20 of 25)
+reading file21.png (21 of 25)
+reading file22.png (22 of 25)
+reading file23.png (23 of 25)
+reading file24.png (24 of 25)
+reading file25.png (25 of 25)
+saving b.unopt.png (frame 1 of 25)
+saving b.unopt.png (frame 2 of 25)
+saving b.unopt.png (frame 3 of 25)
+saving b.unopt.png (frame 4 of 25)
+saving b.unopt.png (frame 5 of 25)
+saving b.unopt.png (frame 6 of 25)
+saving b.unopt.png (frame 7 of 25)
+saving b.unopt.png (frame 8 of 25)
+saving b.unopt.png (frame 9 of 25)
+saving b.unopt.png (frame 10 of 25)
+saving b.unopt.png (frame 11 of 25)
+saving b.unopt.png (frame 12 of 25)
+saving b.unopt.png (frame 13 of 25)
+saving b.unopt.png (frame 14 of 25)
+saving b.unopt.png (frame 15 of 25)
+saving b.unopt.png (frame 16 of 25)
+saving b.unopt.png (frame 17 of 25)
+saving b.unopt.png (frame 18 of 25)
+saving b.unopt.png (frame 19 of 25)
+saving b.unopt.png (frame 20 of 25)
+saving b.unopt.png (frame 21 of 25)
+saving b.unopt.png (frame 22 of 25)
+saving b.unopt.png (frame 23 of 25)
+saving b.unopt.png (frame 24 of 25)
+saving b.unopt.png (frame 25 of 25)
+all done
+
+APNG Optimizer 1.2
+
+Reading 'b.unopt.png'...
+OK
+saving frame 1 of 25
+saving frame 2 of 25
+saving frame 3 of 25
+saving frame 4 of 25
+saving frame 5 of 25
+saving frame 6 of 25
+saving frame 7 of 25
+saving frame 8 of 25
+saving frame 9 of 25
+saving frame 10 of 25
+saving frame 11 of 25
+saving frame 12 of 25
+saving frame 13 of 25
+saving frame 14 of 25
+saving frame 15 of 25
+saving frame 16 of 25
+saving frame 17 of 25
+saving frame 18 of 25
+saving frame 19 of 25
+saving frame 20 of 25
+saving frame 21 of 25
+saving frame 22 of 25
+saving frame 23 of 25
+saving frame 24 of 25
+saving frame 25 of 25
+OK
+Converting to animated GIF
+
+apng2gif 1.6
+
+Reading 'b.png'...
+25 frames.
+69162 colors.
+Wu quantization...
+Writing 'b.gif'...
+all done
+Converting frames to webp
+Saving file 'file01.webp'
+File:      file01.png
+Dimension: 148 x 148 (with alpha)
+Output:    4700 bytes Y-U-V-All-PSNR 37.73 35.94 36.28   37.12 dB
+block count:  intra4: 61
+              intra16: 39  (-> 39.00%)
+              skipped block: 29 (29.00%)
+bytes used:  header:             80  (1.7%)
+             mode-partition:    292  (6.2%)
+             transparency:     2263 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      29%|      25%|      39%|     100
+      quantizer:  |      52 |      46 |      40 |      28 |
+   filter level:  |      16 |      10 |       8 |       4 |
+Lossless-alpha compressed size: 2262 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   186
+Saving file 'file02.webp'
+File:      file02.png
+Dimension: 148 x 148 (with alpha)
+Output:    4774 bytes Y-U-V-All-PSNR 37.61 35.97 36.11   37.02 dB
+block count:  intra4: 62
+              intra16: 38  (-> 38.00%)
+              skipped block: 27 (27.00%)
+bytes used:  header:             80  (1.7%)
+             mode-partition:    311  (6.5%)
+             transparency:     2390 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      20%|      27%|      40%|     100
+      quantizer:  |      52 |      46 |      39 |      27 |
+   filter level:  |      16 |      10 |       7 |       4 |
+Lossless-alpha compressed size: 2389 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   194
+Saving file 'file03.webp'
+File:      file03.png
+Dimension: 148 x 148 (with alpha)
+Output:    4836 bytes Y-U-V-All-PSNR 37.39 35.71 35.84   36.78 dB
+block count:  intra4: 63
+              intra16: 37  (-> 37.00%)
+              skipped block: 24 (24.00%)
+bytes used:  header:             69  (1.4%)
+             mode-partition:    299  (6.2%)
+             transparency:     2437 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      26%|      24%|      41%|     100
+      quantizer:  |      52 |      47 |      39 |      28 |
+   filter level:  |      16 |      10 |       7 |       4 |
+Lossless-alpha compressed size: 2436 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   199
+Saving file 'file04.webp'
+File:      file04.png
+Dimension: 148 x 148 (with alpha)
+Output:    4814 bytes Y-U-V-All-PSNR 37.54 35.89 36.03   36.94 dB
+block count:  intra4: 63
+              intra16: 37  (-> 37.00%)
+              skipped block: 26 (26.00%)
+bytes used:  header:             78  (1.6%)
+             mode-partition:    307  (6.4%)
+             transparency:     2463 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      10%|      21%|      29%|      40%|     100
+      quantizer:  |      52 |      47 |      40 |      27 |
+   filter level:  |      16 |      10 |      17 |       4 |
+Lossless-alpha compressed size: 2462 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   202
+Saving file 'file05.webp'
+File:      file05.png
+Dimension: 148 x 148 (with alpha)
+Output:    4790 bytes Y-U-V-All-PSNR 37.41 36.04 36.15   36.93 dB
+block count:  intra4: 63
+              intra16: 37  (-> 37.00%)
+              skipped block: 31 (31.00%)
+bytes used:  header:             84  (1.8%)
+             mode-partition:    309  (6.5%)
+             transparency:     2421 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      11%|      20%|      26%|      43%|     100
+      quantizer:  |      52 |      47 |      41 |      28 |
+   filter level:  |      16 |      10 |       8 |       4 |
+Lossless-alpha compressed size: 2420 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   214
+Saving file 'file06.webp'
+File:      file06.png
+Dimension: 148 x 148 (with alpha)
+Output:    4690 bytes Y-U-V-All-PSNR 37.61 36.17 36.46   37.13 dB
+block count:  intra4: 64
+              intra16: 36  (-> 36.00%)
+              skipped block: 24 (24.00%)
+bytes used:  header:             79  (1.7%)
+             mode-partition:    290  (6.2%)
+             transparency:     2360 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      23%|      34%|      37%|     100
+      quantizer:  |      52 |      48 |      39 |      28 |
+   filter level:  |      16 |      11 |       7 |       4 |
+Lossless-alpha compressed size: 2359 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   195
+Saving file 'file07.webp'
+File:      file07.png
+Dimension: 148 x 148 (with alpha)
+Output:    4556 bytes Y-U-V-All-PSNR 37.71 35.92 36.36   37.12 dB
+block count:  intra4: 63
+              intra16: 37  (-> 37.00%)
+              skipped block: 27 (27.00%)
+bytes used:  header:             80  (1.8%)
+             mode-partition:    283  (6.2%)
+             transparency:     2338 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      12%|      25%|      24%|      39%|     100
+      quantizer:  |      52 |      47 |      39 |      26 |
+   filter level:  |      16 |      10 |       7 |       4 |
+Lossless-alpha compressed size: 2337 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   203
+Saving file 'file08.webp'
+File:      file08.png
+Dimension: 148 x 148 (with alpha)
+Output:    4608 bytes Y-U-V-All-PSNR 37.69 35.85 36.26   37.07 dB
+block count:  intra4: 65
+              intra16: 35  (-> 35.00%)
+              skipped block: 28 (28.00%)
+bytes used:  header:             69  (1.5%)
+             mode-partition:    285  (6.2%)
+             transparency:     2379 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      22%|      31%|      38%|     100
+      quantizer:  |      52 |      47 |      40 |      27 |
+   filter level:  |      16 |      10 |       8 |       4 |
+Lossless-alpha compressed size: 2378 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   198
+Saving file 'file09.webp'
+File:      file09.png
+Dimension: 148 x 148 (with alpha)
+Output:    4586 bytes Y-U-V-All-PSNR 37.66 35.79 36.12   37.01 dB
+block count:  intra4: 62
+              intra16: 38  (-> 38.00%)
+              skipped block: 27 (27.00%)
+bytes used:  header:             69  (1.5%)
+             mode-partition:    285  (6.2%)
+             transparency:     2408 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      25%|      31%|      36%|     100
+      quantizer:  |      52 |      47 |      39 |      28 |
+   filter level:  |      16 |      10 |       7 |       4 |
+Lossless-alpha compressed size: 2407 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   208
+Saving file 'file10.webp'
+File:      file10.png
+Dimension: 148 x 148 (with alpha)
+Output:    4662 bytes Y-U-V-All-PSNR 37.64 35.73 36.21   37.01 dB
+block count:  intra4: 64
+              intra16: 36  (-> 36.00%)
+              skipped block: 25 (25.00%)
+bytes used:  header:             68  (1.5%)
+             mode-partition:    291  (6.2%)
+             transparency:     2459 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      10%|      23%|      32%|      35%|     100
+      quantizer:  |      52 |      46 |      39 |      27 |
+   filter level:  |      16 |      10 |       7 |       4 |
+Lossless-alpha compressed size: 2458 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   218
+Saving file 'file11.webp'
+File:      file11.png
+Dimension: 148 x 148 (with alpha)
+Output:    4606 bytes Y-U-V-All-PSNR 37.74 35.77 36.16   37.06 dB
+block count:  intra4: 63
+              intra16: 37  (-> 37.00%)
+              skipped block: 27 (27.00%)
+bytes used:  header:             70  (1.5%)
+             mode-partition:    290  (6.3%)
+             transparency:     2441 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      25%|      31%|      36%|     100
+      quantizer:  |      52 |      47 |      39 |      27 |
+   filter level:  |      16 |      10 |       7 |       4 |
+Lossless-alpha compressed size: 2440 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   207
+Saving file 'file12.webp'
+File:      file12.png
+Dimension: 148 x 148 (with alpha)
+Output:    4552 bytes Y-U-V-All-PSNR 37.97 36.13 36.72   37.39 dB
+block count:  intra4: 62
+              intra16: 38  (-> 38.00%)
+              skipped block: 28 (28.00%)
+bytes used:  header:             76  (1.7%)
+             mode-partition:    283  (6.2%)
+             transparency:     2370 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      22%|      36%|      37%|     100
+      quantizer:  |      52 |      48 |      39 |      28 |
+   filter level:  |      16 |      11 |       7 |       4 |
+Lossless-alpha compressed size: 2369 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   209
+Saving file 'file13.webp'
+File:      file13.png
+Dimension: 148 x 148 (with alpha)
+Output:    4400 bytes Y-U-V-All-PSNR 37.85 36.37 36.74   37.37 dB
+block count:  intra4: 61
+              intra16: 39  (-> 39.00%)
+              skipped block: 29 (29.00%)
+bytes used:  header:             73  (1.7%)
+             mode-partition:    283  (6.4%)
+             transparency:     2322 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      16%|      34%|      37%|     100
+      quantizer:  |      52 |      47 |      40 |      26 |
+   filter level:  |      16 |      10 |       8 |       4 |
+Lossless-alpha compressed size: 2321 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   210
+Saving file 'file14.webp'
+File:      file14.png
+Dimension: 148 x 148 (with alpha)
+Output:    4548 bytes Y-U-V-All-PSNR 38.01 36.31 36.67   37.44 dB
+block count:  intra4: 61
+              intra16: 39  (-> 39.00%)
+              skipped block: 28 (28.00%)
+bytes used:  header:             74  (1.6%)
+             mode-partition:    281  (6.2%)
+             transparency:     2388 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      10%|      20%|      32%|      38%|     100
+      quantizer:  |      52 |      47 |      39 |      27 |
+   filter level:  |      16 |      10 |       7 |       4 |
+Lossless-alpha compressed size: 2387 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   207
+Saving file 'file15.webp'
+File:      file15.png
+Dimension: 148 x 148 (with alpha)
+Output:    4586 bytes Y-U-V-All-PSNR 37.76 35.66 36.23   37.06 dB
+block count:  intra4: 63
+              intra16: 37  (-> 37.00%)
+              skipped block: 31 (31.00%)
+bytes used:  header:             63  (1.4%)
+             mode-partition:    301  (6.6%)
+             transparency:     2421 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      12%|      13%|      36%|      39%|     100
+      quantizer:  |      52 |      48 |      40 |      27 |
+   filter level:  |      16 |      12 |       8 |       4 |
+Lossless-alpha compressed size: 2420 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   208
+Saving file 'file16.webp'
+File:      file16.png
+Dimension: 148 x 148 (with alpha)
+Output:    4642 bytes Y-U-V-All-PSNR 37.78 35.84 36.15   37.10 dB
+block count:  intra4: 62
+              intra16: 38  (-> 38.00%)
+              skipped block: 29 (29.00%)
+bytes used:  header:             66  (1.4%)
+             mode-partition:    296  (6.4%)
+             transparency:     2465 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      12%|      15%|      32%|      41%|     100
+      quantizer:  |      52 |      47 |      41 |      27 |
+   filter level:  |      16 |      10 |       8 |       6 |
+Lossless-alpha compressed size: 2464 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   207
+Saving file 'file17.webp'
+File:      file17.png
+Dimension: 148 x 148 (with alpha)
+Output:    4646 bytes Y-U-V-All-PSNR 37.86 36.17 36.44   37.28 dB
+block count:  intra4: 60
+              intra16: 40  (-> 40.00%)
+              skipped block: 33 (33.00%)
+bytes used:  header:             69  (1.5%)
+             mode-partition:    288  (6.2%)
+             transparency:     2488 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      13%|      34%|      40%|     100
+      quantizer:  |      52 |      47 |      40 |      27 |
+   filter level:  |      16 |      10 |       8 |       4 |
+Lossless-alpha compressed size: 2487 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   209
+Saving file 'file18.webp'
+File:      file18.png
+Dimension: 148 x 148 (with alpha)
+Output:    4514 bytes Y-U-V-All-PSNR 37.91 36.37 36.55   37.37 dB
+block count:  intra4: 58
+              intra16: 42  (-> 42.00%)
+              skipped block: 27 (27.00%)
+bytes used:  header:             70  (1.6%)
+             mode-partition:    276  (6.1%)
+             transparency:     2400 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      13%|      34%|      44%|     100
+      quantizer:  |      52 |      49 |      41 |      29 |
+   filter level:  |      16 |      11 |       8 |       4 |
+Lossless-alpha compressed size: 2399 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   209
+Saving file 'file19.webp'
+File:      file19.png
+Dimension: 148 x 148 (with alpha)
+Output:    4474 bytes Y-U-V-All-PSNR 37.97 36.38 36.63   37.42 dB
+block count:  intra4: 62
+              intra16: 38  (-> 38.00%)
+              skipped block: 25 (25.00%)
+bytes used:  header:             68  (1.5%)
+             mode-partition:    287  (6.4%)
+             transparency:     2373 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      16%|      31%|      44%|     100
+      quantizer:  |      52 |      49 |      41 |      28 |
+   filter level:  |      16 |      11 |       8 |       6 |
+Lossless-alpha compressed size: 2372 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   206
+Saving file 'file20.webp'
+File:      file20.png
+Dimension: 148 x 148 (with alpha)
+Output:    4526 bytes Y-U-V-All-PSNR 37.96 36.02 36.33   37.28 dB
+block count:  intra4: 60
+              intra16: 40  (-> 40.00%)
+              skipped block: 29 (29.00%)
+bytes used:  header:             69  (1.5%)
+             mode-partition:    279  (6.2%)
+             transparency:     2368 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      14%|      36%|      42%|     100
+      quantizer:  |      52 |      49 |      41 |      28 |
+   filter level:  |      16 |      12 |       8 |       4 |
+Lossless-alpha compressed size: 2367 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   211
+Saving file 'file21.webp'
+File:      file21.png
+Dimension: 148 x 148 (with alpha)
+Output:    4594 bytes Y-U-V-All-PSNR 37.74 35.79 36.29   37.09 dB
+block count:  intra4: 61
+              intra16: 39  (-> 39.00%)
+              skipped block: 20 (20.00%)
+bytes used:  header:             72  (1.6%)
+             mode-partition:    280  (6.1%)
+             transparency:     2422 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      12%|      21%|      26%|      41%|     100
+      quantizer:  |      52 |      46 |      39 |      28 |
+   filter level:  |      16 |      10 |       7 |       4 |
+Lossless-alpha compressed size: 2421 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   223
+Saving file 'file22.webp'
+File:      file22.png
+Dimension: 148 x 148 (with alpha)
+Output:    4738 bytes Y-U-V-All-PSNR 37.75 36.06 36.24   37.15 dB
+block count:  intra4: 60
+              intra16: 40  (-> 40.00%)
+              skipped block: 30 (30.00%)
+bytes used:  header:             80  (1.7%)
+             mode-partition:    283  (6.0%)
+             transparency:     2471 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      27%|      27%|      39%|     100
+      quantizer:  |      52 |      46 |      39 |      28 |
+   filter level:  |      16 |      10 |       7 |       4 |
+Lossless-alpha compressed size: 2470 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   220
+Saving file 'file23.webp'
+File:      file23.png
+Dimension: 148 x 148 (with alpha)
+Output:    4738 bytes Y-U-V-All-PSNR 37.31 35.64 35.84   36.72 dB
+block count:  intra4: 61
+              intra16: 39  (-> 39.00%)
+              skipped block: 32 (32.00%)
+bytes used:  header:             73  (1.5%)
+             mode-partition:    286  (6.0%)
+             transparency:     2509 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      11%|      16%|      33%|      40%|     100
+      quantizer:  |      52 |      49 |      40 |      27 |
+   filter level:  |      16 |      12 |       8 |       4 |
+Lossless-alpha compressed size: 2508 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   207
+Saving file 'file24.webp'
+File:      file24.png
+Dimension: 148 x 148 (with alpha)
+Output:    4736 bytes Y-U-V-All-PSNR 37.55 36.24 36.32   37.08 dB
+block count:  intra4: 62
+              intra16: 38  (-> 38.00%)
+              skipped block: 29 (29.00%)
+bytes used:  header:             82  (1.7%)
+             mode-partition:    294  (6.2%)
+             transparency:     2454 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      22%|      32%|      40%|     100
+      quantizer:  |      52 |      48 |      41 |      28 |
+   filter level:  |      16 |      11 |       8 |       4 |
+Lossless-alpha compressed size: 2453 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   206
+Saving file 'file25.webp'
+File:      file25.png
+Dimension: 148 x 148 (with alpha)
+Output:    4684 bytes Y-U-V-All-PSNR 37.60 35.92 36.08   37.00 dB
+block count:  intra4: 62
+              intra16: 38  (-> 38.00%)
+              skipped block: 29 (29.00%)
+bytes used:  header:             70  (1.5%)
+             mode-partition:    282  (6.0%)
+             transparency:     2369 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      14%|      21%|      30%|      35%|     100
+      quantizer:  |      52 |      46 |      38 |      26 |
+   filter level:  |      16 |      10 |       7 |       4 |
+Lossless-alpha compressed size: 2368 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   189
+Putting webp frames into one animated webp ...
+Using command: 
+webpmux -frame file01.webp +50+0+0+0-b -frame file02.webp +50+0+0+0-b -frame file03.webp +50+0+0+0-b -frame file04.webp +50+0+0+0-b -frame file05.webp +50+0+0+0-b -frame file06.webp +50+0+0+0-b -frame file07.webp +50+0+0+0-b -frame file08.webp +50+0+0+0-b -frame file09.webp +50+0+0+0-b -frame file10.webp +50+0+0+0-b -frame file11.webp +50+0+0+0-b -frame file12.webp +50+0+0+0-b -frame file13.webp +50+0+0+0-b -frame file14.webp +50+0+0+0-b -frame file15.webp +50+0+0+0-b -frame file16.webp +50+0+0+0-b -frame file17.webp +50+0+0+0-b -frame file18.webp +50+0+0+0-b -frame file19.webp +50+0+0+0-b -frame file20.webp +50+0+0+0-b -frame file21.webp +50+0+0+0-b -frame file22.webp +50+0+0+0-b -frame file23.webp +50+0+0+0-b -frame file24.webp +50+0+0+0-b -frame file25.webp +50+0+0+0-b -loop 0 -o b.webp
+
+Saved file b.webp (115894 bytes)
+Creating stitched PNG
+Creating TIF (for use with kdu_compress)
+Creating JP2 (with kdu_compress)
+kdu_compress -i b-stitched.tif -o b-stitched.jp2 -jp2_alpha -rate -,0.8
+Creating TIF file for JXREncApp
+Creating JXR with JxrEncApp with q=0.05
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Removing temp TIF file
+Creating stylesheet
+
+Moving files and cleaning up
+Current files: 95522LOG
+b-stitched.jp2
+b-stitched.jxr
+b-stitched.png
+b.css
+b.gif
+b.html
+b.png
+b.unopt.png
+b.webp
+file01.png
+file01.txt
+file01.webp
+file02.png
+file02.txt
+file02.webp
+file03.png
+file03.txt
+file03.webp
+file04.png
+file04.txt
+file04.webp
+file05.png
+file05.txt
+file05.webp
+file06.png
+file06.txt
+file06.webp
+file07.png
+file07.txt
+file07.webp
+file08.png
+file08.txt
+file08.webp
+file09.png
+file09.txt
+file09.webp
+file10.png
+file10.txt
+file10.webp
+file11.png
+file11.txt
+file11.webp
+file12.png
+file12.txt
+file12.webp
+file13.png
+file13.txt
+file13.webp
+file14.png
+file14.txt
+file14.webp
+file15.png
+file15.txt
+file15.webp
+file16.png
+file16.txt
+file16.webp
+file17.png
+file17.txt
+file17.webp
+file18.png
+file18.txt
+file18.webp
+file19.png
+file19.txt
+file19.webp
+file20.png
+file20.txt
+file20.webp
+file21.png
+file21.txt
+file21.webp
+file22.png
+file22.txt
+file22.webp
+file23.png
+file23.txt
+file23.webp
+file24.png
+file24.txt
+file24.webp
+file25.png
+file25.txt
+file25.webp
+spinfox.png
+mv: rename *.tif to /Users/zhawry/git/apng-webp-images-now/examples/firefox-pres/*.tif: No such file or directory

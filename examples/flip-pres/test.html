@@ -1,0 +1,59 @@
+
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    
+    <title>CSS3 Alpha Channel Image Converter</title>
+    <meta http-equiv='X-UA-Compatible' content='IE=Edge' />
+    <link href='test.css' type='text/css' rel='stylesheet' />
+    <style>
+    	body { 
+    		background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAACWBAMAAABp8toqAAAALVBMVEUJCQkAAMAyAGoTExMWFhYdHR0AIUw9GmXAAADAAMAAwAAAwMDAwADAwMD////k4POZAAAAn0lEQVRo3u3OsRFBQRSG0W3B6IAGzGwk0AUt6EOmBK8FqVAJlEAsU4M3ov3XKIA5X7Q7d+aeW+7R7dp2OUfHaIgO+7bdJCoQCAQCgUAgEAgEAoFAIBAIBAKBQCAQCAQCgUAgEAgEAoH8AZLfaW1b5qKY1TzgFLNVng6BQCA/iWw/evY9Zn3z2rcoY+/XZmydQwgEAoFAIBAIBAKBQL4hL8jp+jVpb0RHAAAAAElFTkSuQmCC) 50% 0 no-repeat; 
+    		background-size: cover;
+    	}
+    	header {
+	    	position: absolute;
+	    	top: 0;
+	    	left: 0;
+	    	width: 100%;
+	    	padding: 10px;
+	    	background: black;
+	    	color: white;
+	    	font: 15px Arial, Helvetica, sans-serif;
+	    }
+	    
+	    
+    	
+    </style>
+    <script async=true src=../../js/picturefill.js></script>
+    <script src='//code.jquery.com/jquery-1.10.2.js'></script>
+    <script src='//code.jquery.com/ui/1.11.2/jquery-ui.js'></script>
+    <script>
+      $(function() {
+        $('picture' ).draggable();
+      });
+    </script>
+  </head>
+
+  <body>
+  	<header>
+  	../../bin/html5ImageConverter.sh --input-apng --output=b --ms=100 --jxr-quality=80 --jp2-quality=60 --webp-quality=40 2204_A200.png<br />
+  	2204_A200-quant.png 54232, 
+2204_A200.jp2 18239, 
+2204_A200.jpg 16820, 
+2204_A200.jxr 19435, 
+2204_A200.png 5015348, 
+2204_A200.webp 6160, 
+  	</header>
+
+  	<picture>
+          <!--[if IE 9]><video style='display: none;'><![endif]-->
+          <source srcset='2204_A200.jxr' type='image/vnd.ms-photo'>
+          <source srcset='2204_A200.jp2' type='image/jp2'>
+          <source srcset='2204_A200.webp' type='image/webp'>
+          <!--[if IE 9]></video><![endif]-->
+          <img srcset='2204_A200-quant.png' alt='2204_A200'>
+    </picture>
+</body>
+</html>
+

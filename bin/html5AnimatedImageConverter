@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#.. include global functions
+SCRIPT_DIR="$(dirname "$0")"
+source "$SCRIPT_DIR/functions.sh"
+
 OUTPUT="outfile"
 TMPDIR="/tmp/$$.truecolor.tmp/"
 
@@ -31,6 +35,13 @@ getArg() {
 	echo $VAL
 }
 
+#.. echoBoth() echo both to stdout and to a log file
+echoBoth() {
+	echo $* 
+	echo $* >> $LOG 2>> $LOG
+}
+
+
 OUTPUT=`getArg 'output' 'outfile'`
 MS=`getArg 'ms' '10'`
 NOAPNG=`getArg 'no-apng'`
@@ -40,7 +51,11 @@ CSS_STYLE=`getArg 'css-style' 'modernizr'`
 MODERNIZR_SRC=`getArg 'modernizr-src' '../../js/modernizr.custom.29822.js'`
 JXR_QUAL=`getArg 'jxr-quality' '80'`
 JP2_QUAL=`getArg 'jp2-quality' '80'`
+JP2_RATE=`getArg 'jp2-rate' '1.0'`
+WEBP_QUAL=`getArg 'webp-quality' '80'`
 INPUT_APNG=`getArg 'input-apng'`
+JXR_NCONVERT=`getArg 'jxr-nconvert'`
+JXR_COMPARE=`getArg 'jxr-compare'`
 
 FILEARGS=`echo "$ARGS" | grep -v '\--'`
 OPTIONS=`echo "$ARGS" | grep '\--'`
@@ -52,24 +67,47 @@ IMAGE_HEIGHT=`echo $DIMS | awk -F"x" '{print $2}'`
 SPRITE_WIDTH=`expr $IMAGE_WIDTH \* $NUM_FRAMES`
 ANIM_LENGTH=`expr $NUM_FRAMES \* $MS`
 
+BG_IMAGE=`getArg  bg-image 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAACWBAMAAABp8toqAAAALVBMVEUJCQkAAMAyAGoTExMWFhYdHR0AIUw9GmXAAADAAMAAwAAAwMDAwADAwMD////k4POZAAAAn0lEQVRo3u3OsRFBQRSG0W3B6IAGzGwk0AUt6EOmBK8FqVAJlEAsU4M3ov3XKIA5X7Q7d+aeW+7R7dp2OUfHaIgO+7bdJCoQCAQCgUAgEAgEAoFAIBAIBAKBQCAQCAQCgUAgEAgEAoH8AZLfaW1b5qKY1TzgFLNVng6BQCA/iWw/evY9Zn3z2rcoY+/XZmydQwgEAoFAIBAIBAKBQL4hL8jp+jVpb0RHAAAAAElFTkSuQmCC'`
+ORIG_DIR="$PWD"
+LOG="$ORIG_DIR/log.txt"
+
+rm $OUTPUT.png $OUTPUT-stitched.png $OUTPUT-stitched.jp2 $OUTPUT-stitched*.jxr $OUTPUT.webp $OUTPUT.gif $OUTPUT.css $OUTPUT.html log.txt 2> /dev/null
 
 
+echo "Started $0 --  `date`" > $LOG
 
 
 if [ ! -d "$TMPDIR" ]
 then
+	echoBoth "Creating dir $TMPDIR"
 	mkdir -p "$TMPDIR"
+	ifErrorPrintAndExit "Cannot create $TMP" -1
 fi
 
 FILE_INDEX=0
-ORIG_DIR="$PWD"
+
+
 for i in $FILEARGS
 do
 	if [ "$INPUT_APNG" = 'true' ]
 	then
 		cp $i $TMPDIR
 		cd $TMPDIR
-		apngdis $i "file"
+		
+		echoBoth "Disassembling PNG $i"
+		apngdis $i "file" >> $LOG 2>> $LOG
+		ifErrorPrintAndExit "Could not dissassemble $i"
+		
+		FILEARGS=`ls file*.png`
+		NUM_FRAMES=`echo "$FILEARGS" | wc -l`
+		FIRST_FILE=`echo "$FILEARGS" | head -1`
+		DIMS=`identify $FIRST_FILE | awk '{print $3}'`
+		IMAGE_WIDTH=`echo $DIMS | awk -F"x" '{print $1}'`
+		IMAGE_HEIGHT=`echo $DIMS | awk -F"x" '{print $2}'`
+		SPRITE_WIDTH=`expr $IMAGE_WIDTH \* $NUM_FRAMES`
+		ANIM_LENGTH=`expr $NUM_FRAMES \* $MS`
+		
+		
 		cd "$ORIG_DIR"
 	else 
 		N=`printf "%04d" $FILE_INDEX`
@@ -86,46 +124,43 @@ FILES="file*.png"
 #.. Convert files to animated apng
 if [ "$NOAPNG" = "" ]
 then
-	apngasm $OUTPUT.unopt.png $FILES $MS 1000
-	apngopt $OUTPUT.unopt.png $OUTPUT.png
+	echoBoth "Converting to apng" 
+	apngasm $OUTPUT.unopt.png $FILES $MS 1000 >> $LOG 2>> $LOG
 	
-	if [ "$?" != "0" ]
-	then
-		echo "Error: could not convert to apng" 1>&2
-		exit 1
-	fi
+	echoBoth "Optimising apng" 
+	apngopt $OUTPUT.unopt.png $OUTPUT.png >> $LOG 2>> $$LOG
+	
+	ifErrorPrintAndExit "Error: could not convert to apng"  1
+
 fi
 
 #.. Convert apng to gif
 if [ "$NOGIF" = "" ]
 then
-	apng2gif $OUTPUT.png
+	echoBoth "Converting to animated GIF"
+	apng2gif $OUTPUT.png >> $LOG 2>> $LOG
 
-	if [ "$?" != "0" ]
-	then
-		echo "Error: could not convert to animated GIF." 1>&2
-		echo "Please ensure apng2gif is installed" 1>&2
-		exit 2
-	fi
+	ifErrorPrintAndExit "Error: could not convert to animated GIF. Please ensure apng2gif is installed" 2
+else 
+	echoBoth "Not creating animated gif."
 fi
 
 #.. Convert files to animated webp
 #
 #   First, convert each frame to a webp
+echoBoth "Converting frames to webp"
 for file in $FILES
 do 
-	cwebp ${file} -o ${file%.png}.webp
+	echo -n "."
+	cwebp ${file} -q $WEBP_QUAL -o ${file%.png}.webp >> $LOG 2>> $LOG
 	
-	if [ "$?" != "0" ]
-	then
-		echo "Error: could not convert frame ${file} to webp" 1>&2
-		exit 2
-	fi
+	ifErrorPrintAndExit "Error: could not convert frame ${file} to webp" 3
+	
 done	
 
 #   Next, convert all frames to animated webp
 echo 
-echo "Putting webp frames into one animated webp ..."
+echoBoth "Putting webp frames into one animated webp ..."
 WEBP_COMMANDLINE='webpmux '
 
 for file in $FILES
@@ -134,25 +169,48 @@ do
 	WEBP_COMMANDLINE="$WEBP_COMMANDLINE -frame $FRAME_FILE +$MS+0+0+0-b "
 done
 WEBP_COMMANDLINE="$WEBP_COMMANDLINE -loop 0 -o $OUTPUT.webp"
-echo "Using command: "
-echo $WEBP_COMMANDLINE
-echo
+echo "Using command: " >> $LOG
+echo $WEBP_COMMANDLINE >> $LOG
+echo >> $LOG
 
-$WEBP_COMMANDLINE
+$WEBP_COMMANDLINE >> $LOG 2>> $LOG
 
-if [ "$?" != "0" ]
-then
-	echo "Error: Could not convert to webp" 1>&2
-	exit 3
-fi
+ifErrorPrintAndExit "Error: Could not convert to webp" 4
+
 
 # now .. create stitched image of all frames for browsers
 # that don't do either APNG or WEBP, but can do CSS
 # animations (i.e. IE10)
+echoBoth "Creating stitched PNG"
 convert $FILES +append $OUTPUT-stitched.png
 
-# create jxr. First convert to bmp
-#convert $OUTPUT-stitched.png  -type TrueColor -colorspace RGB  jxr:$OUTPUT-stitched.tif
+
+
+##################################################################################
+# Convert to JPEG 2000. Taken from http://www.imagemagick.org/script/jp2.php
+# and http://www.imagemagick.org/discourse-server/viewtopic.php?t=22010
+#
+# Exactimage: http://freecode.com/projects/exact-image
+# AntiGrain Geometry: http://www.antigrain.com/download/index.html
+# Open JPEG: http://www.openjpeg.org/index.php?menu=download
+#            https://code.google.com/p/openjpeg/wiki/DocJ2KCodec
+##################################################################################
+
+echoBoth "Creating TIF (for use with kdu_compress)"
+convert $OUTPUT-stitched.png -compress none -define tiff:alpha=associated  $OUTPUT-stitched.tif
+ifErrorPrintAndExit "Could not convert to TIF." 5
+
+echoBoth "Creating JP2 (with kdu_compress)"
+KDU_QUAL=`awk "BEGIN{print $JP2_QUAL/100}"`
+echoBoth "kdu_compress -i $OUTPUT-stitched.tif -o $OUTPUT-stitched.jp2 -jp2_alpha -rate -,$KDU_QUAL" 
+kdu_compress -i $OUTPUT-stitched.tif -o $OUTPUT-stitched.jp2 -jp2_alpha  -rate $JP2_RATE  # >> log.txt 2>> $LOG  
+ifErrorPrintAndExit "Could not convert to JP2." 6
+
+
+# convert $OUTPUT-stitched.png -alpha Set -define jp2:quality=$JP2_QUAL  $OUTPUT-stitched.jp2
+#nconvert -out jp2 -q $JP2_QUAL $OUTPUT-stitched.jp2
+# opj_compress -q $JP2_QUAL -i $OUTPUT-stitched.png -o $OUTPUT-stitched.jp2 
+
 
 
 ##################################################################################
@@ -178,22 +236,47 @@ convert $FILES +append $OUTPUT-stitched.png
 #
 ##################################################################################
 
-nconvert -out jxr -q $JXR_QUAL $OUTPUT-stitched.png
+JXR_FILE="$OUTPUT-stitched.jxr"
+echo "Hmmm ... $JXR_CONVERT, $JXR_COMPARE"
+if [ "$JXR_NCONVERT" != "" -o "$JXR_COMPARE" != "" ]
+then
+	echoBoth "Creating JXR with nconvert"
+	nconvert -out jxr -q $JXR_QUAL $OUTPUT-stitched.png >> $LOG 2>> $LOG
+	
+	ifErrorPrintAndExit "Error: Could not convert to jxr with nconvert" 7
+	
+	if [ "$JXR_COMPARE" != '' ]
+	then
+		mv $OUTPUT-stitched.jxr $OUTPUT-stitched.nconvert.jxr >> $LOG 2>> $LOG
+		ifErrorPrintAndExit "Error: Could not move $OUTPUT-stitched.jxr to $OUTPUT-stiched.nconvert.jxr" 8
+		
+		JXR_FILE="$OUTPUT-stitched.nconvert.jxr"
+	fi
+	
+fi
 
-##################################################################################
-# Convert to JPEG 2000. Taken from http://www.imagemagick.org/script/jp2.php
-# and http://www.imagemagick.org/discourse-server/viewtopic.php?t=22010
-#
-# Exactimage: http://freecode.com/projects/exact-image
-# AntiGrain Geometry: http://www.antigrain.com/download/index.html
-# Open JPEG: http://www.openjpeg.org/index.php?menu=download
-#            https://code.google.com/p/openjpeg/wiki/DocJ2KCodec
-##################################################################################
-convert $OUTPUT-stitched.png -alpha Set -define jp2:quality=$JP2_QUAL  $OUTPUT-stitched.jp2
-#nconvert -out jp2 -q $JP2_QUAL $OUTPUT-stitched.jp2
-# opj_compress -q $JP2_QUAL -i $OUTPUT-stitched.png -o $OUTPUT-stitched.jp2 
+if [ "$JXR_NCONVERT" = "" ]
+then
+	
+	# to use JxrEncApp, you must first convert to a truecolor TIF.
+	echoBoth "Creating TIF file for JXREncApp" 
+	#convert $OUTPUT-stitched.png  -type TrueColor -colorspace RGB  jxr:$OUTPUT-stitched.tif >> $LOG 2>> $LOG
+	convert $OUTPUT-stitched.png  -compress none   $OUTPUT-stitched.tif >> $LOG 2>> $LOG
+	ifErrorPrintAndExit "Error creating TIF for JxrEncApp" 9
+	
+	#.. now convert to a JXR
+	JXRENC_QUAL=`awk "BEGIN{print $JXR_QUAL/100}"`
+	echoBoth "Creating JXR with JxrEncApp with q=$JXRENC_QUAL"
+	JxrEncApp -i $OUTPUT-stitched.tif -o $OUTPUT-stitched.jxr -c 22 -q $JXRENC_QUAL 1>> $LOG 2>> $LOG
+	ifErrorPrintAndExit "Could not convert to JXR with JXREncApp." 9
+	
+fi
+
+echoBoth "Removing temp TIF file"
+rm $OUTPUT-stitched.tif
 
 # create the stylesheet for it
+echoBoth "Creating stylesheet" 
 CSS_HEADER_COMMENT="/*
  * This stylesheet generated by the CSS3 TrueColor Animator v1.0
  * by Zoltan Hawryluk (http://www.useragentman.com). 
@@ -238,7 +321,7 @@ then
 	}
 	
 	html.no-apng.no-webp.jpegxr.cssanimations .$CSS_CLASS {
-	    background: url('./$OUTPUT-stitched.jxr') left center;
+	    background: url('./$JXR_FILE') left center;
 	}
 	
 	html.no-apng.no-webp.jpeg2000.cssanimations .$CSS_CLASS {
@@ -297,11 +380,34 @@ echo "<!DOCTYPE html>
     <title>CSS3 TrueColor Animator Test Sheet</title>
     <meta http-equiv='X-UA-Compatible' content='IE=Edge' />
     <link href='$OUTPUT.css' type='text/css' rel='stylesheet' />
-    <style>body { background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAACWBAMAAABp8toqAAAALVBMVEUJCQkAAMAyAGoTExMWFhYdHR0AIUw9GmXAAADAAMAAwAAAwMDAwADAwMD////k4POZAAAAn0lEQVRo3u3OsRFBQRSG0W3B6IAGzGwk0AUt6EOmBK8FqVAJlEAsU4M3ov3XKIA5X7Q7d+aeW+7R7dp2OUfHaIgO+7bdJCoQCAQCgUAgEAgEAoFAIBAIBAKBQCAQCAQCgUAgEAgEAoH8AZLfaW1b5qKY1TzgFLNVng6BQCA/iWw/evY9Zn3z2rcoY+/XZmydQwgEAoFAIBAIBAKBQL4hL8jp+jVpb0RHAAAAAElFTkSuQmCC') 50% 0 no-repeat; background-size: cover;}</style>
+    <style>
+    header {
+    	position: absolute;
+    	top: 0;
+    	left: 0;
+    	width: 100%;
+    	padding: 10px;
+    	background: black;
+    	color: white;
+    	font: 15px "Arial", "Helvetica", sans-serif;
+    }
+    </style>
+    <style>body { background: url('$BG_IMAGE') 50% 0 no-repeat; background-size: cover;}</style>
     <script src='$MODERNIZR_SRC'></script>
+    <script src='//code.jquery.com/jquery-1.10.2.js'></script>
+    <script src='//code.jquery.com/ui/1.11.2/jquery-ui.js'></script>
+    <script>
+      \$(function() {
+        \$('.$CSS_CLASS' ).draggable();
+      });
+    </script>
   </head>
 
   <body>
+  <header>
+  $0 $*<br />
+  `ls -l $OUTPUT.png $OUTPUT-stitched.png $OUTPUT-stitched.jp2 $OUTPUT-stitched*.jxr $OUTPUT.webp $OUTPUT.gif 2> /dev/null | awk '{print $9" "$5", "}'`
+  </header>
     <div class='$CSS_CLASS'>
     </div>
   </body>
@@ -311,9 +417,11 @@ echo "<!DOCTYPE html>
 
 
 # Move created files to original directory and clean up
-echo 
-echo "Moving files and cleaning up"
+echoBoth 
+echoBoth "Moving files and cleaning up"
 
-mv $OUTPUT.webp $OUTPUT.png $OUTPUT.gif $OUTPUT-stitched.* $OUTPUT.css $OUTPUT.html "$ORIG_DIR"
+echo "Current files: `ls`" >> $LOG
+
+mv $OUTPUT.webp $OUTPUT.png $OUTPUT.gif $OUTPUT-stitched.* $OUTPUT.css $OUTPUT.html *.tif "$ORIG_DIR" 2>> $LOG
 cd "$ORIG_DIR"
 rm -r $TMPDIR

@@ -1,0 +1,1188 @@
+Started ../../bin/html5AnimatedImageConverter --  Sat Dec 20 13:45:08 EST 2014
+Creating dir /tmp/96183.truecolor.tmp/
+Disassembling PNG 2204_A200.png
+
+APNG Disassembler 2.7
+
+Reading '2204_A200.png'...
+extracting frame 1 of 57
+extracting frame 2 of 57
+extracting frame 3 of 57
+extracting frame 4 of 57
+extracting frame 5 of 57
+extracting frame 6 of 57
+extracting frame 7 of 57
+extracting frame 8 of 57
+extracting frame 9 of 57
+extracting frame 10 of 57
+extracting frame 11 of 57
+extracting frame 12 of 57
+extracting frame 13 of 57
+extracting frame 14 of 57
+extracting frame 15 of 57
+extracting frame 16 of 57
+extracting frame 17 of 57
+extracting frame 18 of 57
+extracting frame 19 of 57
+extracting frame 20 of 57
+extracting frame 21 of 57
+extracting frame 22 of 57
+extracting frame 23 of 57
+extracting frame 24 of 57
+extracting frame 25 of 57
+extracting frame 26 of 57
+extracting frame 27 of 57
+extracting frame 28 of 57
+extracting frame 29 of 57
+extracting frame 30 of 57
+extracting frame 31 of 57
+extracting frame 32 of 57
+extracting frame 33 of 57
+extracting frame 34 of 57
+extracting frame 35 of 57
+extracting frame 36 of 57
+extracting frame 37 of 57
+extracting frame 38 of 57
+extracting frame 39 of 57
+extracting frame 40 of 57
+extracting frame 41 of 57
+extracting frame 42 of 57
+extracting frame 43 of 57
+extracting frame 44 of 57
+extracting frame 45 of 57
+extracting frame 46 of 57
+extracting frame 47 of 57
+extracting frame 48 of 57
+extracting frame 49 of 57
+extracting frame 50 of 57
+extracting frame 51 of 57
+extracting frame 52 of 57
+extracting frame 53 of 57
+extracting frame 54 of 57
+extracting frame 55 of 57
+extracting frame 56 of 57
+extracting frame 57 of 57
+all done
+Converting to apng
+
+APNG Assembler 2.8 using 7ZIP with 15 iterations
+
+reading file01.png (1 of 57)
+reading file02.png (2 of 57)
+reading file03.png (3 of 57)
+reading file04.png (4 of 57)
+reading file05.png (5 of 57)
+reading file06.png (6 of 57)
+reading file07.png (7 of 57)
+reading file08.png (8 of 57)
+reading file09.png (9 of 57)
+reading file10.png (10 of 57)
+reading file11.png (11 of 57)
+reading file12.png (12 of 57)
+reading file13.png (13 of 57)
+reading file14.png (14 of 57)
+reading file15.png (15 of 57)
+reading file16.png (16 of 57)
+reading file17.png (17 of 57)
+reading file18.png (18 of 57)
+reading file19.png (19 of 57)
+reading file20.png (20 of 57)
+reading file21.png (21 of 57)
+reading file22.png (22 of 57)
+reading file23.png (23 of 57)
+reading file24.png (24 of 57)
+reading file25.png (25 of 57)
+reading file26.png (26 of 57)
+reading file27.png (27 of 57)
+reading file28.png (28 of 57)
+reading file29.png (29 of 57)
+reading file30.png (30 of 57)
+reading file31.png (31 of 57)
+reading file32.png (32 of 57)
+reading file33.png (33 of 57)
+reading file34.png (34 of 57)
+reading file35.png (35 of 57)
+reading file36.png (36 of 57)
+reading file37.png (37 of 57)
+reading file38.png (38 of 57)
+reading file39.png (39 of 57)
+reading file40.png (40 of 57)
+reading file41.png (41 of 57)
+reading file42.png (42 of 57)
+reading file43.png (43 of 57)
+reading file44.png (44 of 57)
+reading file45.png (45 of 57)
+reading file46.png (46 of 57)
+reading file47.png (47 of 57)
+reading file48.png (48 of 57)
+reading file49.png (49 of 57)
+reading file50.png (50 of 57)
+reading file51.png (51 of 57)
+reading file52.png (52 of 57)
+reading file53.png (53 of 57)
+reading file54.png (54 of 57)
+reading file55.png (55 of 57)
+reading file56.png (56 of 57)
+reading file57.png (57 of 57)
+saving b.unopt.png (frame 1 of 57)
+saving b.unopt.png (frame 2 of 57)
+saving b.unopt.png (frame 3 of 57)
+saving b.unopt.png (frame 4 of 57)
+saving b.unopt.png (frame 5 of 57)
+saving b.unopt.png (frame 6 of 57)
+saving b.unopt.png (frame 7 of 57)
+saving b.unopt.png (frame 8 of 57)
+saving b.unopt.png (frame 9 of 57)
+saving b.unopt.png (frame 10 of 57)
+saving b.unopt.png (frame 11 of 57)
+saving b.unopt.png (frame 12 of 57)
+saving b.unopt.png (frame 13 of 57)
+saving b.unopt.png (frame 14 of 57)
+saving b.unopt.png (frame 15 of 57)
+saving b.unopt.png (frame 16 of 57)
+saving b.unopt.png (frame 17 of 57)
+saving b.unopt.png (frame 18 of 57)
+saving b.unopt.png (frame 19 of 57)
+saving b.unopt.png (frame 20 of 57)
+saving b.unopt.png (frame 21 of 57)
+saving b.unopt.png (frame 22 of 57)
+saving b.unopt.png (frame 23 of 57)
+saving b.unopt.png (frame 24 of 57)
+saving b.unopt.png (frame 25 of 57)
+saving b.unopt.png (frame 26 of 57)
+saving b.unopt.png (frame 27 of 57)
+saving b.unopt.png (frame 28 of 57)
+saving b.unopt.png (frame 29 of 57)
+saving b.unopt.png (frame 30 of 57)
+saving b.unopt.png (frame 31 of 57)
+saving b.unopt.png (frame 32 of 57)
+saving b.unopt.png (frame 33 of 57)
+saving b.unopt.png (frame 34 of 57)
+saving b.unopt.png (frame 35 of 57)
+saving b.unopt.png (frame 36 of 57)
+saving b.unopt.png (frame 37 of 57)
+saving b.unopt.png (frame 38 of 57)
+saving b.unopt.png (frame 39 of 57)
+saving b.unopt.png (frame 40 of 57)
+saving b.unopt.png (frame 41 of 57)
+saving b.unopt.png (frame 42 of 57)
+saving b.unopt.png (frame 43 of 57)
+saving b.unopt.png (frame 44 of 57)
+saving b.unopt.png (frame 45 of 57)
+saving b.unopt.png (frame 46 of 57)
+saving b.unopt.png (frame 47 of 57)
+saving b.unopt.png (frame 48 of 57)
+saving b.unopt.png (frame 49 of 57)
+saving b.unopt.png (frame 50 of 57)
+saving b.unopt.png (frame 51 of 57)
+saving b.unopt.png (frame 52 of 57)
+saving b.unopt.png (frame 53 of 57)
+saving b.unopt.png (frame 54 of 57)
+saving b.unopt.png (frame 55 of 57)
+saving b.unopt.png (frame 56 of 57)
+saving b.unopt.png (frame 57 of 57)
+all done
+
+APNG Optimizer 1.2
+
+Reading 'b.unopt.png'...
+OK
+saving frame 1 of 44
+saving frame 2 of 44
+saving frame 3 of 44
+saving frame 4 of 44
+saving frame 5 of 44
+saving frame 6 of 44
+saving frame 7 of 44
+saving frame 8 of 44
+saving frame 9 of 44
+saving frame 10 of 44
+saving frame 11 of 44
+saving frame 12 of 44
+saving frame 13 of 44
+saving frame 14 of 44
+saving frame 15 of 44
+saving frame 16 of 44
+saving frame 17 of 44
+saving frame 18 of 44
+saving frame 19 of 44
+saving frame 20 of 44
+saving frame 21 of 44
+saving frame 22 of 44
+saving frame 23 of 44
+saving frame 24 of 44
+saving frame 25 of 44
+saving frame 26 of 44
+saving frame 27 of 44
+saving frame 28 of 44
+saving frame 29 of 44
+saving frame 30 of 44
+saving frame 31 of 44
+saving frame 32 of 44
+saving frame 33 of 44
+saving frame 34 of 44
+saving frame 35 of 44
+saving frame 36 of 44
+saving frame 37 of 44
+saving frame 38 of 44
+saving frame 39 of 44
+saving frame 40 of 44
+saving frame 41 of 44
+saving frame 42 of 44
+saving frame 43 of 44
+saving frame 44 of 44
+OK
+Converting to animated GIF
+
+apng2gif 1.6
+
+Reading 'b.png'...
+44 frames.
+383992 colors.
+Wu quantization...
+Writing 'b.gif'...
+all done
+Converting frames to webp
+Saving file 'file01.webp'
+File:      file01.png
+Dimension: 592 x 410
+Output:    6160 bytes Y-U-V-All-PSNR 40.56 40.52 40.02   40.46 dB
+block count:  intra4: 345
+              intra16: 617  (-> 64.14%)
+              skipped block: 230 (23.91%)
+bytes used:  header:             85  (1.4%)
+             mode-partition:   1570  (25.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|      12%|      25%|      59%|     962
+      quantizer:  |      59 |      59 |      51 |      37 |
+   filter level:  |      19 |      39 |      21 |      15 |
+Saving file 'file02.webp'
+File:      file02.png
+Dimension: 592 x 410
+Output:    6160 bytes Y-U-V-All-PSNR 40.56 40.52 40.02   40.46 dB
+block count:  intra4: 345
+              intra16: 617  (-> 64.14%)
+              skipped block: 230 (23.91%)
+bytes used:  header:             85  (1.4%)
+             mode-partition:   1570  (25.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|      12%|      25%|      59%|     962
+      quantizer:  |      59 |      59 |      51 |      37 |
+   filter level:  |      19 |      39 |      21 |      15 |
+Saving file 'file03.webp'
+File:      file03.png
+Dimension: 592 x 410
+Output:    6160 bytes Y-U-V-All-PSNR 40.56 40.52 40.02   40.46 dB
+block count:  intra4: 345
+              intra16: 617  (-> 64.14%)
+              skipped block: 230 (23.91%)
+bytes used:  header:             85  (1.4%)
+             mode-partition:   1570  (25.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|      12%|      25%|      59%|     962
+      quantizer:  |      59 |      59 |      51 |      37 |
+   filter level:  |      19 |      39 |      21 |      15 |
+Saving file 'file04.webp'
+File:      file04.png
+Dimension: 592 x 410
+Output:    6160 bytes Y-U-V-All-PSNR 40.56 40.52 40.02   40.46 dB
+block count:  intra4: 345
+              intra16: 617  (-> 64.14%)
+              skipped block: 230 (23.91%)
+bytes used:  header:             85  (1.4%)
+             mode-partition:   1570  (25.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|      12%|      25%|      59%|     962
+      quantizer:  |      59 |      59 |      51 |      37 |
+   filter level:  |      19 |      39 |      21 |      15 |
+Saving file 'file05.webp'
+File:      file05.png
+Dimension: 592 x 410
+Output:    6746 bytes Y-U-V-All-PSNR 39.89 40.74 40.00   40.04 dB
+block count:  intra4: 359
+              intra16: 603  (-> 62.68%)
+              skipped block: 241 (25.05%)
+bytes used:  header:             72  (1.1%)
+             mode-partition:   1673  (24.8%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|      14%|      25%|      56%|     962
+      quantizer:  |      59 |      58 |      50 |      36 |
+   filter level:  |      19 |      14 |      20 |       7 |
+Saving file 'file06.webp'
+File:      file06.png
+Dimension: 592 x 410
+Output:    8146 bytes Y-U-V-All-PSNR 38.67 40.72 40.17   39.18 dB
+block count:  intra4: 399
+              intra16: 563  (-> 58.52%)
+              skipped block: 226 (23.49%)
+bytes used:  header:             83  (1.0%)
+             mode-partition:   1912  (23.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|      17%|      27%|      50%|     962
+      quantizer:  |      59 |      56 |      49 |      35 |
+   filter level:  |      19 |      13 |      20 |      15 |
+Saving file 'file07.webp'
+File:      file07.png
+Dimension: 592 x 410
+Output:    9490 bytes Y-U-V-All-PSNR 37.67 40.83 40.94   38.50 dB
+block count:  intra4: 438
+              intra16: 524  (-> 54.47%)
+              skipped block: 194 (20.17%)
+bytes used:  header:            110  (1.2%)
+             mode-partition:   2063  (21.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|      22%|      29%|      44%|     962
+      quantizer:  |      59 |      55 |      48 |      35 |
+   filter level:  |      19 |      12 |      20 |      15 |
+Saving file 'file08.webp'
+File:      file08.png
+Dimension: 592 x 410
+Output:    10790 bytes Y-U-V-All-PSNR 36.72 42.19 42.39   37.91 dB
+block count:  intra4: 488
+              intra16: 474  (-> 49.27%)
+              skipped block: 168 (17.46%)
+bytes used:  header:            123  (1.1%)
+             mode-partition:   2370  (22.0%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|      23%|      31%|      42%|     962
+      quantizer:  |      59 |      54 |      48 |      36 |
+   filter level:  |      19 |      11 |      10 |      15 |
+Saving file 'file09.webp'
+File:      file09.png
+Dimension: 592 x 410
+Output:    14396 bytes Y-U-V-All-PSNR 35.87 43.06 43.24   37.24 dB
+block count:  intra4: 617
+              intra16: 345  (-> 35.86%)
+              skipped block: 118 (12.27%)
+bytes used:  header:            154  (1.1%)
+             mode-partition:   2896  (20.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|      10%|      53%|      35%|     962
+      quantizer:  |      59 |      54 |      47 |      37 |
+   filter level:  |      19 |      22 |      19 |       7 |
+Saving file 'file10.webp'
+File:      file10.png
+Dimension: 592 x 410
+Output:    16554 bytes Y-U-V-All-PSNR 35.40 43.02 43.04   36.80 dB
+block count:  intra4: 708
+              intra16: 254  (-> 26.40%)
+              skipped block: 29 (3.01%)
+bytes used:  header:            164  (1.0%)
+             mode-partition:   3318  (20.0%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|      11%|      58%|      28%|     962
+      quantizer:  |      59 |      53 |      46 |      36 |
+   filter level:  |      19 |      11 |      19 |       7 |
+Saving file 'file11.webp'
+File:      file11.png
+Dimension: 592 x 410
+Output:    16582 bytes Y-U-V-All-PSNR 35.27 42.67 42.94   36.66 dB
+block count:  intra4: 681
+              intra16: 281  (-> 29.21%)
+              skipped block: 20 (2.08%)
+bytes used:  header:            181  (1.1%)
+             mode-partition:   3222  (19.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|      11%|      60%|      26%|     962
+      quantizer:  |      59 |      53 |      46 |      37 |
+   filter level:  |      19 |      11 |       9 |      15 |
+Saving file 'file12.webp'
+File:      file12.png
+Dimension: 592 x 410
+Output:    16582 bytes Y-U-V-All-PSNR 35.27 42.67 42.94   36.66 dB
+block count:  intra4: 681
+              intra16: 281  (-> 29.21%)
+              skipped block: 20 (2.08%)
+bytes used:  header:            181  (1.1%)
+             mode-partition:   3222  (19.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|      11%|      60%|      26%|     962
+      quantizer:  |      59 |      53 |      46 |      37 |
+   filter level:  |      19 |      11 |       9 |      15 |
+Saving file 'file13.webp'
+File:      file13.png
+Dimension: 592 x 410
+Output:    16582 bytes Y-U-V-All-PSNR 35.27 42.67 42.94   36.66 dB
+block count:  intra4: 681
+              intra16: 281  (-> 29.21%)
+              skipped block: 20 (2.08%)
+bytes used:  header:            181  (1.1%)
+             mode-partition:   3222  (19.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|      11%|      60%|      26%|     962
+      quantizer:  |      59 |      53 |      46 |      37 |
+   filter level:  |      19 |      11 |       9 |      15 |
+Saving file 'file14.webp'
+File:      file14.png
+Dimension: 592 x 410
+Output:    16582 bytes Y-U-V-All-PSNR 35.27 42.67 42.94   36.66 dB
+block count:  intra4: 681
+              intra16: 281  (-> 29.21%)
+              skipped block: 20 (2.08%)
+bytes used:  header:            181  (1.1%)
+             mode-partition:   3222  (19.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|      11%|      60%|      26%|     962
+      quantizer:  |      59 |      53 |      46 |      37 |
+   filter level:  |      19 |      11 |       9 |      15 |
+Saving file 'file15.webp'
+File:      file15.png
+Dimension: 592 x 410
+Output:    16796 bytes Y-U-V-All-PSNR 35.28 42.12 42.89   36.65 dB
+block count:  intra4: 684
+              intra16: 278  (-> 28.90%)
+              skipped block: 19 (1.98%)
+bytes used:  header:            164  (1.0%)
+             mode-partition:   3211  (19.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|      12%|      57%|      28%|     962
+      quantizer:  |      59 |      53 |      46 |      37 |
+   filter level:  |      19 |      11 |       9 |      15 |
+Saving file 'file16.webp'
+File:      file16.png
+Dimension: 592 x 410
+Output:    16536 bytes Y-U-V-All-PSNR 35.47 41.35 42.42   36.75 dB
+block count:  intra4: 685
+              intra16: 277  (-> 28.79%)
+              skipped block: 27 (2.81%)
+bytes used:  header:            152  (0.9%)
+             mode-partition:   3176  (19.2%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|      13%|      53%|      31%|     962
+      quantizer:  |      59 |      53 |      46 |      37 |
+   filter level:  |      19 |      22 |      19 |      15 |
+Saving file 'file17.webp'
+File:      file17.png
+Dimension: 592 x 410
+Output:    14886 bytes Y-U-V-All-PSNR 35.87 40.66 41.14   36.99 dB
+block count:  intra4: 612
+              intra16: 350  (-> 36.38%)
+              skipped block: 57 (5.93%)
+bytes used:  header:            146  (1.0%)
+             mode-partition:   2747  (18.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|      11%|      44%|      40%|     962
+      quantizer:  |      59 |      55 |      47 |      37 |
+   filter level:  |      19 |      23 |      19 |      15 |
+Saving file 'file18.webp'
+File:      file18.png
+Dimension: 592 x 410
+Output:    12664 bytes Y-U-V-All-PSNR 36.66 40.08 39.55   37.48 dB
+block count:  intra4: 553
+              intra16: 409  (-> 42.52%)
+              skipped block: 150 (15.59%)
+bytes used:  header:            142  (1.1%)
+             mode-partition:   2396  (18.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|      11%|      34%|      50%|     962
+      quantizer:  |      59 |      55 |      47 |      39 |
+   filter level:  |      19 |      12 |      19 |      16 |
+Saving file 'file19.webp'
+File:      file19.png
+Dimension: 592 x 410
+Output:    9154 bytes Y-U-V-All-PSNR 37.78 40.56 40.09   38.48 dB
+block count:  intra4: 441
+              intra16: 521  (-> 54.16%)
+              skipped block: 233 (24.22%)
+bytes used:  header:            130  (1.4%)
+             mode-partition:   1707  (18.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|       6%|      26%|      63%|     962
+      quantizer:  |      59 |      58 |      49 |      40 |
+   filter level:  |      19 |      13 |      10 |       8 |
+Saving file 'file20.webp'
+File:      file20.png
+Dimension: 592 x 410
+Output:    9648 bytes Y-U-V-All-PSNR 37.47 40.18 39.66   38.14 dB
+block count:  intra4: 490
+              intra16: 472  (-> 49.06%)
+              skipped block: 175 (18.19%)
+bytes used:  header:            116  (1.2%)
+             mode-partition:   1797  (18.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|       8%|      29%|      59%|     962
+      quantizer:  |      59 |      58 |      48 |      40 |
+   filter level:  |      19 |      13 |       8 |       8 |
+Saving file 'file21.webp'
+File:      file21.png
+Dimension: 592 x 410
+Output:    9870 bytes Y-U-V-All-PSNR 37.42 40.17 39.74   38.11 dB
+block count:  intra4: 458
+              intra16: 504  (-> 52.39%)
+              skipped block: 182 (18.92%)
+bytes used:  header:            126  (1.3%)
+             mode-partition:   1701  (17.2%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|       7%|      26%|      61%|     962
+      quantizer:  |      59 |      58 |      48 |      40 |
+   filter level:  |      19 |      13 |       8 |       8 |
+Saving file 'file22.webp'
+File:      file22.png
+Dimension: 592 x 410
+Output:    10246 bytes Y-U-V-All-PSNR 37.30 40.15 39.64   38.00 dB
+block count:  intra4: 448
+              intra16: 514  (-> 53.43%)
+              skipped block: 175 (18.19%)
+bytes used:  header:            137  (1.3%)
+             mode-partition:   1691  (16.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|       7%|      26%|      62%|     962
+      quantizer:  |      59 |      58 |      48 |      40 |
+   filter level:  |      19 |      13 |       8 |       8 |
+Saving file 'file23.webp'
+File:      file23.png
+Dimension: 592 x 410
+Output:    9848 bytes Y-U-V-All-PSNR 37.40 40.13 39.78   38.10 dB
+block count:  intra4: 461
+              intra16: 501  (-> 52.08%)
+              skipped block: 176 (18.30%)
+bytes used:  header:            131  (1.3%)
+             mode-partition:   1724  (17.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|       7%|      26%|      61%|     962
+      quantizer:  |      59 |      58 |      48 |      40 |
+   filter level:  |      19 |      13 |       8 |       8 |
+Saving file 'file24.webp'
+File:      file24.png
+Dimension: 592 x 410
+Output:    9572 bytes Y-U-V-All-PSNR 37.52 40.19 39.69   38.19 dB
+block count:  intra4: 456
+              intra16: 506  (-> 52.60%)
+              skipped block: 195 (20.27%)
+bytes used:  header:            128  (1.3%)
+             mode-partition:   1728  (18.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|       8%|      28%|      59%|     962
+      quantizer:  |      59 |      57 |      47 |      40 |
+   filter level:  |      19 |      13 |       9 |       8 |
+Saving file 'file25.webp'
+File:      file25.png
+Dimension: 592 x 410
+Output:    9506 bytes Y-U-V-All-PSNR 37.65 40.32 39.79   38.31 dB
+block count:  intra4: 490
+              intra16: 472  (-> 49.06%)
+              skipped block: 201 (20.89%)
+bytes used:  header:            116  (1.2%)
+             mode-partition:   1779  (18.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|       8%|      27%|      59%|     962
+      quantizer:  |      59 |      57 |      48 |      39 |
+   filter level:  |      19 |      13 |      10 |       8 |
+Saving file 'file26.webp'
+File:      file26.png
+Dimension: 592 x 410
+Output:    8578 bytes Y-U-V-All-PSNR 38.04 40.74 39.98   38.68 dB
+block count:  intra4: 491
+              intra16: 471  (-> 48.96%)
+              skipped block: 258 (26.82%)
+bytes used:  header:            108  (1.3%)
+             mode-partition:   1551  (18.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|       6%|      24%|      64%|     962
+      quantizer:  |      59 |      58 |      49 |      40 |
+   filter level:  |      19 |      13 |      20 |       8 |
+Saving file 'file27.webp'
+File:      file27.png
+Dimension: 592 x 410
+Output:    6804 bytes Y-U-V-All-PSNR 39.25 40.88 41.72   39.82 dB
+block count:  intra4: 500
+              intra16: 462  (-> 48.02%)
+              skipped block: 341 (35.45%)
+bytes used:  header:            103  (1.5%)
+             mode-partition:   1354  (19.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       7%|      18%|      72%|     962
+      quantizer:  |      59 |      57 |      50 |      41 |
+   filter level:  |      19 |      12 |       8 |      17 |
+Saving file 'file28.webp'
+File:      file28.png
+Dimension: 592 x 410
+Output:    6666 bytes Y-U-V-All-PSNR 39.78 40.08 41.13   40.03 dB
+block count:  intra4: 278
+              intra16: 684  (-> 71.10%)
+              skipped block: 396 (41.16%)
+bytes used:  header:            128  (1.9%)
+             mode-partition:   1345  (20.2%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       7%|      18%|      72%|     962
+      quantizer:  |      59 |      57 |      50 |      41 |
+   filter level:  |      19 |      12 |       8 |      17 |
+Saving file 'file29.webp'
+File:      file29.png
+Dimension: 592 x 410
+Output:    5030 bytes Y-U-V-All-PSNR 41.63 40.84 42.36   41.60 dB
+block count:  intra4: 216
+              intra16: 746  (-> 77.55%)
+              skipped block: 563 (58.52%)
+bytes used:  header:            120  (2.4%)
+             mode-partition:   1130  (22.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       5%|      12%|      79%|     962
+      quantizer:  |      59 |      58 |      51 |      42 |
+   filter level:  |      19 |      12 |      10 |       8 |
+Saving file 'file30.webp'
+File:      file30.png
+Dimension: 592 x 410
+Output:    4702 bytes Y-U-V-All-PSNR 41.97 41.32 42.52   41.94 dB
+block count:  intra4: 186
+              intra16: 776  (-> 80.67%)
+              skipped block: 621 (64.55%)
+bytes used:  header:            102  (2.2%)
+             mode-partition:   1039  (22.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       4%|      11%|      82%|     962
+      quantizer:  |      59 |      59 |      52 |      42 |
+   filter level:  |      19 |      13 |       9 |       8 |
+Saving file 'file31.webp'
+File:      file31.png
+Dimension: 592 x 410
+Output:    4286 bytes Y-U-V-All-PSNR 42.37 41.28 42.59   42.20 dB
+block count:  intra4: 169
+              intra16: 793  (-> 82.43%)
+              skipped block: 693 (72.04%)
+bytes used:  header:             89  (2.1%)
+             mode-partition:    984  (23.0%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       4%|      10%|      83%|     962
+      quantizer:  |      59 |      59 |      52 |      42 |
+   filter level:  |      19 |      13 |       9 |      17 |
+Saving file 'file32.webp'
+File:      file32.png
+Dimension: 592 x 410
+Output:    4286 bytes Y-U-V-All-PSNR 42.37 41.28 42.59   42.20 dB
+block count:  intra4: 169
+              intra16: 793  (-> 82.43%)
+              skipped block: 693 (72.04%)
+bytes used:  header:             89  (2.1%)
+             mode-partition:    984  (23.0%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       4%|      10%|      83%|     962
+      quantizer:  |      59 |      59 |      52 |      42 |
+   filter level:  |      19 |      13 |       9 |      17 |
+Saving file 'file33.webp'
+File:      file33.png
+Dimension: 592 x 410
+Output:    4286 bytes Y-U-V-All-PSNR 42.37 41.28 42.59   42.20 dB
+block count:  intra4: 169
+              intra16: 793  (-> 82.43%)
+              skipped block: 693 (72.04%)
+bytes used:  header:             89  (2.1%)
+             mode-partition:    984  (23.0%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       4%|      10%|      83%|     962
+      quantizer:  |      59 |      59 |      52 |      42 |
+   filter level:  |      19 |      13 |       9 |      17 |
+Saving file 'file34.webp'
+File:      file34.png
+Dimension: 592 x 410
+Output:    4862 bytes Y-U-V-All-PSNR 41.97 41.15 42.11   41.84 dB
+block count:  intra4: 185
+              intra16: 777  (-> 80.77%)
+              skipped block: 659 (68.50%)
+bytes used:  header:             99  (2.0%)
+             mode-partition:   1033  (21.2%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       4%|      11%|      81%|     962
+      quantizer:  |      59 |      59 |      52 |      42 |
+   filter level:  |      19 |      13 |       9 |       8 |
+Saving file 'file35.webp'
+File:      file35.png
+Dimension: 592 x 410
+Output:    5276 bytes Y-U-V-All-PSNR 41.50 40.81 41.73   41.41 dB
+block count:  intra4: 261
+              intra16: 701  (-> 72.87%)
+              skipped block: 584 (60.71%)
+bytes used:  header:            112  (2.1%)
+             mode-partition:   1172  (22.2%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       7%|      11%|      78%|     962
+      quantizer:  |      59 |      58 |      51 |      42 |
+   filter level:  |      19 |      12 |      31 |       8 |
+Saving file 'file36.webp'
+File:      file36.png
+Dimension: 592 x 410
+Output:    4604 bytes Y-U-V-All-PSNR 41.57 41.59 42.08   41.65 dB
+block count:  intra4: 160
+              intra16: 802  (-> 83.37%)
+              skipped block: 542 (56.34%)
+bytes used:  header:            101  (2.2%)
+             mode-partition:   1005  (21.8%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       5%|      11%|      81%|     962
+      quantizer:  |      59 |      59 |      51 |      42 |
+   filter level:  |      19 |      13 |       8 |       8 |
+Saving file 'file37.webp'
+File:      file37.png
+Dimension: 592 x 410
+Output:    3490 bytes Y-U-V-All-PSNR 42.92 45.61 43.46   43.36 dB
+block count:  intra4: 146
+              intra16: 816  (-> 84.82%)
+              skipped block: 519 (53.95%)
+bytes used:  header:             83  (2.4%)
+             mode-partition:    901  (25.8%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       0%|       3%|      11%|      84%|     962
+      quantizer:  |      59 |      57 |      52 |      43 |
+   filter level:  |      19 |      12 |      10 |       9 |
+Saving file 'file38.webp'
+File:      file38.png
+Dimension: 592 x 410
+Output:    4864 bytes Y-U-V-All-PSNR 41.35 42.98 40.48   41.42 dB
+block count:  intra4: 191
+              intra16: 771  (-> 80.15%)
+              skipped block: 397 (41.27%)
+bytes used:  header:            102  (2.1%)
+             mode-partition:   1067  (21.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       0%|       8%|      12%|      78%|     962
+      quantizer:  |      59 |      58 |      51 |      42 |
+   filter level:  |      19 |      12 |      10 |       8 |
+Saving file 'file39.webp'
+File:      file39.png
+Dimension: 592 x 410
+Output:    4618 bytes Y-U-V-All-PSNR 41.33 42.54 40.15   41.28 dB
+block count:  intra4: 173
+              intra16: 789  (-> 82.02%)
+              skipped block: 380 (39.50%)
+bytes used:  header:             83  (1.8%)
+             mode-partition:   1004  (21.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       0%|       6%|      12%|      80%|     962
+      quantizer:  |      59 |      59 |      53 |      42 |
+   filter level:  |      19 |      13 |      11 |       8 |
+Saving file 'file40.webp'
+File:      file40.png
+Dimension: 592 x 410
+Output:    4190 bytes Y-U-V-All-PSNR 41.62 42.45 40.47   41.53 dB
+block count:  intra4: 159
+              intra16: 803  (-> 83.47%)
+              skipped block: 384 (39.92%)
+bytes used:  header:             74  (1.8%)
+             mode-partition:    953  (22.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       0%|       6%|      12%|      79%|     962
+      quantizer:  |      59 |      59 |      52 |      42 |
+   filter level:  |      19 |      13 |      21 |       8 |
+Saving file 'file41.webp'
+File:      file41.png
+Dimension: 592 x 410
+Output:    4190 bytes Y-U-V-All-PSNR 41.62 42.45 40.47   41.53 dB
+block count:  intra4: 159
+              intra16: 803  (-> 83.47%)
+              skipped block: 384 (39.92%)
+bytes used:  header:             74  (1.8%)
+             mode-partition:    953  (22.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       0%|       6%|      12%|      79%|     962
+      quantizer:  |      59 |      59 |      52 |      42 |
+   filter level:  |      19 |      13 |      21 |       8 |
+Saving file 'file42.webp'
+File:      file42.png
+Dimension: 592 x 410
+Output:    4190 bytes Y-U-V-All-PSNR 41.62 42.45 40.47   41.53 dB
+block count:  intra4: 159
+              intra16: 803  (-> 83.47%)
+              skipped block: 384 (39.92%)
+bytes used:  header:             74  (1.8%)
+             mode-partition:    953  (22.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       0%|       6%|      12%|      79%|     962
+      quantizer:  |      59 |      59 |      52 |      42 |
+   filter level:  |      19 |      13 |      21 |       8 |
+Saving file 'file43.webp'
+File:      file43.png
+Dimension: 592 x 410
+Output:    5528 bytes Y-U-V-All-PSNR 40.87 42.67 40.11   40.98 dB
+block count:  intra4: 213
+              intra16: 749  (-> 77.86%)
+              skipped block: 328 (34.10%)
+bytes used:  header:            101  (1.8%)
+             mode-partition:   1161  (21.0%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       8%|      16%|      73%|     962
+      quantizer:  |      59 |      58 |      50 |      41 |
+   filter level:  |      19 |      12 |      10 |       8 |
+Saving file 'file44.webp'
+File:      file44.png
+Dimension: 592 x 410
+Output:    9302 bytes Y-U-V-All-PSNR 39.39 43.23 40.44   40.01 dB
+block count:  intra4: 426
+              intra16: 536  (-> 55.72%)
+              skipped block: 266 (27.65%)
+bytes used:  header:            114  (1.2%)
+             mode-partition:   2106  (22.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       0%|      11%|      35%|      53%|     962
+      quantizer:  |      59 |      57 |      48 |      39 |
+   filter level:  |      19 |      13 |      10 |       8 |
+Saving file 'file45.webp'
+File:      file45.png
+Dimension: 592 x 410
+Output:    10468 bytes Y-U-V-All-PSNR 38.90 43.80 42.53   39.91 dB
+block count:  intra4: 547
+              intra16: 415  (-> 43.14%)
+              skipped block: 199 (20.69%)
+bytes used:  header:            114  (1.1%)
+             mode-partition:   2746  (26.2%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|      10%|      45%|      41%|     962
+      quantizer:  |      59 |      56 |      48 |      36 |
+   filter level:  |      19 |      12 |       9 |       7 |
+Saving file 'file46.webp'
+File:      file46.png
+Dimension: 592 x 410
+Output:    14726 bytes Y-U-V-All-PSNR 37.97 48.63 52.63   39.60 dB
+block count:  intra4: 795
+              intra16: 167  (-> 17.36%)
+              skipped block: 65 (6.76%)
+bytes used:  header:            136  (0.9%)
+             mode-partition:   3812  (25.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|      11%|      69%|      17%|     962
+      quantizer:  |      59 |      55 |      45 |      34 |
+   filter level:  |      19 |      12 |       8 |       7 |
+Saving file 'file47.webp'
+File:      file47.png
+Dimension: 592 x 410
+Output:    16890 bytes Y-U-V-All-PSNR 37.50 47.31 56.44   39.14 dB
+block count:  intra4: 925
+              intra16: 37  (-> 3.85%)
+              skipped block: 5 (0.52%)
+bytes used:  header:            120  (0.7%)
+             mode-partition:   4002  (23.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|      11%|      82%|       3%|     962
+      quantizer:  |      59 |      53 |      44 |      32 |
+   filter level:  |      19 |      12 |       8 |       6 |
+Saving file 'file48.webp'
+File:      file48.png
+Dimension: 592 x 410
+Output:    22554 bytes Y-U-V-All-PSNR 36.90 45.65 56.54   38.51 dB
+block count:  intra4: 962
+              intra16: 0  (-> 0.00%)
+              skipped block: 0 (0.00%)
+bytes used:  header:            118  (0.5%)
+             mode-partition:   5430  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       0%|       6%|      14%|      78%|     962
+      quantizer:  |      59 |      58 |      49 |      43 |
+   filter level:  |      19 |      12 |       8 |       6 |
+Saving file 'file49.webp'
+File:      file49.png
+Dimension: 592 x 410
+Output:    22554 bytes Y-U-V-All-PSNR 36.90 45.65 56.54   38.51 dB
+block count:  intra4: 962
+              intra16: 0  (-> 0.00%)
+              skipped block: 0 (0.00%)
+bytes used:  header:            118  (0.5%)
+             mode-partition:   5430  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       0%|       6%|      14%|      78%|     962
+      quantizer:  |      59 |      58 |      49 |      43 |
+   filter level:  |      19 |      12 |       8 |       6 |
+Saving file 'file50.webp'
+File:      file50.png
+Dimension: 592 x 410
+Output:    22554 bytes Y-U-V-All-PSNR 36.90 45.65 56.54   38.51 dB
+block count:  intra4: 962
+              intra16: 0  (-> 0.00%)
+              skipped block: 0 (0.00%)
+bytes used:  header:            118  (0.5%)
+             mode-partition:   5430  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       0%|       6%|      14%|      78%|     962
+      quantizer:  |      59 |      58 |      49 |      43 |
+   filter level:  |      19 |      12 |       8 |       6 |
+Saving file 'file51.webp'
+File:      file51.png
+Dimension: 592 x 410
+Output:    22554 bytes Y-U-V-All-PSNR 36.90 45.65 56.54   38.51 dB
+block count:  intra4: 962
+              intra16: 0  (-> 0.00%)
+              skipped block: 0 (0.00%)
+bytes used:  header:            118  (0.5%)
+             mode-partition:   5430  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       0%|       6%|      14%|      78%|     962
+      quantizer:  |      59 |      58 |      49 |      43 |
+   filter level:  |      19 |      12 |       8 |       6 |
+Saving file 'file52.webp'
+File:      file52.png
+Dimension: 592 x 410
+Output:    22866 bytes Y-U-V-All-PSNR 36.94 45.95 52.06   38.54 dB
+block count:  intra4: 941
+              intra16: 21  (-> 2.18%)
+              skipped block: 1 (0.10%)
+bytes used:  header:            125  (0.5%)
+             mode-partition:   5542  (24.2%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|      11%|      84%|       1%|     962
+      quantizer:  |      59 |      53 |      43 |      31 |
+   filter level:  |      19 |      12 |       9 |       4 |
+Saving file 'file53.webp'
+File:      file53.png
+Dimension: 592 x 410
+Output:    17112 bytes Y-U-V-All-PSNR 37.51 45.31 47.93   39.00 dB
+block count:  intra4: 887
+              intra16: 75  (-> 7.80%)
+              skipped block: 10 (1.04%)
+bytes used:  header:            120  (0.7%)
+             mode-partition:   3904  (22.8%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|      12%|      78%|       6%|     962
+      quantizer:  |      59 |      53 |      44 |      32 |
+   filter level:  |      19 |      12 |      18 |       6 |
+Saving file 'file54.webp'
+File:      file54.png
+Dimension: 592 x 410
+Output:    15044 bytes Y-U-V-All-PSNR 38.24 44.15 45.53   39.55 dB
+block count:  intra4: 765
+              intra16: 197  (-> 20.48%)
+              skipped block: 46 (4.78%)
+bytes used:  header:            138  (0.9%)
+             mode-partition:   3482  (23.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|      11%|      68%|      18%|     962
+      quantizer:  |      59 |      54 |      45 |      34 |
+   filter level:  |      19 |      11 |       9 |      14 |
+Saving file 'file55.webp'
+File:      file55.png
+Dimension: 592 x 410
+Output:    10368 bytes Y-U-V-All-PSNR 38.89 42.06 43.10   39.81 dB
+block count:  intra4: 539
+              intra16: 423  (-> 43.97%)
+              skipped block: 148 (15.38%)
+bytes used:  header:            147  (1.4%)
+             mode-partition:   2373  (22.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       9%|      44%|      43%|     962
+      quantizer:  |      59 |      58 |      49 |      36 |
+   filter level:  |      19 |      14 |      10 |      15 |
+Saving file 'file56.webp'
+File:      file56.png
+Dimension: 592 x 410
+Output:    6308 bytes Y-U-V-All-PSNR 40.57 40.93 40.49   40.61 dB
+block count:  intra4: 338
+              intra16: 624  (-> 64.86%)
+              skipped block: 265 (27.55%)
+bytes used:  header:             85  (1.3%)
+             mode-partition:   1561  (24.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|      11%|      22%|      62%|     962
+      quantizer:  |      59 |      59 |      52 |      38 |
+   filter level:  |      19 |      39 |      21 |       8 |
+Saving file 'file57.webp'
+File:      file57.png
+Dimension: 592 x 410
+Output:    6322 bytes Y-U-V-All-PSNR 40.52 40.72 39.97   40.46 dB
+block count:  intra4: 348
+              intra16: 614  (-> 63.83%)
+              skipped block: 232 (24.12%)
+bytes used:  header:             80  (1.3%)
+             mode-partition:   1550  (24.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|      14%|      23%|      59%|     962
+      quantizer:  |      59 |      58 |      50 |      37 |
+   filter level:  |      19 |      14 |      20 |       7 |
+Putting webp frames into one animated webp ...
+Using command: 
+webpmux -frame file01.webp +100+0+0+0-b -frame file02.webp +100+0+0+0-b -frame file03.webp +100+0+0+0-b -frame file04.webp +100+0+0+0-b -frame file05.webp +100+0+0+0-b -frame file06.webp +100+0+0+0-b -frame file07.webp +100+0+0+0-b -frame file08.webp +100+0+0+0-b -frame file09.webp +100+0+0+0-b -frame file10.webp +100+0+0+0-b -frame file11.webp +100+0+0+0-b -frame file12.webp +100+0+0+0-b -frame file13.webp +100+0+0+0-b -frame file14.webp +100+0+0+0-b -frame file15.webp +100+0+0+0-b -frame file16.webp +100+0+0+0-b -frame file17.webp +100+0+0+0-b -frame file18.webp +100+0+0+0-b -frame file19.webp +100+0+0+0-b -frame file20.webp +100+0+0+0-b -frame file21.webp +100+0+0+0-b -frame file22.webp +100+0+0+0-b -frame file23.webp +100+0+0+0-b -frame file24.webp +100+0+0+0-b -frame file25.webp +100+0+0+0-b -frame file26.webp +100+0+0+0-b -frame file27.webp +100+0+0+0-b -frame file28.webp +100+0+0+0-b -frame file29.webp +100+0+0+0-b -frame file30.webp +100+0+0+0-b -frame file31.webp +100+0+0+0-b -frame file32.webp +100+0+0+0-b -frame file33.webp +100+0+0+0-b -frame file34.webp +100+0+0+0-b -frame file35.webp +100+0+0+0-b -frame file36.webp +100+0+0+0-b -frame file37.webp +100+0+0+0-b -frame file38.webp +100+0+0+0-b -frame file39.webp +100+0+0+0-b -frame file40.webp +100+0+0+0-b -frame file41.webp +100+0+0+0-b -frame file42.webp +100+0+0+0-b -frame file43.webp +100+0+0+0-b -frame file44.webp +100+0+0+0-b -frame file45.webp +100+0+0+0-b -frame file46.webp +100+0+0+0-b -frame file47.webp +100+0+0+0-b -frame file48.webp +100+0+0+0-b -frame file49.webp +100+0+0+0-b -frame file50.webp +100+0+0+0-b -frame file51.webp +100+0+0+0-b -frame file52.webp +100+0+0+0-b -frame file53.webp +100+0+0+0-b -frame file54.webp +100+0+0+0-b -frame file55.webp +100+0+0+0-b -frame file56.webp +100+0+0+0-b -frame file57.webp +100+0+0+0-b -loop 0 -o b.webp
+
+Saved file b.webp (596616 bytes)
+Creating stitched PNG
+Creating TIF (for use with kdu_compress)
+Creating JP2 (with kdu_compress)
+kdu_compress -i b-stitched.tif -o b-stitched.jp2 -jp2_alpha -rate -,0.6
+Creating TIF file for JXREncApp
+Creating JXR with JxrEncApp with q=0.2
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Removing temp TIF file
+Creating stylesheet
+
+Moving files and cleaning up
+Current files: 2204_A200.png
+96183LOG
+b-stitched.jp2
+b-stitched.jxr
+b-stitched.png
+b.css
+b.gif
+b.html
+b.png
+b.unopt.png
+b.webp
+file01.png
+file01.txt
+file01.webp
+file02.png
+file02.txt
+file02.webp
+file03.png
+file03.txt
+file03.webp
+file04.png
+file04.txt
+file04.webp
+file05.png
+file05.txt
+file05.webp
+file06.png
+file06.txt
+file06.webp
+file07.png
+file07.txt
+file07.webp
+file08.png
+file08.txt
+file08.webp
+file09.png
+file09.txt
+file09.webp
+file10.png
+file10.txt
+file10.webp
+file11.png
+file11.txt
+file11.webp
+file12.png
+file12.txt
+file12.webp
+file13.png
+file13.txt
+file13.webp
+file14.png
+file14.txt
+file14.webp
+file15.png
+file15.txt
+file15.webp
+file16.png
+file16.txt
+file16.webp
+file17.png
+file17.txt
+file17.webp
+file18.png
+file18.txt
+file18.webp
+file19.png
+file19.txt
+file19.webp
+file20.png
+file20.txt
+file20.webp
+file21.png
+file21.txt
+file21.webp
+file22.png
+file22.txt
+file22.webp
+file23.png
+file23.txt
+file23.webp
+file24.png
+file24.txt
+file24.webp
+file25.png
+file25.txt
+file25.webp
+file26.png
+file26.txt
+file26.webp
+file27.png
+file27.txt
+file27.webp
+file28.png
+file28.txt
+file28.webp
+file29.png
+file29.txt
+file29.webp
+file30.png
+file30.txt
+file30.webp
+file31.png
+file31.txt
+file31.webp
+file32.png
+file32.txt
+file32.webp
+file33.png
+file33.txt
+file33.webp
+file34.png
+file34.txt
+file34.webp
+file35.png
+file35.txt
+file35.webp
+file36.png
+file36.txt
+file36.webp
+file37.png
+file37.txt
+file37.webp
+file38.png
+file38.txt
+file38.webp
+file39.png
+file39.txt
+file39.webp
+file40.png
+file40.txt
+file40.webp
+file41.png
+file41.txt
+file41.webp
+file42.png
+file42.txt
+file42.webp
+file43.png
+file43.txt
+file43.webp
+file44.png
+file44.txt
+file44.webp
+file45.png
+file45.txt
+file45.webp
+file46.png
+file46.txt
+file46.webp
+file47.png
+file47.txt
+file47.webp
+file48.png
+file48.txt
+file48.webp
+file49.png
+file49.txt
+file49.webp
+file50.png
+file50.txt
+file50.webp
+file51.png
+file51.txt
+file51.webp
+file52.png
+file52.txt
+file52.webp
+file53.png
+file53.txt
+file53.webp
+file54.png
+file54.txt
+file54.webp
+file55.png
+file55.txt
+file55.webp
+file56.png
+file56.txt
+file56.webp
+file57.png
+file57.txt
+file57.webp
+mv: rename *.tif to /Users/zhawry/git/apng-webp-images-now/examples/flip-pres/*.tif: No such file or directory
