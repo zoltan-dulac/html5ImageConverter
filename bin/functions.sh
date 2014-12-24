@@ -99,7 +99,7 @@ function cutImages() {
 		convert $stub.png -compress none -define tiff:alpha=associated  $stub.tif
 		ifErrorPrintAndExit "Creating tif failed.  Bailing"  102
 		
-		kdu_compress -i $stub.tif -o $stub.jp2 $JP2_ALPHA_PARAM -rate $JP2_RATE >> log.txt 2>log.txt
+		kdu_compress -i $stub.tif -o $stub.jp2 -jp2_space sRGB $JP2_ALPHA_PARAM -rate $JP2_RATE >> log.txt 2>log.txt
 		
 		ifErrorPrintAndExit "Creating jpg2000 failed.  Bailing"  103
 		
