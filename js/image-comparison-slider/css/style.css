@@ -21,8 +21,8 @@ a {
   text-decoration: none;
 }
 
-img {
-  max-width: 100%;
+img, picture {
+  max-width: 100vw;
 }
 
 /* -------------------------------- 
@@ -68,13 +68,24 @@ header {
   -moz-transition: -moz-transform 0.3s 0.7s, opacity 0.3s 0.7s;
   transition: transform 0.3s 0.7s, opacity 0.3s 0.7s;
   
+  text-transform: uppercase;
   color: white;
   text-shadow: 2px 2px 0px black;
   font-weight: bold;
 }
+
+body.ie9down .cd-image-label {
+	opacity: 1;
+}
+
 .cd-image-label.is-hidden {
   visibility: hidden;
 }
+
+body.ie9down .cd-image-label.is-hidden {
+	visibility: visible;
+}
+
 .is-visible .cd-image-label {
   opacity: 1;
   -webkit-transform: translateY(0);
@@ -102,7 +113,7 @@ header {
   border-right: dashed 2px black;
   box-shadow: 1px 0 2px white;
 }
-.cd-resize-img img {
+.cd-resize-img img, .cd-resize-img picture{
   position: absolute;
   left: 0;
   top: 0;
@@ -190,5 +201,22 @@ header {
   -webkit-transition: -webkit-transform 0.3s 0.7s, opacity 0s 0.7s;
   -moz-transition: -moz-transform 0.3s 0.7s, opacity 0s 0.7s;
   transition: transform 0.3s 0.7s, opacity 0s 0.7s;
+}
+
+html.webp .alt-file-type:before {
+	content: "WEBP";
+}
+
+html.jpegxr .alt-file-type:before {
+	content: "JPEG-XR";
+}
+
+html.jpeg2000 .alt-file-type:before {
+	content: "JPEG2000";
+}
+
+html.no-webp.no-jpegxr.no-jpeg2000 .size:before {
+	text-transform: none;
+	content: "This browser does not support WEBP, JPEG-XR or JPEG2000."
 }
 

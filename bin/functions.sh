@@ -49,11 +49,12 @@ fi
 if [ "$HAS_ALPHA" = "" ]
 then
 	HAS_ALPHA=`getArg has-alpha false`
-	
 fi
 
+
 NO_PNG=`getArg no-png`
-JXR_NCONVERT=`getArg 'jxr-nconvert'`
+JXR_NCONVERT=`getArg jxr-nconvert`
+IS_LOSSLESS=`getArg is-lossless`
 
 if [ "$HAS_ALPHA" = 'true' ]
 then
@@ -61,7 +62,18 @@ then
 	JP2_ALPHA_PARAM="-jp2_alpha"
 else 
 	JXR_FORMAT="9"
+	#JXR_FORMAT="22"
 fi
+
+if [ "$IS_LOSSLESS" ]
+then
+	echo "Performing lossless compression.  Any quality rates will be overridden."
+	JP2_PARAMS="$JP2_PARAMS Creversible=yes"
+	JXR_QUAL="100"
+	WEBP_QUAL="100"
+	JPEG_QUAL="100"
+fi
+
 
 #.. ifErrorPrintAndExit(ERROR, CODE): called whenever an error occurs and we want the
 #   program to halt.  ERROR is message that appears in the terminal and CODE is the
@@ -78,7 +90,7 @@ ifErrorPrintAndExit () {
 	fi
 }
 
-#.. cutImages(STUBS): will take a 
+#.. cutImages(STUBS): will take the png version and convert to all the different formats. 
 function cutImages() {
 	local STUBS="$*"
 	
@@ -99,7 +111,7 @@ function cutImages() {
 		convert $stub.png -compress none -define tiff:alpha=associated  $stub.tif
 		ifErrorPrintAndExit "Creating tif failed.  Bailing"  102
 		
-		kdu_compress -i $stub.tif -o $stub.jp2 -jp2_space sRGB $JP2_ALPHA_PARAM -rate $JP2_RATE >> log.txt 2>log.txt
+		kdu_compress -i $stub.tif -o $stub.jp2  $JP2_ALPHA_PARAM $JP2_PARAMS -rate $JP2_RATE >> log.txt 2>log.txt
 		
 		ifErrorPrintAndExit "Creating jpg2000 failed.  Bailing"  103
 		
@@ -115,8 +127,13 @@ function cutImages() {
 			
 			JXRENC_QUAL=`awk "BEGIN{print $JXR_QUAL/100}"`
 			
-			echo JxrEncApp -i $stub.tif -o $stub.jxr -c $JXR_FORMAT -q $JXRENC_QUAL
 			JxrEncApp -i $stub.tif -o $stub.jxr -c $JXR_FORMAT -q $JXRENC_QUAL 1>> log.txt 2>> log.txt
+			
+			if [ "$?" != "0" ]
+			then
+				echo "Cannot save JXR using format $JXR_FORMAT. Trying 22 " 1>&2
+				JxrEncApp -i $stub.tif -o $stub.jxr -c 22 -q $JXRENC_QUAL 1>> log.txt 2>> log.txt
+			fi
 		fi
 		
 		#JxrEncApp -i $stub.tif -o $stub.jxr -c 22 -q 0.7 -a 3 -Q 60   
@@ -128,5 +145,14 @@ function cutImages() {
 			pngquant --speed 1 --ext -quant.png -v $stub.png >> log.txt 2> log.txt
 			ifErrorPrintAndExit "Creating QUANTIZED png failed.  Bailing"  104
 		fi
+		
+		rm $stub.tif
+		
+		if [ "$IS_LOSSLESS" != "true" ]
+		then
+			rm $stub.png
+		fi
 	done
 }
+
+#.. 
