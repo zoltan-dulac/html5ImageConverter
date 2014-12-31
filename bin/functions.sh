@@ -29,7 +29,7 @@ getArg() {
 
 
 WEBP_QUAL=`getArg webp-qual 80`
-echo "JP2_RATE: $JP2_RATE"
+
 
 if [ "$JP2_RATE" = "" ]
 then

@@ -15,6 +15,7 @@ getDefaultQuals () {
 	while [ "$INDEX" -lt "$SIZES" ]
 	do
 		echo "$1/"
+		INDEX=`expr $INDEX + 1`
 	done
 	echo "$1"
 }
@@ -27,14 +28,16 @@ NO_PNG=`getArg no-png`
 HAS_ALPHA=`getArg has-alpha false`
 MODERNIZR_SRC=`getArg 'modernizr-src' '../../js/modernizr.custom.29822.js'`
 
-SIZES=`getArg renditions "320/600/1024"| tr '/' ' ')`
+SIZES=(`getArg renditions "320/600/1024"| tr '/' ' '`)
 NUM_SIZES=${JP2_RATES[@]}
+
+getDefaultQuals 1.0
 
 DEF_JP2_RATES=`getDefaultQuals 1.0`
 DEF_JXR_QUALS=`getDefaultQuals 85`
 DEF_JPG_QUALS=`getDefaultQuals 85`
 DEF_WEBP_QUALS=`getDefaultQuals 80`
-
+echo "default quals"
 JP2_RATES=(`getArg jp2-rates $DEF_JP2_RATES| tr '/' ' ')` 
 JPG_QUALS=(`getArg jpg-quals $DEF_JPG_QUALS | tr '/' ' ')`
 JXR_QUALS=(`getArg jxr-quals $DEF_JXR_QUALS | tr '/' ' ')`
