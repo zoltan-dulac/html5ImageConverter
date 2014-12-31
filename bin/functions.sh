@@ -4,6 +4,21 @@ ARGS=`echo $* | tr ' ' '
 '`
 FILEARGS=`echo "$ARGS" | grep -v '\--'`
 
+#.. set the options up
+declare -A options
+OPTIONS_ARGS=`echo "$ARGS" | grep "^--" | sed "s/^--//g"`
+for i in $OPTIONS_ARGS
+do
+	OPTIONNAME=`echo $i | awk -F'=' '{print $1}'`
+	OPTIONVAL=`echo $i | awk -F'=' '{print $2}'`
+	if [ "$OPTIONVAL" = "" ]
+	then
+		OPTIONVAL="true"
+	fi
+	
+	options[$OPTIONNAME]="$OPTIONVAL"
+	
+done
 
 #
 # getArg(): get double dashed argument value
@@ -11,19 +26,11 @@ getArg() {
 	local NAME="$1"
 	local VALIFBLANK="$2"
 	
-	local VAL=`echo "$ARGS" | grep "\--$1"`
-	
+	local VAL=${options[$NAME]}
 	if [ "$VAL" = "" ]
 	then
 		VAL="$VALIFBLANK"
-	else 
-		VAL=`echo $VAL | awk -F'=' '{print $2}'`
-		if [ "$VAL" = "" ]
-		then
-			VAL="true"
-		fi
 	fi
-	
 	echo $VAL
 }
 

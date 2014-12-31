@@ -80,7 +80,7 @@ createRenditionHTML () {
 
   <body>
     <header>
-    `ls -l $STUB-$SIZE.jpg $STUB-$SIZE.jp2 $STUB-$SIZE.jxr $STUB-$SIZE.webp $STUB-$SIZE.png $STUB-$SIZE-quant.png | sed 's/Domain Users/xxx/g' | awk '{print $9" "$5", "}'`
+    `ls -l $STUB-$SIZE.jpg $STUB-$SIZE.jp2 $STUB-$SIZE.jxr $STUB-$SIZE.webp $STUB-$SIZE.png $STUB-$SIZE-quant.png 2> /dev/null | sed 's/Domain Users/xxx/g' | awk '{print $9" "$5", "}'`
     </header>
   
     <picture>
@@ -146,7 +146,7 @@ then
   if [ "${#JXR_QUALS[@]}" = "1" ]
   then
     JXR_QUALS=( `getDefaultQuals ${JXR_QUALS[0]} | tr '/' ' '` )
-    echo "BOO: $JXR_QUALS"
+    
   else 
     printAndExit "There should be $NUM_SIZES JXR renditions, but there are only ${#JXR_QUALS[@]}. Bailing" 101
   fi
@@ -225,7 +225,7 @@ do
     WEBP_SRCSET="$WEBP_SRCSET$STUB-$SIZE.webp $SIZE""w$COMMA"
     JPG_SRCSET="$JPG_SRCSET$STUB-$SIZE.jxr $SIZE""w$COMMA"
     
-    LIST=`ls -l $STUB-$SIZE.jpg $STUB-$SIZE.jp2 $STUB-$SIZE.jxr $STUB-$SIZE.webp  $STUB-$SIZE.png | sed 's/Domain Users/xxx/g' `
+    LIST=`ls -l $STUB-$SIZE.jpg $STUB-$SIZE.jp2 $STUB-$SIZE.jxr $STUB-$SIZE.webp  $STUB-$SIZE.png 2> /dev/null | sed 's/Domain Users/xxx/g' `
     
     ORIG_SIZE=`getFileSize $ORIG_FORMAT $SIZE`
     JP2_SIZE=`getFileSize jp2 $SIZE`
@@ -261,7 +261,11 @@ do
   
   ORIG_FILESIZE=`ls -l $file | sed 's/Domain Users/xxx/g' | awk '{printf "%.1fK", $5/1024}'`
   
-
+  CREDIT=`cat credit.html 2> /dev/null`
+  if [ "$?" = "0" ]
+  then
+  	CREDIT="<div class='credit'>$CREDIT</div>"
+  fi
   
   echo "<!doctype html>
   <html lang='en' class='no-js'>
@@ -322,6 +326,7 @@ do
   
       <span class='cd-handle'></span>
     </figure> <!-- cd-image-container -->
+    $CREDIT
   <script src='../../js/image-comparison-slider/js/jquery-2.1.1.js'></script>
   <script src='../../js/image-comparison-slider/js/jquery.mobile.custom.min.js'></script> <!-- Resource jQuery -->
   <script src='../../js/image-comparison-slider/js/main.js'></script> <!-- Resource jQuery -->

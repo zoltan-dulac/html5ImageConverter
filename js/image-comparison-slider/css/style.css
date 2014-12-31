@@ -220,3 +220,14 @@ html.no-webp.no-jpegxr.no-jpeg2000 .size:before {
 	content: "This browser does not support WEBP, JPEG-XR or JPEG2000."
 }
 
+.credit {
+	text-align: right;
+	position: absolute;
+	width: 100%;
+	bottom: 0;
+	left: 0;
+	background: rgba(0, 0, 0, 0.5);
+	color: white;
+	padding: 5px;
+}
+}
