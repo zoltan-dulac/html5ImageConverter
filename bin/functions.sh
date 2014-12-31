@@ -42,7 +42,7 @@ fi
 
 if [ "$JPEG_RATE" = "" ]
 then
-	JPEG_QUAL=`getArg jpg-qual 70`
+	JPG_QUAL=`getArg jpg-qual 70`
 fi
 
 if [ "$HAS_ALPHA" = "" ]
@@ -70,7 +70,7 @@ then
 	JP2_PARAMS="$JP2_PARAMS Creversible=yes"
 	JXR_QUAL="100"
 	WEBP_QUAL="100"
-	JPEG_QUAL="100"
+	JPG_QUAL="100"
 fi
 
 
@@ -100,8 +100,8 @@ function cutImages() {
 		if [ "$HAS_ALPHA" != "true" ]
 		then
 			
-			echo "   - jpeg (Quality: $JPEG_QUAL)" 1>&2
-			convert $stub.png -define quality=$JPEG_QUAL $stub.jpg >> log.txt
+			echo "   - jpeg (Quality: $JPG_QUAL)" 1>&2
+			convert $stub.png -define quality=$JPG_QUAL $stub.jpg >> log.txt
 			ifErrorPrintAndExit "Creating jpg failed.  Bailing"  100
 		fi
 		
