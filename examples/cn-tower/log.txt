@@ -6,16 +6,17 @@ Note:
     `-rate' or by using the "Clayers" option.
 
 Generated 1 tile-part(s) for a total of 1 tile(s).
-Code-stream bytes (excluding any file format) = 21,626 = 0.219991 bits/pel.
-Compressed bytes (excludes codestream headers) = 21,397 = 0.217662 bpp.
-Body bytes (excludes packet and codestream headers) = 21,126 = 0.214905 bpp.
+Code-stream bytes (excluding any file format) = 17,148 = 0.174438 bits/pel.
+Compressed bytes (excludes codestream headers) = 16,919 = 0.172109 bpp.
+Body bytes (excludes packet and codestream headers) = 16,667 = 0.169545 bpp.
 Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
-        0.219991
+        0.174438
 Layer thresholds:
-        43013
+        43202
 Processed using the multi-threaded environment, with
-    8 parallel threads of execution
+    2 parallel threads of execution
 Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 269(0x10d), 2, 18
 Unrecognized TIFTag: 297(0x129), 3, 2
 Unrecognized TIFTag: 318(0x13e), 5, 2
 Unrecognized TIFTag: 319(0x13f), 5, 6
