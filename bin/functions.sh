@@ -30,7 +30,6 @@ getArg() {
 
 WEBP_QUAL=`getArg webp-qual 80`
 
-
 if [ "$JP2_RATE" = "" ]
 then
 	JP2_RATE=`getArg jp2-rate 1.0`
@@ -43,7 +42,7 @@ fi
 
 if [ "$JPEG_RATE" = "" ]
 then
-	JPEG_QUAL=`getArg jpg-qual 70`
+	JPG_QUAL=`getArg jpg-qual 70`
 fi
 
 if [ "$HAS_ALPHA" = "" ]
@@ -71,7 +70,7 @@ then
 	JP2_PARAMS="$JP2_PARAMS Creversible=yes"
 	JXR_QUAL="100"
 	WEBP_QUAL="100"
-	JPEG_QUAL="100"
+	JPG_QUAL="100"
 fi
 
 
@@ -98,11 +97,15 @@ function cutImages() {
 	for stub in $STUBS
 	do
 		
-		echo "   - jpeg " 1>&2
-		convert $stub.png -define quality=$JPEG_QUAL $stub.jpg >> log.txt
-		ifErrorPrintAndExit "Creating jpg failed.  Bailing"  100
+		if [ "$HAS_ALPHA" != "true" ]
+		then
+			
+			echo "   - jpeg (Quality: $JPG_QUAL)" 1>&2
+			convert $stub.png -define quality=$JPG_QUAL $stub.jpg >> log.txt
+			ifErrorPrintAndExit "Creating jpg failed.  Bailing"  100
+		fi
 		
-		echo "   - webp " 1>&2
+		echo "   - webp (Quality: $WEBP_QUAL)" 1>&2
 		cwebp $stub.png -o $stub.webp -q $WEBP_QUAL >> log.txt 2> log.txt
 		ifErrorPrintAndExit "Creating cwebp failed.  Bailing"  101
 		
@@ -117,10 +120,10 @@ function cutImages() {
 		
 		if [ "$JXR_NCONVERT" != "" ]
 		then
-			echo "   - jxr $JXR_QUAL (using nconvert)" 1>&2
+			echo "   - jxr $JXR_QUAL (using nconvert, Quality: $JXR_QUAL)" 1>&2
 			nconvert -out jxr -q $JXR_QUAL $stub.png >> log.txt
 		else
-			echo "   - jxr $JXR_QUAL (using JxrEncApp)" 1>&2
+			echo "   - jxr $JXR_QUAL (using JxrEncApp, Quality: $JXR_QUAL)" 1>&2
 			rm $stub.tif
 			convert $stub.png  -compress none   $stub.tif >> log.txt 2>> log.txt
 			ifErrorPrintAndExit "Creating tmp TIF for JXR failed. Bailing" 104
@@ -148,7 +151,7 @@ function cutImages() {
 		
 		rm $stub.tif
 		
-		if [ "$IS_LOSSLESS" != "true" ]
+		if [ "$IS_LOSSLESS" != "true" -a "$HAS_ALPHA" != "true" ]
 		then
 			rm $stub.png
 		fi

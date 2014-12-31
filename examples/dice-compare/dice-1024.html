@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang='en'>
+  <head>
+    
+    <title>CSS3 Alpha Channel Image Converter</title>
+    <meta http-equiv='X-UA-Compatible' content='IE=Edge' />
+    <link href='index.css' type='text/css' rel='stylesheet' />
+    <style>
+      body { 
+        background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAACWBAMAAABp8toqAAAALVBMVEUJCQkAAMAyAGoTExMWFhYdHR0AIUw9GmXAAADAAMAAwAAAwMDAwADAwMD////k4POZAAAAn0lEQVRo3u3OsRFBQRSG0W3B6IAGzGwk0AUt6EOmBK8FqVAJlEAsU4M3ov3XKIA5X7Q7d+aeW+7R7dp2OUfHaIgO+7bdJCoQCAQCgUAgEAgEAoFAIBAIBAKBQCAQCAQCgUAgEAgEAoH8AZLfaW1b5qKY1TzgFLNVng6BQCA/iWw/evY9Zn3z2rcoY+/XZmydQwgEAoFAIBAIBAKBQL4hL8jp+jVpb0RHAAAAAElFTkSuQmCC) 50% 0 no-repeat; 
+        background-size: cover;
+      }
+      header {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        padding: 10px;
+        background: black;
+        color: white;
+        font: 15px Arial, Helvetica, sans-serif;
+      }
+      
+      picture {
+        position: absolute;
+        top: 80px;
+        left: 10px;
+      
+      
+    </style>
+    <script async=true src=../../js/picturefill.js></script>
+    <script src='//code.jquery.com/jquery-1.10.2.js'></script>
+    <script src='//code.jquery.com/ui/1.11.2/jquery-ui.js'></script>
+    <script>
+      $(function() {
+        $('picture' ).draggable();
+      });
+    </script>
+  </head>
+
+  <body>
+    <header>
+    dice-1024-quant.png 77817, 
+dice-1024.jp2 19613, 
+dice-1024.jxr 2991, 
+dice-1024.png 333557, 
+dice-1024.webp 57388, 
+    </header>
+  
+    <picture>
+          <!--[if IE 9]><video style='display: none;'><![endif]-->
+          <source srcset='dice-1024.jxr' type='image/vnd.ms-photo'>
+          <source srcset='dice-1024.jp2' type='image/jp2'>
+          <source srcset='dice-1024.webp' type='image/webp'>
+          <!--[if IE 9]></video><![endif]-->
+          <img srcset='dice-1024-quant.png' alt='dice'>
+    </picture>
+  </body>
+</html>
+
