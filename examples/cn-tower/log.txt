@@ -14,9 +14,8 @@ Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
 Layer thresholds:
         43202
 Processed using the multi-threaded environment, with
-    2 parallel threads of execution
+    8 parallel threads of execution
 Unrecognized TIFTag: 266(0x10a), 3, 1
-Unrecognized TIFTag: 269(0x10d), 2, 18
 Unrecognized TIFTag: 297(0x129), 3, 2
 Unrecognized TIFTag: 318(0x13e), 5, 2
 Unrecognized TIFTag: 319(0x13f), 5, 6

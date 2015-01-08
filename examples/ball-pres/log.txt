@@ -1,5 +1,5 @@
-Started ../../bin/html5AnimatedImageConverter --  Sat Dec 20 12:58:05 EST 2014
-Creating dir /tmp/89510.truecolor.tmp/
+Started ../../bin/html5AnimatedImageConverter --  Wed Jan  7 00:41:07 EST 2015
+Creating dir /tmp/49093.truecolor.tmp/
 Disassembling PNG ballanim.png
 
 APNG Disassembler 2.7
@@ -71,39 +71,13 @@ saving b.unopt.png (frame 18 of 20)
 saving b.unopt.png (frame 19 of 20)
 saving b.unopt.png (frame 20 of 20)
 all done
-
-APNG Optimizer 1.2
-
-Reading 'b.unopt.png'...
-OK
-saving frame 1 of 20
-saving frame 2 of 20
-saving frame 3 of 20
-saving frame 4 of 20
-saving frame 5 of 20
-saving frame 6 of 20
-saving frame 7 of 20
-saving frame 8 of 20
-saving frame 9 of 20
-saving frame 10 of 20
-saving frame 11 of 20
-saving frame 12 of 20
-saving frame 13 of 20
-saving frame 14 of 20
-saving frame 15 of 20
-saving frame 16 of 20
-saving frame 17 of 20
-saving frame 18 of 20
-saving frame 19 of 20
-saving frame 20 of 20
-OK
 Converting to animated GIF
 
 apng2gif 1.6
 
 Reading 'b.png'...
 20 frames.
-5272 colors.
+3260 colors.
 Wu quantization...
 Writing 'b.gif'...
 all done
@@ -487,8 +461,7 @@ Removing temp TIF file
 Creating stylesheet
 
 Moving files and cleaning up
-Current files: 89510LOG
-b-stitched.jp2
+Current files: b-stitched.jp2
 b-stitched.jxr
 b-stitched.png
 b.css

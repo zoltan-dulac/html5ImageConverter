@@ -120,14 +120,18 @@ JPG_QUALS=(`getArg jpg-quals $DEF_JPG_QUALS | tr '/' ' '`)
 JXR_QUALS=(`getArg jxr-quals $DEF_JXR_QUALS | tr '/' ' '`)
 WEBP_QUALS=(`getArg webp-quals $DEF_WEBP_QUALS | tr '/' ' '`)
 
+getArg webp-quals $DEF_WEBP_QUALS
+
 USE_QUANT=`getArg use-quant`
 
 
 if [ "$HAS_ALPHA" = "true" ]
 then
   ORIG_FORMAT="png"
+  CONVERT_ALPHA_OPTIONS=""
 else
   ORIG_FORMAT="jpg"
+  CONVERT_ALPHA_OPTIONS="-alpha off -alpha remove"
 fi
 
 echo
@@ -188,6 +192,7 @@ do
   for (( i=0; i<NUM_SIZES; i++ ));
   do
     SIZE=${SIZES[i]}
+    HALFSIZE=`expr $SIZE / 2`
     RMFILES="$STUB"-"$SIZE.* $STUB"-"$SIZE-quant.png"
     rm $RMFILES 2> /dev/null
   
@@ -199,7 +204,8 @@ do
     echo "WEBP_QUAL: $WEBP_QUAL"
     
     echo "Creating png ..."
-    convert $STUB.png -resize $SIZE $STUB-$SIZE.png
+    echo convert $STUB.png -resize $SIZE $STUB-$SIZE.png
+    convert $STUB.png -resize $SIZE $CONVERT_ALPHA_OPTIONS $STUB-$SIZE.png
     cutImages $STUB-$SIZE
     
     if [ "`expr $NUM_SIZES - 1`" = "$i" ]
@@ -209,7 +215,19 @@ do
       MEDIA_QUERY_END=""
     else
       COMMA=", "
-      MEDIA_QUERY_BEGIN="@media (max-width: $SIZE""px) {"
+      MEDIA_QUERY_BEGIN="@media only screen and (-webkit-max-device-pixel-ratio: 1)      and (max-width: $SIZE""px),
+	only screen and (   max--moz-device-pixel-ratio: 1)      and (max-width: $SIZE""px),
+	only screen and (     -o-max-device-pixel-ratio: 1/1)    and (max-width: $SIZE""px),
+	only screen and (        max-device-pixel-ratio: 1)      and (max-width: $SIZE""px),
+	only screen and (                max-resolution: 191dpi) and (max-width: $SIZE""px),
+	only screen and (                max-resolution: 1dppx)  and (max-width: $SIZE""px),
+	only screen and (-webkit-min-device-pixel-ratio: 2)      and (max-width: $HALFSIZE""px),
+	only screen and (   min--moz-device-pixel-ratio: 2)      and (max-width: $HALFSIZE""px),
+	only screen and (     -o-min-device-pixel-ratio: 2/1)    and (max-width: $HALFSIZE""px),
+	only screen and (        min-device-pixel-ratio: 2)      and (max-width: $HALFSIZE""px),
+	only screen and (                min-resolution: 192dpi) and (max-width: $HALFSIZE""px),
+	only screen and (                min-resolution: 2dppx)  and (max-width: $HALFSIZE""px)
+	{"
       MEDIA_QUERY_END="}"
     fi
     
@@ -281,6 +299,8 @@ do
       background-image: url($BACKGROUND);
       background-size: 100vw auto;
     }
+    
+    
     $MEDIA_QUERY_CSS
     </style>
       
@@ -299,7 +319,7 @@ do
   <!--[if (gt IE 9) ]><body class='modern custom'> <![endif]-->
   <!--[!(IE)]><!--> <body class='notIE modern custom'> <!--<![endif]-->
     <header>
-      $0 $*<br />
+      <!-- $0 $* -->
   
     </header>
     <figure class='cd-image-container'>

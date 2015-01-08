@@ -56,7 +56,7 @@ WEBP_QUAL=`getArg 'webp-quality' '80'`
 INPUT_APNG=`getArg 'input-apng'`
 JXR_NCONVERT=`getArg 'jxr-nconvert'`
 JXR_COMPARE=`getArg 'jxr-compare'`
-
+APNG_QUANT=`getArg 'apng-quant'`
 FILEARGS=`echo "$ARGS" | grep -v '\--'`
 OPTIONS=`echo "$ARGS" | grep '\--'`
 NUM_FRAMES=`echo "$FILEARGS" | wc -l`
@@ -69,6 +69,10 @@ ANIM_LENGTH=`expr $NUM_FRAMES \* $MS`
 
 BG_IMAGE=`getArg  bg-image 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAACWBAMAAABp8toqAAAALVBMVEUJCQkAAMAyAGoTExMWFhYdHR0AIUw9GmXAAADAAMAAwAAAwMDAwADAwMD////k4POZAAAAn0lEQVRo3u3OsRFBQRSG0W3B6IAGzGwk0AUt6EOmBK8FqVAJlEAsU4M3ov3XKIA5X7Q7d+aeW+7R7dp2OUfHaIgO+7bdJCoQCAQCgUAgEAgEAoFAIBAIBAKBQCAQCAQCgUAgEAgEAoH8AZLfaW1b5qKY1TzgFLNVng6BQCA/iWw/evY9Zn3z2rcoY+/XZmydQwgEAoFAIBAIBAKBQL4hL8jp+jVpb0RHAAAAAElFTkSuQmCC'`
 ORIG_DIR="$PWD"
+cd $SCRIPT_DIR
+BIN_DIR=`pwd`
+cd $ORIG_DIR
+
 LOG="$ORIG_DIR/log.txt"
 
 rm $OUTPUT.png $OUTPUT-stitched.png $OUTPUT-stitched.jp2 $OUTPUT-stitched*.jxr $OUTPUT.webp $OUTPUT.gif $OUTPUT.css $OUTPUT.html log.txt 2> /dev/null
@@ -109,6 +113,8 @@ do
 		
 		
 		cd "$ORIG_DIR"
+		
+		
 	else 
 		N=`printf "%04d" $FILE_INDEX`
 		cp $i "$TMPDIR"/file$N.png
@@ -127,10 +133,21 @@ then
 	echoBoth "Converting to apng" 
 	apngasm $OUTPUT.unopt.png $FILES $MS 1000 >> $LOG 2>> $LOG
 	
-	echoBoth "Optimising apng" 
-	apngopt $OUTPUT.unopt.png $OUTPUT.png >> $LOG 2>> $$LOG
+	if [ "$APNG_QUANT" = "true" ]
+	then
+		echo "Quantizing apng"
+		$BIN_DIR/apngOptim.sh $OUTPUT.unopt.png
+		ifErrorPrintAndExit "Error: could not quantize apng" 1
+		
+		mv $OUTPUT.unopt-quant.png $OUTPUT.png
+		ifErrorPrintAndExit "Error: could not move $OUTPUT.unopt-quant.png to $OUTPUT.png" 1
+		
+	else
+		echoBoth "Optimising apng" 
+		apngopt $OUTPUT.unopt.png $OUTPUT.png >> $LOG 2>> $$LOG
 	
-	ifErrorPrintAndExit "Error: could not convert to apng"  1
+		ifErrorPrintAndExit "Error: could not convert to apng"  1
+	fi
 
 fi
 

@@ -1,12 +1,14 @@
-#!/bin/sh
+#!/bin/bash
 
 ARGS=`echo $* | tr ' ' '
 '`
 FILEARGS=`echo "$ARGS" | grep -v '\--'`
 
-#.. set the options up
-declare -A options
+#.. set the options up as an array
+declare -a options
 OPTIONS_ARGS=`echo "$ARGS" | grep "^--" | sed "s/^--//g"`
+
+OPTIONINDEX=0
 for i in $OPTIONS_ARGS
 do
 	OPTIONNAME=`echo $i | awk -F'=' '{print $1}'`
@@ -16,21 +18,44 @@ do
 		OPTIONVAL="true"
 	fi
 	
-	options[$OPTIONNAME]="$OPTIONVAL"
+	# options[$OPTIONNAME]="$OPTIONVAL" does not work in bash 3, so we must do
+	# this workaround found at 
+	# http://stackoverflow.com/questions/6047648/bash-4-associative-arrays-error-declare-a-invalid-option
+	
+	options[$OPTIONINDEX]=$OPTIONNAME::$OPTIONVAL
+	OPTIONINDEX=`expr $OPTIONINDEX + 1`
 	
 done
 
 #
 # getArg(): get double dashed argument value
 getArg() {
+
 	local NAME="$1"
 	local VALIFBLANK="$2"
 	
-	local VAL=${options[$NAME]}
+	local VAL=""
+	local ARRKEY
+	local ARRVAL
+	local ARRITEM
+	
+	for index in "${options[@]}"
+	do
+		ARRKEY="${index%%::*}"
+		
+		if [ "$ARRKEY" = "$NAME" ]
+		then
+			VAL="${index##*::}"
+			break
+		fi
+    done
+    
 	if [ "$VAL" = "" ]
 	then
 		VAL="$VALIFBLANK"
 	fi
+	
+	#echo checking $1 is $VAL 1>&2
 	echo $VAL
 }
 
@@ -47,7 +72,7 @@ then
 	JXR_QUAL=`getArg jxr-qual 85`
 fi
 
-if [ "$JPEG_RATE" = "" ]
+if [ "$JPEG_QUAL" = "" ]
 then
 	JPG_QUAL=`getArg jpg-qual 70`
 fi
@@ -71,7 +96,7 @@ else
 	#JXR_FORMAT="22"
 fi
 
-if [ "$IS_LOSSLESS" ]
+if [ "$IS_LOSSLESS" = "true" ]
 then
 	echo "Performing lossless compression.  Any quality rates will be overridden."
 	JP2_PARAMS="$JP2_PARAMS Creversible=yes"

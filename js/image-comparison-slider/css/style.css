@@ -31,14 +31,37 @@ Main components
 
 -------------------------------- */
 header {
-	
+	position: absolute;
 	width: 100%;
 	padding: 10px;
-	background: black;
+	
 	color: white;
 	font: 15px "Arial", "Helvetica", sans-serif;
 }
 
+header:before {
+	display: block;
+	width: 100%;
+	position: relative;
+	z-index: 10;
+	content: "Non-retina display";
+	text-align: center;
+	text-shadow: 2px 2px 0px black;
+}
+
+@media
+	only screen and (-webkit-min-device-pixel-ratio: 2),
+	only screen and (   min--moz-device-pixel-ratio: 2),
+	only screen and (     -o-min-device-pixel-ratio: 2/1),
+	only screen and (        min-device-pixel-ratio: 2),
+	only screen and (                min-resolution: 192dpi),
+	only screen and (                min-resolution: 2dppx) { 
+
+	header:before {
+		content: "Retina display"
+	}
+	
+}
 
 
 .cd-image-container {

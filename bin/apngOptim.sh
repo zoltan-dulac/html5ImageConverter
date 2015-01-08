@@ -1,9 +1,5 @@
 #!/bin/bash
 
-ARGS="$*"
-FILEARGS=`echo "$ARGS" | grep -v '\--'`
-
-
 
 #################################################
 # FUNCTIONS 
@@ -40,78 +36,55 @@ ifErrorPrintAndExit () {
 	if [ "$PREV_RETURN" != "0" ]
 	then
 		echo "$1" 1>&2
+		cd $ORIGDIR
+		rm -rf $TMPDIR
 		exit $CODE
 	fi
 }
 
 #.. check to make sure there is a file to compress.
-if [ `echo $FILEARGS | wc -l` != "1" ]
+if [ "$#" != "1" ]
 then
 	echo "Usage: $0 <file-to-compress>"
 	exit 1
 fi
 
+ARGS="$*"
+FILEARGS=`echo "$ARGS" | grep -v '\--'`
+TMPDIR=/tmp/$$.apngoptim.tmp/
+ORIGDIR=`pwd`
+
+mkdir $TMPDIR
+cp $1 $TMPDIR
+cd $TMPDIR
+
 STUB=${1%.png}
 
-DIMS=`identify $1 | awk '{print $3}'`
-WIDTH=`echo $DIMS | awk -F"x" '{print $1}'`
-HEIGHT=`echo $DIMS | awk -F"x" '{print $2}'`
-
-rm *frame* 2> /dev/null
-
+echo "Disassembling apng file ..." 
 apngdis $1
+
 ifErrorPrintAndExit "Cannot disassemble APNG file  $1.  Bailing." 1
 
+echo "Quantizing frames ... " 
 FRAMES="apngframe*.png"
+pngquant --speed 1 --ext _s.png $FRAMES
 
-echo "Stiching image"
-convert $FRAMES +append $STUB-appended.png
-
-echo "Quantizing..."
-pngquant --speed 1 --ext .png  --force $STUB-appended.png
+for i in *_s.png; do mv $i `echo $i | sed "s/_s\./\./"`; done
 
 #.. for now, we assume the frame delay is constant
 DELAY_FILE=`ls apngframe*0.txt | head -1`
 DELAY=`cat $DELAY_FILE | tr '/' ' ' | sed "s/^delay=//"`
 
-I=0
-for frame in $FRAMES 
-do
-	echo -n "."
-	OFFSET=`expr $WIDTH \* $I`
-	convert $STUB-appended.png -crop $WIDTH"x"$HEIGHT"+"$OFFSET"+"0 $frame
-    ifErrorPrintAndExit "Cannot clip $frame.  Bailing" 2
-	
-	#.. add to frame file
-	DELAYFILE=${file%.png}.txt
-	DELAY=`cat $DELAY_FILE | tr '/' ' ' | sed "s/^delay=//"`
-	NUM=`echo $DELAY | awk '{print $1}'`
-	DEN=`echo $DELAY | awk '{print $2}'`
-	DELAY=`expr $NUM \* 1000 / $DEN`
-	
-	if [ "$I" != "0" ]
-	then
-		echo "$frame; $DELAY; none; over" >> framelist.txt
-	else 
-		echo "$frame; $DELAY; none; source" >> framelist.txt
-	fi
-	I=`expr $I + 1`
-done 
 
-#using japng instead of apngasm because it doesn't like the quantized images.
-java -jar ~/bin/japng.jar -out $STUB-quant.png -frames framelist.txt
-#apngasm  cube-quant.png apngframe.png $DELAY -z2
-ifErrorPrintAndExit "Cannot assemble cube-quant.png.  Bailing." 3
-
-#.. Now, let's optimize the apng
-echo "Optimizing..."
-apngopt $STUB-quant.png
-#mv $STUB-quant.opt.png $STUB-quant.png
+echo "Assembling quantized apng ... " 
+apngasm  $STUB-quant.png $FRAMES $DELAY -z2
+ifErrorPrintAndExit "Cannot assemble quantized png.  Bailing." 3
 
 
-echo "Cleaning up ..."
-rm apngframe*	
+echo "Cleaning up ..." 
+cp $STUB-quant.png $ORIGDIR
+cd $ORIGDIR
+rm -rf $TMPDIR	
 
 
-exit
 

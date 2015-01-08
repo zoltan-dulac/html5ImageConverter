@@ -1,5 +1,5 @@
-Started ../../bin/html5AnimatedImageConverter --  Sat Dec 20 13:00:22 EST 2014
-Creating dir /tmp/90730.truecolor.tmp/
+Started ../../bin/html5AnimatedImageConverter --  Wed Jan  7 00:48:07 EST 2015
+Creating dir /tmp/50417.truecolor.tmp/
 Disassembling PNG APNG-Icos4D.png
 
 APNG Disassembler 2.7
@@ -155,67 +155,13 @@ saving b.unopt.png (frame 46 of 48)
 saving b.unopt.png (frame 47 of 48)
 saving b.unopt.png (frame 48 of 48)
 all done
-
-APNG Optimizer 1.2
-
-Reading 'b.unopt.png'...
-OK
-saving frame 1 of 48
-saving frame 2 of 48
-saving frame 3 of 48
-saving frame 4 of 48
-saving frame 5 of 48
-saving frame 6 of 48
-saving frame 7 of 48
-saving frame 8 of 48
-saving frame 9 of 48
-saving frame 10 of 48
-saving frame 11 of 48
-saving frame 12 of 48
-saving frame 13 of 48
-saving frame 14 of 48
-saving frame 15 of 48
-saving frame 16 of 48
-saving frame 17 of 48
-saving frame 18 of 48
-saving frame 19 of 48
-saving frame 20 of 48
-saving frame 21 of 48
-saving frame 22 of 48
-saving frame 23 of 48
-saving frame 24 of 48
-saving frame 25 of 48
-saving frame 26 of 48
-saving frame 27 of 48
-saving frame 28 of 48
-saving frame 29 of 48
-saving frame 30 of 48
-saving frame 31 of 48
-saving frame 32 of 48
-saving frame 33 of 48
-saving frame 34 of 48
-saving frame 35 of 48
-saving frame 36 of 48
-saving frame 37 of 48
-saving frame 38 of 48
-saving frame 39 of 48
-saving frame 40 of 48
-saving frame 41 of 48
-saving frame 42 of 48
-saving frame 43 of 48
-saving frame 44 of 48
-saving frame 45 of 48
-saving frame 46 of 48
-saving frame 47 of 48
-saving frame 48 of 48
-OK
 Converting to animated GIF
 
 apng2gif 1.6
 
 Reading 'b.png'...
 48 frames.
-2511 colors.
+7291 colors.
 Wu quantization...
 Writing 'b.gif'...
 all done
@@ -1103,8 +1049,7 @@ Removing temp TIF file
 Creating stylesheet
 
 Moving files and cleaning up
-Current files: 90730LOG
-APNG-Icos4D.png
+Current files: APNG-Icos4D.png
 b-stitched.jp2
 b-stitched.jxr
 b-stitched.png

@@ -1,0 +1,21 @@
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 30,457 = 0.099144 bits/pel.
+Compressed bytes (excludes codestream headers) = 30,228 = 0.098398 bpp.
+Body bytes (excludes packet and codestream headers) = 29,809 = 0.097035 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.099144
+Layer thresholds:
+        43158
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
