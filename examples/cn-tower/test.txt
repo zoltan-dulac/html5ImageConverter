@@ -1,1 +1,0 @@
-../../bin/html5ImageConverter.sh --jpg-quals=20 --webp-quals=45 --jxr-quals=1 --jp2-rates=0.30/0.23/0.175 --no-png cn-tower.png

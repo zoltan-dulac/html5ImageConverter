@@ -6,6 +6,8 @@ then
 	exit
 fi
 
+VALID_ENCODINGS=""
+
 COLORSPACE=`identify -format '%[channels]' *1`
 if [ "$COLORSPACE" = 'rgba' -o  "$COLORSPACE" = 'rgba' ]
 then
@@ -28,7 +30,7 @@ do
 	
 		if [ "$?" != "0" ]
 		then
-			echo "Error: couldn't not encode for type $TYPE" 1>&2 
+			# echo "Error: couldn't not encode for type $TYPE" 1>&2 
 			rm $JXR_FILE 2> /dev/null
 		else 
 		
@@ -40,6 +42,9 @@ do
 			elif [ "$SIZE" = "0" ]
 			then
 				rm $JXR_FILE 2> /dev/null
+			else 
+				VALID_ENCODINGS="$VALID_ENCODINGS $TYPE-$i	"
+				echo "Valid: JxrEncApp -i $FILESTUB.tif -o $JXR_FILE -c $TYPE -q 0.7 -a $i -Q 60"
 			fi
 			
 		fi
@@ -47,3 +52,5 @@ do
 	
 	TYPE=`expr $TYPE + 1`
 done 
+
+echo "Valid encoding types are $VALID_ENCODINGS"

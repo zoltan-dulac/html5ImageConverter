@@ -14,6 +14,8 @@
     }
     
     
+    
+    
       [data-type=original]:after {
           content: '325.7K'
         }
@@ -23,7 +25,7 @@
       }
       
       html.jpegxr .size:after {
-        content: '2.9K';
+        content: '95.7K';
       }
       
       html.webp .size:after {
@@ -31,17 +33,29 @@
       }
     
     
-    @media (max-width: 600px) {
+    @media only screen and (-webkit-max-device-pixel-ratio: 1)      and (max-width: 600px),
+	only screen and (   max--moz-device-pixel-ratio: 1)      and (max-width: 600px),
+	only screen and (     -o-max-device-pixel-ratio: 1/1)    and (max-width: 600px),
+	only screen and (        max-device-pixel-ratio: 1)      and (max-width: 600px),
+	only screen and (                max-resolution: 191dpi) and (max-width: 600px),
+	only screen and (                max-resolution: 1dppx)  and (max-width: 600px),
+	only screen and (-webkit-min-device-pixel-ratio: 2)      and (max-width: 300px),
+	only screen and (   min--moz-device-pixel-ratio: 2)      and (max-width: 300px),
+	only screen and (     -o-min-device-pixel-ratio: 2/1)    and (max-width: 300px),
+	only screen and (        min-device-pixel-ratio: 2)      and (max-width: 300px),
+	only screen and (                min-resolution: 192dpi) and (max-width: 300px),
+	only screen and (                min-resolution: 2dppx)  and (max-width: 300px)
+	{
       [data-type=original]:after {
           content: '140.0K'
         }
     
       html.jpeg2000 .size:after {
-        content: '6.7K';
+        content: '13.1K';
       }
       
       html.jpegxr .size:after {
-        content: '1.2K';
+        content: '47.3K';
       }
       
       html.webp .size:after {
@@ -49,7 +63,19 @@
       }
     }
     
-    @media (max-width: 320px) {
+    @media only screen and (-webkit-max-device-pixel-ratio: 1)      and (max-width: 320px),
+	only screen and (   max--moz-device-pixel-ratio: 1)      and (max-width: 320px),
+	only screen and (     -o-max-device-pixel-ratio: 1/1)    and (max-width: 320px),
+	only screen and (        max-device-pixel-ratio: 1)      and (max-width: 320px),
+	only screen and (                max-resolution: 191dpi) and (max-width: 320px),
+	only screen and (                max-resolution: 1dppx)  and (max-width: 320px),
+	only screen and (-webkit-min-device-pixel-ratio: 2)      and (max-width: 160px),
+	only screen and (   min--moz-device-pixel-ratio: 2)      and (max-width: 160px),
+	only screen and (     -o-min-device-pixel-ratio: 2/1)    and (max-width: 160px),
+	only screen and (        min-device-pixel-ratio: 2)      and (max-width: 160px),
+	only screen and (                min-resolution: 192dpi) and (max-width: 160px),
+	only screen and (                min-resolution: 2dppx)  and (max-width: 160px)
+	{
       [data-type=original]:after {
           content: '53.9K'
         }
@@ -59,7 +85,7 @@
       }
       
       html.jpegxr .size:after {
-        content: '0.5K';
+        content: '22.1K';
       }
       
       html.webp .size:after {
@@ -87,7 +113,7 @@
   <!--[if (gt IE 9) ]><body class='modern custom'> <![endif]-->
   <!--[!(IE)]><!--> <body class='notIE modern custom'> <!--<![endif]-->
     <header>
-      ../../bin/html5ImageConverter.sh dice.png --webp-quals=19.5/19.5/19.5 --jxr-quals=30 --jp2-rates=0.2/0.2/0.2 --has-alpha --jxr-nconvert<br />
+      <!-- ../../bin/html5ImageConverter.sh dice.png --webp-quals=19.5/19.5/19.5 --jxr-quals=30 --jp2-rates=0.2/0.4/0.2 --has-alpha -->
   
     </header>
     <figure class='cd-image-container'>
@@ -114,6 +140,7 @@
   
       <span class='cd-handle'></span>
     </figure> <!-- cd-image-container -->
+    
   <script src='../../js/image-comparison-slider/js/jquery-2.1.1.js'></script>
   <script src='../../js/image-comparison-slider/js/jquery.mobile.custom.min.js'></script> <!-- Resource jQuery -->
   <script src='../../js/image-comparison-slider/js/main.js'></script> <!-- Resource jQuery -->

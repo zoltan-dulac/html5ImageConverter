@@ -1,9 +1,0 @@
-Started ../../bin/html5AnimatedImageConverter --  Tue Jan  6 21:14:18 EST 2015
-Creating dir /tmp/30119.truecolor.tmp/
-Disassembling PNG APNG-Icos4D.png
-
-APNG Disassembler 2.7
-
-Reading 'APNG-Icos4D.png'...
-load_apng() failed: 'APNG-Icos4D.png'
- 

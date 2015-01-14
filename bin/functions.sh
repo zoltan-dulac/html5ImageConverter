@@ -1,8 +1,12 @@
 #!/bin/bash
 
+#.. location of mozjpeg version of cjpeg, in order to prevent 
+#	you from using the wrong one
+MOZJPEG="~/bin/cjpeg"
+
 ARGS=`echo $* | tr ' ' '
 '`
-FILEARGS=`echo "$ARGS" | grep -v '\--'`
+FILEARGS=`echo "$ARGS" | grep -v '\--' | head -1`
 
 #.. set the options up as an array
 declare -a options
@@ -86,6 +90,7 @@ fi
 NO_PNG=`getArg no-png`
 JXR_NCONVERT=`getArg jxr-nconvert`
 IS_LOSSLESS=`getArg is-lossless`
+USE_MOZJPEG=`getArg use-mozjpeg`
 
 if [ "$HAS_ALPHA" = 'true' ]
 then
@@ -117,8 +122,16 @@ ifErrorPrintAndExit () {
 	if [ "$PREV_RETURN" != "0" ]
 	then
 		echo "$1" 1>&2
+		
+		if [ "$TMPDIR" != "" ]
+		then
+			cd /
+			rm -rf $TMPDIR
+		fi
+		
 		exit $CODE
 	fi
+	
 }
 
 #.. cutImages(STUBS): will take the png version and convert to all the different formats. 
@@ -131,10 +144,25 @@ function cutImages() {
 		
 		if [ "$HAS_ALPHA" != "true" ]
 		then
+			if [ "$USE_MOZJPEG" = "true" -a "$MOZJPEG" != "" ]
+			then
+				echo "   - jpeg using mozjpeg (Quality: $JPG_QUAL)"
+				$MOZJPEG -quality $JPG_QUAL -outfile $stub.jpg $stub.png >> log.txt
+				MOZ_JPEG_SUCCESS="$?"
+				if [ "$MOZ_JPEG_SUCCESS" != "0" ]
+				then
+					echo "mozjpeg failed (maybe you didn't set the value of MOZ_JPEG" 
+					echo "in functions.sh correctly or it's not installed)."
+					echo "Falling back to ImageMagick."
+				fi
+			fi
 			
-			echo "   - jpeg (Quality: $JPG_QUAL)" 1>&2
-			convert $stub.png -define quality=$JPG_QUAL $stub.jpg >> log.txt
-			ifErrorPrintAndExit "Creating jpg failed.  Bailing"  100
+			if [ "$USE_MOZJPEG" != "true" -o "$MOZ_JPEG_SUCCESS" != "0" ]
+			then
+				echo "   - jpeg using ImageMagick (Quality: $JPG_QUAL)" 1>&2
+				convert $stub.png -define quality=$JPG_QUAL $stub.jpg >> log.txt
+				ifErrorPrintAndExit "Creating jpg failed.  Bailing"  100
+			fi
 		fi
 		
 		echo "   - webp (Quality: $WEBP_QUAL)" 1>&2
@@ -157,17 +185,17 @@ function cutImages() {
 		else
 			echo "   - jxr $JXR_QUAL (using JxrEncApp, Quality: $JXR_QUAL)" 1>&2
 			rm $stub.tif
-			convert $stub.png  -compress none   $stub.tif >> log.txt 2>> log.txt
+			convert $stub.png  -compress none  $stub.tif >> log.txt 2>> log.txt
 			ifErrorPrintAndExit "Creating tmp TIF for JXR failed. Bailing" 104
 			
 			JXRENC_QUAL=`awk "BEGIN{print $JXR_QUAL/100}"`
 			
-			JxrEncApp -i $stub.tif -o $stub.jxr -c $JXR_FORMAT -q $JXRENC_QUAL 1>> log.txt 2>> log.txt
+			JxrEncApp -i $stub.tif -o $stub.jxr -c $JXR_FORMAT -q $JXRENC_QUAL -l 0 1>> log.txt 2>> log.txt
 			
 			if [ "$?" != "0" ]
 			then
 				echo "Cannot save JXR using format $JXR_FORMAT. Trying 22 " 1>&2
-				JxrEncApp -i $stub.tif -o $stub.jxr -c 22 -q $JXRENC_QUAL 1>> log.txt 2>> log.txt
+				JxrEncApp -i $stub.tif -o $stub.jxr -c 22 -q $JXRENC_QUAL  1>> log.txt 2>> log.txt
 			fi
 		fi
 		
