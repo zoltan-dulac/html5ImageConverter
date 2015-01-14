@@ -1,25 +1,20 @@
-Note:
-    The default rate control policy for colour images employs visual (CSF)
-    weighting factors.  To minimize MSE instead, specify `-no_weights'.
-Note:
-    If you want quality scalability, you should generate multiple layers with
-    `-rate' or by using the "Clayers" option.
-
-Generated 1 tile-part(s) for a total of 1 tile(s).
-Code-stream bytes (excluding any file format) = 1,917 = 0.199687 bits/pel.
-Compressed bytes (excludes codestream headers) = 1,685 = 0.175521 bpp.
-Body bytes (excludes packet and codestream headers) = 1,569 = 0.163438 bpp.
-Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
-        0.199687
-Layer thresholds:
-        44536
-Processed using the multi-threaded environment, with
-    8 parallel threads of execution
-Unrecognized TIFTag: 266(0x10a), 3, 1
-Unrecognized TIFTag: 297(0x129), 3, 2
-Unrecognized TIFTag: 318(0x13e), 5, 2
-Unrecognized TIFTag: 319(0x13f), 5, 6
-Unrecognized TIFTag: 266(0x10a), 3, 1
-Unrecognized TIFTag: 297(0x129), 3, 2
-Unrecognized TIFTag: 318(0x13e), 5, 2
-Unrecognized TIFTag: 319(0x13f), 5, 6
+dice-1024.png:
+  read 326KB file corrected for gamma 2.2
+  made histogram...104778 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...71%
+  selecting colors...83%
+  selecting colors...96%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...194 entries transparent
+  mapped image to new colors...MSE=7.642 (Q=75)
+  writing 256-color image as dice-1024-quant.png
+No errors detected while quantizing 1 image.

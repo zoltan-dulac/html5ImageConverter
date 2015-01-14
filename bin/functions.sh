@@ -91,6 +91,7 @@ NO_PNG=`getArg no-png`
 JXR_NCONVERT=`getArg jxr-nconvert`
 IS_LOSSLESS=`getArg is-lossless`
 USE_MOZJPEG=`getArg use-mozjpeg`
+JXR_IE9_FIX=`getArg jxr-ie9-fix`
 
 if [ "$HAS_ALPHA" = 'true' ]
 then
@@ -110,6 +111,10 @@ then
 	JPG_QUAL="100"
 fi
 
+if [ "$JXR_IE9_FIX" = "true" ]
+then
+	JXR_OPTNS="-l 0"
+fi
 
 #.. ifErrorPrintAndExit(ERROR, CODE): called whenever an error occurs and we want the
 #   program to halt.  ERROR is message that appears in the terminal and CODE is the
@@ -190,7 +195,7 @@ function cutImages() {
 			
 			JXRENC_QUAL=`awk "BEGIN{print $JXR_QUAL/100}"`
 			
-			JxrEncApp -i $stub.tif -o $stub.jxr -c $JXR_FORMAT -q $JXRENC_QUAL -l 0 1>> log.txt 2>> log.txt
+			JxrEncApp -i $stub.tif -o $stub.jxr -c $JXR_FORMAT -q $JXRENC_QUAL $JXR_OPTNS 1>> log.txt 2>> log.txt
 			
 			if [ "$?" != "0" ]
 			then

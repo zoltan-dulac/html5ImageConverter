@@ -12,7 +12,7 @@ Body bytes (excludes packet and codestream headers) = 28,976 = 0.097362 bpp.
 Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
         0.099284
 Layer thresholds:
-        42930
+        42929
 Processed using the multi-threaded environment, with
     8 parallel threads of execution
 Unrecognized TIFTag: 266(0x10a), 3, 1
