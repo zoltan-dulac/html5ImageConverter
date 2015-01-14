@@ -238,26 +238,7 @@ ifErrorPrintAndExit "Could not convert to JP2." 6
 
 
 ##################################################################################
-# Convert to JXR.  Note that I could *not* get JxrEncApp to work with anything.
-# I tried to convert the stitched PNG to BMP and TIF and then use JxrEncApp to 
-# convert that to JXR using variations of this:
-#
-# JxrEncApp -i $OUTPUT-stitched.tif -o $OUTPUT-stitched.jpeg -c 22 -q `awk "BEGIN{print $JXR_QUAL/100}"`
-#
-# Unfortunately, it failed silently and wrote a 0-byte JXR file.
-# I poured through this manpage:
-#
-# http://manpages.ubuntu.com/manpages/saucy/man1/JxrEncApp.1.html
-#
-# However, I could not find a solution.  The issues with this encoder are well
-# known by people who have attempted to use it (see this page for more info:
-# 
-# http://calendar.perfplanet.com/2013/browser-specific-image-formats/
-#
-# Because of this, I used nconvert:
-# 
-# http://www.xnview.com/en/nconvert/
-#
+# Convert to JXR, using JxrEncApp or nconvert:
 ##################################################################################
 
 JXR_FILE="$OUTPUT-stitched.jxr"
