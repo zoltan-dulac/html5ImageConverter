@@ -92,6 +92,12 @@ JXR_NCONVERT=`getArg jxr-nconvert`
 IS_LOSSLESS=`getArg is-lossless`
 USE_MOZJPEG=`getArg use-mozjpeg`
 JXR_IE9_FIX=`getArg jxr-ie9-fix`
+IS_SHARP=`getArg is-sharp`
+
+if [ "$IS_SHARP" = "true" ]
+then
+	WEBP_SHARP="-sharpness 0"
+fi
 
 if [ "$HAS_ALPHA" = 'true' ]
 then
@@ -171,7 +177,7 @@ function cutImages() {
 		fi
 		
 		echo "   - webp (Quality: $WEBP_QUAL)" 1>&2
-		cwebp $stub.png -o $stub.webp -q $WEBP_QUAL >> log.txt 2> log.txt
+		cwebp $stub.png -o $stub.webp -q $WEBP_QUAL $WEBP_SHARP  >> log.txt 2> log.txt
 		ifErrorPrintAndExit "Creating cwebp failed.  Bailing"  101
 		
 		echo "   - jp2 (Rate: $JP2_RATE)" 1>&2

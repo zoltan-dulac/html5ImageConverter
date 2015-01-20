@@ -141,6 +141,8 @@ else
   CONVERT_ALPHA_OPTIONS="-alpha off -alpha remove"
 fi
 
+ADDITIONAL_CSS=`getArg additional-css`
+
 echo
 if [ "$NUM_SIZES" != "${#JP2_RATES[@]}" ]
 then
@@ -301,6 +303,11 @@ do
   	echo "No credit available"
   fi
   
+  if [ "$ADDITIONAL_CSS" != "" ]
+  then
+  	ADDITIONAL_CSS_TAG="<link rel='stylesheet' href='$ADDITIONAL_CSS'> <!-- Additional User Styles -->"
+  fi
+  
   echo "<!doctype html>
   
   <!-- 
@@ -327,16 +334,17 @@ do
   
     <link rel='stylesheet' href='../../js/image-comparison-slider/css/reset.css'> <!-- CSS reset -->
     <link rel='stylesheet' href='../../js/image-comparison-slider/css/style.css'> <!-- Resource style -->
+    
     <style>
     .cd-image-container img {
       background-image: url($BACKGROUND);
       background-size: 100vw auto;
     }
     
-    
     $MEDIA_QUERY_CSS
     </style>
       
+    $ADDITIONAL_CSS_TAG
     <title>html5ImageConverter - $STUB</title>
     
     

@@ -1,0 +1,204 @@
+.cd-image-container img {
+	background-position: 0px 0px;
+	background-repeat: repeat-x;
+	background-size: auto;
+	-webkit-animation: animatedBackground 60s linear infinite;
+	animation: animatedBackground 60s linear infinite;
+}
+
+.cd-image-container img, figure {
+	-webkit-transform: translateZ(0);
+	transform: translateZ(0);
+}
+
+
+@keyframes animatedBackground {
+	from { background-position: 0 0; }
+	to { background-position: -1920px 0; }
+}
+
+@-webkit-keyframes animatedBackground {
+	from { background-position: 0 0; }
+	to { background-position: -1920px 0; }
+}
+
+.cd-image-container img {
+  background-image: url(space-2016.jpg);
+  background-size: 100vw auto;
+  background-repeat: repeat;
+}
+
+@media only screen and (-webkit-max-device-pixel-ratio: 1)      and (max-width: 1200px),
+only screen and (   max--moz-device-pixel-ratio: 1)      and (max-width: 1200px),
+only screen and (     -o-max-device-pixel-ratio: 1/1)    and (max-width: 1200px),
+only screen and (        max-device-pixel-ratio: 1)      and (max-width: 1200px),
+only screen and (                max-resolution: 191dpi) and (max-width: 1200px),
+only screen and (                max-resolution: 1dppx)  and (max-width: 1200px),
+only screen and (-webkit-min-device-pixel-ratio: 2)      and (max-width: 600px),
+only screen and (   min--moz-device-pixel-ratio: 2)      and (max-width: 600px),
+only screen and (     -o-min-device-pixel-ratio: 2/1)    and (max-width: 600px),
+only screen and (        min-device-pixel-ratio: 2)      and (max-width: 600px),
+only screen and (                min-resolution: 192dpi) and (max-width: 600px),
+only screen and (                min-resolution: 2dppx)  and (max-width: 600px)
+{
+  [data-type=original]:after {
+      content: '237.8K'
+    }
+
+  html.jpeg2000 .size:after {
+    content: '51.3K';
+  }
+  
+  .cd-image-container img {
+	  background-image: url(space-1200.jpg);
+	  
+	}
+  
+  html.jpegxr .size:after {
+    content: '193.1K';
+  }
+  
+  html.webp .size:after {
+    content: '149.9K';
+  }
+}
+
+@media only screen and (-webkit-max-device-pixel-ratio: 1)      and (max-width: 1024px),
+only screen and (   max--moz-device-pixel-ratio: 1)      and (max-width: 1024px),
+only screen and (     -o-max-device-pixel-ratio: 1/1)    and (max-width: 1024px),
+only screen and (        max-device-pixel-ratio: 1)      and (max-width: 1024px),
+only screen and (                max-resolution: 191dpi) and (max-width: 1024px),
+only screen and (                max-resolution: 1dppx)  and (max-width: 1024px),
+only screen and (-webkit-min-device-pixel-ratio: 2)      and (max-width: 512px),
+only screen and (   min--moz-device-pixel-ratio: 2)      and (max-width: 512px),
+only screen and (     -o-min-device-pixel-ratio: 2/1)    and (max-width: 512px),
+only screen and (        min-device-pixel-ratio: 2)      and (max-width: 512px),
+only screen and (                min-resolution: 192dpi) and (max-width: 512px),
+only screen and (                min-resolution: 2dppx)  and (max-width: 512px)
+{
+  [data-type=original]:after {
+      content: '183.6K'
+    }
+
+  html.jpeg2000 .size:after {
+    content: '37.0K';
+  }
+  
+  html.jpegxr .size:after {
+    content: '154.2K';
+  }
+  
+  html.webp .size:after {
+    content: '119.5K';
+  }
+  
+  .cd-image-container img {
+	  background-image: url(space-1024.jpg);
+	  
+	}
+}
+
+@media only screen and (-webkit-max-device-pixel-ratio: 1)      and (max-width: 640px),
+only screen and (   max--moz-device-pixel-ratio: 1)      and (max-width: 640px),
+only screen and (     -o-max-device-pixel-ratio: 1/1)    and (max-width: 640px),
+only screen and (        max-device-pixel-ratio: 1)      and (max-width: 640px),
+only screen and (                max-resolution: 191dpi) and (max-width: 640px),
+only screen and (                max-resolution: 1dppx)  and (max-width: 640px),
+only screen and (-webkit-min-device-pixel-ratio: 2)      and (max-width: 320px),
+only screen and (   min--moz-device-pixel-ratio: 2)      and (max-width: 320px),
+only screen and (     -o-min-device-pixel-ratio: 2/1)    and (max-width: 320px),
+only screen and (        min-device-pixel-ratio: 2)      and (max-width: 320px),
+only screen and (                min-resolution: 192dpi) and (max-width: 320px),
+only screen and (                min-resolution: 2dppx)  and (max-width: 320px)
+{
+  [data-type=original]:after {
+      content: '73.6K'
+    }
+
+  html.jpeg2000 .size:after {
+    content: '14.7K';
+  }
+  
+  html.jpegxr .size:after {
+    content: '73.1K';
+  }
+  
+  html.webp .size:after {
+    content: '53.5K';
+  }
+  
+  .cd-image-container img {
+	  background-image: url(space-640.jpg);
+	  
+	}
+}
+
+@media only screen and (-webkit-max-device-pixel-ratio: 1)      and (max-width: 600px),
+only screen and (   max--moz-device-pixel-ratio: 1)      and (max-width: 600px),
+only screen and (     -o-max-device-pixel-ratio: 1/1)    and (max-width: 600px),
+only screen and (        max-device-pixel-ratio: 1)      and (max-width: 600px),
+only screen and (                max-resolution: 191dpi) and (max-width: 600px),
+only screen and (                max-resolution: 1dppx)  and (max-width: 600px),
+only screen and (-webkit-min-device-pixel-ratio: 2)      and (max-width: 300px),
+only screen and (   min--moz-device-pixel-ratio: 2)      and (max-width: 300px),
+only screen and (     -o-min-device-pixel-ratio: 2/1)    and (max-width: 300px),
+only screen and (        min-device-pixel-ratio: 2)      and (max-width: 300px),
+only screen and (                min-resolution: 192dpi) and (max-width: 300px),
+only screen and (                min-resolution: 2dppx)  and (max-width: 300px)
+{
+  [data-type=original]:after {
+      content: '66.0K'
+    }
+
+  html.jpeg2000 .size:after {
+    content: '15.5K';
+  }
+  
+  html.jpegxr .size:after {
+    content: '66.1K';
+  }
+  
+  html.webp .size:after {
+    content: '47.8K';
+  }
+  
+  .cd-image-container img {
+	  background-image: url(space-600.jpg);
+	  
+	}
+}
+
+@media only screen and (-webkit-max-device-pixel-ratio: 1)      and (max-width: 320px),
+only screen and (   max--moz-device-pixel-ratio: 1)      and (max-width: 320px),
+only screen and (     -o-max-device-pixel-ratio: 1/1)    and (max-width: 320px),
+only screen and (        max-device-pixel-ratio: 1)      and (max-width: 320px),
+only screen and (                max-resolution: 191dpi) and (max-width: 320px),
+only screen and (                max-resolution: 1dppx)  and (max-width: 320px),
+only screen and (-webkit-min-device-pixel-ratio: 2)      and (max-width: 160px),
+only screen and (   min--moz-device-pixel-ratio: 2)      and (max-width: 160px),
+only screen and (     -o-min-device-pixel-ratio: 2/1)    and (max-width: 160px),
+only screen and (        min-device-pixel-ratio: 2)      and (max-width: 160px),
+only screen and (                min-resolution: 192dpi) and (max-width: 160px),
+only screen and (                min-resolution: 2dppx)  and (max-width: 160px)
+{
+  [data-type=original]:after {
+      content: '22.6K'
+    }
+
+  html.jpeg2000 .size:after {
+    content: '4.5K';
+  }
+  
+  html.jpegxr .size:after {
+    content: '24.7K';
+  }
+  
+  html.webp .size:after {
+    content: '16.2K';
+  }
+  
+  .cd-image-container img {
+	  background-image: url(space-320.jpg);
+	  
+	}
+}

@@ -1,0 +1,21 @@
+saturn-2016.png:
+  read 1457KB file corrected for gamma 2.2
+  made histogram...90265 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...11%
+  selecting colors...13%
+  selecting colors...26%
+  selecting colors...39%
+  selecting colors...52%
+  selecting colors...64%
+  selecting colors...77%
+  selecting colors...90%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...87 entries transparent
+  mapped image to new colors...MSE=1.182 (Q=95)
+  writing 256-color image as saturn-2016-quant.png
+No errors detected while quantizing 1 image.

@@ -1,0 +1,20 @@
+sun-xrays-2016.png:
+  read 1990KB file corrected for gamma 2.2
+  made histogram...233578 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...20%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...47%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...115 entries transparent
+  mapped image to new colors...MSE=12.687 (Q=61)
+  writing 256-color image as sun-xrays-2016-quant.png
+No errors detected while quantizing 1 image.
