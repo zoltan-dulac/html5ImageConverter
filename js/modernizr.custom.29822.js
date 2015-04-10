@@ -1,3 +1,10 @@
+/*
+ * Note: The top part of this file is a custom build of modernizr.  The bottom part is a JPEG-2000 sniffing
+ * script that will eventually be folded into Modernizr.  If you replace this script, please ensure the
+ * JPEG-2000 script is *not* removed.
+ */
+
+
 /*! Modernizr 3.0.0-beta (Custom Build) | MIT
  *  Build: http://modernizr.com/download/#-apng-cssanimations-jpegxr-webp-webp-lossless-webpalpha-webpanimation-webplossless-cssclasses
  */

@@ -242,10 +242,10 @@ ifErrorPrintAndExit "Could not convert to JP2." 6
 ##################################################################################
 
 JXR_FILE="$OUTPUT-stitched.jxr"
-echo "Hmmm ... $JXR_CONVERT, $JXR_COMPARE"
 if [ "$JXR_NCONVERT" != "" -o "$JXR_COMPARE" != "" ]
 then
 	echoBoth "Creating JXR with nconvert"
+	echoBoth "Using nconvert -out jxr -q $JXR_QUAL $OUTPUT-stitched.png"
 	nconvert -out jxr -q $JXR_QUAL $OUTPUT-stitched.png >> $LOG 2>> $LOG
 	
 	ifErrorPrintAndExit "Error: Could not convert to jxr with nconvert" 7
@@ -265,8 +265,8 @@ then
 	
 	# to use JxrEncApp, you must first convert to a truecolor TIF.
 	echoBoth "Creating TIF file for JXREncApp" 
-	#convert $OUTPUT-stitched.png  -type TrueColor -colorspace RGB  jxr:$OUTPUT-stitched.tif >> $LOG 2>> $LOG
-	convert $OUTPUT-stitched.png  -compress none   $OUTPUT-stitched.tif >> $LOG 2>> $LOG
+	#convert $OUTPUT-stitched.png  -type TrueColor -colorspace RGB jxr:$OUTPUT-stitched.tif >> $LOG 2>> $LOG
+	convert $OUTPUT-stitched.png  -compress none -colorspace sRGB $OUTPUT-stitched.tif >> $LOG 2>> $LOG
 	ifErrorPrintAndExit "Error creating TIF for JxrEncApp" 9
 	
 	#.. now convert to a JXR

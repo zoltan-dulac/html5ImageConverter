@@ -42,6 +42,14 @@ createRenditionHTML () {
   else
     FALLBACK="<img srcset='$STUB-$SIZE".jpg"' alt='$STUB'>"
   fi
+  
+  if [ "$HAS_ALPHA" != "true" ]
+  then
+    SVG_RENDITION="<source srcset='$STUB-$SIZE.svg' type='image/svg+xml'>"
+  else
+    SVG_RENDITION
+  fi
+  
     
     
   echo "<!doctype html>
@@ -86,7 +94,7 @@ createRenditionHTML () {
 
   <body>
     <header>
-    `ls -l $STUB-$SIZE.jpg $STUB-$SIZE.jp2 $STUB-$SIZE.jxr $STUB-$SIZE.webp $STUB-$SIZE.png $STUB-$SIZE-quant.png 2> /dev/null | sed 's/Domain Users/xxx/g' | awk '{print $9" "$5", "}'`
+    `ls -l $STUB-$SIZE.jpg $STUB-$SIZE.jp2 $STUB-$SIZE.jxr $STUB-$SIZE.webp $STUB-$SIZE.png $STUB-$SIZE-quant.png $STUB.svg $STUB_masked.jpg 2> /dev/null | sed 's/Domain Users/xxx/g' | awk '{print $9" "$5", "}'`
     </header>
   
     <picture>
@@ -94,6 +102,7 @@ createRenditionHTML () {
           <source srcset='$STUB-$SIZE.jxr' type='image/vnd.ms-photo'>
           <source srcset='$STUB-$SIZE.jp2' type='image/jp2'>
           <source srcset='$STUB-$SIZE.webp' type='image/webp'>
+          $SVG_RENDITION
           <!--[if IE 9]></video><![endif]-->
           $FALLBACK
     </picture>
@@ -194,6 +203,8 @@ do
   JXR_SRCSET=""
   WEBP_SRCSET=""
   JPG_SRCSET=""
+  SVG_SRCSET=""
+  
   MEDIA_QUERY_CSS=""
   
   STUB=${file%.png}
@@ -252,6 +263,11 @@ do
     WEBP_SRCSET="$WEBP_SRCSET$STUB-$SIZE.webp $SIZE""w$COMMA"
     JPG_SRCSET="$JPG_SRCSET$STUB-$SIZE.jxr $SIZE""w$COMMA"
     
+    if [ "$HAS_ALPHA" != "true" ]
+    then
+      SVG_SRCSET="$SVG_SRCSET$STUB-$SIZE.svg $SIZE""w$COMMA"
+    fi
+    
     LIST=`ls -l $STUB-$SIZE.jpg $STUB-$SIZE.jp2 $STUB-$SIZE.jxr $STUB-$SIZE.webp  $STUB-$SIZE.png $STUB-$SIZE-quant.png 2> /dev/null | sed 's/Domain Users/xxx/g' `
     
     if [ "$USE_QUANT" ]
@@ -264,6 +280,7 @@ do
     JP2_SIZE=`getFileSize jp2 $SIZE`
     JXR_SIZE=`getFileSize jxr $SIZE`
     WEBP_SIZE=`getFileSize webp $SIZE`
+    SVG_SIZE=`getFileSize svg $SIZE"
     
     
     MEDIA_QUERY_CSS="
@@ -283,6 +300,11 @@ do
       html.webp .size:after {
         content: '$WEBP_SIZE';
       }
+      
+      html.svg .size:after {
+        content: '$SVG_SIZE";
+      }
+      
     $MEDIA_QUERY_END
     $MEDIA_QUERY_CSS
     "
@@ -307,6 +329,9 @@ do
   then
   	ADDITIONAL_CSS_TAG="<link rel='stylesheet' href='$ADDITIONAL_CSS'> <!-- Additional User Styles -->"
   fi
+  
+  
+  
   
   echo "<!doctype html>
   

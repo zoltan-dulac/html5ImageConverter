@@ -1,0 +1,17 @@
+Bgclip-2048.png:
+  read 1652KB file corrected for gamma 2.2
+  made histogram...20766 colors found
+  selecting colors...3%
+  selecting colors...15%
+  selecting colors...28%
+  selecting colors...41%
+  selecting colors...54%
+  selecting colors...66%
+  selecting colors...79%
+  selecting colors...92%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...20 entries transparent
+  mapped image to new colors...MSE=0.214 (Q=99)
+  writing 256-color image as Bgclip-2048-quant.png
+No errors detected while quantizing 1 image.

@@ -1,0 +1,248 @@
+Started ../../bin/html5AnimatedImageConverter --  Tue Feb 17 16:27:25 EST 2015
+Creating dir /tmp/45275.html5Anim.tmp/
+Disassembling PNG holt-spinner.png
+
+APNG Disassembler 2.7
+
+Reading 'holt-spinner.png'...
+extracting frame 1 of 8
+extracting frame 2 of 8
+extracting frame 3 of 8
+extracting frame 4 of 8
+extracting frame 5 of 8
+extracting frame 6 of 8
+extracting frame 7 of 8
+extracting frame 8 of 8
+all done
+Converting to apng
+
+APNG Assembler 2.8 using 7ZIP with 15 iterations
+
+reading apngframe1.png (1 of 8)
+reading apngframe2.png (2 of 8)
+reading apngframe3.png (3 of 8)
+reading apngframe4.png (4 of 8)
+reading apngframe5.png (5 of 8)
+reading apngframe6.png (6 of 8)
+reading apngframe7.png (7 of 8)
+reading apngframe8.png (8 of 8)
+saving b.unopt.png (frame 1 of 8)
+saving b.unopt.png (frame 2 of 8)
+saving b.unopt.png (frame 3 of 8)
+saving b.unopt.png (frame 4 of 8)
+saving b.unopt.png (frame 5 of 8)
+saving b.unopt.png (frame 6 of 8)
+saving b.unopt.png (frame 7 of 8)
+saving b.unopt.png (frame 8 of 8)
+all done
+Converting to animated GIF
+
+apng2gif 1.6
+
+Reading 'b.png'...
+8 frames.
+507 colors.
+Wu quantization...
+Writing 'b.gif'...
+all done
+Converting frames to webp
+Saving file 'apngframe1.webp'
+File:      apngframe1.png
+Dimension: 85 x 85 (with alpha)
+Output:    3324 bytes Y-U-V-All-PSNR 38.53 39.37 36.61   38.26 dB
+block count:  intra4: 27
+              intra16: 9  (-> 25.00%)
+              skipped block: 3 (8.33%)
+bytes used:  header:             83  (2.5%)
+             mode-partition:    109  (3.3%)
+             transparency:     2013 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      11%|      47%|      33%|      36
+      quantizer:  |      45 |      42 |      34 |      24 |
+   filter level:  |      14 |      10 |       6 |       4 |
+Lossless-alpha compressed size: 2012 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   189
+Saving file 'apngframe2.webp'
+File:      apngframe2.png
+Dimension: 85 x 85 (with alpha)
+Output:    3420 bytes Y-U-V-All-PSNR 38.54 39.94 36.63   38.34 dB
+block count:  intra4: 29
+              intra16: 7  (-> 19.44%)
+              skipped block: 4 (11.11%)
+bytes used:  header:             89  (2.6%)
+             mode-partition:    113  (3.3%)
+             transparency:     2077 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      13%|      41%|      38%|      36
+      quantizer:  |      45 |      42 |      34 |      26 |
+   filter level:  |      14 |       9 |       6 |       4 |
+Lossless-alpha compressed size: 2076 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   182
+Saving file 'apngframe3.webp'
+File:      apngframe3.png
+Dimension: 85 x 85 (with alpha)
+Output:    3348 bytes Y-U-V-All-PSNR 38.51 39.80 36.27   38.21 dB
+block count:  intra4: 27
+              intra16: 9  (-> 25.00%)
+              skipped block: 4 (11.11%)
+bytes used:  header:             76  (2.3%)
+             mode-partition:    108  (3.2%)
+             transparency:     2026 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      11%|      44%|      36%|      36
+      quantizer:  |      45 |      41 |      34 |      25 |
+   filter level:  |      14 |       9 |       6 |       4 |
+Lossless-alpha compressed size: 2025 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   187
+Saving file 'apngframe4.webp'
+File:      apngframe4.png
+Dimension: 85 x 85 (with alpha)
+Output:    3252 bytes Y-U-V-All-PSNR 38.36 39.43 36.37   38.10 dB
+block count:  intra4: 26
+              intra16: 10  (-> 27.78%)
+              skipped block: 6 (16.67%)
+bytes used:  header:             77  (2.4%)
+             mode-partition:    113  (3.5%)
+             transparency:     1933 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      11%|      22%|      44%|      22%|      36
+      quantizer:  |      45 |      38 |      32 |      22 |
+   filter level:  |      14 |       8 |       6 |       3 |
+Lossless-alpha compressed size: 1932 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   192
+Saving file 'apngframe5.webp'
+File:      apngframe5.png
+Dimension: 85 x 85 (with alpha)
+Output:    3194 bytes Y-U-V-All-PSNR 38.37 39.77 36.32   38.14 dB
+block count:  intra4: 25
+              intra16: 11  (-> 30.56%)
+              skipped block: 5 (13.89%)
+bytes used:  header:             88  (2.8%)
+             mode-partition:    110  (3.4%)
+             transparency:     1873 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      11%|      30%|      33%|      25%|      36
+      quantizer:  |      45 |      37 |      31 |      23 |
+   filter level:  |      14 |       8 |       5 |       3 |
+Lossless-alpha compressed size: 1872 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   181
+Saving file 'apngframe6.webp'
+File:      apngframe6.png
+Dimension: 85 x 85 (with alpha)
+Output:    3226 bytes Y-U-V-All-PSNR 38.34 39.39 36.22   38.05 dB
+block count:  intra4: 24
+              intra16: 12  (-> 33.33%)
+              skipped block: 8 (22.22%)
+bytes used:  header:             80  (2.5%)
+             mode-partition:    109  (3.4%)
+             transparency:     1916 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      16%|      36%|      38%|      36
+      quantizer:  |      45 |      39 |      35 |      24 |
+   filter level:  |      14 |       8 |       6 |       4 |
+Lossless-alpha compressed size: 1915 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   194
+Saving file 'apngframe7.webp'
+File:      apngframe7.png
+Dimension: 85 x 85 (with alpha)
+Output:    3164 bytes Y-U-V-All-PSNR 38.57 39.86 36.53   38.33 dB
+block count:  intra4: 25
+              intra16: 11  (-> 30.56%)
+              skipped block: 8 (22.22%)
+bytes used:  header:             81  (2.6%)
+             mode-partition:    110  (3.5%)
+             transparency:     1868 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|       8%|      52%|      33%|      36
+      quantizer:  |      45 |      41 |      35 |      24 |
+   filter level:  |      14 |       9 |       6 |       4 |
+Lossless-alpha compressed size: 1867 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   188
+Saving file 'apngframe8.webp'
+File:      apngframe8.png
+Dimension: 85 x 85 (with alpha)
+Output:    3298 bytes Y-U-V-All-PSNR 38.48 39.51 36.93   38.32 dB
+block count:  intra4: 25
+              intra16: 11  (-> 30.56%)
+              skipped block: 8 (22.22%)
+bytes used:  header:             87  (2.6%)
+             mode-partition:    112  (3.4%)
+             transparency:     1967 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      44%|      22%|      25%|      36
+      quantizer:  |      45 |      37 |      31 |      22 |
+   filter level:  |      14 |       8 |       5 |       3 |
+Lossless-alpha compressed size: 1966 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   199
+Putting webp frames into one animated webp ...
+Using command: 
+webpmux -frame apngframe1.webp +100+0+0+0-b -frame apngframe2.webp +100+0+0+0-b -frame apngframe3.webp +100+0+0+0-b -frame apngframe4.webp +100+0+0+0-b -frame apngframe5.webp +100+0+0+0-b -frame apngframe6.webp +100+0+0+0-b -frame apngframe7.webp +100+0+0+0-b -frame apngframe8.webp +100+0+0+0-b -loop 0 -o b.webp
+
+Saved file b.webp (26222 bytes)
+Creating stitched PNG
+Creating TIF (for use with kdu_compress)
+Creating JP2 (with kdu_compress)
+kdu_compress -i b-stitched.tif -o b-stitched.jp2 -jp2_alpha -rate -,0.8
+Creating JXR with nconvert
+Using nconvert -out jxr -q 75 b-stitched.png
+ Using alpha_mode = 1
+ Conversion of b-stitched.png into b-stitched.jxr OK
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+Removing temp TIF file
+Creating stylesheet
+
+Moving files and cleaning up
+Current files: apngframe1.png
+apngframe1.txt
+apngframe1.webp
+apngframe2.png
+apngframe2.txt
+apngframe2.webp
+apngframe3.png
+apngframe3.txt
+apngframe3.webp
+apngframe4.png
+apngframe4.txt
+apngframe4.webp
+apngframe5.png
+apngframe5.txt
+apngframe5.webp
+apngframe6.png
+apngframe6.txt
+apngframe6.webp
+apngframe7.png
+apngframe7.txt
+apngframe7.webp
+apngframe8.png
+apngframe8.txt
+apngframe8.webp
+b-stitched.jp2
+b-stitched.jxr
+b-stitched.png
+b.css
+b.gif
+b.html
+b.png
+b.unopt.png
+b.webp
+holt-spinner.png
+mv: rename *.tif to /Users/zhawry/git/apng-webp-images-now/examples/holt/*.tif: No such file or directory
