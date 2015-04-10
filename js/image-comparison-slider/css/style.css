@@ -226,6 +226,10 @@ body.ie9down .cd-image-label.is-hidden {
   transition: transform 0.3s 0.7s, opacity 0s 0.7s;
 }
 
+html.svg .alt-file-type:before {
+  content: "SVG with JPEG";
+}
+
 html.webp .alt-file-type:before {
 	content: "WEBP";
 }
@@ -238,7 +242,8 @@ html.jpeg2000 .alt-file-type:before {
 	content: "JPEG2000";
 }
 
-html.no-webp.no-jpegxr.no-jpeg2000 .size:before {
+
+html.no-webp.no-jpegxr.no-jpeg2000.no-svg .size:before {
 	text-transform: none;
 	content: "This browser does not support WEBP, JPEG-XR or JPEG2000."
 }

@@ -13,9 +13,18 @@ printAndExit () {
 }
 
 getFileSize () {
-  TYPE="$1"
-  SIZE="$2"
-  echo "$LIST" | grep -- "-$SIZE.$TYPE" | awk '{printf "%.1fK", $5/1024}' 
+  local TYPE="$1"
+  local SIZE="$2"
+  
+  if [ "$TYPE" = "svga" ]
+  then
+    local SVG_SIZE=`echo "$LIST" | grep -- "-$SIZE.svg" | awk '{print $5}'`
+    local JPG_SIZE=`echo "$LIST" | grep -- "-$SIZE"_masked.jpg | awk '{print $5}'`
+    echo "$SIZE.svg -- $SVG_SIZE + $JPG_SIZE" 1>&2
+    expr $SVG_SIZE + $JPG_SIZE | awk '{printf "%.1fK", $5/1024}'
+  else
+    echo "$LIST" | grep -- "-$SIZE.$TYPE" | awk '{printf "%.1fK", $5/1024}' 
+  fi
 }
 
 getImageWidth () {
@@ -43,7 +52,7 @@ createRenditionHTML () {
     FALLBACK="<img srcset='$STUB-$SIZE".jpg"' alt='$STUB'>"
   fi
   
-  if [ "$HAS_ALPHA" != "true" ]
+  if [ "$HAS_ALPHA" = "true" ]
   then
     SVG_RENDITION="<source srcset='$STUB-$SIZE.svg' type='image/svg+xml'>"
   else
@@ -94,7 +103,7 @@ createRenditionHTML () {
 
   <body>
     <header>
-    `ls -l $STUB-$SIZE.jpg $STUB-$SIZE.jp2 $STUB-$SIZE.jxr $STUB-$SIZE.webp $STUB-$SIZE.png $STUB-$SIZE-quant.png $STUB.svg $STUB_masked.jpg 2> /dev/null | sed 's/Domain Users/xxx/g' | awk '{print $9" "$5", "}'`
+    `ls -l $STUB-$SIZE.jpg $STUB-$SIZE.jp2 $STUB-$SIZE.jxr $STUB-$SIZE.webp $STUB-$SIZE.png $STUB-$SIZE-quant.png $STUB-$SIZE.svg $STUB-$SIZE_masked.jpg 2> /dev/null | sed 's/Domain Users/xxx/g' | awk '{print $9" "$5", "}'`
     </header>
   
     <picture>
@@ -184,6 +193,16 @@ then
   fi
 fi
 
+if [ "$NUM_SIZES" != ${#JPG_QUALS[@]} ]
+then
+  if [ "${#JPG_QUALS[@]}" = "1" ]
+  then
+    JPG_QUALS=( `getDefaultQuals ${JPG_QUALS[0]} | tr '/' ' '` )
+  else
+    printAndExit "There should be $NUM_SIZES JPG renditions, but there are only ${#JPG_QUALS[@]}. Bailing" 102
+  fi
+fi
+
 if [ "$HAS_ALPHA" != "true" -a "$NUM_SIZES" -ne ${#JPG_QUALS[@]} ]
 then
   if [ "${#JPG_QUALS[@]}" = "1" ]
@@ -263,12 +282,12 @@ do
     WEBP_SRCSET="$WEBP_SRCSET$STUB-$SIZE.webp $SIZE""w$COMMA"
     JPG_SRCSET="$JPG_SRCSET$STUB-$SIZE.jxr $SIZE""w$COMMA"
     
-    if [ "$HAS_ALPHA" != "true" ]
+    if [ "$HAS_ALPHA" = "true" ]
     then
       SVG_SRCSET="$SVG_SRCSET$STUB-$SIZE.svg $SIZE""w$COMMA"
     fi
     
-    LIST=`ls -l $STUB-$SIZE.jpg $STUB-$SIZE.jp2 $STUB-$SIZE.jxr $STUB-$SIZE.webp  $STUB-$SIZE.png $STUB-$SIZE-quant.png 2> /dev/null | sed 's/Domain Users/xxx/g' `
+    LIST=`ls -l $STUB-$SIZE.jpg $STUB-$SIZE.jp2 $STUB-$SIZE.jxr $STUB-$SIZE.webp  $STUB-$SIZE.png $STUB-$SIZE-quant.png $STUB-$SIZE.svg $STUB-$SIZE"_masked.jpg" 2> /dev/null | sed 's/Domain Users/xxx/g' `
     
     if [ "$USE_QUANT" ]
     then
@@ -280,15 +299,26 @@ do
     JP2_SIZE=`getFileSize jp2 $SIZE`
     JXR_SIZE=`getFileSize jxr $SIZE`
     WEBP_SIZE=`getFileSize webp $SIZE`
-    SVG_SIZE=`getFileSize svg $SIZE"
+    SVG_SIZE=`getFileSize svg $SIZE`
     
+    if [ "$HAS_ALPHA" = "true" ]
+    then
+      SVG_SIZE_CSS="html.svg .size:after {
+        content: '$SVG_SIZE';
+      }"
+      SVG_SOURCE_EL="<source srcset='$SVG_SRCSET' type='image/svg+xml'>"
+    else 
+      SVG_SIZE_CSS=""
+    fi
     
     MEDIA_QUERY_CSS="
     $MEDIA_QUERY_BEGIN
       [data-type=original]:after {
           content: '$ORIG_SIZE'
         }
-    
+      
+      $SVG_SIZE_CSS
+      
       html.jpeg2000 .size:after {
         content: '$JP2_SIZE';
       }
@@ -299,10 +329,6 @@ do
       
       html.webp .size:after {
         content: '$WEBP_SIZE';
-      }
-      
-      html.svg .size:after {
-        content: '$SVG_SIZE";
       }
       
     $MEDIA_QUERY_END
@@ -403,6 +429,7 @@ do
               <source srcset='$JXR_SRCSET' type='image/vnd.ms-photo'>
               <source srcset='$JP2_SRCSET' type='image/jp2'>
               <source srcset='$WEBP_SRCSET' type='image/webp'>
+              $SVG_SOURCE_EL
               <!--[if IE 9]></video><![endif]-->
               <img srcset='$ORIG_SRCSET'  />
         </picture>
@@ -414,7 +441,7 @@ do
     $CREDIT
   <script src='../../js/image-comparison-slider/js/jquery-2.1.1.js'></script>
   <script src='../../js/image-comparison-slider/js/jquery.mobile.custom.min.js'></script> <!-- Resource jQuery -->
-  <script src='../../js/image-comparison-slider/js/main.js'></script> <!-- Resource jQuery -->
+  <script src='../../js/image-comparison-slider/js/main.js'></script> 
   </body>
   </html>"  > $STUB.html
   

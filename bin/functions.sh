@@ -196,21 +196,22 @@ function cutImages() {
     else 
      
       # First, create the mask.
-      convert $stub.png -alpha extract $stub_alpha.png
+      convert $stub.png -alpha extract $stub"_alpha.png"
       
       #.. Now, let's stitch the mask with the original image
-      convert $stub.png $stub_alpha.png +append $stub_masked.png
+      convert $stub.png $stub"_alpha.png" +append $stub"_masked.png"
       
       #.. Next, convert to JPEG
-      toJPEG $stub_masked.png $stub_masked.jpg
+      toJPEG $stub"_masked.png" $stub"_masked.jpg"
       
       #.. Remove the intermediate files
-      rm $stub_masked.png $stub_alpha.png
+      rm $stub"_masked.png" # $stub"_alpha.png"
       
       #.. Finally, create the SVG wrapper around the image
       local DIMS=`identify $stub.png | awk '{print $3}'`
-      local IMAGE_WIDTH=`echo $DIMS | awk -F"x" '{print $1}'`
-      local IMAGE_HEIGHT=`echo $DIMS | awk -F"x" '{print $2}'`
+      local WIDTH=`echo $DIMS | awk -F"x" '{print $1}'`
+      local HEIGHT=`echo $DIMS | awk -F"x" '{print $2}'`
+      local BASE64=`cat $stub'_masked.jpg' | base64`
       
       echo '<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 '$WIDTH' '$HEIGHT'" width="'$WIDTH'" height="'$HEIGHT'" xmlns="http://www.w3.org/2000/svg">
   <defs>
@@ -220,7 +221,7 @@ function cutImages() {
       <feComposite operator="in" in2="b" in="SourceGraphic"></feComposite>
     </filter>
   </defs>
-  <image filter="url(#a)" xlink:href="'$stub_masked.jpg'" height="200%" width="100%" />
+  <image filter="url(#a)" xlink:href="data:image/jpeg;base64,'$BASE64'" height="100%" width="200%" />
 </svg>' > $stub.svg
 
     
