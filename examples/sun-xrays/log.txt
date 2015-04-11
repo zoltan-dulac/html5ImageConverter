@@ -19,3 +19,845 @@ Unrecognized TIFTag: 266(0x10a), 3, 1
 Unrecognized TIFTag: 297(0x129), 3, 2
 Unrecognized TIFTag: 318(0x13e), 5, 2
 Unrecognized TIFTag: 319(0x13f), 5, 6
+Saving file 'sun-xrays-320.webp'
+File:      sun-xrays-320.png
+Dimension: 320 x 163
+Output:    3184 bytes Y-U-V-All-PSNR 40.44 40.55 39.52   40.29 dB
+block count:  intra4: 151
+              intra16: 69  (-> 31.36%)
+              skipped block: 27 (12.27%)
+bytes used:  header:             54  (1.7%)
+             mode-partition:    721  (22.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      25%|      30%|      31%|     220
+      quantizer:  |      39 |      34 |      27 |      18 |
+   filter level:  |      25 |      34 |      13 |      18 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 8,437 = 1.294018 bits/pel.
+Compressed bytes (excludes codestream headers) = 8,205 = 1.258436 bpp.
+Body bytes (excludes packet and codestream headers) = 8,039 = 1.232975 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        1.294018
+Layer thresholds:
+        42052
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+sun-xrays-320.png:
+  read 66KB file corrected for gamma 2.2
+  made histogram...24302 colors found
+  selecting colors...3%
+  selecting colors...15%
+  selecting colors...28%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=7.733 (Q=75)
+  writing 256-color image as sun-xrays-320-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'sun-xrays-600.webp'
+File:      sun-xrays-600.png
+Dimension: 600 x 305
+Output:    7878 bytes Y-U-V-All-PSNR 41.45 42.14 41.01   41.48 dB
+block count:  intra4: 459
+              intra16: 301  (-> 39.61%)
+              skipped block: 122 (16.05%)
+bytes used:  header:             97  (1.2%)
+             mode-partition:   2018  (25.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      18%|      31%|      43%|     760
+      quantizer:  |      39 |      36 |      29 |      21 |
+   filter level:  |      29 |      28 |      11 |       7 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 27,229 = 1.190339 bits/pel.
+Compressed bytes (excludes codestream headers) = 26,997 = 1.180197 bpp.
+Body bytes (excludes packet and codestream headers) = 26,698 = 1.167126 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        1.190339
+Layer thresholds:
+        41813
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+sun-xrays-600.png:
+  read 207KB file corrected for gamma 2.2
+  made histogram...69450 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...20%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...71%
+  selecting colors...83%
+  selecting colors...96%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=7.992 (Q=74)
+  writing 256-color image as sun-xrays-600-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'sun-xrays-640.webp'
+File:      sun-xrays-640.png
+Dimension: 640 x 325
+Output:    8446 bytes Y-U-V-All-PSNR 41.43 42.14 40.96   41.46 dB
+block count:  intra4: 511
+              intra16: 329  (-> 39.17%)
+              skipped block: 150 (17.86%)
+bytes used:  header:            110  (1.3%)
+             mode-partition:   2184  (25.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      20%|      32%|      40%|     840
+      quantizer:  |      39 |      36 |      29 |      21 |
+   filter level:  |      33 |      28 |      11 |      11 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 26,823 = 1.031654 bits/pel.
+Compressed bytes (excludes codestream headers) = 26,591 = 1.022731 bpp.
+Body bytes (excludes packet and codestream headers) = 26,300 = 1.011538 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        1.031654
+Layer thresholds:
+        41939
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+sun-xrays-640.png:
+  read 232KB file corrected for gamma 2.2
+  made histogram...77011 colors found
+  selecting colors...3%
+  selecting colors...15%
+  selecting colors...28%
+  selecting colors...30%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...71%
+  selecting colors...83%
+  selecting colors...96%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=8.015 (Q=74)
+  writing 256-color image as sun-xrays-640-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'sun-xrays-1024.webp'
+File:      sun-xrays-1024.png
+Dimension: 1024 x 520
+Output:    16476 bytes Y-U-V-All-PSNR 42.26 43.23 42.00   42.36 dB
+block count:  intra4: 1107
+              intra16: 1005  (-> 47.59%)
+              skipped block: 421 (19.93%)
+bytes used:  header:            143  (0.9%)
+             mode-partition:   4411  (26.8%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|      14%|      33%|      48%|    2112
+      quantizer:  |      39 |      37 |      30 |      22 |
+   filter level:  |      29 |      31 |      14 |      14 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 62,087 = 0.932797 bits/pel.
+Compressed bytes (excludes codestream headers) = 61,855 = 0.929312 bpp.
+Body bytes (excludes packet and codestream headers) = 61,406 = 0.922566 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.932797
+Layer thresholds:
+        41861
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+sun-xrays-1024.png:
+  read 550KB file corrected for gamma 2.2
+  made histogram...156516 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...11%
+  selecting colors...24%
+  selecting colors...37%
+  selecting colors...49%
+  selecting colors...62%
+  selecting colors...75%
+  selecting colors...88%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=8.160 (Q=73)
+  writing 256-color image as sun-xrays-1024-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'sun-xrays-1200.webp'
+File:      sun-xrays-1200.png
+Dimension: 1200 x 610
+Output:    21226 bytes Y-U-V-All-PSNR 42.63 43.54 42.28   42.71 dB
+block count:  intra4: 1499
+              intra16: 1426  (-> 48.75%)
+              skipped block: 595 (20.34%)
+bytes used:  header:            151  (0.7%)
+             mode-partition:   5821  (27.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|      11%|      31%|      53%|    2925
+      quantizer:  |      39 |      38 |      31 |      23 |
+   filter level:  |      37 |      14 |      13 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 77,456 = 0.846514 bits/pel.
+Compressed bytes (excludes codestream headers) = 77,224 = 0.843978 bpp.
+Body bytes (excludes packet and codestream headers) = 76,657 = 0.837781 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.846514
+Layer thresholds:
+        41918
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+sun-xrays-1200.png:
+  read 727KB file corrected for gamma 2.2
+  made histogram...195185 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...20%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...71%
+  selecting colors...83%
+  selecting colors...96%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=8.256 (Q=73)
+  writing 256-color image as sun-xrays-1200-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'sun-xrays-2016.webp'
+File:      sun-xrays-2016.png
+Dimension: 2016 x 1024
+Output:    47758 bytes Y-U-V-All-PSNR 43.56 44.64 43.37   43.69 dB
+block count:  intra4: 3881
+              intra16: 4183  (-> 51.87%)
+              skipped block: 1972 (24.45%)
+bytes used:  header:            209  (0.4%)
+             mode-partition:  12725  (26.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       9%|      30%|      56%|    8064
+      quantizer:  |      39 |      37 |      31 |      24 |
+   filter level:  |      29 |      27 |      13 |      12 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 128,990 = 0.499868 bits/pel.
+Compressed bytes (excludes codestream headers) = 128,758 = 0.498969 bpp.
+Body bytes (excludes packet and codestream headers) = 128,131 = 0.496539 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.499868
+Layer thresholds:
+        42249
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+sun-xrays-2016.png:
+  read 1786KB file corrected for gamma 2.2
+  made histogram...200615 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...22%
+  selecting colors...35%
+  selecting colors...47%
+  selecting colors...60%
+  selecting colors...62%
+  selecting colors...75%
+  selecting colors...88%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=8.447 (Q=73)
+  writing 256-color image as sun-xrays-2016-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'sun-xrays-320.webp'
+File:      sun-xrays-320.png
+Dimension: 320 x 163
+Output:    3184 bytes Y-U-V-All-PSNR 40.44 40.55 39.52   40.29 dB
+block count:  intra4: 151
+              intra16: 69  (-> 31.36%)
+              skipped block: 27 (12.27%)
+bytes used:  header:             54  (1.7%)
+             mode-partition:    721  (22.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      25%|      30%|      31%|     220
+      quantizer:  |      39 |      34 |      27 |      18 |
+   filter level:  |      25 |      34 |      13 |      18 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 8,437 = 1.294018 bits/pel.
+Compressed bytes (excludes codestream headers) = 8,205 = 1.258436 bpp.
+Body bytes (excludes packet and codestream headers) = 8,039 = 1.232975 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        1.294018
+Layer thresholds:
+        42041
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+sun-xrays-320.png:
+  read 66KB file corrected for gamma 2.2
+  made histogram...24302 colors found
+  selecting colors...3%
+  selecting colors...15%
+  selecting colors...28%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=7.733 (Q=75)
+  writing 256-color image as sun-xrays-320-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'sun-xrays-600.webp'
+File:      sun-xrays-600.png
+Dimension: 600 x 305
+Output:    7878 bytes Y-U-V-All-PSNR 41.45 42.14 41.01   41.48 dB
+block count:  intra4: 459
+              intra16: 301  (-> 39.61%)
+              skipped block: 122 (16.05%)
+bytes used:  header:             97  (1.2%)
+             mode-partition:   2018  (25.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      18%|      31%|      43%|     760
+      quantizer:  |      39 |      36 |      29 |      21 |
+   filter level:  |      29 |      28 |      11 |       7 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 27,229 = 1.190339 bits/pel.
+Compressed bytes (excludes codestream headers) = 26,997 = 1.180197 bpp.
+Body bytes (excludes packet and codestream headers) = 26,698 = 1.167126 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        1.190339
+Layer thresholds:
+        41813
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+sun-xrays-600.png:
+  read 207KB file corrected for gamma 2.2
+  made histogram...69450 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...20%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...71%
+  selecting colors...83%
+  selecting colors...96%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=7.992 (Q=74)
+  writing 256-color image as sun-xrays-600-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'sun-xrays-640.webp'
+File:      sun-xrays-640.png
+Dimension: 640 x 325
+Output:    8446 bytes Y-U-V-All-PSNR 41.43 42.14 40.96   41.46 dB
+block count:  intra4: 511
+              intra16: 329  (-> 39.17%)
+              skipped block: 150 (17.86%)
+bytes used:  header:            110  (1.3%)
+             mode-partition:   2184  (25.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      20%|      32%|      40%|     840
+      quantizer:  |      39 |      36 |      29 |      21 |
+   filter level:  |      33 |      28 |      11 |      11 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 26,823 = 1.031654 bits/pel.
+Compressed bytes (excludes codestream headers) = 26,591 = 1.022731 bpp.
+Body bytes (excludes packet and codestream headers) = 26,300 = 1.011538 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        1.031654
+Layer thresholds:
+        41939
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+sun-xrays-640.png:
+  read 232KB file corrected for gamma 2.2
+  made histogram...77011 colors found
+  selecting colors...3%
+  selecting colors...15%
+  selecting colors...28%
+  selecting colors...30%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...71%
+  selecting colors...83%
+  selecting colors...96%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=8.015 (Q=74)
+  writing 256-color image as sun-xrays-640-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'sun-xrays-1024.webp'
+File:      sun-xrays-1024.png
+Dimension: 1024 x 520
+Output:    16476 bytes Y-U-V-All-PSNR 42.26 43.23 42.00   42.36 dB
+block count:  intra4: 1107
+              intra16: 1005  (-> 47.59%)
+              skipped block: 421 (19.93%)
+bytes used:  header:            143  (0.9%)
+             mode-partition:   4411  (26.8%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|      14%|      33%|      48%|    2112
+      quantizer:  |      39 |      37 |      30 |      22 |
+   filter level:  |      29 |      31 |      14 |      14 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 62,121 = 0.933308 bits/pel.
+Compressed bytes (excludes codestream headers) = 61,889 = 0.929823 bpp.
+Body bytes (excludes packet and codestream headers) = 61,438 = 0.923047 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.933308
+Layer thresholds:
+        41860
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+sun-xrays-1024.png:
+  read 550KB file corrected for gamma 2.2
+  made histogram...156516 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...11%
+  selecting colors...24%
+  selecting colors...37%
+  selecting colors...49%
+  selecting colors...62%
+  selecting colors...75%
+  selecting colors...88%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=8.160 (Q=73)
+  writing 256-color image as sun-xrays-1024-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'sun-xrays-1200.webp'
+File:      sun-xrays-1200.png
+Dimension: 1200 x 610
+Output:    21226 bytes Y-U-V-All-PSNR 42.63 43.54 42.28   42.71 dB
+block count:  intra4: 1499
+              intra16: 1426  (-> 48.75%)
+              skipped block: 595 (20.34%)
+bytes used:  header:            151  (0.7%)
+             mode-partition:   5821  (27.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|      11%|      31%|      53%|    2925
+      quantizer:  |      39 |      38 |      31 |      23 |
+   filter level:  |      37 |      14 |      13 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 77,340 = 0.845246 bits/pel.
+Compressed bytes (excludes codestream headers) = 77,108 = 0.842710 bpp.
+Body bytes (excludes packet and codestream headers) = 76,546 = 0.836568 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.845246
+Layer thresholds:
+        41922
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+sun-xrays-1200.png:
+  read 727KB file corrected for gamma 2.2
+  made histogram...195185 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...20%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...71%
+  selecting colors...83%
+  selecting colors...96%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=8.256 (Q=73)
+  writing 256-color image as sun-xrays-1200-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'sun-xrays-2016.webp'
+File:      sun-xrays-2016.png
+Dimension: 2016 x 1024
+Output:    47758 bytes Y-U-V-All-PSNR 43.56 44.64 43.37   43.69 dB
+block count:  intra4: 3881
+              intra16: 4183  (-> 51.87%)
+              skipped block: 1972 (24.45%)
+bytes used:  header:            209  (0.4%)
+             mode-partition:  12725  (26.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       9%|      30%|      56%|    8064
+      quantizer:  |      39 |      37 |      31 |      24 |
+   filter level:  |      29 |      27 |      13 |      12 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 128,990 = 0.499868 bits/pel.
+Compressed bytes (excludes codestream headers) = 128,758 = 0.498969 bpp.
+Body bytes (excludes packet and codestream headers) = 128,131 = 0.496539 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.499868
+Layer thresholds:
+        42247
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+sun-xrays-2016.png:
+  read 1786KB file corrected for gamma 2.2
+  made histogram...200615 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...22%
+  selecting colors...35%
+  selecting colors...47%
+  selecting colors...60%
+  selecting colors...62%
+  selecting colors...75%
+  selecting colors...88%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=8.447 (Q=73)
+  writing 256-color image as sun-xrays-2016-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'sun-xrays-320.webp'
+File:      sun-xrays-320.png
+Dimension: 320 x 163
+Output:    2960 bytes Y-U-V-All-PSNR 40.04 40.16 39.05   39.88 dB
+block count:  intra4: 143
+              intra16: 77  (-> 35.00%)
+              skipped block: 26 (11.82%)
+bytes used:  header:             53  (1.8%)
+             mode-partition:    678  (22.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      25%|      30%|      31%|     220
+      quantizer:  |      42 |      37 |      29 |      20 |
+   filter level:  |      12 |       8 |      12 |       9 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 8,397 = 1.287883 bits/pel.
+Compressed bytes (excludes codestream headers) = 8,168 = 1.252761 bpp.
+Body bytes (excludes packet and codestream headers) = 8,010 = 1.228528 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        1.287883
+Layer thresholds:
+        42050
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Saving file 'sun-xrays-600.webp'
+File:      sun-xrays-600.png
+Dimension: 600 x 305
+Output:    7294 bytes Y-U-V-All-PSNR 41.02 41.77 40.55   41.06 dB
+block count:  intra4: 455
+              intra16: 305  (-> 40.13%)
+              skipped block: 123 (16.18%)
+bytes used:  header:             98  (1.3%)
+             mode-partition:   1863  (25.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      18%|      31%|      43%|     760
+      quantizer:  |      42 |      39 |      32 |      22 |
+   filter level:  |      12 |      16 |      20 |      10 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 27,305 = 1.193661 bits/pel.
+Compressed bytes (excludes codestream headers) = 27,076 = 1.183650 bpp.
+Body bytes (excludes packet and codestream headers) = 26,785 = 1.170929 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        1.193661
+Layer thresholds:
+        41812
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Saving file 'sun-xrays-640.webp'
+File:      sun-xrays-640.png
+Dimension: 640 x 325
+Output:    7906 bytes Y-U-V-All-PSNR 41.11 41.79 40.58   41.12 dB
+block count:  intra4: 504
+              intra16: 336  (-> 40.00%)
+              skipped block: 146 (17.38%)
+bytes used:  header:            106  (1.3%)
+             mode-partition:   2164  (27.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      20%|      32%|      40%|     840
+      quantizer:  |      42 |      39 |      31 |      22 |
+   filter level:  |      12 |      16 |      13 |      10 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 26,837 = 1.032192 bits/pel.
+Compressed bytes (excludes codestream headers) = 26,608 = 1.023385 bpp.
+Body bytes (excludes packet and codestream headers) = 26,325 = 1.012500 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        1.032192
+Layer thresholds:
+        41933
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Saving file 'sun-xrays-1024.webp'
+File:      sun-xrays-1024.png
+Dimension: 1024 x 520
+Output:    15146 bytes Y-U-V-All-PSNR 41.87 42.83 41.58   41.97 dB
+block count:  intra4: 1048
+              intra16: 1064  (-> 50.38%)
+              skipped block: 426 (20.17%)
+bytes used:  header:            144  (1.0%)
+             mode-partition:   4063  (26.8%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|      14%|      33%|      48%|    2112
+      quantizer:  |      42 |      40 |      33 |      24 |
+   filter level:  |      12 |      25 |      14 |      10 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 62,053 = 0.932287 bits/pel.
+Compressed bytes (excludes codestream headers) = 61,824 = 0.928846 bpp.
+Body bytes (excludes packet and codestream headers) = 61,381 = 0.922191 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.932287
+Layer thresholds:
+        41859
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Saving file 'sun-xrays-1200.webp'
+File:      sun-xrays-1200.png
+Dimension: 1200 x 610
+Output:    19640 bytes Y-U-V-All-PSNR 42.32 43.24 41.98   42.40 dB
+block count:  intra4: 1410
+              intra16: 1515  (-> 51.79%)
+              skipped block: 608 (20.79%)
+bytes used:  header:            151  (0.8%)
+             mode-partition:   5404  (27.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|      11%|      31%|      53%|    2925
+      quantizer:  |      42 |      41 |      33 |      25 |
+   filter level:  |      12 |      25 |      21 |      11 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 77,618 = 0.848284 bits/pel.
+Compressed bytes (excludes codestream headers) = 77,389 = 0.845781 bpp.
+Body bytes (excludes packet and codestream headers) = 76,830 = 0.839672 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.848284
+Layer thresholds:
+        41910
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Saving file 'sun-xrays-2016.webp'
+File:      sun-xrays-2016.png
+Dimension: 2016 x 1024
+Output:    44000 bytes Y-U-V-All-PSNR 43.24 44.33 43.04   43.37 dB
+block count:  intra4: 3613
+              intra16: 4451  (-> 55.20%)
+              skipped block: 2010 (24.93%)
+bytes used:  header:            198  (0.4%)
+             mode-partition:  11647  (26.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       9%|      30%|      56%|    8064
+      quantizer:  |      42 |      40 |      33 |      26 |
+   filter level:  |      26 |      25 |      21 |      11 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 128,911 = 0.499562 bits/pel.
+Compressed bytes (excludes codestream headers) = 128,682 = 0.498675 bpp.
+Body bytes (excludes packet and codestream headers) = 128,063 = 0.496276 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.499562
+Layer thresholds:
+        42249
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6

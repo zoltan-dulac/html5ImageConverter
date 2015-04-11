@@ -2,7 +2,7 @@
 
 #.. location of mozjpeg version of cjpeg, in order to prevent 
 #  you from using the wrong one
-MOZJPEG="~/bin/cjpeg"
+MOZJPEG="/opt/local/bin/cjpeg"
 
 ARGS=`echo $* | tr ' ' '
 '`
@@ -93,6 +93,7 @@ IS_LOSSLESS=`getArg is-lossless`
 USE_MOZJPEG=`getArg use-mozjpeg`
 JXR_IE9_FIX=`getArg jxr-ie9-fix`
 IS_SHARP=`getArg is-sharp`
+COMPRESS_SVG=`getArg compress-svg`
 KEEP_TEMP_DIR=`getArg keep-temp-dir`
 
 if [ "$IS_SHARP" = "true" ]
@@ -153,6 +154,24 @@ ifErrorPrintAndExit () {
   
 }
 
+function printFinalMessages {
+  if [ "$COMPRESS_SVG" = "true" ]
+  then
+    echo "
+    
+### PLEASE NOTE ###
+
+Since you are creating SVGZ files with the --compress-svg option,
+we are installing an .htaccess file for you, so your web server
+will serve these files to the browser correctly.  You may want
+to consider doing a global config for .svgz files if you use them
+a lot.  See http://kaioa.com/node/45 for more information."
+
+    echo "AddType image/svg+xml svg svgz
+AddEncoding gzip svgz" > .htaccess
+  fi
+}
+
 function toJPEG {
   local infile="$1"
   local outfile="$2"
@@ -173,9 +192,57 @@ function toJPEG {
   if [ "$USE_MOZJPEG" != "true" -o "$MOZ_JPEG_SUCCESS" != "0" ]
   then
     echo "   - jpeg using ImageMagick (Quality: $JPG_QUAL)" 1>&2
+    echo "convert $1 -define quality=$JPG_QUAL" 1>&2
     convert $1 -define quality=$JPG_QUAL $2 >> log.txt
     ifErrorPrintAndExit "Creating jpg failed.  Bailing"  100
   fi
+}
+
+
+function createJPEGwithSVGfilter () {
+      local stub=$1
+      
+
+      # First, create the mask.
+      convert $stub.png -alpha extract $stub"_alpha.png"
+      ifErrorPrintAndExit "Error extracting alpha channel from $stub.png.  Bailing"  200
+      
+      #.. Next, convert the mask to a jpg
+      toJPEG $stub"_alpha.png" $stub"_alpha.jpg"
+      ifErrorPrintAndExit "Could not convert $stub"_alpha.png" to JPEG format.  Bailing"  201
+      
+      #.. Next, convert the original image to JPEG
+      toJPEG $stub".png" $stub".jpg"
+      ifErrorPrintAndExit "Could not convert $stub".png" to JPEG format.  Bailing"  202
+
+      #.. Finally, create the SVG wrapper around the image
+      local DIMS=`identify $stub.png | awk '{print $3}'`
+      local WIDTH=`echo $DIMS | awk -F"x" '{print $1}'`
+      local HEIGHT=`echo $DIMS | awk -F"x" '{print $2}'`
+      local BASE64ORIG=`cat $stub'.jpg' | base64`
+      ifErrorPrintAndExit "Could not convert $stub".jpg" to base64.  Bailing"  203
+      
+      local BASE64ALPHA=`cat $stub'_alpha.jpg' | base64`
+      ifErrorPrintAndExit "Could not convert $stub"_alpha.jpg" to base64.  Bailing"  204
+      
+      #.. Remove the intermediate files
+      # rm $stub"_alpha.png" $stub"_alpha.jpg" $stub".jpg"
+      
+      echo '<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 '$WIDTH' '$HEIGHT'" width="'$WIDTH'" height="'$HEIGHT'" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask id="a" maskUnits="userSpaceOnUse" maskContentUnits="userSpaceOnUse">
+      <image width="'$WIDTH'px" height="'$HEIGHT'px" xlink:href="data:image/jpeg;base64,'$BASE64ALPHA'"></image>
+    </mask>
+  </defs>
+  <image style="mask: url(#a);" xlink:href="data:image/jpeg;base64,'$BASE64ORIG'" height="100%" width="100%" />
+</svg>' > $stub.svg
+
+      if [ "$COMPRESS_SVG" = "true" ]
+      then
+        gzip -9 $stub.svg
+        ifErrorPrintAndExit "Problem gzipping $stub.svg (is gzip installed?).  Bailing"  205
+        mv $stub.svg.gz $stub.svgz 
+      fi
 }
 
 #.. cutImages(STUBS): will take the png version and convert to all the different formats. 
@@ -194,41 +261,11 @@ function cutImages() {
     #.. if this is *not* an alpha image let's create a JPEG with mask that we can
     #   use in an SVG.
     else 
-     
-      # First, create the mask.
-      convert $stub.png -alpha extract $stub"_alpha.png"
-      
-      #.. Now, let's stitch the mask with the original image
-      convert $stub.png $stub"_alpha.png" +append $stub"_masked.png"
-      
-      #.. Next, convert to JPEG
-      toJPEG $stub"_masked.png" $stub"_masked.jpg"
-      
-      #.. Remove the intermediate files
-      rm $stub"_masked.png" # $stub"_alpha.png"
-      
-      #.. Finally, create the SVG wrapper around the image
-      local DIMS=`identify $stub.png | awk '{print $3}'`
-      local WIDTH=`echo $DIMS | awk -F"x" '{print $1}'`
-      local HEIGHT=`echo $DIMS | awk -F"x" '{print $2}'`
-      local BASE64=`cat $stub'_masked.jpg' | base64`
-      
-      echo '<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 '$WIDTH' '$HEIGHT'" width="'$WIDTH'" height="'$HEIGHT'" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="a">
-      <feOffset result="b" in="SourceGraphic" dx="-'$WIDTH'"></feOffset>
-      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0" type="matrix" result="b" in="b"></feColorMatrix>
-      <feComposite operator="in" in2="b" in="SourceGraphic"></feComposite>
-    </filter>
-  </defs>
-  <image filter="url(#a)" xlink:href="data:image/jpeg;base64,'$BASE64'" height="100%" width="200%" />
-</svg>' > $stub.svg
-
-    
+      createJPEGwithSVGfilter $stub
     fi
     
     echo "   - webp (Quality: $WEBP_QUAL)" 1>&2
-    cwebp $stub.png -o $stub.webp -q $WEBP_QUAL $WEBP_SHARP $WEBP_ALPHA_PARAM >> log.txt 2> log.txt
+    cwebp $stub.png -o $stub.webp -q $WEBP_QUAL $WEBP_SHARP $WEBP_ALPHA_PARAM >> log.txt 2>> log.txt
     ifErrorPrintAndExit "Creating cwebp failed.  Bailing"  101
     
     echo "   - jp2 (Rate: $JP2_RATE)" 1>&2
@@ -236,7 +273,7 @@ function cutImages() {
     convert $stub.png -compress none -define tiff:alpha=associated  $stub.tif
     ifErrorPrintAndExit "Creating tif failed.  Bailing"  102
     
-    kdu_compress -i $stub.tif -o $stub.jp2  $JP2_ALPHA_PARAM $JP2_PARAMS -rate $JP2_RATE >> log.txt 2>log.txt
+    kdu_compress -i $stub.tif -o $stub.jp2  $JP2_ALPHA_PARAM $JP2_PARAMS -rate $JP2_RATE >> log.txt 2>>log.txt
     
     ifErrorPrintAndExit "Creating jpg2000 failed.  Bailing"  103
     
@@ -267,7 +304,7 @@ function cutImages() {
     if [ "$NO_PNG" != "true" ]
     then
       echo "   - quantized png" 1>&2
-      pngquant --speed 1 --ext -quant.png -v $stub.png >> log.txt 2> log.txt
+      pngquant --speed 1 --ext -quant.png -v $stub.png >> log.txt 2>> log.txt
       ifErrorPrintAndExit "Creating QUANTIZED png failed.  Bailing"  104
     fi
     

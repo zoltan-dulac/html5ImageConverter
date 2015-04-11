@@ -19,3 +19,3104 @@ saturn-2016.png:
   mapped image to new colors...MSE=1.182 (Q=95)
   writing 256-color image as saturn-2016-quant.png
 No errors detected while quantizing 1 image.
+Saving file 'saturn-320.webp'
+File:      saturn-320.png
+Dimension: 320 x 188 (with alpha)
+Output:    15440 bytes Y-U-V-All-PSNR 43.76 42.42 43.18   43.41 dB
+block count:  intra4: 198
+              intra16: 42  (-> 17.50%)
+              skipped block: 2 (0.83%)
+bytes used:  header:            266  (1.7%)
+             mode-partition:    982  (6.4%)
+             transparency:     6345 (54.4 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      11%|      15%|      63%|     240
+      quantizer:  |      20 |      19 |      15 |      11 |
+   filter level:  |      12 |      13 |       9 |       9 |
+Lossless-alpha compressed size: 6344 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,475 = 0.595080 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,243 = 0.564229 bpp.
+Body bytes (excludes packet and codestream headers) = 4,059 = 0.539761 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.595080
+Layer thresholds:
+        42835
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-320.png:
+  read 77KB file corrected for gamma 2.2
+  made histogram...18776 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...92 entries transparent
+  mapped image to new colors...MSE=1.270 (Q=95)
+  writing 256-color image as saturn-320-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-600.webp'
+File:      saturn-600.png
+Dimension: 600 x 352 (with alpha)
+Output:    43842 bytes Y-U-V-All-PSNR 44.55 43.37 44.42   44.31 dB
+block count:  intra4: 584
+              intra16: 252  (-> 30.14%)
+              skipped block: 38 (4.55%)
+bytes used:  header:            393  (0.9%)
+             mode-partition:   2592  (5.9%)
+             transparency:    20823 (54.3 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|      12%|      18%|      65%|     836
+      quantizer:  |      20 |      19 |      15 |      12 |
+   filter level:  |       8 |       9 |       9 |       8 |
+Lossless-alpha compressed size: 20822 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 15,708 = 0.595000 bits/pel.
+Compressed bytes (excludes codestream headers) = 15,476 = 0.586212 bpp.
+Body bytes (excludes packet and codestream headers) = 15,132 = 0.573182 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.595000
+Layer thresholds:
+        42327
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-600.png:
+  read 218KB file corrected for gamma 2.2
+  made histogram...35824 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...20%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...71%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...88%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...82 entries transparent
+  mapped image to new colors...MSE=1.222 (Q=95)
+  writing 256-color image as saturn-600-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-640.webp'
+File:      saturn-640.png
+Dimension: 640 x 375 (with alpha)
+Output:    48666 bytes Y-U-V-All-PSNR 44.60 43.38 44.49   44.36 dB
+block count:  intra4: 654
+              intra16: 306  (-> 31.88%)
+              skipped block: 57 (5.94%)
+bytes used:  header:            391  (0.8%)
+             mode-partition:   2871  (5.9%)
+             transparency:    23546 (54.3 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|      12%|      17%|      66%|     960
+      quantizer:  |      20 |      19 |      16 |      12 |
+   filter level:  |      12 |       9 |       8 |       8 |
+Lossless-alpha compressed size: 23545 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 14,910 = 0.497000 bits/pel.
+Compressed bytes (excludes codestream headers) = 14,678 = 0.489267 bpp.
+Body bytes (excludes packet and codestream headers) = 14,342 = 0.478067 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.497000
+Layer thresholds:
+        42469
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-640.png:
+  read 241KB file corrected for gamma 2.2
+  made histogram...35335 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...22%
+  selecting colors...35%
+  selecting colors...47%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...87 entries transparent
+  mapped image to new colors...MSE=1.225 (Q=95)
+  writing 256-color image as saturn-640-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-1024.webp'
+File:      saturn-1024.png
+Dimension: 1024 x 600 (with alpha)
+Output:    110710 bytes Y-U-V-All-PSNR 45.36 43.59 44.68   44.90 dB
+block count:  intra4: 1426
+              intra16: 1006  (-> 41.37%)
+              skipped block: 202 (8.31%)
+bytes used:  header:            489  (0.4%)
+             mode-partition:   6065  (5.5%)
+             transparency:    59814 (54.3 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      14%|      16%|      68%|       0%|    2432
+      quantizer:  |      20 |      16 |      12 |      12 |
+   filter level:  |      12 |      12 |       8 |       0 |
+Lossless-alpha compressed size: 59813 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 37,769 = 0.491784 bits/pel.
+Compressed bytes (excludes codestream headers) = 37,537 = 0.488763 bpp.
+Body bytes (excludes packet and codestream headers) = 36,983 = 0.481549 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.491784
+Layer thresholds:
+        42276
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-1024.png:
+  read 525KB file corrected for gamma 2.2
+  made histogram...48996 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...86 entries transparent
+  mapped image to new colors...MSE=1.202 (Q=95)
+  writing 256-color image as saturn-1024-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-1200.webp'
+File:      saturn-1200.png
+Dimension: 1200 x 703 (with alpha)
+Output:    142610 bytes Y-U-V-All-PSNR 45.75 44.22 45.60   45.43 dB
+block count:  intra4: 1882
+              intra16: 1418  (-> 42.97%)
+              skipped block: 358 (10.85%)
+bytes used:  header:            546  (0.4%)
+             mode-partition:   7731  (5.4%)
+             transparency:    78863 (54.2 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|      10%|      15%|      72%|    3300
+      quantizer:  |      20 |      19 |      16 |      12 |
+   filter level:  |      12 |       9 |       8 |       8 |
+Lossless-alpha compressed size: 78862 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 52,385 = 0.496776 bits/pel.
+Compressed bytes (excludes codestream headers) = 52,153 = 0.494576 bpp.
+Body bytes (excludes packet and codestream headers) = 51,445 = 0.487862 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.496776
+Layer thresholds:
+        42236
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-1200.png:
+  read 668KB file corrected for gamma 2.2
+  made histogram...64259 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...86 entries transparent
+  mapped image to new colors...MSE=1.204 (Q=95)
+  writing 256-color image as saturn-1200-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-2016.webp'
+File:      saturn-2016.png
+Dimension: 2016 x 1181 (with alpha)
+Output:    331340 bytes Y-U-V-All-PSNR 46.84 45.19 46.78   46.51 dB
+block count:  intra4: 5041
+              intra16: 4283  (-> 45.94%)
+              skipped block: 1442 (15.47%)
+bytes used:  header:            653  (0.2%)
+             mode-partition:  17985  (5.4%)
+             transparency:   193792 (54.2 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      14%|      76%|       0%|    9324
+      quantizer:  |      20 |      17 |      12 |      12 |
+   filter level:  |      12 |       7 |       8 |       0 |
+Lossless-alpha compressed size: 193791 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 145,989 = 0.490535 bits/pel.
+Compressed bytes (excludes codestream headers) = 145,757 = 0.489755 bpp.
+Body bytes (excludes packet and codestream headers) = 144,329 = 0.484957 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.490535
+Layer thresholds:
+        42087
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-2016.png:
+  read 1457KB file corrected for gamma 2.2
+  made histogram...90265 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...11%
+  selecting colors...13%
+  selecting colors...26%
+  selecting colors...39%
+  selecting colors...52%
+  selecting colors...64%
+  selecting colors...77%
+  selecting colors...90%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...87 entries transparent
+  mapped image to new colors...MSE=1.182 (Q=95)
+  writing 256-color image as saturn-2016-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-320.webp'
+File:      saturn-320.png
+Dimension: 320 x 188 (with alpha)
+Output:    15440 bytes Y-U-V-All-PSNR 43.76 42.42 43.18   43.41 dB
+block count:  intra4: 198
+              intra16: 42  (-> 17.50%)
+              skipped block: 2 (0.83%)
+bytes used:  header:            266  (1.7%)
+             mode-partition:    982  (6.4%)
+             transparency:     6345 (54.4 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      11%|      15%|      63%|     240
+      quantizer:  |      20 |      19 |      15 |      11 |
+   filter level:  |      12 |      13 |       9 |       9 |
+Lossless-alpha compressed size: 6344 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,473 = 0.594814 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,241 = 0.563963 bpp.
+Body bytes (excludes packet and codestream headers) = 4,058 = 0.539628 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.594814
+Layer thresholds:
+        42840
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-320.png:
+  read 77KB file corrected for gamma 2.2
+  made histogram...18776 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...92 entries transparent
+  mapped image to new colors...MSE=1.270 (Q=95)
+  writing 256-color image as saturn-320-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-600.webp'
+File:      saturn-600.png
+Dimension: 600 x 352 (with alpha)
+Output:    43842 bytes Y-U-V-All-PSNR 44.55 43.37 44.42   44.31 dB
+block count:  intra4: 584
+              intra16: 252  (-> 30.14%)
+              skipped block: 38 (4.55%)
+bytes used:  header:            393  (0.9%)
+             mode-partition:   2592  (5.9%)
+             transparency:    20823 (54.3 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|      12%|      18%|      65%|     836
+      quantizer:  |      20 |      19 |      15 |      12 |
+   filter level:  |       8 |       9 |       9 |       8 |
+Lossless-alpha compressed size: 20822 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 15,708 = 0.595000 bits/pel.
+Compressed bytes (excludes codestream headers) = 15,476 = 0.586212 bpp.
+Body bytes (excludes packet and codestream headers) = 15,132 = 0.573182 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.595000
+Layer thresholds:
+        42327
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-600.png:
+  read 218KB file corrected for gamma 2.2
+  made histogram...35824 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...20%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...71%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...88%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...82 entries transparent
+  mapped image to new colors...MSE=1.222 (Q=95)
+  writing 256-color image as saturn-600-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-640.webp'
+File:      saturn-640.png
+Dimension: 640 x 375 (with alpha)
+Output:    48666 bytes Y-U-V-All-PSNR 44.60 43.38 44.49   44.36 dB
+block count:  intra4: 654
+              intra16: 306  (-> 31.88%)
+              skipped block: 57 (5.94%)
+bytes used:  header:            391  (0.8%)
+             mode-partition:   2871  (5.9%)
+             transparency:    23546 (54.3 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|      12%|      17%|      66%|     960
+      quantizer:  |      20 |      19 |      16 |      12 |
+   filter level:  |      12 |       9 |       8 |       8 |
+Lossless-alpha compressed size: 23545 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 14,963 = 0.498767 bits/pel.
+Compressed bytes (excludes codestream headers) = 14,731 = 0.491033 bpp.
+Body bytes (excludes packet and codestream headers) = 14,395 = 0.479833 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.498767
+Layer thresholds:
+        42467
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-640.png:
+  read 241KB file corrected for gamma 2.2
+  made histogram...35335 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...22%
+  selecting colors...35%
+  selecting colors...47%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...87 entries transparent
+  mapped image to new colors...MSE=1.225 (Q=95)
+  writing 256-color image as saturn-640-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-1024.webp'
+File:      saturn-1024.png
+Dimension: 1024 x 600 (with alpha)
+Output:    110710 bytes Y-U-V-All-PSNR 45.36 43.59 44.68   44.90 dB
+block count:  intra4: 1426
+              intra16: 1006  (-> 41.37%)
+              skipped block: 202 (8.31%)
+bytes used:  header:            489  (0.4%)
+             mode-partition:   6065  (5.5%)
+             transparency:    59814 (54.3 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      14%|      16%|      68%|       0%|    2432
+      quantizer:  |      20 |      16 |      12 |      12 |
+   filter level:  |      12 |      12 |       8 |       0 |
+Lossless-alpha compressed size: 59813 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 37,746 = 0.491484 bits/pel.
+Compressed bytes (excludes codestream headers) = 37,514 = 0.488464 bpp.
+Body bytes (excludes packet and codestream headers) = 36,961 = 0.481263 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.491484
+Layer thresholds:
+        42279
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-1024.png:
+  read 525KB file corrected for gamma 2.2
+  made histogram...48996 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...86 entries transparent
+  mapped image to new colors...MSE=1.202 (Q=95)
+  writing 256-color image as saturn-1024-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-1200.webp'
+File:      saturn-1200.png
+Dimension: 1200 x 703 (with alpha)
+Output:    142610 bytes Y-U-V-All-PSNR 45.75 44.22 45.60   45.43 dB
+block count:  intra4: 1882
+              intra16: 1418  (-> 42.97%)
+              skipped block: 358 (10.85%)
+bytes used:  header:            546  (0.4%)
+             mode-partition:   7731  (5.4%)
+             transparency:    78863 (54.2 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|      10%|      15%|      72%|    3300
+      quantizer:  |      20 |      19 |      16 |      12 |
+   filter level:  |      12 |       9 |       8 |       8 |
+Lossless-alpha compressed size: 78862 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 52,365 = 0.496586 bits/pel.
+Compressed bytes (excludes codestream headers) = 52,133 = 0.494386 bpp.
+Body bytes (excludes packet and codestream headers) = 51,425 = 0.487672 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.496586
+Layer thresholds:
+        42238
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-1200.png:
+  read 668KB file corrected for gamma 2.2
+  made histogram...64259 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...86 entries transparent
+  mapped image to new colors...MSE=1.204 (Q=95)
+  writing 256-color image as saturn-1200-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-2016.webp'
+File:      saturn-2016.png
+Dimension: 2016 x 1181 (with alpha)
+Output:    331340 bytes Y-U-V-All-PSNR 46.84 45.19 46.78   46.51 dB
+block count:  intra4: 5041
+              intra16: 4283  (-> 45.94%)
+              skipped block: 1442 (15.47%)
+bytes used:  header:            653  (0.2%)
+             mode-partition:  17985  (5.4%)
+             transparency:   193792 (54.2 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      14%|      76%|       0%|    9324
+      quantizer:  |      20 |      17 |      12 |      12 |
+   filter level:  |      12 |       7 |       8 |       0 |
+Lossless-alpha compressed size: 193791 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 145,989 = 0.490535 bits/pel.
+Compressed bytes (excludes codestream headers) = 145,757 = 0.489755 bpp.
+Body bytes (excludes packet and codestream headers) = 144,329 = 0.484957 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.490535
+Layer thresholds:
+        42087
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-2016.png:
+  read 1457KB file corrected for gamma 2.2
+  made histogram...90265 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...11%
+  selecting colors...13%
+  selecting colors...26%
+  selecting colors...39%
+  selecting colors...52%
+  selecting colors...64%
+  selecting colors...77%
+  selecting colors...90%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...87 entries transparent
+  mapped image to new colors...MSE=1.182 (Q=95)
+  writing 256-color image as saturn-2016-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-320.webp'
+File:      saturn-320.png
+Dimension: 320 x 188 (with alpha)
+Output:    15440 bytes Y-U-V-All-PSNR 43.76 42.42 43.18   43.41 dB
+block count:  intra4: 198
+              intra16: 42  (-> 17.50%)
+              skipped block: 2 (0.83%)
+bytes used:  header:            266  (1.7%)
+             mode-partition:    982  (6.4%)
+             transparency:     6345 (54.4 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      11%|      15%|      63%|     240
+      quantizer:  |      20 |      19 |      15 |      11 |
+   filter level:  |      12 |      13 |       9 |       9 |
+Lossless-alpha compressed size: 6344 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,473 = 0.594814 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,241 = 0.563963 bpp.
+Body bytes (excludes packet and codestream headers) = 4,058 = 0.539628 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.594814
+Layer thresholds:
+        42843
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-320.png:
+  read 77KB file corrected for gamma 2.2
+  made histogram...18776 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...92 entries transparent
+  mapped image to new colors...MSE=1.270 (Q=95)
+  writing 256-color image as saturn-320-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-600.webp'
+File:      saturn-600.png
+Dimension: 600 x 352 (with alpha)
+Output:    43842 bytes Y-U-V-All-PSNR 44.55 43.37 44.42   44.31 dB
+block count:  intra4: 584
+              intra16: 252  (-> 30.14%)
+              skipped block: 38 (4.55%)
+bytes used:  header:            393  (0.9%)
+             mode-partition:   2592  (5.9%)
+             transparency:    20823 (54.3 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|      12%|      18%|      65%|     836
+      quantizer:  |      20 |      19 |      15 |      12 |
+   filter level:  |       8 |       9 |       9 |       8 |
+Lossless-alpha compressed size: 20822 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 15,708 = 0.595000 bits/pel.
+Compressed bytes (excludes codestream headers) = 15,476 = 0.586212 bpp.
+Body bytes (excludes packet and codestream headers) = 15,132 = 0.573182 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.595000
+Layer thresholds:
+        42327
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-600.png:
+  read 218KB file corrected for gamma 2.2
+  made histogram...35824 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...20%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...71%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...88%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...82 entries transparent
+  mapped image to new colors...MSE=1.222 (Q=95)
+  writing 256-color image as saturn-600-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-640.webp'
+File:      saturn-640.png
+Dimension: 640 x 375 (with alpha)
+Output:    48666 bytes Y-U-V-All-PSNR 44.60 43.38 44.49   44.36 dB
+block count:  intra4: 654
+              intra16: 306  (-> 31.88%)
+              skipped block: 57 (5.94%)
+bytes used:  header:            391  (0.8%)
+             mode-partition:   2871  (5.9%)
+             transparency:    23546 (54.3 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|      12%|      17%|      66%|     960
+      quantizer:  |      20 |      19 |      16 |      12 |
+   filter level:  |      12 |       9 |       8 |       8 |
+Lossless-alpha compressed size: 23545 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 14,910 = 0.497000 bits/pel.
+Compressed bytes (excludes codestream headers) = 14,678 = 0.489267 bpp.
+Body bytes (excludes packet and codestream headers) = 14,342 = 0.478067 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.497000
+Layer thresholds:
+        42469
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-640.png:
+  read 241KB file corrected for gamma 2.2
+  made histogram...35335 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...22%
+  selecting colors...35%
+  selecting colors...47%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...87 entries transparent
+  mapped image to new colors...MSE=1.225 (Q=95)
+  writing 256-color image as saturn-640-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-1024.webp'
+File:      saturn-1024.png
+Dimension: 1024 x 600 (with alpha)
+Output:    110710 bytes Y-U-V-All-PSNR 45.36 43.59 44.68   44.90 dB
+block count:  intra4: 1426
+              intra16: 1006  (-> 41.37%)
+              skipped block: 202 (8.31%)
+bytes used:  header:            489  (0.4%)
+             mode-partition:   6065  (5.5%)
+             transparency:    59814 (54.3 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      14%|      16%|      68%|       0%|    2432
+      quantizer:  |      20 |      16 |      12 |      12 |
+   filter level:  |      12 |      12 |       8 |       0 |
+Lossless-alpha compressed size: 59813 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 37,764 = 0.491719 bits/pel.
+Compressed bytes (excludes codestream headers) = 37,532 = 0.488698 bpp.
+Body bytes (excludes packet and codestream headers) = 36,979 = 0.481497 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.491719
+Layer thresholds:
+        42278
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-1024.png:
+  read 525KB file corrected for gamma 2.2
+  made histogram...48996 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...86 entries transparent
+  mapped image to new colors...MSE=1.202 (Q=95)
+  writing 256-color image as saturn-1024-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-1200.webp'
+File:      saturn-1200.png
+Dimension: 1200 x 703 (with alpha)
+Output:    142610 bytes Y-U-V-All-PSNR 45.75 44.22 45.60   45.43 dB
+block count:  intra4: 1882
+              intra16: 1418  (-> 42.97%)
+              skipped block: 358 (10.85%)
+bytes used:  header:            546  (0.4%)
+             mode-partition:   7731  (5.4%)
+             transparency:    78863 (54.2 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|      10%|      15%|      72%|    3300
+      quantizer:  |      20 |      19 |      16 |      12 |
+   filter level:  |      12 |       9 |       8 |       8 |
+Lossless-alpha compressed size: 78862 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 52,429 = 0.497193 bits/pel.
+Compressed bytes (excludes codestream headers) = 52,197 = 0.494993 bpp.
+Body bytes (excludes packet and codestream headers) = 51,489 = 0.488279 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.497193
+Layer thresholds:
+        42234
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-1200.png:
+  read 668KB file corrected for gamma 2.2
+  made histogram...64259 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...86 entries transparent
+  mapped image to new colors...MSE=1.204 (Q=95)
+  writing 256-color image as saturn-1200-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-2016.webp'
+File:      saturn-2016.png
+Dimension: 2016 x 1181 (with alpha)
+Output:    331340 bytes Y-U-V-All-PSNR 46.84 45.19 46.78   46.51 dB
+block count:  intra4: 5041
+              intra16: 4283  (-> 45.94%)
+              skipped block: 1442 (15.47%)
+bytes used:  header:            653  (0.2%)
+             mode-partition:  17985  (5.4%)
+             transparency:   193792 (54.2 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      14%|      76%|       0%|    9324
+      quantizer:  |      20 |      17 |      12 |      12 |
+   filter level:  |      12 |       7 |       8 |       0 |
+Lossless-alpha compressed size: 193791 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 146,096 = 0.490894 bits/pel.
+Compressed bytes (excludes codestream headers) = 145,864 = 0.490115 bpp.
+Body bytes (excludes packet and codestream headers) = 144,436 = 0.485316 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.490894
+Layer thresholds:
+        42086
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-2016.png:
+  read 1457KB file corrected for gamma 2.2
+  made histogram...90265 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...11%
+  selecting colors...13%
+  selecting colors...26%
+  selecting colors...39%
+  selecting colors...52%
+  selecting colors...64%
+  selecting colors...77%
+  selecting colors...90%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...87 entries transparent
+  mapped image to new colors...MSE=1.182 (Q=95)
+  writing 256-color image as saturn-2016-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-320.webp'
+File:      saturn-320.png
+Dimension: 320 x 188 (with alpha)
+Output:    15440 bytes Y-U-V-All-PSNR 43.76 42.42 43.18   43.41 dB
+block count:  intra4: 198
+              intra16: 42  (-> 17.50%)
+              skipped block: 2 (0.83%)
+bytes used:  header:            266  (1.7%)
+             mode-partition:    982  (6.4%)
+             transparency:     6345 (54.4 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      11%|      15%|      63%|     240
+      quantizer:  |      20 |      19 |      15 |      11 |
+   filter level:  |      12 |      13 |       9 |       9 |
+Lossless-alpha compressed size: 6344 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,473 = 0.594814 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,241 = 0.563963 bpp.
+Body bytes (excludes packet and codestream headers) = 4,058 = 0.539628 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.594814
+Layer thresholds:
+        42842
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-320.png:
+  read 77KB file corrected for gamma 2.2
+  made histogram...18776 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...92 entries transparent
+  mapped image to new colors...MSE=1.270 (Q=95)
+  writing 256-color image as saturn-320-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-600.webp'
+File:      saturn-600.png
+Dimension: 600 x 352 (with alpha)
+Output:    43842 bytes Y-U-V-All-PSNR 44.55 43.37 44.42   44.31 dB
+block count:  intra4: 584
+              intra16: 252  (-> 30.14%)
+              skipped block: 38 (4.55%)
+bytes used:  header:            393  (0.9%)
+             mode-partition:   2592  (5.9%)
+             transparency:    20823 (54.3 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|      12%|      18%|      65%|     836
+      quantizer:  |      20 |      19 |      15 |      12 |
+   filter level:  |       8 |       9 |       9 |       8 |
+Lossless-alpha compressed size: 20822 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 15,708 = 0.595000 bits/pel.
+Compressed bytes (excludes codestream headers) = 15,476 = 0.586212 bpp.
+Body bytes (excludes packet and codestream headers) = 15,132 = 0.573182 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.595000
+Layer thresholds:
+        42327
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-600.png:
+  read 218KB file corrected for gamma 2.2
+  made histogram...35824 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...20%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...71%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...88%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...82 entries transparent
+  mapped image to new colors...MSE=1.222 (Q=95)
+  writing 256-color image as saturn-600-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-640.webp'
+File:      saturn-640.png
+Dimension: 640 x 375 (with alpha)
+Output:    48666 bytes Y-U-V-All-PSNR 44.60 43.38 44.49   44.36 dB
+block count:  intra4: 654
+              intra16: 306  (-> 31.88%)
+              skipped block: 57 (5.94%)
+bytes used:  header:            391  (0.8%)
+             mode-partition:   2871  (5.9%)
+             transparency:    23546 (54.3 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|      12%|      17%|      66%|     960
+      quantizer:  |      20 |      19 |      16 |      12 |
+   filter level:  |      12 |       9 |       8 |       8 |
+Lossless-alpha compressed size: 23545 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 14,910 = 0.497000 bits/pel.
+Compressed bytes (excludes codestream headers) = 14,678 = 0.489267 bpp.
+Body bytes (excludes packet and codestream headers) = 14,342 = 0.478067 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.497000
+Layer thresholds:
+        42469
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-640.png:
+  read 241KB file corrected for gamma 2.2
+  made histogram...35335 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...22%
+  selecting colors...35%
+  selecting colors...47%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...87 entries transparent
+  mapped image to new colors...MSE=1.225 (Q=95)
+  writing 256-color image as saturn-640-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-1024.webp'
+File:      saturn-1024.png
+Dimension: 1024 x 600 (with alpha)
+Output:    110710 bytes Y-U-V-All-PSNR 45.36 43.59 44.68   44.90 dB
+block count:  intra4: 1426
+              intra16: 1006  (-> 41.37%)
+              skipped block: 202 (8.31%)
+bytes used:  header:            489  (0.4%)
+             mode-partition:   6065  (5.5%)
+             transparency:    59814 (54.3 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      14%|      16%|      68%|       0%|    2432
+      quantizer:  |      20 |      16 |      12 |      12 |
+   filter level:  |      12 |      12 |       8 |       0 |
+Lossless-alpha compressed size: 59813 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 37,769 = 0.491784 bits/pel.
+Compressed bytes (excludes codestream headers) = 37,537 = 0.488763 bpp.
+Body bytes (excludes packet and codestream headers) = 36,983 = 0.481549 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.491784
+Layer thresholds:
+        42276
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-1024.png:
+  read 525KB file corrected for gamma 2.2
+  made histogram...48996 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...86 entries transparent
+  mapped image to new colors...MSE=1.202 (Q=95)
+  writing 256-color image as saturn-1024-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-1200.webp'
+File:      saturn-1200.png
+Dimension: 1200 x 703 (with alpha)
+Output:    142610 bytes Y-U-V-All-PSNR 45.75 44.22 45.60   45.43 dB
+block count:  intra4: 1882
+              intra16: 1418  (-> 42.97%)
+              skipped block: 358 (10.85%)
+bytes used:  header:            546  (0.4%)
+             mode-partition:   7731  (5.4%)
+             transparency:    78863 (54.2 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|      10%|      15%|      72%|    3300
+      quantizer:  |      20 |      19 |      16 |      12 |
+   filter level:  |      12 |       9 |       8 |       8 |
+Lossless-alpha compressed size: 78862 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 52,385 = 0.496776 bits/pel.
+Compressed bytes (excludes codestream headers) = 52,153 = 0.494576 bpp.
+Body bytes (excludes packet and codestream headers) = 51,445 = 0.487862 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.496776
+Layer thresholds:
+        42236
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-1200.png:
+  read 668KB file corrected for gamma 2.2
+  made histogram...64259 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...86 entries transparent
+  mapped image to new colors...MSE=1.204 (Q=95)
+  writing 256-color image as saturn-1200-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-2016.webp'
+File:      saturn-2016.png
+Dimension: 2016 x 1181 (with alpha)
+Output:    331340 bytes Y-U-V-All-PSNR 46.84 45.19 46.78   46.51 dB
+block count:  intra4: 5041
+              intra16: 4283  (-> 45.94%)
+              skipped block: 1442 (15.47%)
+bytes used:  header:            653  (0.2%)
+             mode-partition:  17985  (5.4%)
+             transparency:   193792 (54.2 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      14%|      76%|       0%|    9324
+      quantizer:  |      20 |      17 |      12 |      12 |
+   filter level:  |      12 |       7 |       8 |       0 |
+Lossless-alpha compressed size: 193791 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 146,096 = 0.490894 bits/pel.
+Compressed bytes (excludes codestream headers) = 145,864 = 0.490115 bpp.
+Body bytes (excludes packet and codestream headers) = 144,436 = 0.485316 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.490894
+Layer thresholds:
+        42086
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-2016.png:
+  read 1457KB file corrected for gamma 2.2
+  made histogram...90265 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...11%
+  selecting colors...13%
+  selecting colors...26%
+  selecting colors...39%
+  selecting colors...52%
+  selecting colors...64%
+  selecting colors...77%
+  selecting colors...90%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...87 entries transparent
+  mapped image to new colors...MSE=1.182 (Q=95)
+  writing 256-color image as saturn-2016-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-320.webp'
+File:      saturn-320.png
+Dimension: 320 x 188 (with alpha)
+Output:    15440 bytes Y-U-V-All-PSNR 43.76 42.42 43.18   43.41 dB
+block count:  intra4: 198
+              intra16: 42  (-> 17.50%)
+              skipped block: 2 (0.83%)
+bytes used:  header:            266  (1.7%)
+             mode-partition:    982  (6.4%)
+             transparency:     6345 (54.4 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      11%|      15%|      63%|     240
+      quantizer:  |      20 |      19 |      15 |      11 |
+   filter level:  |      12 |      13 |       9 |       9 |
+Lossless-alpha compressed size: 6344 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,473 = 0.594814 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,241 = 0.563963 bpp.
+Body bytes (excludes packet and codestream headers) = 4,058 = 0.539628 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.594814
+Layer thresholds:
+        42836
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-320.png:
+  read 77KB file corrected for gamma 2.2
+  made histogram...18776 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...92 entries transparent
+  mapped image to new colors...MSE=1.270 (Q=95)
+  writing 256-color image as saturn-320-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-600.webp'
+File:      saturn-600.png
+Dimension: 600 x 352 (with alpha)
+Output:    43842 bytes Y-U-V-All-PSNR 44.55 43.37 44.42   44.31 dB
+block count:  intra4: 584
+              intra16: 252  (-> 30.14%)
+              skipped block: 38 (4.55%)
+bytes used:  header:            393  (0.9%)
+             mode-partition:   2592  (5.9%)
+             transparency:    20823 (54.3 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|      12%|      18%|      65%|     836
+      quantizer:  |      20 |      19 |      15 |      12 |
+   filter level:  |       8 |       9 |       9 |       8 |
+Lossless-alpha compressed size: 20822 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 15,708 = 0.595000 bits/pel.
+Compressed bytes (excludes codestream headers) = 15,476 = 0.586212 bpp.
+Body bytes (excludes packet and codestream headers) = 15,132 = 0.573182 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.595000
+Layer thresholds:
+        42326
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-600.png:
+  read 218KB file corrected for gamma 2.2
+  made histogram...35824 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...20%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...71%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...88%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...82 entries transparent
+  mapped image to new colors...MSE=1.222 (Q=95)
+  writing 256-color image as saturn-600-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-640.webp'
+File:      saturn-640.png
+Dimension: 640 x 375 (with alpha)
+Output:    48666 bytes Y-U-V-All-PSNR 44.60 43.38 44.49   44.36 dB
+block count:  intra4: 654
+              intra16: 306  (-> 31.88%)
+              skipped block: 57 (5.94%)
+bytes used:  header:            391  (0.8%)
+             mode-partition:   2871  (5.9%)
+             transparency:    23546 (54.3 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|      12%|      17%|      66%|     960
+      quantizer:  |      20 |      19 |      16 |      12 |
+   filter level:  |      12 |       9 |       8 |       8 |
+Lossless-alpha compressed size: 23545 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 14,910 = 0.497000 bits/pel.
+Compressed bytes (excludes codestream headers) = 14,678 = 0.489267 bpp.
+Body bytes (excludes packet and codestream headers) = 14,342 = 0.478067 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.497000
+Layer thresholds:
+        42469
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-640.png:
+  read 241KB file corrected for gamma 2.2
+  made histogram...35335 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...22%
+  selecting colors...35%
+  selecting colors...47%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...87 entries transparent
+  mapped image to new colors...MSE=1.225 (Q=95)
+  writing 256-color image as saturn-640-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-1024.webp'
+File:      saturn-1024.png
+Dimension: 1024 x 600 (with alpha)
+Output:    110710 bytes Y-U-V-All-PSNR 45.36 43.59 44.68   44.90 dB
+block count:  intra4: 1426
+              intra16: 1006  (-> 41.37%)
+              skipped block: 202 (8.31%)
+bytes used:  header:            489  (0.4%)
+             mode-partition:   6065  (5.5%)
+             transparency:    59814 (54.3 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      14%|      16%|      68%|       0%|    2432
+      quantizer:  |      20 |      16 |      12 |      12 |
+   filter level:  |      12 |      12 |       8 |       0 |
+Lossless-alpha compressed size: 59813 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 37,769 = 0.491784 bits/pel.
+Compressed bytes (excludes codestream headers) = 37,537 = 0.488763 bpp.
+Body bytes (excludes packet and codestream headers) = 36,983 = 0.481549 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.491784
+Layer thresholds:
+        42276
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-1024.png:
+  read 525KB file corrected for gamma 2.2
+  made histogram...48996 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...86 entries transparent
+  mapped image to new colors...MSE=1.202 (Q=95)
+  writing 256-color image as saturn-1024-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-1200.webp'
+File:      saturn-1200.png
+Dimension: 1200 x 703 (with alpha)
+Output:    142610 bytes Y-U-V-All-PSNR 45.75 44.22 45.60   45.43 dB
+block count:  intra4: 1882
+              intra16: 1418  (-> 42.97%)
+              skipped block: 358 (10.85%)
+bytes used:  header:            546  (0.4%)
+             mode-partition:   7731  (5.4%)
+             transparency:    78863 (54.2 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|      10%|      15%|      72%|    3300
+      quantizer:  |      20 |      19 |      16 |      12 |
+   filter level:  |      12 |       9 |       8 |       8 |
+Lossless-alpha compressed size: 78862 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 52,429 = 0.497193 bits/pel.
+Compressed bytes (excludes codestream headers) = 52,197 = 0.494993 bpp.
+Body bytes (excludes packet and codestream headers) = 51,489 = 0.488279 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.497193
+Layer thresholds:
+        42235
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-1200.png:
+  read 668KB file corrected for gamma 2.2
+  made histogram...64259 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...86 entries transparent
+  mapped image to new colors...MSE=1.204 (Q=95)
+  writing 256-color image as saturn-1200-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-2016.webp'
+File:      saturn-2016.png
+Dimension: 2016 x 1181 (with alpha)
+Output:    331340 bytes Y-U-V-All-PSNR 46.84 45.19 46.78   46.51 dB
+block count:  intra4: 5041
+              intra16: 4283  (-> 45.94%)
+              skipped block: 1442 (15.47%)
+bytes used:  header:            653  (0.2%)
+             mode-partition:  17985  (5.4%)
+             transparency:   193792 (54.2 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      14%|      76%|       0%|    9324
+      quantizer:  |      20 |      17 |      12 |      12 |
+   filter level:  |      12 |       7 |       8 |       0 |
+Lossless-alpha compressed size: 193791 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 147,303 = 0.494950 bits/pel.
+Compressed bytes (excludes codestream headers) = 147,071 = 0.494170 bpp.
+Body bytes (excludes packet and codestream headers) = 145,639 = 0.489359 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.494950
+Layer thresholds:
+        42082
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-2016.png:
+  read 1457KB file corrected for gamma 2.2
+  made histogram...90265 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...11%
+  selecting colors...13%
+  selecting colors...26%
+  selecting colors...39%
+  selecting colors...52%
+  selecting colors...64%
+  selecting colors...77%
+  selecting colors...90%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...87 entries transparent
+  mapped image to new colors...MSE=1.182 (Q=95)
+  writing 256-color image as saturn-2016-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-320.webp'
+File:      saturn-320.png
+Dimension: 320 x 188 (with alpha)
+Output:    15440 bytes Y-U-V-All-PSNR 43.76 42.42 43.18   43.41 dB
+block count:  intra4: 198
+              intra16: 42  (-> 17.50%)
+              skipped block: 2 (0.83%)
+bytes used:  header:            266  (1.7%)
+             mode-partition:    982  (6.4%)
+             transparency:     6345 (54.4 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      11%|      15%|      63%|     240
+      quantizer:  |      20 |      19 |      15 |      11 |
+   filter level:  |      12 |      13 |       9 |       9 |
+Lossless-alpha compressed size: 6344 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,473 = 0.594814 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,241 = 0.563963 bpp.
+Body bytes (excludes packet and codestream headers) = 4,058 = 0.539628 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.594814
+Layer thresholds:
+        42836
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-320.png:
+  read 77KB file corrected for gamma 2.2
+  made histogram...18776 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...92 entries transparent
+  mapped image to new colors...MSE=1.270 (Q=95)
+  writing 256-color image as saturn-320-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-600.webp'
+File:      saturn-600.png
+Dimension: 600 x 352 (with alpha)
+Output:    43842 bytes Y-U-V-All-PSNR 44.55 43.37 44.42   44.31 dB
+block count:  intra4: 584
+              intra16: 252  (-> 30.14%)
+              skipped block: 38 (4.55%)
+bytes used:  header:            393  (0.9%)
+             mode-partition:   2592  (5.9%)
+             transparency:    20823 (54.3 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|      12%|      18%|      65%|     836
+      quantizer:  |      20 |      19 |      15 |      12 |
+   filter level:  |       8 |       9 |       9 |       8 |
+Lossless-alpha compressed size: 20822 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 15,708 = 0.595000 bits/pel.
+Compressed bytes (excludes codestream headers) = 15,476 = 0.586212 bpp.
+Body bytes (excludes packet and codestream headers) = 15,132 = 0.573182 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.595000
+Layer thresholds:
+        42326
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-600.png:
+  read 218KB file corrected for gamma 2.2
+  made histogram...35824 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...20%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...71%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...88%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...82 entries transparent
+  mapped image to new colors...MSE=1.222 (Q=95)
+  writing 256-color image as saturn-600-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-640.webp'
+File:      saturn-640.png
+Dimension: 640 x 375 (with alpha)
+Output:    48666 bytes Y-U-V-All-PSNR 44.60 43.38 44.49   44.36 dB
+block count:  intra4: 654
+              intra16: 306  (-> 31.88%)
+              skipped block: 57 (5.94%)
+bytes used:  header:            391  (0.8%)
+             mode-partition:   2871  (5.9%)
+             transparency:    23546 (54.3 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|      12%|      17%|      66%|     960
+      quantizer:  |      20 |      19 |      16 |      12 |
+   filter level:  |      12 |       9 |       8 |       8 |
+Lossless-alpha compressed size: 23545 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 14,910 = 0.497000 bits/pel.
+Compressed bytes (excludes codestream headers) = 14,678 = 0.489267 bpp.
+Body bytes (excludes packet and codestream headers) = 14,342 = 0.478067 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.497000
+Layer thresholds:
+        42469
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-640.png:
+  read 241KB file corrected for gamma 2.2
+  made histogram...35335 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...22%
+  selecting colors...35%
+  selecting colors...47%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...87 entries transparent
+  mapped image to new colors...MSE=1.225 (Q=95)
+  writing 256-color image as saturn-640-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-1024.webp'
+File:      saturn-1024.png
+Dimension: 1024 x 600 (with alpha)
+Output:    110710 bytes Y-U-V-All-PSNR 45.36 43.59 44.68   44.90 dB
+block count:  intra4: 1426
+              intra16: 1006  (-> 41.37%)
+              skipped block: 202 (8.31%)
+bytes used:  header:            489  (0.4%)
+             mode-partition:   6065  (5.5%)
+             transparency:    59814 (54.3 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      14%|      16%|      68%|       0%|    2432
+      quantizer:  |      20 |      16 |      12 |      12 |
+   filter level:  |      12 |      12 |       8 |       0 |
+Lossless-alpha compressed size: 59813 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 37,764 = 0.491719 bits/pel.
+Compressed bytes (excludes codestream headers) = 37,532 = 0.488698 bpp.
+Body bytes (excludes packet and codestream headers) = 36,979 = 0.481497 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.491719
+Layer thresholds:
+        42277
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-1024.png:
+  read 525KB file corrected for gamma 2.2
+  made histogram...48996 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...86 entries transparent
+  mapped image to new colors...MSE=1.202 (Q=95)
+  writing 256-color image as saturn-1024-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-1200.webp'
+File:      saturn-1200.png
+Dimension: 1200 x 703 (with alpha)
+Output:    142610 bytes Y-U-V-All-PSNR 45.75 44.22 45.60   45.43 dB
+block count:  intra4: 1882
+              intra16: 1418  (-> 42.97%)
+              skipped block: 358 (10.85%)
+bytes used:  header:            546  (0.4%)
+             mode-partition:   7731  (5.4%)
+             transparency:    78863 (54.2 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|      10%|      15%|      72%|    3300
+      quantizer:  |      20 |      19 |      16 |      12 |
+   filter level:  |      12 |       9 |       8 |       8 |
+Lossless-alpha compressed size: 78862 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 52,429 = 0.497193 bits/pel.
+Compressed bytes (excludes codestream headers) = 52,197 = 0.494993 bpp.
+Body bytes (excludes packet and codestream headers) = 51,489 = 0.488279 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.497193
+Layer thresholds:
+        42235
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-1200.png:
+  read 668KB file corrected for gamma 2.2
+  made histogram...64259 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...86 entries transparent
+  mapped image to new colors...MSE=1.204 (Q=95)
+  writing 256-color image as saturn-1200-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-2016.webp'
+File:      saturn-2016.png
+Dimension: 2016 x 1181 (with alpha)
+Output:    331340 bytes Y-U-V-All-PSNR 46.84 45.19 46.78   46.51 dB
+block count:  intra4: 5041
+              intra16: 4283  (-> 45.94%)
+              skipped block: 1442 (15.47%)
+bytes used:  header:            653  (0.2%)
+             mode-partition:  17985  (5.4%)
+             transparency:   193792 (54.2 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      14%|      76%|       0%|    9324
+      quantizer:  |      20 |      17 |      12 |      12 |
+   filter level:  |      12 |       7 |       8 |       0 |
+Lossless-alpha compressed size: 193791 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 146,241 = 0.491381 bits/pel.
+Compressed bytes (excludes codestream headers) = 146,009 = 0.490602 bpp.
+Body bytes (excludes packet and codestream headers) = 144,581 = 0.485804 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.491381
+Layer thresholds:
+        42085
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-2016.png:
+  read 1457KB file corrected for gamma 2.2
+  made histogram...90265 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...11%
+  selecting colors...13%
+  selecting colors...26%
+  selecting colors...39%
+  selecting colors...52%
+  selecting colors...64%
+  selecting colors...77%
+  selecting colors...90%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...87 entries transparent
+  mapped image to new colors...MSE=1.182 (Q=95)
+  writing 256-color image as saturn-2016-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'space-320.webp'
+File:      space-320.png
+Dimension: 320 x 180
+Output:    2266 bytes Y-U-V-All-PSNR 39.65 56.55 53.58   41.34 dB
+block count:  intra4: 166
+              intra16: 74  (-> 30.83%)
+              skipped block: 7 (2.92%)
+bytes used:  header:             56  (2.5%)
+             mode-partition:    315  (13.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|      12%|      38%|      44%|     240
+      quantizer:  |      45 |      41 |      34 |      27 |
+   filter level:  |      14 |       9 |       6 |       6 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,293 = 0.596250 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,064 = 0.564444 bpp.
+Body bytes (excludes packet and codestream headers) = 3,971 = 0.551528 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.596250
+Layer thresholds:
+        42638
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+space-320.png:
+  read 39KB file corrected for gamma 2.2
+  made histogram...836 colors found
+  selecting colors...3%
+  selecting colors...15%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...45%
+  selecting colors...47%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=0.009 (Q=99)
+  writing 256-color image as space-320-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'space-600.webp'
+File:      space-600.png
+Dimension: 600 x 338
+Output:    6836 bytes Y-U-V-All-PSNR 40.83 54.91 51.63   42.46 dB
+block count:  intra4: 524
+              intra16: 312  (-> 37.32%)
+              skipped block: 60 (7.18%)
+bytes used:  header:             96  (1.4%)
+             mode-partition:   1139  (16.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      13%|      26%|      50%|     836
+      quantizer:  |      45 |      43 |      35 |      25 |
+   filter level:  |      14 |      10 |       6 |       5 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 15,147 = 0.597515 bits/pel.
+Compressed bytes (excludes codestream headers) = 14,918 = 0.588481 bpp.
+Body bytes (excludes packet and codestream headers) = 14,690 = 0.579487 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.597515
+Layer thresholds:
+        42581
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+space-600.png:
+  read 102KB file corrected for gamma 2.2
+  made histogram...2327 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...58%
+  selecting colors...60%
+  selecting colors...62%
+  selecting colors...64%
+  selecting colors...77%
+  selecting colors...90%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=0.028 (Q=99)
+  writing 256-color image as space-600-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'space-640.webp'
+File:      space-640.png
+Dimension: 640 x 360
+Output:    7528 bytes Y-U-V-All-PSNR 40.83 54.75 51.61   42.46 dB
+block count:  intra4: 595
+              intra16: 325  (-> 35.33%)
+              skipped block: 63 (6.85%)
+bytes used:  header:             99  (1.3%)
+             mode-partition:   1252  (16.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|      15%|      25%|      54%|     920
+      quantizer:  |      45 |      45 |      35 |      26 |
+   filter level:  |      14 |      11 |       6 |       5 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 14,325 = 0.497396 bits/pel.
+Compressed bytes (excludes codestream headers) = 14,096 = 0.489444 bpp.
+Body bytes (excludes packet and codestream headers) = 13,880 = 0.481944 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.497396
+Layer thresholds:
+        42686
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+space-640.png:
+  read 112KB file corrected for gamma 2.2
+  made histogram...2535 colors found
+  selecting colors...3%
+  selecting colors...15%
+  selecting colors...28%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...58%
+  selecting colors...71%
+  selecting colors...83%
+  selecting colors...96%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=0.029 (Q=99)
+  writing 256-color image as space-640-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'space-1024.webp'
+File:      space-1024.png
+Dimension: 1024 x 576
+Output:    14214 bytes Y-U-V-All-PSNR 42.23 48.53 51.48   43.63 dB
+block count:  intra4: 1291
+              intra16: 1013  (-> 43.97%)
+              skipped block: 378 (16.41%)
+bytes used:  header:            146  (1.0%)
+             mode-partition:   3072  (21.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      11%|      23%|      55%|    2304
+      quantizer:  |      45 |      45 |      35 |      26 |
+   filter level:  |      14 |      11 |       6 |       5 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 36,148 = 0.490289 bits/pel.
+Compressed bytes (excludes codestream headers) = 35,919 = 0.487183 bpp.
+Body bytes (excludes packet and codestream headers) = 35,493 = 0.481405 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.490289
+Layer thresholds:
+        42529
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+space-1024.png:
+  read 232KB file corrected for gamma 2.2
+  made histogram...4730 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...47%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=0.041 (Q=99)
+  writing 256-color image as space-1024-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'space-1200.webp'
+File:      space-1200.png
+Dimension: 1200 x 675
+Output:    17318 bytes Y-U-V-All-PSNR 42.84 48.32 48.42   44.03 dB
+block count:  intra4: 1622
+              intra16: 1603  (-> 49.71%)
+              skipped block: 693 (21.49%)
+bytes used:  header:            159  (0.9%)
+             mode-partition:   3865  (22.3%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      11%|      22%|      55%|    3225
+      quantizer:  |      45 |      45 |      35 |      26 |
+   filter level:  |      14 |      11 |       7 |       5 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 50,364 = 0.497422 bits/pel.
+Compressed bytes (excludes codestream headers) = 50,135 = 0.495160 bpp.
+Body bytes (excludes packet and codestream headers) = 49,535 = 0.489235 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.497422
+Layer thresholds:
+        42404
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+space-1200.png:
+  read 299KB file corrected for gamma 2.2
+  made histogram...8408 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=0.044 (Q=99)
+  writing 256-color image as space-1200-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'space-2016.webp'
+File:      space-2016.png
+Dimension: 2016 x 1134
+Output:    31490 bytes Y-U-V-All-PSNR 44.77 48.23 47.60   45.59 dB
+block count:  intra4: 3109
+              intra16: 5837  (-> 65.25%)
+              skipped block: 3623 (40.50%)
+bytes used:  header:            169  (0.5%)
+             mode-partition:   9007  (28.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|       9%|      14%|      69%|    8946
+      quantizer:  |      45 |      45 |      37 |      28 |
+   filter level:  |      14 |      18 |      15 |       6 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 142,638 = 0.499139 bits/pel.
+Compressed bytes (excludes codestream headers) = 142,409 = 0.498338 bpp.
+Body bytes (excludes packet and codestream headers) = 140,911 = 0.493096 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.499139
+Layer thresholds:
+        41836
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+space-2016.png:
+  read 705KB file corrected for gamma 2.2
+  made histogram...10801 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...22%
+  selecting colors...35%
+  selecting colors...47%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=0.051 (Q=99)
+  writing 256-color image as space-2016-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'space-320.webp'
+File:      space-320.png
+Dimension: 320 x 180
+Output:    2266 bytes Y-U-V-All-PSNR 39.65 56.55 53.58   41.34 dB
+block count:  intra4: 166
+              intra16: 74  (-> 30.83%)
+              skipped block: 7 (2.92%)
+bytes used:  header:             56  (2.5%)
+             mode-partition:    315  (13.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|      12%|      38%|      44%|     240
+      quantizer:  |      45 |      41 |      34 |      27 |
+   filter level:  |      14 |       9 |       6 |       6 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,293 = 0.596250 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,064 = 0.564444 bpp.
+Body bytes (excludes packet and codestream headers) = 3,971 = 0.551528 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.596250
+Layer thresholds:
+        42640
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+space-320.png:
+  read 39KB file corrected for gamma 2.2
+  made histogram...836 colors found
+  selecting colors...3%
+  selecting colors...15%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...45%
+  selecting colors...47%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=0.009 (Q=99)
+  writing 256-color image as space-320-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'space-600.webp'
+File:      space-600.png
+Dimension: 600 x 338
+Output:    6836 bytes Y-U-V-All-PSNR 40.83 54.91 51.63   42.46 dB
+block count:  intra4: 524
+              intra16: 312  (-> 37.32%)
+              skipped block: 60 (7.18%)
+bytes used:  header:             96  (1.4%)
+             mode-partition:   1139  (16.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      13%|      26%|      50%|     836
+      quantizer:  |      45 |      43 |      35 |      25 |
+   filter level:  |      14 |      10 |       6 |       5 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 15,147 = 0.597515 bits/pel.
+Compressed bytes (excludes codestream headers) = 14,918 = 0.588481 bpp.
+Body bytes (excludes packet and codestream headers) = 14,690 = 0.579487 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.597515
+Layer thresholds:
+        42581
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+space-600.png:
+  read 102KB file corrected for gamma 2.2
+  made histogram...2327 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...58%
+  selecting colors...60%
+  selecting colors...62%
+  selecting colors...64%
+  selecting colors...77%
+  selecting colors...90%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=0.028 (Q=99)
+  writing 256-color image as space-600-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'space-640.webp'
+File:      space-640.png
+Dimension: 640 x 360
+Output:    7528 bytes Y-U-V-All-PSNR 40.83 54.75 51.61   42.46 dB
+block count:  intra4: 595
+              intra16: 325  (-> 35.33%)
+              skipped block: 63 (6.85%)
+bytes used:  header:             99  (1.3%)
+             mode-partition:   1252  (16.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|      15%|      25%|      54%|     920
+      quantizer:  |      45 |      45 |      35 |      26 |
+   filter level:  |      14 |      11 |       6 |       5 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 14,325 = 0.497396 bits/pel.
+Compressed bytes (excludes codestream headers) = 14,096 = 0.489444 bpp.
+Body bytes (excludes packet and codestream headers) = 13,880 = 0.481944 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.497396
+Layer thresholds:
+        42686
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+space-640.png:
+  read 112KB file corrected for gamma 2.2
+  made histogram...2535 colors found
+  selecting colors...3%
+  selecting colors...15%
+  selecting colors...28%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...58%
+  selecting colors...71%
+  selecting colors...83%
+  selecting colors...96%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=0.029 (Q=99)
+  writing 256-color image as space-640-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'space-1024.webp'
+File:      space-1024.png
+Dimension: 1024 x 576
+Output:    14214 bytes Y-U-V-All-PSNR 42.23 48.53 51.48   43.63 dB
+block count:  intra4: 1291
+              intra16: 1013  (-> 43.97%)
+              skipped block: 378 (16.41%)
+bytes used:  header:            146  (1.0%)
+             mode-partition:   3072  (21.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      11%|      23%|      55%|    2304
+      quantizer:  |      45 |      45 |      35 |      26 |
+   filter level:  |      14 |      11 |       6 |       5 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 36,861 = 0.499959 bits/pel.
+Compressed bytes (excludes codestream headers) = 36,632 = 0.496853 bpp.
+Body bytes (excludes packet and codestream headers) = 36,203 = 0.491035 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.499959
+Layer thresholds:
+        42518
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+space-1024.png:
+  read 232KB file corrected for gamma 2.2
+  made histogram...4730 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...47%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=0.041 (Q=99)
+  writing 256-color image as space-1024-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'space-1200.webp'
+File:      space-1200.png
+Dimension: 1200 x 675
+Output:    17318 bytes Y-U-V-All-PSNR 42.84 48.32 48.42   44.03 dB
+block count:  intra4: 1622
+              intra16: 1603  (-> 49.71%)
+              skipped block: 693 (21.49%)
+bytes used:  header:            159  (0.9%)
+             mode-partition:   3865  (22.3%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      11%|      22%|      55%|    3225
+      quantizer:  |      45 |      45 |      35 |      26 |
+   filter level:  |      14 |      11 |       7 |       5 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 50,409 = 0.497867 bits/pel.
+Compressed bytes (excludes codestream headers) = 50,180 = 0.495605 bpp.
+Body bytes (excludes packet and codestream headers) = 49,578 = 0.489659 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.497867
+Layer thresholds:
+        42403
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+space-1200.png:
+  read 299KB file corrected for gamma 2.2
+  made histogram...8408 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=0.044 (Q=99)
+  writing 256-color image as space-1200-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'space-2016.webp'
+File:      space-2016.png
+Dimension: 2016 x 1134
+Output:    31490 bytes Y-U-V-All-PSNR 44.77 48.23 47.60   45.59 dB
+block count:  intra4: 3109
+              intra16: 5837  (-> 65.25%)
+              skipped block: 3623 (40.50%)
+bytes used:  header:            169  (0.5%)
+             mode-partition:   9007  (28.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|       9%|      14%|      69%|    8946
+      quantizer:  |      45 |      45 |      37 |      28 |
+   filter level:  |      14 |      18 |      15 |       6 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 142,638 = 0.499139 bits/pel.
+Compressed bytes (excludes codestream headers) = 142,409 = 0.498338 bpp.
+Body bytes (excludes packet and codestream headers) = 140,911 = 0.493096 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.499139
+Layer thresholds:
+        41836
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+space-2016.png:
+  read 705KB file corrected for gamma 2.2
+  made histogram...10801 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...22%
+  selecting colors...35%
+  selecting colors...47%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=0.051 (Q=99)
+  writing 256-color image as space-2016-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-320.webp'
+File:      saturn-320.png
+Dimension: 320 x 188 (with alpha)
+Output:    15440 bytes Y-U-V-All-PSNR 43.76 42.42 43.18   43.41 dB
+block count:  intra4: 198
+              intra16: 42  (-> 17.50%)
+              skipped block: 2 (0.83%)
+bytes used:  header:            266  (1.7%)
+             mode-partition:    982  (6.4%)
+             transparency:     6345 (54.4 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      11%|      15%|      63%|     240
+      quantizer:  |      20 |      19 |      15 |      11 |
+   filter level:  |      12 |      13 |       9 |       9 |
+Lossless-alpha compressed size: 6344 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,473 = 0.594814 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,241 = 0.563963 bpp.
+Body bytes (excludes packet and codestream headers) = 4,058 = 0.539628 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.594814
+Layer thresholds:
+        42840
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-320.png:
+  read 77KB file corrected for gamma 2.2
+  made histogram...18776 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...92 entries transparent
+  mapped image to new colors...MSE=1.270 (Q=95)
+  writing 256-color image as saturn-320-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-600.webp'
+File:      saturn-600.png
+Dimension: 600 x 352 (with alpha)
+Output:    43842 bytes Y-U-V-All-PSNR 44.55 43.37 44.42   44.31 dB
+block count:  intra4: 584
+              intra16: 252  (-> 30.14%)
+              skipped block: 38 (4.55%)
+bytes used:  header:            393  (0.9%)
+             mode-partition:   2592  (5.9%)
+             transparency:    20823 (54.3 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|      12%|      18%|      65%|     836
+      quantizer:  |      20 |      19 |      15 |      12 |
+   filter level:  |       8 |       9 |       9 |       8 |
+Lossless-alpha compressed size: 20822 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 15,708 = 0.595000 bits/pel.
+Compressed bytes (excludes codestream headers) = 15,476 = 0.586212 bpp.
+Body bytes (excludes packet and codestream headers) = 15,132 = 0.573182 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.595000
+Layer thresholds:
+        42327
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-600.png:
+  read 218KB file corrected for gamma 2.2
+  made histogram...35824 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...20%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...71%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...88%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...82 entries transparent
+  mapped image to new colors...MSE=1.222 (Q=95)
+  writing 256-color image as saturn-600-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-640.webp'
+File:      saturn-640.png
+Dimension: 640 x 375 (with alpha)
+Output:    48666 bytes Y-U-V-All-PSNR 44.60 43.38 44.49   44.36 dB
+block count:  intra4: 654
+              intra16: 306  (-> 31.88%)
+              skipped block: 57 (5.94%)
+bytes used:  header:            391  (0.8%)
+             mode-partition:   2871  (5.9%)
+             transparency:    23546 (54.3 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|      12%|      17%|      66%|     960
+      quantizer:  |      20 |      19 |      16 |      12 |
+   filter level:  |      12 |       9 |       8 |       8 |
+Lossless-alpha compressed size: 23545 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 14,910 = 0.497000 bits/pel.
+Compressed bytes (excludes codestream headers) = 14,678 = 0.489267 bpp.
+Body bytes (excludes packet and codestream headers) = 14,342 = 0.478067 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.497000
+Layer thresholds:
+        42469
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-640.png:
+  read 241KB file corrected for gamma 2.2
+  made histogram...35335 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...22%
+  selecting colors...35%
+  selecting colors...47%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...87 entries transparent
+  mapped image to new colors...MSE=1.225 (Q=95)
+  writing 256-color image as saturn-640-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-1024.webp'
+File:      saturn-1024.png
+Dimension: 1024 x 600 (with alpha)
+Output:    110710 bytes Y-U-V-All-PSNR 45.36 43.59 44.68   44.90 dB
+block count:  intra4: 1426
+              intra16: 1006  (-> 41.37%)
+              skipped block: 202 (8.31%)
+bytes used:  header:            489  (0.4%)
+             mode-partition:   6065  (5.5%)
+             transparency:    59814 (54.3 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      14%|      16%|      68%|       0%|    2432
+      quantizer:  |      20 |      16 |      12 |      12 |
+   filter level:  |      12 |      12 |       8 |       0 |
+Lossless-alpha compressed size: 59813 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 37,764 = 0.491719 bits/pel.
+Compressed bytes (excludes codestream headers) = 37,532 = 0.488698 bpp.
+Body bytes (excludes packet and codestream headers) = 36,979 = 0.481497 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.491719
+Layer thresholds:
+        42277
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-1024.png:
+  read 525KB file corrected for gamma 2.2
+  made histogram...48996 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...86 entries transparent
+  mapped image to new colors...MSE=1.202 (Q=95)
+  writing 256-color image as saturn-1024-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-1200.webp'
+File:      saturn-1200.png
+Dimension: 1200 x 703 (with alpha)
+Output:    142610 bytes Y-U-V-All-PSNR 45.75 44.22 45.60   45.43 dB
+block count:  intra4: 1882
+              intra16: 1418  (-> 42.97%)
+              skipped block: 358 (10.85%)
+bytes used:  header:            546  (0.4%)
+             mode-partition:   7731  (5.4%)
+             transparency:    78863 (54.2 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|      10%|      15%|      72%|    3300
+      quantizer:  |      20 |      19 |      16 |      12 |
+   filter level:  |      12 |       9 |       8 |       8 |
+Lossless-alpha compressed size: 78862 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 52,385 = 0.496776 bits/pel.
+Compressed bytes (excludes codestream headers) = 52,153 = 0.494576 bpp.
+Body bytes (excludes packet and codestream headers) = 51,445 = 0.487862 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.496776
+Layer thresholds:
+        42236
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-1200.png:
+  read 668KB file corrected for gamma 2.2
+  made histogram...64259 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...86 entries transparent
+  mapped image to new colors...MSE=1.204 (Q=95)
+  writing 256-color image as saturn-1200-quant.png
+No errors detected while quantizing 1 image.
+Saving file 'saturn-2016.webp'
+File:      saturn-2016.png
+Dimension: 2016 x 1181 (with alpha)
+Output:    331340 bytes Y-U-V-All-PSNR 46.84 45.19 46.78   46.51 dB
+block count:  intra4: 5041
+              intra16: 4283  (-> 45.94%)
+              skipped block: 1442 (15.47%)
+bytes used:  header:            653  (0.2%)
+             mode-partition:  17985  (5.4%)
+             transparency:   193792 (54.2 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      14%|      76%|       0%|    9324
+      quantizer:  |      20 |      17 |      12 |      12 |
+   filter level:  |      12 |       7 |       8 |       0 |
+Lossless-alpha compressed size: 193791 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 146,096 = 0.490894 bits/pel.
+Compressed bytes (excludes codestream headers) = 145,864 = 0.490115 bpp.
+Body bytes (excludes packet and codestream headers) = 144,436 = 0.485316 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.490894
+Layer thresholds:
+        42086
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+** NCONVERT v6.17 (c) 1991-2011 Pierre-E Gougelet (Sep 17 2012/10:53:49) **
+        Version for MacOS X  (All rights reserved)
+** This is a freeware software (for non commercial use)
+
+saturn-2016.png:
+  read 1457KB file corrected for gamma 2.2
+  made histogram...90265 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...11%
+  selecting colors...13%
+  selecting colors...26%
+  selecting colors...39%
+  selecting colors...52%
+  selecting colors...64%
+  selecting colors...77%
+  selecting colors...90%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...87 entries transparent
+  mapped image to new colors...MSE=1.182 (Q=95)
+  writing 256-color image as saturn-2016-quant.png
+No errors detected while quantizing 1 image.

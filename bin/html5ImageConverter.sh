@@ -16,15 +16,21 @@ getFileSize () {
   local TYPE="$1"
   local SIZE="$2"
   
-  if [ "$TYPE" = "svga" ]
-  then
-    local SVG_SIZE=`echo "$LIST" | grep -- "-$SIZE.svg" | awk '{print $5}'`
-    local JPG_SIZE=`echo "$LIST" | grep -- "-$SIZE"_masked.jpg | awk '{print $5}'`
-    echo "$SIZE.svg -- $SVG_SIZE + $JPG_SIZE" 1>&2
-    expr $SVG_SIZE + $JPG_SIZE | awk '{printf "%.1fK", $5/1024}'
-  else
-    echo "$LIST" | grep -- "-$SIZE.$TYPE" | awk '{printf "%.1fK", $5/1024}' 
-  fi
+  #.. I have commented out some code here because originally I 
+  #   wanted to have the JPGs not inside the SVG with base64 URLs
+  #   but it wasn't working with picturefill for some reason.
+  #   Keeping this code in here in case I figure 
+  #   out a way to do this.
+  
+  # if [ "$TYPE" = "svg" ]
+  # then
+  #  local SVG_SIZE=`echo "$LIST" | grep -- "-$SIZE.svg" | awk '{print $5}'`
+  #  local JPG_SIZE=`echo "$LIST" | grep -- "-$SIZE"_masked.jpg | awk '{print $5}'`
+  #  echo "$SIZE.svg -- $SVG_SIZE + $JPG_SIZE" 1>&2
+  #  expr $SVG_SIZE + $JPG_SIZE | awk '{printf "%.1fK", $5/1024}'
+  # else
+  echo "$LIST" | grep -- "-$SIZE.$TYPE" | awk '{printf "%.1fK", $5/1024}' 
+  # fi
 }
 
 getImageWidth () {
@@ -54,7 +60,13 @@ createRenditionHTML () {
   
   if [ "$HAS_ALPHA" = "true" ]
   then
-    SVG_RENDITION="<source srcset='$STUB-$SIZE.svg' type='image/svg+xml'>"
+    if [ "$COMPRESS_SVG" = "true" ]
+    then
+      SVG_RENDITION="<source srcset='$STUB-$SIZE.svgz' type='image/svg+xml'>"
+    else
+      SVG_RENDITION="<source srcset='$STUB-$SIZE.svg' type='image/svg+xml'>"
+    fi
+    
   else
     SVG_RENDITION
   fi
@@ -284,10 +296,15 @@ do
     
     if [ "$HAS_ALPHA" = "true" ]
     then
-      SVG_SRCSET="$SVG_SRCSET$STUB-$SIZE.svg $SIZE""w$COMMA"
+      if [ "$COMPRESS_SVG" = "true" ]
+      then
+        SVG_SRCSET="$SVG_SRCSET$STUB-$SIZE.svgz $SIZE""w$COMMA"
+      else
+        SVG_SRCSET="$SVG_SRCSET$STUB-$SIZE.svg $SIZE""w$COMMA"
+      fi
     fi
     
-    LIST=`ls -l $STUB-$SIZE.jpg $STUB-$SIZE.jp2 $STUB-$SIZE.jxr $STUB-$SIZE.webp  $STUB-$SIZE.png $STUB-$SIZE-quant.png $STUB-$SIZE.svg $STUB-$SIZE"_masked.jpg" 2> /dev/null | sed 's/Domain Users/xxx/g' `
+    LIST=`ls -l $STUB-$SIZE.jpg $STUB-$SIZE.jp2 $STUB-$SIZE.jxr $STUB-$SIZE.webp  $STUB-$SIZE.png $STUB-$SIZE-quant.png $STUB-$SIZE.svg $STUB-$SIZE.svgz $STUB-$SIZE"_masked.jpg" 2> /dev/null | sed 's/Domain Users/xxx/g' `
     
     if [ "$USE_QUANT" ]
     then
@@ -299,15 +316,28 @@ do
     JP2_SIZE=`getFileSize jp2 $SIZE`
     JXR_SIZE=`getFileSize jxr $SIZE`
     WEBP_SIZE=`getFileSize webp $SIZE`
-    SVG_SIZE=`getFileSize svg $SIZE`
+    if [ "$COMPRESS_SVG" = "true" ]
+    then
+      SVG_SIZE=`getFileSize svgz $SIZE`
+    else
+      SVG_SIZE=`getFileSize svg $SIZE`
+    fi
+    
     
     if [ "$HAS_ALPHA" = "true" ]
     then
-      SVG_SIZE_CSS="html.svg .size:after {
+      SVG_SIZE_CSS="html.has-alpha.svg .size:after {
         content: '$SVG_SIZE';
       }"
+      HTML_CLASS="has-alpha"
       SVG_SOURCE_EL="<source srcset='$SVG_SRCSET' type='image/svg+xml'>"
+      
+      if [ "$COMPRESS_SVG" = "true" ]
+      then
+        HTML_CLASS="has-alpha compressed-svg-available"
+      fi
     else 
+      HTML_CLASS=""
       SVG_SIZE_CSS=""
     fi
     
@@ -357,7 +387,7 @@ do
   fi
   
   
-  
+  echo "$0 $*" > last-command-entered.txt
   
   echo "<!doctype html>
   
@@ -377,7 +407,7 @@ do
   -->
   
   
-  <html lang='en' class='no-js'>
+  <html lang='en' class='no-js $HTML_CLASS'>
   <head>
     <meta charset='UTF-8'>
     <meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1.0'>
@@ -448,3 +478,5 @@ do
   
   
 done
+
+printFinalMessages

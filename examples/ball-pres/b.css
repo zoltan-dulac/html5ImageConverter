@@ -12,6 +12,10 @@
  * --jp2-rate=1.0
  * --webp-quality=50
  * --apng-quant
+ * --has-alpha
+ * --compress-svg
+ * --generate-svg
+ * --jpg-qual=50
  *
  */
 	
@@ -24,9 +28,13 @@
 	  background: url('./b.webp');
 	}
 	
-	html.apng .b {
-	  background: url('./b.png');
-	}
+  
+     html.svg.no-webp.no-jpegxr.no-jpeg2000.cssanimations .b {
+       background: url('./b-stitched.svg') left center;
+       animation: bplay 1000ms steps(      20) infinite;
+       -webkit-animation: bplay 1000ms steps(      20) infinite;
+     }
+  
 	
 	html.no-apng.no-webp.cssanimations .b {
 	    background: url('./b-stitched.png') left center;

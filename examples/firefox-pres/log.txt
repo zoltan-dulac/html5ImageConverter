@@ -1,5 +1,5 @@
-Started ../../bin/html5AnimatedImageConverter --  Wed Jan  7 00:49:30 EST 2015
-Creating dir /tmp/50921.truecolor.tmp/
+Started ../../bin/html5AnimatedImageConverter --  Sat Apr 11 16:58:05 EDT 2015
+Creating dir /tmp/29893.html5Anim.tmp/
 Disassembling PNG spinfox.png
 
 APNG Disassembler 2.7
@@ -35,31 +35,31 @@ Converting to apng
 
 APNG Assembler 2.8 using 7ZIP with 15 iterations
 
-reading file01.png (1 of 25)
-reading file02.png (2 of 25)
-reading file03.png (3 of 25)
-reading file04.png (4 of 25)
-reading file05.png (5 of 25)
-reading file06.png (6 of 25)
-reading file07.png (7 of 25)
-reading file08.png (8 of 25)
-reading file09.png (9 of 25)
-reading file10.png (10 of 25)
-reading file11.png (11 of 25)
-reading file12.png (12 of 25)
-reading file13.png (13 of 25)
-reading file14.png (14 of 25)
-reading file15.png (15 of 25)
-reading file16.png (16 of 25)
-reading file17.png (17 of 25)
-reading file18.png (18 of 25)
-reading file19.png (19 of 25)
-reading file20.png (20 of 25)
-reading file21.png (21 of 25)
-reading file22.png (22 of 25)
-reading file23.png (23 of 25)
-reading file24.png (24 of 25)
-reading file25.png (25 of 25)
+reading apngframe01.png (1 of 25)
+reading apngframe02.png (2 of 25)
+reading apngframe03.png (3 of 25)
+reading apngframe04.png (4 of 25)
+reading apngframe05.png (5 of 25)
+reading apngframe06.png (6 of 25)
+reading apngframe07.png (7 of 25)
+reading apngframe08.png (8 of 25)
+reading apngframe09.png (9 of 25)
+reading apngframe10.png (10 of 25)
+reading apngframe11.png (11 of 25)
+reading apngframe12.png (12 of 25)
+reading apngframe13.png (13 of 25)
+reading apngframe14.png (14 of 25)
+reading apngframe15.png (15 of 25)
+reading apngframe16.png (16 of 25)
+reading apngframe17.png (17 of 25)
+reading apngframe18.png (18 of 25)
+reading apngframe19.png (19 of 25)
+reading apngframe20.png (20 of 25)
+reading apngframe21.png (21 of 25)
+reading apngframe22.png (22 of 25)
+reading apngframe23.png (23 of 25)
+reading apngframe24.png (24 of 25)
+reading apngframe25.png (25 of 25)
 saving b.unopt.png (frame 1 of 25)
 saving b.unopt.png (frame 2 of 25)
 saving b.unopt.png (frame 3 of 25)
@@ -97,8 +97,8 @@ Wu quantization...
 Writing 'b.gif'...
 all done
 Converting frames to webp
-Saving file 'file01.webp'
-File:      file01.png
+Saving file 'apngframe01.webp'
+File:      apngframe01.png
 Dimension: 148 x 148 (with alpha)
 Output:    4700 bytes Y-U-V-All-PSNR 37.73 35.94 36.28   37.12 dB
 block count:  intra4: 61
@@ -115,8 +115,8 @@ Lossless-alpha compressed size: 2262 bytes
   * Lossless features used: PALETTE
   * Precision Bits: histogram=5 transform=5 cache=0
   * Palette size:   186
-Saving file 'file02.webp'
-File:      file02.png
+Saving file 'apngframe02.webp'
+File:      apngframe02.png
 Dimension: 148 x 148 (with alpha)
 Output:    4774 bytes Y-U-V-All-PSNR 37.61 35.97 36.11   37.02 dB
 block count:  intra4: 62
@@ -133,8 +133,8 @@ Lossless-alpha compressed size: 2389 bytes
   * Lossless features used: PALETTE
   * Precision Bits: histogram=5 transform=5 cache=0
   * Palette size:   194
-Saving file 'file03.webp'
-File:      file03.png
+Saving file 'apngframe03.webp'
+File:      apngframe03.png
 Dimension: 148 x 148 (with alpha)
 Output:    4836 bytes Y-U-V-All-PSNR 37.39 35.71 35.84   36.78 dB
 block count:  intra4: 63
@@ -151,8 +151,8 @@ Lossless-alpha compressed size: 2436 bytes
   * Lossless features used: PALETTE
   * Precision Bits: histogram=5 transform=5 cache=0
   * Palette size:   199
-Saving file 'file04.webp'
-File:      file04.png
+Saving file 'apngframe04.webp'
+File:      apngframe04.png
 Dimension: 148 x 148 (with alpha)
 Output:    4814 bytes Y-U-V-All-PSNR 37.54 35.89 36.03   36.94 dB
 block count:  intra4: 63
@@ -169,8 +169,8 @@ Lossless-alpha compressed size: 2462 bytes
   * Lossless features used: PALETTE
   * Precision Bits: histogram=5 transform=5 cache=0
   * Palette size:   202
-Saving file 'file05.webp'
-File:      file05.png
+Saving file 'apngframe05.webp'
+File:      apngframe05.png
 Dimension: 148 x 148 (with alpha)
 Output:    4790 bytes Y-U-V-All-PSNR 37.41 36.04 36.15   36.93 dB
 block count:  intra4: 63
@@ -187,8 +187,8 @@ Lossless-alpha compressed size: 2420 bytes
   * Lossless features used: PALETTE
   * Precision Bits: histogram=5 transform=5 cache=0
   * Palette size:   214
-Saving file 'file06.webp'
-File:      file06.png
+Saving file 'apngframe06.webp'
+File:      apngframe06.png
 Dimension: 148 x 148 (with alpha)
 Output:    4690 bytes Y-U-V-All-PSNR 37.61 36.17 36.46   37.13 dB
 block count:  intra4: 64
@@ -205,8 +205,8 @@ Lossless-alpha compressed size: 2359 bytes
   * Lossless features used: PALETTE
   * Precision Bits: histogram=5 transform=5 cache=0
   * Palette size:   195
-Saving file 'file07.webp'
-File:      file07.png
+Saving file 'apngframe07.webp'
+File:      apngframe07.png
 Dimension: 148 x 148 (with alpha)
 Output:    4556 bytes Y-U-V-All-PSNR 37.71 35.92 36.36   37.12 dB
 block count:  intra4: 63
@@ -223,8 +223,8 @@ Lossless-alpha compressed size: 2337 bytes
   * Lossless features used: PALETTE
   * Precision Bits: histogram=5 transform=5 cache=0
   * Palette size:   203
-Saving file 'file08.webp'
-File:      file08.png
+Saving file 'apngframe08.webp'
+File:      apngframe08.png
 Dimension: 148 x 148 (with alpha)
 Output:    4608 bytes Y-U-V-All-PSNR 37.69 35.85 36.26   37.07 dB
 block count:  intra4: 65
@@ -241,8 +241,8 @@ Lossless-alpha compressed size: 2378 bytes
   * Lossless features used: PALETTE
   * Precision Bits: histogram=5 transform=5 cache=0
   * Palette size:   198
-Saving file 'file09.webp'
-File:      file09.png
+Saving file 'apngframe09.webp'
+File:      apngframe09.png
 Dimension: 148 x 148 (with alpha)
 Output:    4586 bytes Y-U-V-All-PSNR 37.66 35.79 36.12   37.01 dB
 block count:  intra4: 62
@@ -259,8 +259,8 @@ Lossless-alpha compressed size: 2407 bytes
   * Lossless features used: PALETTE
   * Precision Bits: histogram=5 transform=5 cache=0
   * Palette size:   208
-Saving file 'file10.webp'
-File:      file10.png
+Saving file 'apngframe10.webp'
+File:      apngframe10.png
 Dimension: 148 x 148 (with alpha)
 Output:    4662 bytes Y-U-V-All-PSNR 37.64 35.73 36.21   37.01 dB
 block count:  intra4: 64
@@ -277,8 +277,8 @@ Lossless-alpha compressed size: 2458 bytes
   * Lossless features used: PALETTE
   * Precision Bits: histogram=5 transform=5 cache=0
   * Palette size:   218
-Saving file 'file11.webp'
-File:      file11.png
+Saving file 'apngframe11.webp'
+File:      apngframe11.png
 Dimension: 148 x 148 (with alpha)
 Output:    4606 bytes Y-U-V-All-PSNR 37.74 35.77 36.16   37.06 dB
 block count:  intra4: 63
@@ -295,8 +295,8 @@ Lossless-alpha compressed size: 2440 bytes
   * Lossless features used: PALETTE
   * Precision Bits: histogram=5 transform=5 cache=0
   * Palette size:   207
-Saving file 'file12.webp'
-File:      file12.png
+Saving file 'apngframe12.webp'
+File:      apngframe12.png
 Dimension: 148 x 148 (with alpha)
 Output:    4552 bytes Y-U-V-All-PSNR 37.97 36.13 36.72   37.39 dB
 block count:  intra4: 62
@@ -313,8 +313,8 @@ Lossless-alpha compressed size: 2369 bytes
   * Lossless features used: PALETTE
   * Precision Bits: histogram=5 transform=5 cache=0
   * Palette size:   209
-Saving file 'file13.webp'
-File:      file13.png
+Saving file 'apngframe13.webp'
+File:      apngframe13.png
 Dimension: 148 x 148 (with alpha)
 Output:    4400 bytes Y-U-V-All-PSNR 37.85 36.37 36.74   37.37 dB
 block count:  intra4: 61
@@ -331,8 +331,8 @@ Lossless-alpha compressed size: 2321 bytes
   * Lossless features used: PALETTE
   * Precision Bits: histogram=5 transform=5 cache=0
   * Palette size:   210
-Saving file 'file14.webp'
-File:      file14.png
+Saving file 'apngframe14.webp'
+File:      apngframe14.png
 Dimension: 148 x 148 (with alpha)
 Output:    4548 bytes Y-U-V-All-PSNR 38.01 36.31 36.67   37.44 dB
 block count:  intra4: 61
@@ -349,8 +349,8 @@ Lossless-alpha compressed size: 2387 bytes
   * Lossless features used: PALETTE
   * Precision Bits: histogram=5 transform=5 cache=0
   * Palette size:   207
-Saving file 'file15.webp'
-File:      file15.png
+Saving file 'apngframe15.webp'
+File:      apngframe15.png
 Dimension: 148 x 148 (with alpha)
 Output:    4586 bytes Y-U-V-All-PSNR 37.76 35.66 36.23   37.06 dB
 block count:  intra4: 63
@@ -367,8 +367,8 @@ Lossless-alpha compressed size: 2420 bytes
   * Lossless features used: PALETTE
   * Precision Bits: histogram=5 transform=5 cache=0
   * Palette size:   208
-Saving file 'file16.webp'
-File:      file16.png
+Saving file 'apngframe16.webp'
+File:      apngframe16.png
 Dimension: 148 x 148 (with alpha)
 Output:    4642 bytes Y-U-V-All-PSNR 37.78 35.84 36.15   37.10 dB
 block count:  intra4: 62
@@ -385,8 +385,8 @@ Lossless-alpha compressed size: 2464 bytes
   * Lossless features used: PALETTE
   * Precision Bits: histogram=5 transform=5 cache=0
   * Palette size:   207
-Saving file 'file17.webp'
-File:      file17.png
+Saving file 'apngframe17.webp'
+File:      apngframe17.png
 Dimension: 148 x 148 (with alpha)
 Output:    4646 bytes Y-U-V-All-PSNR 37.86 36.17 36.44   37.28 dB
 block count:  intra4: 60
@@ -403,8 +403,8 @@ Lossless-alpha compressed size: 2487 bytes
   * Lossless features used: PALETTE
   * Precision Bits: histogram=5 transform=5 cache=0
   * Palette size:   209
-Saving file 'file18.webp'
-File:      file18.png
+Saving file 'apngframe18.webp'
+File:      apngframe18.png
 Dimension: 148 x 148 (with alpha)
 Output:    4514 bytes Y-U-V-All-PSNR 37.91 36.37 36.55   37.37 dB
 block count:  intra4: 58
@@ -421,8 +421,8 @@ Lossless-alpha compressed size: 2399 bytes
   * Lossless features used: PALETTE
   * Precision Bits: histogram=5 transform=5 cache=0
   * Palette size:   209
-Saving file 'file19.webp'
-File:      file19.png
+Saving file 'apngframe19.webp'
+File:      apngframe19.png
 Dimension: 148 x 148 (with alpha)
 Output:    4474 bytes Y-U-V-All-PSNR 37.97 36.38 36.63   37.42 dB
 block count:  intra4: 62
@@ -439,8 +439,8 @@ Lossless-alpha compressed size: 2372 bytes
   * Lossless features used: PALETTE
   * Precision Bits: histogram=5 transform=5 cache=0
   * Palette size:   206
-Saving file 'file20.webp'
-File:      file20.png
+Saving file 'apngframe20.webp'
+File:      apngframe20.png
 Dimension: 148 x 148 (with alpha)
 Output:    4526 bytes Y-U-V-All-PSNR 37.96 36.02 36.33   37.28 dB
 block count:  intra4: 60
@@ -457,8 +457,8 @@ Lossless-alpha compressed size: 2367 bytes
   * Lossless features used: PALETTE
   * Precision Bits: histogram=5 transform=5 cache=0
   * Palette size:   211
-Saving file 'file21.webp'
-File:      file21.png
+Saving file 'apngframe21.webp'
+File:      apngframe21.png
 Dimension: 148 x 148 (with alpha)
 Output:    4594 bytes Y-U-V-All-PSNR 37.74 35.79 36.29   37.09 dB
 block count:  intra4: 61
@@ -475,8 +475,8 @@ Lossless-alpha compressed size: 2421 bytes
   * Lossless features used: PALETTE
   * Precision Bits: histogram=5 transform=5 cache=0
   * Palette size:   223
-Saving file 'file22.webp'
-File:      file22.png
+Saving file 'apngframe22.webp'
+File:      apngframe22.png
 Dimension: 148 x 148 (with alpha)
 Output:    4738 bytes Y-U-V-All-PSNR 37.75 36.06 36.24   37.15 dB
 block count:  intra4: 60
@@ -493,8 +493,8 @@ Lossless-alpha compressed size: 2470 bytes
   * Lossless features used: PALETTE
   * Precision Bits: histogram=5 transform=5 cache=0
   * Palette size:   220
-Saving file 'file23.webp'
-File:      file23.png
+Saving file 'apngframe23.webp'
+File:      apngframe23.png
 Dimension: 148 x 148 (with alpha)
 Output:    4738 bytes Y-U-V-All-PSNR 37.31 35.64 35.84   36.72 dB
 block count:  intra4: 61
@@ -511,8 +511,8 @@ Lossless-alpha compressed size: 2508 bytes
   * Lossless features used: PALETTE
   * Precision Bits: histogram=5 transform=5 cache=0
   * Palette size:   207
-Saving file 'file24.webp'
-File:      file24.png
+Saving file 'apngframe24.webp'
+File:      apngframe24.png
 Dimension: 148 x 148 (with alpha)
 Output:    4736 bytes Y-U-V-All-PSNR 37.55 36.24 36.32   37.08 dB
 block count:  intra4: 62
@@ -529,8 +529,8 @@ Lossless-alpha compressed size: 2453 bytes
   * Lossless features used: PALETTE
   * Precision Bits: histogram=5 transform=5 cache=0
   * Palette size:   206
-Saving file 'file25.webp'
-File:      file25.png
+Saving file 'apngframe25.webp'
+File:      apngframe25.png
 Dimension: 148 x 148 (with alpha)
 Output:    4684 bytes Y-U-V-All-PSNR 37.60 35.92 36.08   37.00 dB
 block count:  intra4: 62
@@ -549,7 +549,7 @@ Lossless-alpha compressed size: 2368 bytes
   * Palette size:   189
 Putting webp frames into one animated webp ...
 Using command: 
-webpmux -frame file01.webp +50+0+0+0-b -frame file02.webp +50+0+0+0-b -frame file03.webp +50+0+0+0-b -frame file04.webp +50+0+0+0-b -frame file05.webp +50+0+0+0-b -frame file06.webp +50+0+0+0-b -frame file07.webp +50+0+0+0-b -frame file08.webp +50+0+0+0-b -frame file09.webp +50+0+0+0-b -frame file10.webp +50+0+0+0-b -frame file11.webp +50+0+0+0-b -frame file12.webp +50+0+0+0-b -frame file13.webp +50+0+0+0-b -frame file14.webp +50+0+0+0-b -frame file15.webp +50+0+0+0-b -frame file16.webp +50+0+0+0-b -frame file17.webp +50+0+0+0-b -frame file18.webp +50+0+0+0-b -frame file19.webp +50+0+0+0-b -frame file20.webp +50+0+0+0-b -frame file21.webp +50+0+0+0-b -frame file22.webp +50+0+0+0-b -frame file23.webp +50+0+0+0-b -frame file24.webp +50+0+0+0-b -frame file25.webp +50+0+0+0-b -loop 0 -o b.webp
+webpmux -frame apngframe01.webp +50+0+0+0-b -frame apngframe02.webp +50+0+0+0-b -frame apngframe03.webp +50+0+0+0-b -frame apngframe04.webp +50+0+0+0-b -frame apngframe05.webp +50+0+0+0-b -frame apngframe06.webp +50+0+0+0-b -frame apngframe07.webp +50+0+0+0-b -frame apngframe08.webp +50+0+0+0-b -frame apngframe09.webp +50+0+0+0-b -frame apngframe10.webp +50+0+0+0-b -frame apngframe11.webp +50+0+0+0-b -frame apngframe12.webp +50+0+0+0-b -frame apngframe13.webp +50+0+0+0-b -frame apngframe14.webp +50+0+0+0-b -frame apngframe15.webp +50+0+0+0-b -frame apngframe16.webp +50+0+0+0-b -frame apngframe17.webp +50+0+0+0-b -frame apngframe18.webp +50+0+0+0-b -frame apngframe19.webp +50+0+0+0-b -frame apngframe20.webp +50+0+0+0-b -frame apngframe21.webp +50+0+0+0-b -frame apngframe22.webp +50+0+0+0-b -frame apngframe23.webp +50+0+0+0-b -frame apngframe24.webp +50+0+0+0-b -frame apngframe25.webp +50+0+0+0-b -loop 0 -o b.webp
 
 Saved file b.webp (115894 bytes)
 Creating stitched PNG
@@ -566,89 +566,94 @@ Removing temp TIF file
 Creating stylesheet
 
 Moving files and cleaning up
-Current files: b-stitched.jp2
+Current files: apngframe01.png
+apngframe01.txt
+apngframe01.webp
+apngframe02.png
+apngframe02.txt
+apngframe02.webp
+apngframe03.png
+apngframe03.txt
+apngframe03.webp
+apngframe04.png
+apngframe04.txt
+apngframe04.webp
+apngframe05.png
+apngframe05.txt
+apngframe05.webp
+apngframe06.png
+apngframe06.txt
+apngframe06.webp
+apngframe07.png
+apngframe07.txt
+apngframe07.webp
+apngframe08.png
+apngframe08.txt
+apngframe08.webp
+apngframe09.png
+apngframe09.txt
+apngframe09.webp
+apngframe10.png
+apngframe10.txt
+apngframe10.webp
+apngframe11.png
+apngframe11.txt
+apngframe11.webp
+apngframe12.png
+apngframe12.txt
+apngframe12.webp
+apngframe13.png
+apngframe13.txt
+apngframe13.webp
+apngframe14.png
+apngframe14.txt
+apngframe14.webp
+apngframe15.png
+apngframe15.txt
+apngframe15.webp
+apngframe16.png
+apngframe16.txt
+apngframe16.webp
+apngframe17.png
+apngframe17.txt
+apngframe17.webp
+apngframe18.png
+apngframe18.txt
+apngframe18.webp
+apngframe19.png
+apngframe19.txt
+apngframe19.webp
+apngframe20.png
+apngframe20.txt
+apngframe20.webp
+apngframe21.png
+apngframe21.txt
+apngframe21.webp
+apngframe22.png
+apngframe22.txt
+apngframe22.webp
+apngframe23.png
+apngframe23.txt
+apngframe23.webp
+apngframe24.png
+apngframe24.txt
+apngframe24.webp
+apngframe25.png
+apngframe25.txt
+apngframe25.webp
+b-stitched.jp2
+b-stitched.jpg
 b-stitched.jxr
 b-stitched.png
+b-stitched.svgz
+b-stitched_alpha.jpg
+b-stitched_alpha.png
 b.css
 b.gif
 b.html
 b.png
 b.unopt.png
 b.webp
-file01.png
-file01.txt
-file01.webp
-file02.png
-file02.txt
-file02.webp
-file03.png
-file03.txt
-file03.webp
-file04.png
-file04.txt
-file04.webp
-file05.png
-file05.txt
-file05.webp
-file06.png
-file06.txt
-file06.webp
-file07.png
-file07.txt
-file07.webp
-file08.png
-file08.txt
-file08.webp
-file09.png
-file09.txt
-file09.webp
-file10.png
-file10.txt
-file10.webp
-file11.png
-file11.txt
-file11.webp
-file12.png
-file12.txt
-file12.webp
-file13.png
-file13.txt
-file13.webp
-file14.png
-file14.txt
-file14.webp
-file15.png
-file15.txt
-file15.webp
-file16.png
-file16.txt
-file16.webp
-file17.png
-file17.txt
-file17.webp
-file18.png
-file18.txt
-file18.webp
-file19.png
-file19.txt
-file19.webp
-file20.png
-file20.txt
-file20.webp
-file21.png
-file21.txt
-file21.webp
-file22.png
-file22.txt
-file22.webp
-file23.png
-file23.txt
-file23.webp
-file24.png
-file24.txt
-file24.webp
-file25.png
-file25.txt
-file25.webp
+log.txt
 spinfox.png
 mv: rename *.tif to /Users/zhawry/git/apng-webp-images-now/examples/firefox-pres/*.tif: No such file or directory

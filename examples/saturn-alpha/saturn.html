@@ -11,12 +11,12 @@
     http://codyhouse.co/gem/css-jquery-image-comparison-slider/
     
     Command that generated this page and assoicated images:
-    ../../bin/html5ImageConverter.sh --sizes=320/600/640/1024/1200/2016 --jp2-rates=0.6/0.6/0.5/0.5/0.5/0.5 --jxr-quals=85 --webp-quals=85 --background=space.jpg --has-alpha --use-quant --jxr-nconvert --is-sharp --additional-css=saturn.css saturn.png 
+    ../../bin/html5ImageConverter.sh --sizes=320/600/640/1024/1200/2016 --jp2-rates=0.6/0.6/0.5/0.5/0.5/0.5 --jxr-quals=85 --webp-quals=85 --background=space.jpg --has-alpha --use-quant --jxr-nconvert --is-sharp --additional-css=saturn.css --jpg-quals=50 saturn.png 
   
   -->
   
   
-  <html lang='en' class='no-js'>
+  <html lang='en' class='no-js has-alpha'>
   <head>
     <meta charset='UTF-8'>
     <meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1.0'>
@@ -36,7 +36,11 @@
       [data-type=original]:after {
           content: '583.8K'
         }
-    
+      
+      html.has-alpha.svg .size:after {
+        content: '196.2K';
+      }
+      
       html.jpeg2000 .size:after {
         content: '142.8K';
       }
@@ -48,6 +52,7 @@
       html.webp .size:after {
         content: '323.6K';
       }
+      
     
     
     @media only screen and (-webkit-max-device-pixel-ratio: 1)      and (max-width: 1200px),
@@ -66,7 +71,11 @@
       [data-type=original]:after {
           content: '237.8K'
         }
-    
+      
+      html.has-alpha.svg .size:after {
+        content: '86.6K';
+      }
+      
       html.jpeg2000 .size:after {
         content: '51.3K';
       }
@@ -78,6 +87,7 @@
       html.webp .size:after {
         content: '139.3K';
       }
+      
     }
     
     @media only screen and (-webkit-max-device-pixel-ratio: 1)      and (max-width: 1024px),
@@ -96,7 +106,11 @@
       [data-type=original]:after {
           content: '183.6K'
         }
-    
+      
+      html.has-alpha.svg .size:after {
+        content: '68.6K';
+      }
+      
       html.jpeg2000 .size:after {
         content: '37.0K';
       }
@@ -108,6 +122,7 @@
       html.webp .size:after {
         content: '108.1K';
       }
+      
     }
     
     @media only screen and (-webkit-max-device-pixel-ratio: 1)      and (max-width: 640px),
@@ -126,7 +141,11 @@
       [data-type=original]:after {
           content: '73.6K'
         }
-    
+      
+      html.has-alpha.svg .size:after {
+        content: '32.5K';
+      }
+      
       html.jpeg2000 .size:after {
         content: '14.7K';
       }
@@ -138,6 +157,7 @@
       html.webp .size:after {
         content: '47.5K';
       }
+      
     }
     
     @media only screen and (-webkit-max-device-pixel-ratio: 1)      and (max-width: 600px),
@@ -156,7 +176,11 @@
       [data-type=original]:after {
           content: '66.0K'
         }
-    
+      
+      html.has-alpha.svg .size:after {
+        content: '29.7K';
+      }
+      
       html.jpeg2000 .size:after {
         content: '15.5K';
       }
@@ -168,6 +192,7 @@
       html.webp .size:after {
         content: '42.8K';
       }
+      
     }
     
     @media only screen and (-webkit-max-device-pixel-ratio: 1)      and (max-width: 320px),
@@ -186,7 +211,11 @@
       [data-type=original]:after {
           content: '22.6K'
         }
-    
+      
+      html.has-alpha.svg .size:after {
+        content: '12.0K';
+      }
+      
       html.jpeg2000 .size:after {
         content: '4.5K';
       }
@@ -198,6 +227,7 @@
       html.webp .size:after {
         content: '15.1K';
       }
+      
     }
     
     
@@ -242,6 +272,7 @@
               <source srcset='saturn-320.jxr 320w, saturn-600.jxr 600w, saturn-640.jxr 640w, saturn-1024.jxr 1024w, saturn-1200.jxr 1200w, saturn-2016.jxr 2016w' type='image/vnd.ms-photo'>
               <source srcset='saturn-320.jp2 320w, saturn-600.jp2 600w, saturn-640.jp2 640w, saturn-1024.jp2 1024w, saturn-1200.jp2 1200w, saturn-2016.jp2 2016w' type='image/jp2'>
               <source srcset='saturn-320.webp 320w, saturn-600.webp 600w, saturn-640.webp 640w, saturn-1024.webp 1024w, saturn-1200.webp 1200w, saturn-2016.webp 2016w' type='image/webp'>
+              <source srcset='saturn-320.svg 320w, saturn-600.svg 600w, saturn-640.svg 640w, saturn-1024.svg 1024w, saturn-1200.svg 1200w, saturn-2016.svg 2016w' type='image/svg+xml'>
               <!--[if IE 9]></video><![endif]-->
               <img srcset='saturn-320-quant.png 320w, saturn-600-quant.png 600w, saturn-640-quant.png 640w, saturn-1024-quant.png 1024w, saturn-1200-quant.png 1200w, saturn-2016-quant.png 2016w'  />
         </picture>
@@ -253,6 +284,6 @@
     
   <script src='../../js/image-comparison-slider/js/jquery-2.1.1.js'></script>
   <script src='../../js/image-comparison-slider/js/jquery.mobile.custom.min.js'></script> <!-- Resource jQuery -->
-  <script src='../../js/image-comparison-slider/js/main.js'></script> <!-- Resource jQuery -->
+  <script src='../../js/image-comparison-slider/js/main.js'></script> 
   </body>
   </html>
