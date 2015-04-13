@@ -255,8 +255,8 @@ do
     echo "WEBP_QUAL: $WEBP_QUAL"
     
     echo "Creating png ..."
-    echo convert $STUB.png -resize $SIZE $STUB-$SIZE.png
-    convert $STUB.png -resize $SIZE $CONVERT_ALPHA_OPTIONS $STUB-$SIZE.png
+    echo convert $STUB.png -resize $SIZE $CONVERT_ALPHA_OPTIONS $IM_COLORSPACE_NORM_OPTIONS $STUB-$SIZE.png
+    convert $STUB.png -resize $SIZE $CONVERT_ALPHA_OPTIONS $IM_COLORSPACE_NORM_OPTIONS $STUB-$SIZE.png
     cutImages $STUB-$SIZE
     
     if [ "`expr $NUM_SIZES - 1`" = "$i" ]
@@ -326,7 +326,7 @@ do
     
     if [ "$HAS_ALPHA" = "true" ]
     then
-      SVG_SIZE_CSS="html.has-alpha.svg .size:after {
+      SVG_SIZE_CSS="html.has-alpha.svg.no-webp.no-jpeg2000.no-jpegxr .size:after {
         content: '$SVG_SIZE';
       }"
       HTML_CLASS="has-alpha"

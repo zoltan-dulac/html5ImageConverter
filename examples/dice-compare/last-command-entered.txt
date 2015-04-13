@@ -1,0 +1,1 @@
+../../bin/html5ImageConverter.sh dice.png --webp-quals=90 --jxr-quals=87 --jp2-rates=0.2/0.4/0.3 --jpg-quals=80 --sizes=320/600/1024 --jxr-nconvert --has-alpha --compress-svg

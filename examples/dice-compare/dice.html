@@ -11,12 +11,12 @@
     http://codyhouse.co/gem/css-jquery-image-comparison-slider/
     
     Command that generated this page and assoicated images:
-    ../../bin/html5ImageConverter.sh dice.png --webp-quals=65 --jxr-quals=30 --jp2-rates=0.2/0.4/0.2 --jpg-quals=50 --sizes=320/600/1024 --has-alpha 
+    ../../bin/html5ImageConverter.sh dice.png --webp-quals=90 --jxr-quals=87 --jp2-rates=0.2/0.4/0.3 --jpg-quals=80 --sizes=320/600/1024 --jxr-nconvert --has-alpha --compress-svg 
   
   -->
   
   
-  <html lang='en' class='no-js'>
+  <html lang='en' class='no-js has-alpha compressed-svg-available'>
   <head>
     <meta charset='UTF-8'>
     <meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1.0'>
@@ -34,23 +34,23 @@
     
     
       [data-type=original]:after {
-          content: '325.7K'
+          content: '328.5K'
         }
       
-      html.svg .size:after {
-        content: '50.8K';
+      html.has-alpha.svg.no-webp.no-jpeg2000.no-jpegxr .size:after {
+        content: '57.7K';
       }
       
       html.jpeg2000 .size:after {
-        content: '19.2K';
+        content: '31.5K';
       }
       
       html.jpegxr .size:after {
-        content: '163.9K';
+        content: '93.2K';
       }
       
       html.webp .size:after {
-        content: '62.6K';
+        content: '81.4K';
       }
       
     
@@ -69,23 +69,23 @@
 	only screen and (                min-resolution: 2dppx)  and (max-width: 300px)
 	{
       [data-type=original]:after {
-          content: '140.0K'
+          content: '142.8K'
         }
       
-      html.svg .size:after {
-        content: '26.2K';
+      html.has-alpha.svg.no-webp.no-jpeg2000.no-jpegxr .size:after {
+        content: '31.0K';
       }
       
       html.jpeg2000 .size:after {
-        content: '13.1K';
+        content: '16.1K';
       }
       
       html.jpegxr .size:after {
-        content: '71.3K';
+        content: '50.5K';
       }
       
       html.webp .size:after {
-        content: '29.1K';
+        content: '40.6K';
       }
       
     }
@@ -104,23 +104,23 @@
 	only screen and (                min-resolution: 2dppx)  and (max-width: 160px)
 	{
       [data-type=original]:after {
-          content: '53.9K'
+          content: '56.6K'
         }
       
-      html.svg .size:after {
-        content: '12.3K';
+      html.has-alpha.svg.no-webp.no-jpeg2000.no-jpegxr .size:after {
+        content: '16.3K';
       }
       
       html.jpeg2000 .size:after {
-        content: '2.0K';
+        content: '5.0K';
       }
       
       html.jpegxr .size:after {
-        content: '26.9K';
+        content: '24.9K';
       }
       
       html.webp .size:after {
-        content: '12.7K';
+        content: '19.6K';
       }
       
     }
@@ -164,7 +164,7 @@
               <source srcset='dice-320.jxr 320w, dice-600.jxr 600w, dice-1024.jxr 1024w' type='image/vnd.ms-photo'>
               <source srcset='dice-320.jp2 320w, dice-600.jp2 600w, dice-1024.jp2 1024w' type='image/jp2'>
               <source srcset='dice-320.webp 320w, dice-600.webp 600w, dice-1024.webp 1024w' type='image/webp'>
-              <source srcset='dice-320.svg 320w, dice-600.svg 600w, dice-1024.svg 1024w' type='image/svg+xml'>
+              <source srcset='dice-320.svgz 320w, dice-600.svgz 600w, dice-1024.svgz 1024w' type='image/svg+xml'>
               <!--[if IE 9]></video><![endif]-->
               <img srcset='dice-320.png 320w, dice-600.png 600w, dice-1024.png 1024w'  />
         </picture>

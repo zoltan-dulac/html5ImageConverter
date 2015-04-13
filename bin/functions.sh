@@ -96,6 +96,15 @@ IS_SHARP=`getArg is-sharp`
 COMPRESS_SVG=`getArg compress-svg`
 KEEP_TEMP_DIR=`getArg keep-temp-dir`
 
+SCRIPT_DIR="$(dirname "$0")"
+
+#
+# This ensures the images appear consistant between all browsers.
+# Safari is the one we nee to worry about.
+#
+
+IM_COLORSPACE_NORM_OPTIONS="-profile $SCRIPT_DIR/../data/sRGB_IEC61966-2-1_black_scaled.icc"
+
 if [ "$IS_SHARP" = "true" ]
 then
   WEBP_SHARP="-sharpness 0"
@@ -192,8 +201,8 @@ function toJPEG {
   if [ "$USE_MOZJPEG" != "true" -o "$MOZ_JPEG_SUCCESS" != "0" ]
   then
     echo "   - jpeg using ImageMagick (Quality: $JPG_QUAL)" 1>&2
-    echo "convert $1 -define quality=$JPG_QUAL" 1>&2
-    convert $1 -define quality=$JPG_QUAL $2 >> log.txt
+    echo "convert $1 -define quality=$JPG_QUAL $IM_COLORSPACE_NORM_OPTIONS  $2" 1>&2
+    convert $1 -define quality=$JPG_QUAL $IM_COLORSPACE_NORM_OPTIONS  $2 >> log.txt
     ifErrorPrintAndExit "Creating jpg failed.  Bailing"  100
   fi
 }
@@ -204,7 +213,7 @@ function createJPEGwithSVGfilter () {
       
 
       # First, create the mask.
-      convert $stub.png -alpha extract $stub"_alpha.png"
+      convert $stub.png -alpha extract -colorspace Gray $stub"_alpha.png"
       ifErrorPrintAndExit "Error extracting alpha channel from $stub.png.  Bailing"  200
       
       #.. Next, convert the mask to a jpg
@@ -228,6 +237,7 @@ function createJPEGwithSVGfilter () {
       #.. Remove the intermediate files
       # rm $stub"_alpha.png" $stub"_alpha.jpg" $stub".jpg"
       
+      echo 'Creating SVG'
       echo '<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 '$WIDTH' '$HEIGHT'" width="'$WIDTH'" height="'$HEIGHT'" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <mask id="a" maskUnits="userSpaceOnUse" maskContentUnits="userSpaceOnUse">
@@ -239,6 +249,7 @@ function createJPEGwithSVGfilter () {
 
       if [ "$COMPRESS_SVG" = "true" ]
       then
+        echo "Compressing SVG"
         gzip -9 $stub.svg
         ifErrorPrintAndExit "Problem gzipping $stub.svg (is gzip installed?).  Bailing"  205
         mv $stub.svg.gz $stub.svgz 
@@ -265,7 +276,8 @@ function cutImages() {
     fi
     
     echo "   - webp (Quality: $WEBP_QUAL)" 1>&2
-    cwebp $stub.png -o $stub.webp -q $WEBP_QUAL $WEBP_SHARP $WEBP_ALPHA_PARAM >> log.txt 2>> log.txt
+    echo "cwebp $stub.png -o $stub.webp -q $WEBP_QUAL $WEBP_SHARP -metadata all $WEBP_ALPHA_PARAM"
+    cwebp $stub.png -o $stub.webp -q $WEBP_QUAL $WEBP_SHARP -metadata all $WEBP_ALPHA_PARAM >> log.txt 2>> log.txt
     ifErrorPrintAndExit "Creating cwebp failed.  Bailing"  101
     
     echo "   - jp2 (Rate: $JP2_RATE)" 1>&2

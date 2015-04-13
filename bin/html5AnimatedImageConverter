@@ -315,9 +315,16 @@ then
 
   if [ "$GENERATE_SVG" = "true" ]
     then
+     
+     if [ "$COMPRESS_SVG" = "true" ]
+     then
+        SVG_FILENAME="./$OUTPUT-stitched.svgz"
+     else
+        SVG_FILENAME="./$OUTPUT-stitched.svg"
+     fi
      FIREFOX_CSS="
      html.svg.no-webp.no-jpegxr.no-jpeg2000.cssanimations .$CSS_CLASS {
-       background: url('./$OUTPUT-stitched.svg') left center;
+       background: url('$SVG_FILENAME') left center;
        animation: "$OUTPUT"play "$ANIM_LENGTH"ms steps("$NUM_FRAMES") infinite;
        -webkit-animation: "$OUTPUT"play "$ANIM_LENGTH"ms steps("$NUM_FRAMES") infinite;
      }"
@@ -452,7 +459,7 @@ echoBoth "Moving files and cleaning up"
 
 echo "Current files: `ls`" >> $LOG
 
-mv $OUTPUT.webp $OUTPUT.png $OUTPUT.gif $OUTPUT-stitched.* $OUTPUT.css $OUTPUT.html *.tif "$ORIG_DIR" 2>> $LOG
+mv $OUTPUT.webp $OUTPUT.png $OUTPUT.gif $OUTPUT-stitched.* $OUTPUT.css $OUTPUT.html *.tif *.svg* *_alpha* "$ORIG_DIR" 2>> $LOG
 cd "$ORIG_DIR"
 rm -r $TMPDIR
 

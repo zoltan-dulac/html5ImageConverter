@@ -1,5 +1,5 @@
-Started ../../bin/html5AnimatedImageConverter --  Tue Feb 17 11:58:46 EST 2015
-Creating dir /tmp/36536.html5Anim.tmp/
+Started ../../bin/html5AnimatedImageConverter --  Sun Apr 12 09:33:26 EDT 2015
+Creating dir /tmp/34802.html5Anim.tmp/
 Disassembling PNG APNG-Icos4D.png
 
 APNG Disassembler 2.7
@@ -1195,12 +1195,18 @@ apngframe48.png
 apngframe48.txt
 apngframe48.webp
 b-stitched.jp2
+b-stitched.jpg
 b-stitched.jxr
 b-stitched.png
+b-stitched.svgz
+b-stitched_alpha.jpg
+b-stitched_alpha.png
 b.css
 b.gif
 b.html
 b.png
 b.unopt.png
 b.webp
+log.txt
 mv: rename *.tif to /Users/zhawry/git/apng-webp-images-now/examples/4D-pres/*.tif: No such file or directory
+mv: b-stitched.svgz: No such file or directory
