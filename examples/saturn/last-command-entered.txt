@@ -1,0 +1,1 @@
+../../bin/html5ImageConverter.sh --sizes=320/600/640/1024/1200/2016 --no-png --webp-quals=65 --jpg-quals=30 --jp2-rates=0.1/0.17/0.1/0.1/0.1/0.1 --jxr-quals=40/40/40/40/40/43 saturn.png

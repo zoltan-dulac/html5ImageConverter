@@ -11,7 +11,7 @@
     http://codyhouse.co/gem/css-jquery-image-comparison-slider/
     
     Command that generated this page and assoicated images:
-    ../../bin/html5ImageConverter.sh --sizes=320/600/640/1024/1200/2016 --jp2-rates=1.3/1.2/1.05/0.95/0.85/0.5 --jxr-quals=20/22/22/26/27/36 --webp-quals=70 --has-alpha --jpg-quals=30 --additional-css=space.css --compress-svg --no-png sun-xrays.png 
+    ../../bin/html5ImageConverter.sh --sizes=320/600/640/1024/1200/2016 --jp2-rates=1.3/1.2/1.05/0.95/0.85/0.5 --webp-quals=70 --has-alpha --jpg-quals=30 --additional-css=space.css --compress-svg --no-png --jxr-quals=20/22/22/26/27/36 --use-nconvert sun-xrays.png 
   
   -->
   
@@ -34,15 +34,15 @@
     
     
       [data-type=original]:after {
-          content: '1989.4K'
+          content: '1989.5K'
         }
       
-      html.has-alpha.svg .size:after {
-        content: '79.4K';
+      html.has-alpha.svg.no-webp.no-jpeg2000.no-jpegxr .size:after {
+        content: '83.8K';
       }
       
       html.jpeg2000 .size:after {
-        content: '124.6K';
+        content: '123.7K';
       }
       
       html.jpegxr .size:after {
@@ -69,23 +69,23 @@
 	only screen and (                min-resolution: 2dppx)  and (max-width: 600px)
 	{
       [data-type=original]:after {
-          content: '882.7K'
+          content: '883.1K'
         }
       
-      html.has-alpha.svg .size:after {
-        content: '39.8K';
+      html.has-alpha.svg.no-webp.no-jpeg2000.no-jpegxr .size:after {
+        content: '43.3K';
       }
       
       html.jpeg2000 .size:after {
-        content: '75.9K';
+        content: '75.6K';
       }
       
       html.jpegxr .size:after {
-        content: '167.6K';
+        content: '168.3K';
       }
       
       html.webp .size:after {
-        content: '103.6K';
+        content: '103.3K';
       }
       
     }
@@ -104,23 +104,23 @@
 	only screen and (                min-resolution: 2dppx)  and (max-width: 512px)
 	{
       [data-type=original]:after {
-          content: '671.6K'
+          content: '671.4K'
         }
       
-      html.has-alpha.svg .size:after {
-        content: '31.5K';
+      html.has-alpha.svg.no-webp.no-jpeg2000.no-jpegxr .size:after {
+        content: '34.6K';
       }
       
       html.jpeg2000 .size:after {
-        content: '61.6K';
+        content: '61.7K';
       }
       
       html.jpegxr .size:after {
-        content: '127.0K';
+        content: '126.9K';
       }
       
       html.webp .size:after {
-        content: '81.4K';
+        content: '81.1K';
       }
       
     }
@@ -139,11 +139,11 @@
 	only screen and (                min-resolution: 2dppx)  and (max-width: 320px)
 	{
       [data-type=original]:after {
-          content: '288.9K'
+          content: '289.0K'
         }
       
-      html.has-alpha.svg .size:after {
-        content: '15.9K';
+      html.has-alpha.svg.no-webp.no-jpeg2000.no-jpegxr .size:after {
+        content: '18.9K';
       }
       
       html.jpeg2000 .size:after {
@@ -151,7 +151,7 @@
       }
       
       html.jpegxr .size:after {
-        content: '57.1K';
+        content: '56.8K';
       }
       
       html.webp .size:after {
@@ -174,11 +174,11 @@
 	only screen and (                min-resolution: 2dppx)  and (max-width: 300px)
 	{
       [data-type=original]:after {
-          content: '257.2K'
+          content: '257.3K'
         }
       
-      html.has-alpha.svg .size:after {
-        content: '14.6K';
+      html.has-alpha.svg.no-webp.no-jpeg2000.no-jpegxr .size:after {
+        content: '17.6K';
       }
       
       html.jpeg2000 .size:after {
@@ -212,12 +212,12 @@
           content: '82.3K'
         }
       
-      html.has-alpha.svg .size:after {
-        content: '6.2K';
+      html.has-alpha.svg.no-webp.no-jpeg2000.no-jpegxr .size:after {
+        content: '9.0K';
       }
       
       html.jpeg2000 .size:after {
-        content: '8.4K';
+        content: '8.3K';
       }
       
       html.jpegxr .size:after {

@@ -4630,3 +4630,495 @@ Unrecognized TIFTag: 266(0x10a), 3, 1
 Unrecognized TIFTag: 297(0x129), 3, 2
 Unrecognized TIFTag: 318(0x13e), 5, 2
 Unrecognized TIFTag: 319(0x13f), 5, 6
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'sun-xrays-320.webp'
+File:      sun-xrays-320.png
+Dimension: 320 x 163 (with alpha)
+Output:    14618 bytes Y-U-V-All-PSNR 38.82 37.35 37.15   38.23 dB
+block count:  intra4: 198
+              intra16: 22  (-> 10.00%)
+              skipped block: 11 (5.00%)
+bytes used:  header:            118  (0.8%)
+             mode-partition:    957  (6.5%)
+             transparency:     8184 (54.9 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      22%|      40%|      32%|     220
+      quantizer:  |      39 |      33 |      28 |      21 |
+   filter level:  |      29 |      27 |      20 |      11 |
+Lossless-alpha compressed size: 8183 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 8,417 = 1.290951 bits/pel.
+Compressed bytes (excludes codestream headers) = 8,185 = 1.255368 bpp.
+Body bytes (excludes packet and codestream headers) = 7,969 = 1.222239 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        1.290951
+Layer thresholds:
+        42429
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 269(0x10d), 2, 18
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'sun-xrays-600.webp'
+File:      sun-xrays-600.png
+Dimension: 600 x 305 (with alpha)
+Output:    37160 bytes Y-U-V-All-PSNR 39.67 38.83 38.50   39.31 dB
+block count:  intra4: 602
+              intra16: 158  (-> 20.79%)
+              skipped block: 81 (10.66%)
+bytes used:  header:            162  (0.4%)
+             mode-partition:   2457  (6.6%)
+             transparency:    20759 (54.8 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|      16%|      39%|      41%|     760
+      quantizer:  |      39 |      35 |      29 |      23 |
+   filter level:  |      25 |      21 |      19 |      13 |
+Lossless-alpha compressed size: 20758 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 26,956 = 1.178404 bits/pel.
+Compressed bytes (excludes codestream headers) = 26,724 = 1.168262 bpp.
+Body bytes (excludes packet and codestream headers) = 26,338 = 1.151388 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        1.178404
+Layer thresholds:
+        42059
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 269(0x10d), 2, 18
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'sun-xrays-640.webp'
+File:      sun-xrays-640.png
+Dimension: 640 x 325 (with alpha)
+Output:    40782 bytes Y-U-V-All-PSNR 39.68 38.80 38.48   39.30 dB
+block count:  intra4: 693
+              intra16: 147  (-> 17.50%)
+              skipped block: 91 (10.83%)
+bytes used:  header:            163  (0.4%)
+             mode-partition:   2915  (7.1%)
+             transparency:    22859 (54.8 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|      13%|      39%|      43%|     840
+      quantizer:  |      39 |      35 |      29 |      23 |
+   filter level:  |      25 |      21 |      27 |      13 |
+Lossless-alpha compressed size: 22858 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 27,223 = 1.047038 bits/pel.
+Compressed bytes (excludes codestream headers) = 26,991 = 1.038115 bpp.
+Body bytes (excludes packet and codestream headers) = 26,605 = 1.023269 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        1.047038
+Layer thresholds:
+        42153
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 269(0x10d), 2, 18
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'sun-xrays-1024.webp'
+File:      sun-xrays-1024.png
+Dimension: 1024 x 520 (with alpha)
+Output:    83082 bytes Y-U-V-All-PSNR 40.40 39.92 39.59   40.17 dB
+block count:  intra4: 1600
+              intra16: 512  (-> 24.24%)
+              skipped block: 263 (12.45%)
+bytes used:  header:            235  (0.3%)
+             mode-partition:   6253  (7.5%)
+             transparency:    47234 (54.7 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|      12%|      30%|      54%|    2112
+      quantizer:  |      39 |      37 |      30 |      24 |
+   filter level:  |      25 |      15 |      14 |      12 |
+Lossless-alpha compressed size: 47233 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 63,097 = 0.947972 bits/pel.
+Compressed bytes (excludes codestream headers) = 62,865 = 0.944486 bpp.
+Body bytes (excludes packet and codestream headers) = 62,264 = 0.935457 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.947972
+Layer thresholds:
+        42022
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 269(0x10d), 2, 19
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'sun-xrays-1200.webp'
+File:      sun-xrays-1200.png
+Dimension: 1200 x 610 (with alpha)
+Output:    105776 bytes Y-U-V-All-PSNR 40.70 40.20 39.84   40.46 dB
+block count:  intra4: 2112
+              intra16: 813  (-> 27.79%)
+              skipped block: 386 (13.20%)
+bytes used:  header:            254  (0.2%)
+             mode-partition:   7900  (7.5%)
+             transparency:    60253 (54.8 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|      12%|      29%|      55%|    2925
+      quantizer:  |      39 |      37 |      31 |      24 |
+   filter level:  |      29 |      15 |      13 |      12 |
+Lossless-alpha compressed size: 60252 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 77,306 = 0.844874 bits/pel.
+Compressed bytes (excludes codestream headers) = 77,074 = 0.842339 bpp.
+Body bytes (excludes packet and codestream headers) = 76,332 = 0.834230 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.844874
+Layer thresholds:
+        42076
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 269(0x10d), 2, 19
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'sun-xrays-2016.webp'
+File:      sun-xrays-2016.png
+Dimension: 2016 x 1024 (with alpha)
+Output:    223472 bytes Y-U-V-All-PSNR 42.13 43.04 41.98   42.24 dB
+block count:  intra4: 4598
+              intra16: 3466  (-> 42.98%)
+              skipped block: 1221 (15.14%)
+bytes used:  header:            381  (0.2%)
+             mode-partition:  15653  (7.0%)
+             transparency:   132897 (54.7 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      16%|      31%|      46%|    8064
+      quantizer:  |      39 |      37 |      29 |      22 |
+   filter level:  |       5 |       7 |       7 |      10 |
+Lossless-alpha compressed size: 132896 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 127,086 = 0.492490 bits/pel.
+Compressed bytes (excludes codestream headers) = 126,854 = 0.491591 bpp.
+Body bytes (excludes packet and codestream headers) = 125,927 = 0.487998 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.492490
+Layer thresholds:
+        42355
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 269(0x10d), 2, 19
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'sun-xrays-320.webp'
+File:      sun-xrays-320.png
+Dimension: 320 x 163 (with alpha)
+Output:    14618 bytes Y-U-V-All-PSNR 38.82 37.35 37.15   38.23 dB
+block count:  intra4: 198
+              intra16: 22  (-> 10.00%)
+              skipped block: 11 (5.00%)
+bytes used:  header:            118  (0.8%)
+             mode-partition:    957  (6.5%)
+             transparency:     8184 (54.9 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      22%|      40%|      32%|     220
+      quantizer:  |      39 |      33 |      28 |      21 |
+   filter level:  |      29 |      27 |      20 |      11 |
+Lossless-alpha compressed size: 8183 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 8,417 = 1.290951 bits/pel.
+Compressed bytes (excludes codestream headers) = 8,185 = 1.255368 bpp.
+Body bytes (excludes packet and codestream headers) = 7,969 = 1.222239 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        1.290951
+Layer thresholds:
+        42426
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 269(0x10d), 2, 18
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'sun-xrays-600.webp'
+File:      sun-xrays-600.png
+Dimension: 600 x 305 (with alpha)
+Output:    37160 bytes Y-U-V-All-PSNR 39.67 38.83 38.50   39.31 dB
+block count:  intra4: 602
+              intra16: 158  (-> 20.79%)
+              skipped block: 81 (10.66%)
+bytes used:  header:            162  (0.4%)
+             mode-partition:   2457  (6.6%)
+             transparency:    20759 (54.8 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|      16%|      39%|      41%|     760
+      quantizer:  |      39 |      35 |      29 |      23 |
+   filter level:  |      25 |      21 |      19 |      13 |
+Lossless-alpha compressed size: 20758 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 26,956 = 1.178404 bits/pel.
+Compressed bytes (excludes codestream headers) = 26,724 = 1.168262 bpp.
+Body bytes (excludes packet and codestream headers) = 26,338 = 1.151388 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        1.178404
+Layer thresholds:
+        42059
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 269(0x10d), 2, 18
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'sun-xrays-640.webp'
+File:      sun-xrays-640.png
+Dimension: 640 x 325 (with alpha)
+Output:    40782 bytes Y-U-V-All-PSNR 39.68 38.80 38.48   39.30 dB
+block count:  intra4: 693
+              intra16: 147  (-> 17.50%)
+              skipped block: 91 (10.83%)
+bytes used:  header:            163  (0.4%)
+             mode-partition:   2915  (7.1%)
+             transparency:    22859 (54.8 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|      13%|      39%|      43%|     840
+      quantizer:  |      39 |      35 |      29 |      23 |
+   filter level:  |      25 |      21 |      27 |      13 |
+Lossless-alpha compressed size: 22858 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 27,223 = 1.047038 bits/pel.
+Compressed bytes (excludes codestream headers) = 26,991 = 1.038115 bpp.
+Body bytes (excludes packet and codestream headers) = 26,605 = 1.023269 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        1.047038
+Layer thresholds:
+        42153
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 269(0x10d), 2, 18
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'sun-xrays-1024.webp'
+File:      sun-xrays-1024.png
+Dimension: 1024 x 520 (with alpha)
+Output:    83082 bytes Y-U-V-All-PSNR 40.40 39.92 39.59   40.17 dB
+block count:  intra4: 1600
+              intra16: 512  (-> 24.24%)
+              skipped block: 263 (12.45%)
+bytes used:  header:            235  (0.3%)
+             mode-partition:   6253  (7.5%)
+             transparency:    47234 (54.7 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|      12%|      30%|      54%|    2112
+      quantizer:  |      39 |      37 |      30 |      24 |
+   filter level:  |      25 |      15 |      14 |      12 |
+Lossless-alpha compressed size: 47233 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 63,097 = 0.947972 bits/pel.
+Compressed bytes (excludes codestream headers) = 62,865 = 0.944486 bpp.
+Body bytes (excludes packet and codestream headers) = 62,264 = 0.935457 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.947972
+Layer thresholds:
+        42022
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 269(0x10d), 2, 19
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'sun-xrays-1200.webp'
+File:      sun-xrays-1200.png
+Dimension: 1200 x 610 (with alpha)
+Output:    105776 bytes Y-U-V-All-PSNR 40.70 40.20 39.84   40.46 dB
+block count:  intra4: 2112
+              intra16: 813  (-> 27.79%)
+              skipped block: 386 (13.20%)
+bytes used:  header:            254  (0.2%)
+             mode-partition:   7900  (7.5%)
+             transparency:    60253 (54.8 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|      12%|      29%|      55%|    2925
+      quantizer:  |      39 |      37 |      31 |      24 |
+   filter level:  |      29 |      15 |      13 |      12 |
+Lossless-alpha compressed size: 60252 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 77,306 = 0.844874 bits/pel.
+Compressed bytes (excludes codestream headers) = 77,074 = 0.842339 bpp.
+Body bytes (excludes packet and codestream headers) = 76,332 = 0.834230 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.844874
+Layer thresholds:
+        42076
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 269(0x10d), 2, 19
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'sun-xrays-2016.webp'
+File:      sun-xrays-2016.png
+Dimension: 2016 x 1024 (with alpha)
+Output:    223472 bytes Y-U-V-All-PSNR 42.13 43.04 41.98   42.24 dB
+block count:  intra4: 4598
+              intra16: 3466  (-> 42.98%)
+              skipped block: 1221 (15.14%)
+bytes used:  header:            381  (0.2%)
+             mode-partition:  15653  (7.0%)
+             transparency:   132897 (54.7 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      16%|      31%|      46%|    8064
+      quantizer:  |      39 |      37 |      29 |      22 |
+   filter level:  |       5 |       7 |       7 |      10 |
+Lossless-alpha compressed size: 132896 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 126,550 = 0.490413 bits/pel.
+Compressed bytes (excludes codestream headers) = 126,318 = 0.489514 bpp.
+Body bytes (excludes packet and codestream headers) = 125,392 = 0.485925 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.490413
+Layer thresholds:
+        42358
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 269(0x10d), 2, 19
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
