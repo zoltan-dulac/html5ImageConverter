@@ -1,0 +1,29 @@
+.cd-image-container img, canvas {
+	background-position: 0px 0px;
+	background-repeat: repeat-x;
+	background-size: auto;
+	-webkit-animation: animatedBackground 120s linear infinite;
+	animation: animatedBackground 120s linear infinite;
+}
+
+.cd-image-container img, canvas, figure {
+	-webkit-transform: translateZ(0);
+	transform: translateZ(0);
+}
+
+
+@keyframes animatedBackground {
+	from { background-position: 0 0; }
+	to { background-position: 0 -1920px; }
+}
+
+@-webkit-keyframes animatedBackground {
+	from { background-position: 0 0; }
+	to { background-position: 0 -1920px; }
+}
+
+.cd-image-container img, canvas {
+  background-image: url(../saturn-alpha/space-2016.jpg);
+  background-size: 100vw auto;
+  background-repeat: repeat;
+}

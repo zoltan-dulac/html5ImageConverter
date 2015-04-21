@@ -76,9 +76,14 @@ then
   JXR_QUAL=`getArg jxr-qual 85`
 fi
 
-if [ "$JPEG_QUAL" = "" ]
+if [ "$JPG_QUAL" = "" ]
 then
   JPG_QUAL=`getArg jpg-qual 70`
+fi
+
+if [ "$BPG_QUAL" = "" ]
+then
+  BPG_QUAL=`getArg bpg-qual 28`
 fi
 
 if [ "$HAS_ALPHA" = "" ]
@@ -201,10 +206,25 @@ function toJPEG {
   if [ "$USE_MOZJPEG" != "true" -o "$MOZ_JPEG_SUCCESS" != "0" ]
   then
     echo "   - jpeg using ImageMagick (Quality: $JPG_QUAL)" 1>&2
-    echo "convert $1 -define quality=$JPG_QUAL $IM_COLORSPACE_NORM_OPTIONS  $2" 1>&2
+    echo "convert $infile -define quality=$JPG_QUAL $IM_COLORSPACE_NORM_OPTIONS  $outfile" 1>&2
     convert $1 -define quality=$JPG_QUAL $IM_COLORSPACE_NORM_OPTIONS  $2 >> log.txt
     ifErrorPrintAndExit "Creating jpg failed.  Bailing"  100
   fi
+}
+
+function toBPG () {
+  local infile="$1"
+  local outfile="$2"
+  
+  echo "   - bpg using bpgenc (Quality: $BPG_QUAL)" 1>&2
+  if [ "$BPG_QUAL" -gt "51" ]
+  then
+    echo "bpg quality must be between 0 and 51 (was given $BPG_QUAL).  Bailing." 1>&2
+    exit 200
+  fi
+  
+  bpgenc -q $BPG_QUAL -o $outfile $infile >> log.txt
+  ifErrorPrintAndExit "Creating bpg failed.  Bailing"  100
 }
 
 
@@ -223,6 +243,12 @@ function createJPEGwithSVGfilter () {
       #.. Next, convert the original image to JPEG
       toJPEG $stub".png" $stub".jpg"
       ifErrorPrintAndExit "Could not convert $stub".png" to JPEG format.  Bailing"  202
+      
+      #.. If asked, create BPG
+      if [ "$CREATE_BPG" = "true" ]
+      then
+        toBPG $stub".png" $stub".bpg"
+      fi
 
       #.. Finally, create the SVG wrapper around the image
       local DIMS=`identify $stub.png | awk '{print $3}'`

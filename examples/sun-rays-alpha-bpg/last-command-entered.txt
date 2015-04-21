@@ -1,0 +1,1 @@
+../../bin/html5ImageConverter.sh --sizes=2016 --jp2-rates=0.5 --webp-quals=70 --has-alpha --jpg-quals=30 --additional-css=space.css --compress-svg --no-png --jxr-quals=36 --bpg-quals=27 --use-nconvert --create-bpg sun-xrays.png

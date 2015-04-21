@@ -100,6 +100,8 @@ createRenditionHTML () {
         position: absolute;
         top: 80px;
         left: 10px;
+      }
+      
       
       
     </style>
@@ -140,6 +142,7 @@ NO_PNG=`getArg no-png`
 HAS_ALPHA=`getArg has-alpha false`
 MODERNIZR_SRC=`getArg 'modernizr-src' '../../js/modernizr.custom.29822.js'`
 CREATE_RENDITION_HTML=`getArg 'create-rendition-html'`
+CREATE_BPG=`getArg 'create-bpg'`
 
 IMAGE_SIZE=`getImageWidth $FILEARGS`
 SIZES=(`getArg sizes $IMAGE_SIZE | tr '/' ' '`)
@@ -150,12 +153,14 @@ DEF_JP2_RATES=`getDefaultQuals 1.0`
 DEF_JXR_QUALS=`getDefaultQuals 85`
 DEF_JPG_QUALS=`getDefaultQuals 85`
 DEF_WEBP_QUALS=`getDefaultQuals 85`
+DEF_BPG_QUALS=`getDefaultQuals 28`
 
 
 JP2_RATES=( `getArg jp2-rates $DEF_JP2_RATES | tr '/' ' '` )
 JPG_QUALS=(`getArg jpg-quals $DEF_JPG_QUALS | tr '/' ' '`)
 JXR_QUALS=(`getArg jxr-quals $DEF_JXR_QUALS | tr '/' ' '`)
 WEBP_QUALS=(`getArg webp-quals $DEF_WEBP_QUALS | tr '/' ' '`)
+BPG_QUALS=(`getArg bpg-quals $DEF_BPG_QUALS | tr '/' ' '`)
 
 getArg webp-quals $DEF_WEBP_QUALS
 
@@ -202,6 +207,16 @@ then
     WEBP_QUALS=( `getDefaultQuals ${WEBP_QUALS[0]} | tr '/' ' '` )
   else
     printAndExit "There should be $NUM_SIZES WEBP renditions, but there are only ${#WEBP_QUALS[@]}. Bailing" 102
+  fi
+fi
+
+if [ "$CREATE_BPG" = "true" -a "$NUM_SIZES" != ${#BPG_QUALS[@]} ]
+then
+  if [ "${#BPG_QUALS[@]}" = "1" ]
+  then
+    BPG_QUALS=( `getDefaultQuals ${BPG_QUALS[0]} | tr '/' ' '` )
+  else
+    printAndExit "There should be $NUM_SIZES BPG renditions, but there are only ${#BPG_QUALS[@]}. Bailing" 102
   fi
 fi
 
@@ -252,7 +267,13 @@ do
     JXR_QUAL=${JXR_QUALS[i]}
     WEBP_QUAL=${WEBP_QUALS[i]}
     JPG_QUAL=${JPG_QUALS[i]}
-    echo "WEBP_QUAL: $WEBP_QUAL"
+    
+    if [ "$CREATE_BPG" = "true" ]
+    then
+      BPG_QUAL=${BPG_QUALS[i]}
+    fi
+    
+    
     
     echo "Creating png ..."
     echo convert $STUB.png -resize $SIZE $CONVERT_ALPHA_OPTIONS $IM_COLORSPACE_NORM_OPTIONS $STUB-$SIZE.png
@@ -304,7 +325,7 @@ do
       fi
     fi
     
-    LIST=`ls -l $STUB-$SIZE.jpg $STUB-$SIZE.jp2 $STUB-$SIZE.jxr $STUB-$SIZE.webp  $STUB-$SIZE.png $STUB-$SIZE-quant.png $STUB-$SIZE.svg $STUB-$SIZE.svgz $STUB-$SIZE"_masked.jpg" 2> /dev/null | sed 's/Domain Users/xxx/g' `
+    LIST=`ls -l $STUB-$SIZE.jpg $STUB-$SIZE.jp2 $STUB-$SIZE.jxr $STUB-$SIZE.webp  $STUB-$SIZE.png $STUB-$SIZE.bpg $STUB-$SIZE-quant.png $STUB-$SIZE.svg $STUB-$SIZE.svgz $STUB-$SIZE"_masked.jpg" 2> /dev/null | sed 's/Domain Users/xxx/g' `
     
     if [ "$USE_QUANT" ]
     then
@@ -316,6 +337,9 @@ do
     JP2_SIZE=`getFileSize jp2 $SIZE`
     JXR_SIZE=`getFileSize jxr $SIZE`
     WEBP_SIZE=`getFileSize webp $SIZE`
+    BPG_SIZE=`getFileSize bpg $SIZE`
+    echo "BPG SIZE: $BPG_SIZE"
+    
     if [ "$COMPRESS_SVG" = "true" ]
     then
       SVG_SIZE=`getFileSize svgz $SIZE`
@@ -341,11 +365,21 @@ do
       SVG_SIZE_CSS=""
     fi
     
+    if [ "$CREATE_BPG" = "true" ]
+    then
+      HTML_CLASS="$HTML_CLASS bpg"
+    fi
+    
     MEDIA_QUERY_CSS="
     $MEDIA_QUERY_BEGIN
       [data-type=original]:after {
-          content: '$ORIG_SIZE'
+          content: 'PNG $ORIG_SIZE'
         }
+        
+      
+      html.bpg [data-type=original]:after {
+        content: 'BPG $BPG_SIZE';
+      }
       
       $SVG_SIZE_CSS
       
@@ -360,6 +394,7 @@ do
       html.webp .size:after {
         content: '$WEBP_SIZE';
       }
+      
       
     $MEDIA_QUERY_END
     $MEDIA_QUERY_CSS
@@ -386,6 +421,25 @@ do
   	ADDITIONAL_CSS_TAG="<link rel='stylesheet' href='$ADDITIONAL_CSS'> <!-- Additional User Styles -->"
   fi
   
+  if [ "$CREATE_BPG" = "true" ]
+  then
+  
+    RIGHTHAND_IMAGE_TAG="<img src='$STUB-$SIZE.bpg' />"
+  
+    if [ "$HAS_ALPHA" = "true" ]
+    then
+      BPG_JS="<script src='../../js/bpgdec8.js'></script>"
+    else
+      BPG_JS="<script src='../../js/bpgdec.js'></script>"
+    fi
+  else
+    RIGHTHAND_IMAGE_TAG="<picture title='original image format'>
+      <!--[if IE 9]><video style='display: none;'><![endif]-->
+      <source srcset='$ORIG_SRCSET' />
+      <!--[if IE 9]></video><![endif]-->
+        <img srcset='$ORIG_SRCSET'  />
+    </picture>"
+  fi
   
   echo "$0 $*" > last-command-entered.txt
   
@@ -422,6 +476,11 @@ do
       background-size: 100vw auto;
     }
     
+    
+    img, canvas {
+      width: 100vw;
+    }
+    
     $MEDIA_QUERY_CSS
     </style>
       
@@ -432,6 +491,8 @@ do
     
     <script src='$MODERNIZR_SRC'></script>
     <script async=true src=../../js/picturefill.js></script>
+    
+    $BPG_JS
   
   </head>
   <!--[if lt IE 7 ]> <body class='ie6 ie8down ie9down custom oldIE'> <![endif]-->
@@ -444,14 +505,9 @@ do
       
   
     <figure class='cd-image-container'>
-    <picture title='alternative image format'>
-      <!--[if IE 9]><video style='display: none;'><![endif]-->
-      <source srcset='$ORIG_SRCSET' />
-      <!--[if IE 9]></video><![endif]-->
-        <img srcset='$ORIG_SRCSET'  />
-    </picture>
+    $RIGHTHAND_IMAGE_TAG
     
-      <span class='cd-image-label' data-type='original'>$ORIG_FORMAT </span>
+      <span class='cd-image-label' data-type='original'></span>
   
       <div class='cd-resize-img'> <!-- the resizable image on top -->
         <picture title='alternative image format'>
