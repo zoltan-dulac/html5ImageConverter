@@ -1,0 +1,91 @@
+@import "sf_digital_readout/stylesheet.css";
+
+/*
+ * Feel free to edit any of the styles below.
+ */
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+/* ensure all the elements styled below use border-box */
+.block, #grid {
+    box-sizing: border-box;
+    font-family: "SFDigReadout-Heavy", "Arial", "Helvetica", sans-serif;
+}
+
+/* The object before it is transformed */
+#o1 {
+    background: #ffcccc;
+}
+
+/* The object after it has been transformed */
+#o2 {
+    background: transparent;
+    color: transparent;
+    text-shadow: 0 0 4px rgba(255, 255, 255, 0.4);
+    /* One transform entry for each different brower.      */
+     /* Note: there's no -ms-tranform entry, since IE9, which needs it, doesn't do 3D */
+     
+     -moz-transform:    matrix3d(0.515078, -0.199333, 0, 0.00021, 
+                        0.502268, 0.802615, 0, 0.00008, 
+                        0, 0, 1, 0, 
+                        438, 240, 0, 1);
+     -webkit-transform: matrix3d(0.515078, -0.199333, 0, 0.00021, 
+                        0.502268, 0.802615, 0, 0.00008, 
+                        0, 0, 1, 0, 
+                        438, 240, 0, 1);
+     -o-transform:      matrix3d(0.515078, -0.199333, 0, 0.00021, 
+                        0.502268, 0.802615, 0, 0.00008, 
+                        0, 0, 1, 0, 
+                        438, 240, 0, 1);
+     transform:         matrix3d(0.515078, -0.199333, 0, 0.00021, 
+                        0.502268, 0.802615, 0, 0.00008, 
+                        0, 0, 1, 0, 
+                        438, 240, 0, 1);
+     
+     /* The transform origin is needed to place the transformed object in the right place. */
+     -moz-transform-origin:    0px 0px 0px;
+     -webkit-transform-origin: 0px 0px 0px;
+     -o-transform-origin:      0px 0px 0px;
+     transform-origin:         0px 0px 0px;
+     
+     /* Need to make sure you define the width and height */
+     width: 703px;
+     height: 278px;
+     position: absolute;
+     left: 0;
+     top: 0;
+}
+
+/* Common styles for box objects. */
+.block {
+    padding: 0 10px;
+    line-height: 1.2;
+    margin-top: -20px;
+} 
+
+#time {
+    font-size: 210px;
+    height: 190px;
+    margin-top: -20px;
+}
+
+#secs {
+    font-size: 0.7em;
+}
+
+#date {
+    font-size: 100px;
+    text-align: right;
+}
+
+/* CSS for the grid */
+#grid {
+    background: url("retro-watch2.jpg");
+    width: 1024px;
+    height: 576px;
+    position: relative;
+    overflow: hidden;
+}

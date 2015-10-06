@@ -1,0 +1,1443 @@
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    69980 bytes Y-U-V-All-PSNR 36.35 40.31 39.79   37.27 dB
+block count:  intra4: 2569
+              intra16: 1571  (-> 37.95%)
+              skipped block: 549 (13.26%)
+bytes used:  header:            222  (0.3%)
+             mode-partition:  10897  (15.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      55 |      52 |      43 |      33 |
+   filter level:  |      17 |      11 |       7 |      14 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 12,929 = 0.098668 bits/pel.
+Compressed bytes (excludes codestream headers) = 12,700 = 0.096921 bpp.
+Body bytes (excludes packet and codestream headers) = 12,494 = 0.095349 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.098668
+Layer thresholds:
+        44528
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    69980 bytes Y-U-V-All-PSNR 36.35 40.31 39.79   37.27 dB
+block count:  intra4: 2569
+              intra16: 1571  (-> 37.95%)
+              skipped block: 549 (13.26%)
+bytes used:  header:            222  (0.3%)
+             mode-partition:  10897  (15.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      55 |      52 |      43 |      33 |
+   filter level:  |      17 |      11 |       7 |      14 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 38,948 = 0.297234 bits/pel.
+Compressed bytes (excludes codestream headers) = 38,719 = 0.295486 bpp.
+Body bytes (excludes packet and codestream headers) = 38,318 = 0.292426 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.297234
+Layer thresholds:
+        43715
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    69980 bytes Y-U-V-All-PSNR 36.35 40.31 39.79   37.27 dB
+block count:  intra4: 2569
+              intra16: 1571  (-> 37.95%)
+              skipped block: 549 (13.26%)
+bytes used:  header:            222  (0.3%)
+             mode-partition:  10897  (15.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      55 |      52 |      43 |      33 |
+   filter level:  |      17 |      11 |       7 |      14 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 64,536 = 0.492510 bits/pel.
+Compressed bytes (excludes codestream headers) = 64,307 = 0.490762 bpp.
+Body bytes (excludes packet and codestream headers) = 63,733 = 0.486382 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.492510
+Layer thresholds:
+        43294
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    69980 bytes Y-U-V-All-PSNR 36.35 40.31 39.79   37.27 dB
+block count:  intra4: 2569
+              intra16: 1571  (-> 37.95%)
+              skipped block: 549 (13.26%)
+bytes used:  header:            222  (0.3%)
+             mode-partition:  10897  (15.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      55 |      52 |      43 |      33 |
+   filter level:  |      17 |      11 |       7 |      14 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 104,792 = 0.799725 bits/pel.
+Compressed bytes (excludes codestream headers) = 104,563 = 0.797978 bpp.
+Body bytes (excludes packet and codestream headers) = 103,782 = 0.792017 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.799725
+Layer thresholds:
+        42827
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    69980 bytes Y-U-V-All-PSNR 36.35 40.31 39.79   37.27 dB
+block count:  intra4: 2569
+              intra16: 1571  (-> 37.95%)
+              skipped block: 549 (13.26%)
+bytes used:  header:            222  (0.3%)
+             mode-partition:  10897  (15.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      55 |      52 |      43 |      33 |
+   filter level:  |      17 |      11 |       7 |      14 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 104,792 = 0.799725 bits/pel.
+Compressed bytes (excludes codestream headers) = 104,563 = 0.797978 bpp.
+Body bytes (excludes packet and codestream headers) = 103,782 = 0.792017 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.799725
+Layer thresholds:
+        42826
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    69980 bytes Y-U-V-All-PSNR 36.35 40.31 39.79   37.27 dB
+block count:  intra4: 2569
+              intra16: 1571  (-> 37.95%)
+              skipped block: 549 (13.26%)
+bytes used:  header:            222  (0.3%)
+             mode-partition:  10897  (15.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      55 |      52 |      43 |      33 |
+   filter level:  |      17 |      11 |       7 |      14 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 104,792 = 0.799725 bits/pel.
+Compressed bytes (excludes codestream headers) = 104,563 = 0.797978 bpp.
+Body bytes (excludes packet and codestream headers) = 103,782 = 0.792017 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.799725
+Layer thresholds:
+        42826
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    69980 bytes Y-U-V-All-PSNR 36.35 40.31 39.79   37.27 dB
+block count:  intra4: 2569
+              intra16: 1571  (-> 37.95%)
+              skipped block: 549 (13.26%)
+bytes used:  header:            222  (0.3%)
+             mode-partition:  10897  (15.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      55 |      52 |      43 |      33 |
+   filter level:  |      17 |      11 |       7 |      14 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 104,806 = 0.799832 bits/pel.
+Compressed bytes (excludes codestream headers) = 104,577 = 0.798084 bpp.
+Body bytes (excludes packet and codestream headers) = 103,795 = 0.792117 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.799832
+Layer thresholds:
+        42825
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    69980 bytes Y-U-V-All-PSNR 36.35 40.31 39.79   37.27 dB
+block count:  intra4: 2569
+              intra16: 1571  (-> 37.95%)
+              skipped block: 549 (13.26%)
+bytes used:  header:            222  (0.3%)
+             mode-partition:  10897  (15.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      55 |      52 |      43 |      33 |
+   filter level:  |      17 |      11 |       7 |      14 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 104,792 = 0.799725 bits/pel.
+Compressed bytes (excludes codestream headers) = 104,563 = 0.797978 bpp.
+Body bytes (excludes packet and codestream headers) = 103,782 = 0.792017 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.799725
+Layer thresholds:
+        42826
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    79096 bytes Y-U-V-All-PSNR 37.31 41.00 40.45   38.18 dB
+block count:  intra4: 2632
+              intra16: 1508  (-> 36.43%)
+              skipped block: 512 (12.37%)
+bytes used:  header:            245  (0.3%)
+             mode-partition:  11326  (14.3%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      48 |      45 |      37 |      28 |
+   filter level:  |      15 |      10 |       6 |      12 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 104,792 = 0.799725 bits/pel.
+Compressed bytes (excludes codestream headers) = 104,563 = 0.797978 bpp.
+Body bytes (excludes packet and codestream headers) = 103,782 = 0.792017 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.799725
+Layer thresholds:
+        42826
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    79096 bytes Y-U-V-All-PSNR 37.31 41.00 40.45   38.18 dB
+block count:  intra4: 2632
+              intra16: 1508  (-> 36.43%)
+              skipped block: 512 (12.37%)
+bytes used:  header:            245  (0.3%)
+             mode-partition:  11326  (14.3%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      48 |      45 |      37 |      28 |
+   filter level:  |      15 |      10 |       6 |      12 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 104,792 = 0.799725 bits/pel.
+Compressed bytes (excludes codestream headers) = 104,563 = 0.797978 bpp.
+Body bytes (excludes packet and codestream headers) = 103,782 = 0.792017 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.799725
+Layer thresholds:
+        42826
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    79096 bytes Y-U-V-All-PSNR 37.31 41.00 40.45   38.18 dB
+block count:  intra4: 2632
+              intra16: 1508  (-> 36.43%)
+              skipped block: 512 (12.37%)
+bytes used:  header:            245  (0.3%)
+             mode-partition:  11326  (14.3%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      48 |      45 |      37 |      28 |
+   filter level:  |      15 |      10 |       6 |      12 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 104,792 = 0.799725 bits/pel.
+Compressed bytes (excludes codestream headers) = 104,563 = 0.797978 bpp.
+Body bytes (excludes packet and codestream headers) = 103,782 = 0.792017 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.799725
+Layer thresholds:
+        42826
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    79096 bytes Y-U-V-All-PSNR 37.31 41.00 40.45   38.18 dB
+block count:  intra4: 2632
+              intra16: 1508  (-> 36.43%)
+              skipped block: 512 (12.37%)
+bytes used:  header:            245  (0.3%)
+             mode-partition:  11326  (14.3%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      48 |      45 |      37 |      28 |
+   filter level:  |      15 |      10 |       6 |      12 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 104,792 = 0.799725 bits/pel.
+Compressed bytes (excludes codestream headers) = 104,563 = 0.797978 bpp.
+Body bytes (excludes packet and codestream headers) = 103,782 = 0.792017 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.799725
+Layer thresholds:
+        42826
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    79096 bytes Y-U-V-All-PSNR 37.31 41.00 40.45   38.18 dB
+block count:  intra4: 2632
+              intra16: 1508  (-> 36.43%)
+              skipped block: 512 (12.37%)
+bytes used:  header:            245  (0.3%)
+             mode-partition:  11326  (14.3%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      48 |      45 |      37 |      28 |
+   filter level:  |      15 |      10 |       6 |      12 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 104,792 = 0.799725 bits/pel.
+Compressed bytes (excludes codestream headers) = 104,563 = 0.797978 bpp.
+Body bytes (excludes packet and codestream headers) = 103,782 = 0.792017 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.799725
+Layer thresholds:
+        42826
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    80390 bytes Y-U-V-All-PSNR 37.44 41.09 40.57   38.30 dB
+block count:  intra4: 2639
+              intra16: 1501  (-> 36.26%)
+              skipped block: 499 (12.05%)
+bytes used:  header:            248  (0.3%)
+             mode-partition:  11341  (14.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      47 |      44 |      36 |      28 |
+   filter level:  |      14 |      10 |       6 |      12 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 104,806 = 0.799832 bits/pel.
+Compressed bytes (excludes codestream headers) = 104,577 = 0.798084 bpp.
+Body bytes (excludes packet and codestream headers) = 103,795 = 0.792117 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.799832
+Layer thresholds:
+        42825
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    82214 bytes Y-U-V-All-PSNR 37.66 41.18 40.65   38.50 dB
+block count:  intra4: 2664
+              intra16: 1476  (-> 35.65%)
+              skipped block: 532 (12.85%)
+bytes used:  header:            261  (0.3%)
+             mode-partition:  11542  (14.0%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      46 |      42 |      35 |      27 |
+   filter level:  |      14 |       9 |       7 |      12 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 104,806 = 0.799832 bits/pel.
+Compressed bytes (excludes codestream headers) = 104,577 = 0.798084 bpp.
+Body bytes (excludes packet and codestream headers) = 103,795 = 0.792117 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.799832
+Layer thresholds:
+        42825
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    81926 bytes Y-U-V-All-PSNR 37.58 41.15 40.61   38.43 dB
+block count:  intra4: 2661
+              intra16: 1479  (-> 35.72%)
+              skipped block: 511 (12.34%)
+bytes used:  header:            262  (0.3%)
+             mode-partition:  11529  (14.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      46 |      43 |      36 |      27 |
+   filter level:  |      14 |       9 |       7 |      12 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 104,792 = 0.799725 bits/pel.
+Compressed bytes (excludes codestream headers) = 104,563 = 0.797978 bpp.
+Body bytes (excludes packet and codestream headers) = 103,782 = 0.792017 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.799725
+Layer thresholds:
+        42826
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    84434 bytes Y-U-V-All-PSNR 37.87 41.29 40.77   38.69 dB
+block count:  intra4: 2669
+              intra16: 1471  (-> 35.53%)
+              skipped block: 511 (12.34%)
+bytes used:  header:            267  (0.3%)
+             mode-partition:  11537  (13.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      44 |      41 |      34 |      26 |
+   filter level:  |      14 |       9 |       6 |      11 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 104,792 = 0.799725 bits/pel.
+Compressed bytes (excludes codestream headers) = 104,563 = 0.797978 bpp.
+Body bytes (excludes packet and codestream headers) = 103,782 = 0.792017 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.799725
+Layer thresholds:
+        42826
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    90956 bytes Y-U-V-All-PSNR 38.47 41.78 41.26   39.27 dB
+block count:  intra4: 2738
+              intra16: 1402  (-> 33.86%)
+              skipped block: 480 (11.59%)
+bytes used:  header:            269  (0.3%)
+             mode-partition:  11822  (13.0%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      40 |      37 |      31 |      23 |
+   filter level:  |      12 |       8 |       6 |      10 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 104,792 = 0.799725 bits/pel.
+Compressed bytes (excludes codestream headers) = 104,563 = 0.797978 bpp.
+Body bytes (excludes packet and codestream headers) = 103,782 = 0.792017 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.799725
+Layer thresholds:
+        42826
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    91236 bytes Y-U-V-All-PSNR 38.50 41.83 41.34   39.30 dB
+block count:  intra4: 2738
+              intra16: 1402  (-> 33.86%)
+              skipped block: 478 (11.55%)
+bytes used:  header:            266  (0.3%)
+             mode-partition:  11806  (12.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      40 |      37 |      30 |      23 |
+   filter level:  |      12 |       8 |       6 |      10 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 104,806 = 0.799832 bits/pel.
+Compressed bytes (excludes codestream headers) = 104,577 = 0.798084 bpp.
+Body bytes (excludes packet and codestream headers) = 103,795 = 0.792117 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.799832
+Layer thresholds:
+        42825
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    91236 bytes Y-U-V-All-PSNR 38.50 41.83 41.34   39.30 dB
+block count:  intra4: 2738
+              intra16: 1402  (-> 33.86%)
+              skipped block: 478 (11.55%)
+bytes used:  header:            266  (0.3%)
+             mode-partition:  11806  (12.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      40 |      37 |      30 |      23 |
+   filter level:  |      12 |       8 |       6 |      10 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 104,792 = 0.799725 bits/pel.
+Compressed bytes (excludes codestream headers) = 104,563 = 0.797978 bpp.
+Body bytes (excludes packet and codestream headers) = 103,782 = 0.792017 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.799725
+Layer thresholds:
+        42826
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    91236 bytes Y-U-V-All-PSNR 38.50 41.83 41.34   39.30 dB
+block count:  intra4: 2738
+              intra16: 1402  (-> 33.86%)
+              skipped block: 478 (11.55%)
+bytes used:  header:            266  (0.3%)
+             mode-partition:  11806  (12.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      40 |      37 |      30 |      23 |
+   filter level:  |      12 |       8 |       6 |      10 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 104,792 = 0.799725 bits/pel.
+Compressed bytes (excludes codestream headers) = 104,563 = 0.797978 bpp.
+Body bytes (excludes packet and codestream headers) = 103,782 = 0.792017 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.799725
+Layer thresholds:
+        42826
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    91236 bytes Y-U-V-All-PSNR 38.50 41.83 41.34   39.30 dB
+block count:  intra4: 2738
+              intra16: 1402  (-> 33.86%)
+              skipped block: 478 (11.55%)
+bytes used:  header:            266  (0.3%)
+             mode-partition:  11806  (12.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      40 |      37 |      30 |      23 |
+   filter level:  |      12 |       8 |       6 |      10 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 107,847 = 0.823040 bits/pel.
+Compressed bytes (excludes codestream headers) = 107,618 = 0.821292 bpp.
+Body bytes (excludes packet and codestream headers) = 106,818 = 0.815187 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.823040
+Layer thresholds:
+        42802
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    91236 bytes Y-U-V-All-PSNR 38.50 41.83 41.34   39.30 dB
+block count:  intra4: 2738
+              intra16: 1402  (-> 33.86%)
+              skipped block: 478 (11.55%)
+bytes used:  header:            266  (0.3%)
+             mode-partition:  11806  (12.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      40 |      37 |      30 |      23 |
+   filter level:  |      12 |       8 |       6 |      10 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 117,768 = 0.898752 bits/pel.
+Compressed bytes (excludes codestream headers) = 117,539 = 0.897005 bpp.
+Body bytes (excludes packet and codestream headers) = 116,692 = 0.890541 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.898752
+Layer thresholds:
+        42701
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    91236 bytes Y-U-V-All-PSNR 38.50 41.83 41.34   39.30 dB
+block count:  intra4: 2738
+              intra16: 1402  (-> 33.86%)
+              skipped block: 478 (11.55%)
+bytes used:  header:            266  (0.3%)
+             mode-partition:  11806  (12.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      40 |      37 |      30 |      23 |
+   filter level:  |      12 |       8 |       6 |      10 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 130,757 = 0.997878 bits/pel.
+Compressed bytes (excludes codestream headers) = 130,528 = 0.996131 bpp.
+Body bytes (excludes packet and codestream headers) = 129,608 = 0.989110 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.997878
+Layer thresholds:
+        42584
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    91236 bytes Y-U-V-All-PSNR 38.50 41.83 41.34   39.30 dB
+block count:  intra4: 2738
+              intra16: 1402  (-> 33.86%)
+              skipped block: 478 (11.55%)
+bytes used:  header:            266  (0.3%)
+             mode-partition:  11806  (12.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      40 |      37 |      30 |      23 |
+   filter level:  |      12 |       8 |       6 |      10 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 123,007 = 0.938734 bits/pel.
+Compressed bytes (excludes codestream headers) = 122,778 = 0.936986 bpp.
+Body bytes (excludes packet and codestream headers) = 121,894 = 0.930240 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.938734
+Layer thresholds:
+        42656
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    91236 bytes Y-U-V-All-PSNR 38.50 41.83 41.34   39.30 dB
+block count:  intra4: 2738
+              intra16: 1402  (-> 33.86%)
+              skipped block: 478 (11.55%)
+bytes used:  header:            266  (0.3%)
+             mode-partition:  11806  (12.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      40 |      37 |      30 |      23 |
+   filter level:  |      12 |       8 |       6 |      10 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 127,351 = 0.971885 bits/pel.
+Compressed bytes (excludes codestream headers) = 127,122 = 0.970138 bpp.
+Body bytes (excludes packet and codestream headers) = 126,228 = 0.963315 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.971885
+Layer thresholds:
+        42633
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    91236 bytes Y-U-V-All-PSNR 38.50 41.83 41.34   39.30 dB
+block count:  intra4: 2738
+              intra16: 1402  (-> 33.86%)
+              skipped block: 478 (11.55%)
+bytes used:  header:            266  (0.3%)
+             mode-partition:  11806  (12.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      40 |      37 |      30 |      23 |
+   filter level:  |      12 |       8 |       6 |      10 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 130,904 = 0.999000 bits/pel.
+Compressed bytes (excludes codestream headers) = 130,675 = 0.997253 bpp.
+Body bytes (excludes packet and codestream headers) = 129,754 = 0.990224 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.999000
+Layer thresholds:
+        42579
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    91236 bytes Y-U-V-All-PSNR 38.50 41.83 41.34   39.30 dB
+block count:  intra4: 2738
+              intra16: 1402  (-> 33.86%)
+              skipped block: 478 (11.55%)
+bytes used:  header:            266  (0.3%)
+             mode-partition:  11806  (12.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      40 |      37 |      30 |      23 |
+   filter level:  |      12 |       8 |       6 |      10 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 129,265 = 0.986492 bits/pel.
+Compressed bytes (excludes codestream headers) = 129,036 = 0.984745 bpp.
+Body bytes (excludes packet and codestream headers) = 128,128 = 0.977815 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.986492
+Layer thresholds:
+        42605
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    91236 bytes Y-U-V-All-PSNR 38.50 41.83 41.34   39.30 dB
+block count:  intra4: 2738
+              intra16: 1402  (-> 33.86%)
+              skipped block: 478 (11.55%)
+bytes used:  header:            266  (0.3%)
+             mode-partition:  11806  (12.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      40 |      37 |      30 |      23 |
+   filter level:  |      12 |       8 |       6 |      10 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 129,723 = 0.989987 bits/pel.
+Compressed bytes (excludes codestream headers) = 129,494 = 0.988240 bpp.
+Body bytes (excludes packet and codestream headers) = 128,586 = 0.981310 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.989987
+Layer thresholds:
+        42602
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    91236 bytes Y-U-V-All-PSNR 38.50 41.83 41.34   39.30 dB
+block count:  intra4: 2738
+              intra16: 1402  (-> 33.86%)
+              skipped block: 478 (11.55%)
+bytes used:  header:            266  (0.3%)
+             mode-partition:  11806  (12.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      40 |      37 |      30 |      23 |
+   filter level:  |      12 |       8 |       6 |      10 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 129,265 = 0.986492 bits/pel.
+Compressed bytes (excludes codestream headers) = 129,036 = 0.984745 bpp.
+Body bytes (excludes packet and codestream headers) = 128,128 = 0.977815 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.986492
+Layer thresholds:
+        42605
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    91236 bytes Y-U-V-All-PSNR 38.50 41.83 41.34   39.30 dB
+block count:  intra4: 2738
+              intra16: 1402  (-> 33.86%)
+              skipped block: 478 (11.55%)
+bytes used:  header:            266  (0.3%)
+             mode-partition:  11806  (12.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      40 |      37 |      30 |      23 |
+   filter level:  |      12 |       8 |       6 |      10 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 129,723 = 0.989987 bits/pel.
+Compressed bytes (excludes codestream headers) = 129,494 = 0.988240 bpp.
+Body bytes (excludes packet and codestream headers) = 128,586 = 0.981310 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.989987
+Layer thresholds:
+        42602
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    91236 bytes Y-U-V-All-PSNR 38.50 41.83 41.34   39.30 dB
+block count:  intra4: 2738
+              intra16: 1402  (-> 33.86%)
+              skipped block: 478 (11.55%)
+bytes used:  header:            266  (0.3%)
+             mode-partition:  11806  (12.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      40 |      37 |      30 |      23 |
+   filter level:  |      12 |       8 |       6 |      10 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 129,207 = 0.986050 bits/pel.
+Compressed bytes (excludes codestream headers) = 128,978 = 0.984302 bpp.
+Body bytes (excludes packet and codestream headers) = 128,072 = 0.977388 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.986050
+Layer thresholds:
+        42607
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    91236 bytes Y-U-V-All-PSNR 38.50 41.83 41.34   39.30 dB
+block count:  intra4: 2738
+              intra16: 1402  (-> 33.86%)
+              skipped block: 478 (11.55%)
+bytes used:  header:            266  (0.3%)
+             mode-partition:  11806  (12.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      40 |      37 |      30 |      23 |
+   filter level:  |      12 |       8 |       6 |      10 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 129,105 = 0.985271 bits/pel.
+Compressed bytes (excludes codestream headers) = 128,876 = 0.983523 bpp.
+Body bytes (excludes packet and codestream headers) = 127,970 = 0.976609 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.985271
+Layer thresholds:
+        42608
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    91236 bytes Y-U-V-All-PSNR 38.50 41.83 41.34   39.30 dB
+block count:  intra4: 2738
+              intra16: 1402  (-> 33.86%)
+              skipped block: 478 (11.55%)
+bytes used:  header:            266  (0.3%)
+             mode-partition:  11806  (12.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      40 |      37 |      30 |      23 |
+   filter level:  |      12 |       8 |       6 |      10 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 129,207 = 0.986050 bits/pel.
+Compressed bytes (excludes codestream headers) = 128,978 = 0.984302 bpp.
+Body bytes (excludes packet and codestream headers) = 128,072 = 0.977388 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.986050
+Layer thresholds:
+        42607
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    91236 bytes Y-U-V-All-PSNR 38.50 41.83 41.34   39.30 dB
+block count:  intra4: 2738
+              intra16: 1402  (-> 33.86%)
+              skipped block: 478 (11.55%)
+bytes used:  header:            266  (0.3%)
+             mode-partition:  11806  (12.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      40 |      37 |      30 |      23 |
+   filter level:  |      12 |       8 |       6 |      10 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 129,723 = 0.989987 bits/pel.
+Compressed bytes (excludes codestream headers) = 129,494 = 0.988240 bpp.
+Body bytes (excludes packet and codestream headers) = 128,586 = 0.981310 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.989987
+Layer thresholds:
+        42602
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    91236 bytes Y-U-V-All-PSNR 38.50 41.83 41.34   39.30 dB
+block count:  intra4: 2738
+              intra16: 1402  (-> 33.86%)
+              skipped block: 478 (11.55%)
+bytes used:  header:            266  (0.3%)
+             mode-partition:  11806  (12.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      40 |      37 |      30 |      23 |
+   filter level:  |      12 |       8 |       6 |      10 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 129,465 = 0.988018 bits/pel.
+Compressed bytes (excludes codestream headers) = 129,236 = 0.986271 bpp.
+Body bytes (excludes packet and codestream headers) = 128,328 = 0.979341 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.988018
+Layer thresholds:
+        42603
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    91236 bytes Y-U-V-All-PSNR 38.50 41.83 41.34   39.30 dB
+block count:  intra4: 2738
+              intra16: 1402  (-> 33.86%)
+              skipped block: 478 (11.55%)
+bytes used:  header:            266  (0.3%)
+             mode-partition:  11806  (12.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      40 |      37 |      30 |      23 |
+   filter level:  |      12 |       8 |       6 |      10 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 129,465 = 0.988018 bits/pel.
+Compressed bytes (excludes codestream headers) = 129,236 = 0.986271 bpp.
+Body bytes (excludes packet and codestream headers) = 128,328 = 0.979341 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.988018
+Layer thresholds:
+        42603
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    91236 bytes Y-U-V-All-PSNR 38.50 41.83 41.34   39.30 dB
+block count:  intra4: 2738
+              intra16: 1402  (-> 33.86%)
+              skipped block: 478 (11.55%)
+bytes used:  header:            266  (0.3%)
+             mode-partition:  11806  (12.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      40 |      37 |      30 |      23 |
+   filter level:  |      12 |       8 |       6 |      10 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 129,207 = 0.986050 bits/pel.
+Compressed bytes (excludes codestream headers) = 128,978 = 0.984302 bpp.
+Body bytes (excludes packet and codestream headers) = 128,072 = 0.977388 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.986050
+Layer thresholds:
+        42607
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file '003-1436.webp'
+File:      003-1436.png
+Dimension: 1436 x 730
+Output:    91236 bytes Y-U-V-All-PSNR 38.50 41.83 41.34   39.30 dB
+block count:  intra4: 2738
+              intra16: 1402  (-> 33.86%)
+              skipped block: 478 (11.55%)
+bytes used:  header:            266  (0.3%)
+             mode-partition:  11806  (12.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      25%|      51%|    4140
+      quantizer:  |      40 |      37 |      30 |      23 |
+   filter level:  |      12 |       8 |       6 |      10 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 129,105 = 0.985271 bits/pel.
+Compressed bytes (excludes codestream headers) = 128,876 = 0.983523 bpp.
+Body bytes (excludes packet and codestream headers) = 127,970 = 0.976609 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.985271
+Layer thresholds:
+        42608
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048

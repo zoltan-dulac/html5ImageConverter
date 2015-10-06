@@ -1,0 +1,189 @@
+@import "bebas/stylesheet.css";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Uncomment if you want to override the default styles */
+#o1 {
+  visibility: hidden;
+}
+
+#o2 {
+  background-color: transparent;
+  color: white;
+ /* One transform entry for each different brower.      */
+ /* Note: there's no -ms-tranform entry, since IE9, which needs it, doesn't do 3D */
+ 
+ -moz-transform:    matrix3d(4.94124801, 2.45104207, 0.00000000, 0.00663550, 
+                    -0.01309116, 3.73988785, 0.00000000, -0.00002062, 
+                    0.00000000, 0.00000000, 1.00000000, 0.00000000, 
+                    23.00000000, 51.00000000, 0.00000000, 1.00000000);
+ -webkit-transform: matrix3d(4.94124801, 2.45104207, 0.00000000, 0.00663550, 
+                    -0.01309116, 3.73988785, 0.00000000, -0.00002062, 
+                    0.00000000, 0.00000000, 1.00000000, 0.00000000, 
+                    23.00000000, 51.00000000, 0.00000000, 1.00000000);
+ -o-transform:      matrix3d(4.94124801, 2.45104207, 0.00000000, 0.00663550, 
+                    -0.01309116, 3.73988785, 0.00000000, -0.00002062, 
+                    0.00000000, 0.00000000, 1.00000000, 0.00000000, 
+                    23.00000000, 51.00000000, 0.00000000, 1.00000000);
+ transform:         matrix3d(4.94124801, 2.45104207, 0.00000000, 0.00663550, 
+                    -0.01309116, 3.73988785, 0.00000000, -0.00002062, 
+                    0.00000000, 0.00000000, 1.00000000, 0.00000000, 
+                    23.00000000, 51.00000000, 0.00000000, 1.00000000);
+ 
+ /* The transform origin is needed to place the transformed object in the right place. */
+ -moz-transform-origin:    0.000000px 0.000000px 0px;
+ -webkit-transform-origin: 0.000000px 0.000000px 0px;
+ -o-transform-origin:      0.000000px 0.000000px 0px;
+ transform-origin:         0.000000px 0.000000px 0px;
+}
+
+#o1, #o2 {
+  padding: 0;
+  font-size: 200px;
+  font-family: "BebasNeue";
+  font-weight: bold;
+  overflow: hidden;
+  width: 841px;
+  height: 158px;
+}
+
+.block p {
+  letter-spacing: 0.08em;
+  padding: 0;
+  margin: 0;
+  
+  -moz-transform: translateX(0px);
+  -webkit-transform: translateX(0px);
+  -o-transform: translateX(0px);
+  transform: translateX(0px);
+  
+  -moz-animation: yell 5s ease-out;
+  -webkit-animation: yell 5s ease-out;
+  -o-animation: yell 5s ease-out;
+  animation: yell 5s ease-out;
+  
+  -moz-animation-iteration-count: infinite;
+  -webkit-animation-iteration-count: infinite;
+  -o-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  
+  line-height: 1;
+  white-space: nowrap
+}
+
+/* CSS for the grid */
+#grid {
+  background: url("yell.jpg") scroll 0 0 white no-repeat;
+  position: relative;
+  overflow: hidden;
+  width: 1024px;
+  height: 800px;
+  margin: 0 auto;
+}
+
+@-moz-keyframes yell {
+  0% {
+    -moz-transform: translateX(1000px);
+    -webkit-transform: translateX(1000px);
+    -o-transform: translateX(1000px);
+    transform: translateX(1000px);
+  }
+  
+  100% {
+    -moz-transform: translateX(-1500px);
+    -webkit-transform: translateX(-1500px);
+    -o-transform: translateX(-1500px);
+    transform: translateX(-1500px);
+  }
+}
+
+@-webkit-keyframes yell {
+  0% {
+    -moz-transform: translateX(1000px);
+    -webkit-transform: translateX(1000px);
+    -o-transform: translateX(1000px);
+    transform: translateX(1000px);
+  }
+  
+  100% {
+    -moz-transform: translateX(-1500px);
+    -webkit-transform: translateX(-1500px);
+    -o-transform: translateX(-1500px);
+    transform: translateX(-1500px);
+  }
+}
+
+@-o-keyframes yell {
+  0% {
+    -moz-transform: translateX(1000px);
+    -webkit-transform: translateX(1000px);
+    -o-transform: translateX(1000px);
+    transform: translateX(1000px);
+  }
+  
+  100% {
+    -moz-transform: translateX(-1500px);
+    -webkit-transform: translateX(-1500px);
+    -o-transform: translateX(-1500px);
+    transform: translateX(-1500px);
+  }
+}
+
+@keyframes yell {
+  0% {
+    -moz-transform: translateX(1000px);
+    -webkit-transform: translateX(1000px);
+    -o-transform: translateX(1000px);
+    transform: translateX(1000px);
+  }
+  
+  100% {
+    -moz-transform: translateX(-1500px);
+    -webkit-transform: translateX(-1500px);
+    -o-transform: translateX(-1500px);
+    transform: translateX(-1500px);
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  #grid {
+    -moz-transform: scale(0.73);
+    -webkit-transform: scale(0.73);
+    -o-transform: scale(0.73);
+    transform: scale(0.73);
+    -moz-transform-origin: 0 0;
+    -webkit-transform-origin: 0 0;
+    -o-transform-origin: 0 0;
+    transform-origin: 0 0;
+    left: 0;
+    margin-left: 0;
+    width: 1024px;
+    overflow: visible;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  #grid {
+    -moz-transform: scale(0.295);
+    -webkit-transform: scale(0.295);
+    -o-transform: scale(0.295);
+    transform: scale(0.295);
+    -moz-transform-origin: 0 0;
+    -webkit-transform-origin: 0 0;
+    -o-transform-origin: 0 0;
+    transform-origin: 0 0;
+    left: 0;
+    margin-left: 0;
+    width: 1024px;
+    overflow: visible;
+  }
+}
+
+

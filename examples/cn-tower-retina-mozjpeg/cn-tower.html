@@ -16,7 +16,7 @@
   -->
   
   
-  <html lang='en' class='no-js'>
+  <html lang='en' class='no-js '>
   <head>
     <meta charset='UTF-8'>
     <meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1.0'>
@@ -24,6 +24,7 @@
   
     <link rel='stylesheet' href='../../js/image-comparison-slider/css/reset.css'> <!-- CSS reset -->
     <link rel='stylesheet' href='../../js/image-comparison-slider/css/style.css'> <!-- Resource style -->
+    
     <style>
     .cd-image-container img {
       background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAACWBAMAAABp8toqAAAALVBMVEUJCQkAAMAyAGoTExMWFhYdHR0AIUw9GmXAAADAAMAAwAAAwMDAwADAwMD////k4POZAAAAn0lEQVRo3u3OsRFBQRSG0W3B6IAGzGwk0AUt6EOmBK8FqVAJlEAsU4M3ov3XKIA5X7Q7d+aeW+7R7dp2OUfHaIgO+7bdJCoQCAQCgUAgEAgEAoFAIBAIBAKBQCAQCAQCgUAgEAgEAoH8AZLfaW1b5qKY1TzgFLNVng6BQCA/iWw/evY9Zn3z2rcoY+/XZmydQwgEAoFAIBAIBAKBQL4hL8jp+jVpb0RHAAAAAElFTkSuQmCC);
@@ -31,14 +32,25 @@
     }
     
     
+    img, canvas {
+      width: 100vw;
+    }
+    
     
     
       [data-type=original]:after {
-          content: '45.9K'
+          content: 'PNG 48.9K'
         }
-    
+        
+      
+      html.bpg [data-type=original]:after {
+        content: 'BPG ';
+      }
+      
+      
+      
       html.jpeg2000 .size:after {
-        content: '29.9K';
+        content: '33.0K';
       }
       
       html.jpegxr .size:after {
@@ -46,8 +58,10 @@
       }
       
       html.webp .size:after {
-        content: '26.2K';
+        content: '29.2K';
       }
+      
+      
     
     
     @media only screen and (-webkit-max-device-pixel-ratio: 1)      and (max-width: 1200px),
@@ -64,11 +78,18 @@
 	only screen and (                min-resolution: 2dppx)  and (max-width: 600px)
 	{
       [data-type=original]:after {
-          content: '20.4K'
+          content: 'PNG 23.3K'
         }
-    
+        
+      
+      html.bpg [data-type=original]:after {
+        content: 'BPG ';
+      }
+      
+      
+      
       html.jpeg2000 .size:after {
-        content: '10.4K';
+        content: '13.3K';
       }
       
       html.jpegxr .size:after {
@@ -76,8 +97,10 @@
       }
       
       html.webp .size:after {
-        content: '12.1K';
+        content: '15.1K';
       }
+      
+      
     }
     
     @media only screen and (-webkit-max-device-pixel-ratio: 1)      and (max-width: 1024px),
@@ -94,11 +117,18 @@
 	only screen and (                min-resolution: 2dppx)  and (max-width: 512px)
 	{
       [data-type=original]:after {
-          content: '16.0K'
+          content: 'PNG 19.0K'
         }
-    
+        
+      
+      html.bpg [data-type=original]:after {
+        content: 'BPG ';
+      }
+      
+      
+      
       html.jpeg2000 .size:after {
-        content: '11.3K';
+        content: '14.3K';
       }
       
       html.jpegxr .size:after {
@@ -106,8 +136,10 @@
       }
       
       html.webp .size:after {
-        content: '9.8K';
+        content: '12.8K';
       }
+      
+      
     }
     
     @media only screen and (-webkit-max-device-pixel-ratio: 1)      and (max-width: 640px),
@@ -124,11 +156,18 @@
 	only screen and (                min-resolution: 2dppx)  and (max-width: 320px)
 	{
       [data-type=original]:after {
-          content: '8.0K'
+          content: 'PNG 11.0K'
         }
-    
+        
+      
+      html.bpg [data-type=original]:after {
+        content: 'BPG ';
+      }
+      
+      
+      
       html.jpeg2000 .size:after {
-        content: '5.3K';
+        content: '8.3K';
       }
       
       html.jpegxr .size:after {
@@ -136,8 +175,10 @@
       }
       
       html.webp .size:after {
-        content: '5.1K';
+        content: '8.1K';
       }
+      
+      
     }
     
     @media only screen and (-webkit-max-device-pixel-ratio: 1)      and (max-width: 600px),
@@ -154,11 +195,18 @@
 	only screen and (                min-resolution: 2dppx)  and (max-width: 300px)
 	{
       [data-type=original]:after {
-          content: '7.3K'
+          content: 'PNG 10.3K'
         }
-    
+        
+      
+      html.bpg [data-type=original]:after {
+        content: 'BPG ';
+      }
+      
+      
+      
       html.jpeg2000 .size:after {
-        content: '4.8K';
+        content: '7.8K';
       }
       
       html.jpegxr .size:after {
@@ -166,8 +214,10 @@
       }
       
       html.webp .size:after {
-        content: '4.6K';
+        content: '7.6K';
       }
+      
+      
     }
     
     @media only screen and (-webkit-max-device-pixel-ratio: 1)      and (max-width: 320px),
@@ -184,11 +234,18 @@
 	only screen and (                min-resolution: 2dppx)  and (max-width: 160px)
 	{
       [data-type=original]:after {
-          content: '3.0K'
+          content: 'PNG 6.0K'
         }
-    
+        
+      
+      html.bpg [data-type=original]:after {
+        content: 'BPG ';
+      }
+      
+      
+      
       html.jpeg2000 .size:after {
-        content: '1.4K';
+        content: '4.4K';
       }
       
       html.jpegxr .size:after {
@@ -196,8 +253,10 @@
       }
       
       html.webp .size:after {
-        content: '2.0K';
+        content: '5.0K';
       }
+      
+      
     }
     
     
@@ -208,12 +267,15 @@
     
     </style>
       
+    
     <title>html5ImageConverter - cn-tower</title>
     
     
     
     <script src='../../js/modernizr.custom.29822.js'></script>
     <script async=true src=../../js/picturefill.js></script>
+    
+    
   
   </head>
   <!--[if lt IE 7 ]> <body class='ie6 ie8down ie9down custom oldIE'> <![endif]-->
@@ -226,14 +288,14 @@
       
   
     <figure class='cd-image-container'>
-    <picture title='alternative image format'>
+    <picture title='original image format'>
       <!--[if IE 9]><video style='display: none;'><![endif]-->
       <source srcset='cn-tower-320.jpg 320w, cn-tower-600.jpg 600w, cn-tower-640.jpg 640w, cn-tower-1024.jpg 1024w, cn-tower-1200.jpg 1200w, cn-tower-2048.jpg 2048w' />
       <!--[if IE 9]></video><![endif]-->
         <img srcset='cn-tower-320.jpg 320w, cn-tower-600.jpg 600w, cn-tower-640.jpg 640w, cn-tower-1024.jpg 1024w, cn-tower-1200.jpg 1200w, cn-tower-2048.jpg 2048w'  />
     </picture>
     
-      <span class='cd-image-label' data-type='original'>jpg </span>
+      <span class='cd-image-label' data-type='original'></span>
   
       <div class='cd-resize-img'> <!-- the resizable image on top -->
         <picture title='alternative image format'>
@@ -241,6 +303,7 @@
               <source srcset='cn-tower-320.jxr 320w, cn-tower-600.jxr 600w, cn-tower-640.jxr 640w, cn-tower-1024.jxr 1024w, cn-tower-1200.jxr 1200w, cn-tower-2048.jxr 2048w' type='image/vnd.ms-photo'>
               <source srcset='cn-tower-320.jp2 320w, cn-tower-600.jp2 600w, cn-tower-640.jp2 640w, cn-tower-1024.jp2 1024w, cn-tower-1200.jp2 1200w, cn-tower-2048.jp2 2048w' type='image/jp2'>
               <source srcset='cn-tower-320.webp 320w, cn-tower-600.webp 600w, cn-tower-640.webp 640w, cn-tower-1024.webp 1024w, cn-tower-1200.webp 1200w, cn-tower-2048.webp 2048w' type='image/webp'>
+              
               <!--[if IE 9]></video><![endif]-->
               <img srcset='cn-tower-320.jpg 320w, cn-tower-600.jpg 600w, cn-tower-640.jpg 640w, cn-tower-1024.jpg 1024w, cn-tower-1200.jpg 1200w, cn-tower-2048.jpg 2048w'  />
         </picture>
@@ -252,6 +315,6 @@
     <div class='credit'>Credit: <a href="https://en.wikipedia.org/wiki/CN_Tower#mediaviewer/File:CN_Tower_seen_from_its_base.jpg">Wikipedia</a></div>
   <script src='../../js/image-comparison-slider/js/jquery-2.1.1.js'></script>
   <script src='../../js/image-comparison-slider/js/jquery.mobile.custom.min.js'></script> <!-- Resource jQuery -->
-  <script src='../../js/image-comparison-slider/js/main.js'></script> <!-- Resource jQuery -->
+  <script src='../../js/image-comparison-slider/js/main.js'></script> 
   </body>
   </html>

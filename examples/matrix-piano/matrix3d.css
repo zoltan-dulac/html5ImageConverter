@@ -1,0 +1,137 @@
+@import "parklane/stylesheet.css";
+
+@import "FontleroyBrown/stylesheet.css";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+
+
+
+
+
+.block {
+  background: transparent;
+  font-family: "hinted-ParkLaneNF";
+  color: white;
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 0px;
+  line-height: 1;
+
+}
+
+.block p {
+  margin: 0;
+  padding: 5px 10px;
+}
+
+#o1 {
+  font-size: 80px;
+  color: transparent;
+  text-shadow: 0 0 1px #fff, 2px 2px 4px rgba(0, 0, 0, .8);
+  
+  /*  Must be included in the tool */
+  width: 1256px;
+  height: 79px;
+  /* One transform entry for each different brower.      */
+   /* Note: there's no -ms-tranform entry, since IE9, which needs it, doesn't do 3D */
+   
+-moz-transform:    matrix3d(0.93025976, -0.05927842, 0.00000000, 0.00031521, 
+                    0.40630559, 0.74871127, 0.00000000, -0.00010559, 
+                    0.00000000, 0.00000000, 1.00000000, 0.00000000, 
+                    194.00000000, 161.00000000, 0.00000000, 1.00000000);
+ -webkit-transform: matrix3d(0.93025976, -0.05927842, 0.00000000, 0.00031521, 
+                    0.40630559, 0.74871127, 0.00000000, -0.00010559, 
+                    0.00000000, 0.00000000, 1.00000000, 0.00000000, 
+                    194.00000000, 161.00000000, 0.00000000, 1.00000000);
+ -o-transform:      matrix3d(0.93025976, -0.05927842, 0.00000000, 0.00031521, 
+                    0.40630559, 0.74871127, 0.00000000, -0.00010559, 
+                    0.00000000, 0.00000000, 1.00000000, 0.00000000, 
+                    194.00000000, 161.00000000, 0.00000000, 1.00000000);
+ transform:         matrix3d(0.93025976, -0.05927842, 0.00000000, 0.00031521, 
+                    0.40630559, 0.74871127, 0.00000000, -0.00010559, 
+                    0.00000000, 0.00000000, 1.00000000, 0.00000000, 
+                    194.00000000, 161.00000000, 0.00000000, 1.00000000);
+ 
+ 
+ /* The transform origin is needed to place the transformed object in the right place. */
+ -moz-transform-origin:    0.000000px 0.000000px 0px;
+ -webkit-transform-origin: 0.000000px 0.000000px 0px;
+ -o-transform-origin:      0.000000px 0.000000px 0px;
+ transform-origin:         0.000000px 0.000000px 0px;
+                 
+}
+
+#o2 {
+    font-family: "fontleroybrownregular";
+    color: white;
+    font-size: 50px;
+    line-height: 1.2;
+    width: 1006px;
+    height: 187px;
+    /* text-shadow: 0 0 2px rgba(255, 255, 255, 0.6); */
+    background-color: transparent;
+    color: white;
+    text-rendering: geometricPrecision;
+    /* One transform entry for each different brower.      */
+    /* Note: there's no -ms-tranform entry, since IE9, which needs it, doesn't do 3D */
+   
+    -moz-transform:    matrix3d(0.959557, -0.092647, 0, 0.000192, 
+                    -0.263197, 0.942486, 0, -0.000126, 
+                    0, 0, 1, 0, 
+                    224, 228, 0, 1);
+ -webkit-transform: matrix3d(0.959557, -0.092647, 0, 0.000192, 
+                    -0.263197, 0.942486, 0, -0.000126, 
+                    0, 0, 1, 0, 
+                    224, 228, 0, 1);
+ -o-transform:      matrix3d(0.959557, -0.092647, 0, 0.000192, 
+                    -0.263197, 0.942486, 0, -0.000126, 
+                    0, 0, 1, 0, 
+                    224, 228, 0, 1);
+ transform:         matrix3d(0.959557, -0.092647, 0, 0.000192, 
+                    -0.263197, 0.942486, 0, -0.000126, 
+                    0, 0, 1, 0, 
+                    224, 228, 0, 1);
+ 
+ 
+ 
+ 
+ /* The transform origin is needed to place the transformed object in the right place. */
+ -moz-transform-origin:    0.000000px 0.000000px 0px;
+ -webkit-transform-origin: 0.000000px 0.000000px 0px;
+ -o-transform-origin:      0.000000px 0.000000px 0px;
+ transform-origin:         0.000000px 0.000000px 0px;
+                 
+   
+    /* The transform origin is needed to place the transformed object in the right place. */
+    -moz-transform-origin:    0.000000px 0.000000px 0px;
+    -webkit-transform-origin: 0.000000px 0.000000px 0px;
+    -o-transform-origin:      0.000000px 0.000000px 0px;
+    transform-origin:         0.000000px 0.000000px 0px;
+}
+
+
+
+/* CSS for the grid */
+#grid {
+  /* Original from https://flic.kr/p/bpW5D */
+  background: url("piano-clip.jpg") 0 0 white no-repeat;
+  background-size: 100% 100%;
+  border: none;
+  width: 1000px;
+  height: 531px;
+  h
+  position: relative;
+  overflow: hidden;
+
+}

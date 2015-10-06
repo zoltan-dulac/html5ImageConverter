@@ -1,0 +1,102 @@
+@import "american-captain/stylesheet.css";
+
+/*
+ * Feel free to edit any of the styles below.
+ */
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+* {
+box-sizing: border-box;
+}
+
+::selection {
+  background: #ffb7b7; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #ffb7b7; /* Gecko Browsers */
+}
+
+/* Uncomment if you want to override the default styles */
+
+
+#o2 {
+   position: absolute;
+   top: 22px;
+   left: 29px;
+   background: transparent;
+  
+   /* One transform entry for each different brower.      */
+   /* Note: there's no -ms-tranform entry, since IE9, which needs it, doesn't do 3D */
+   
+   -moz-transform:    matrix3d(0.20064, -0.056084, 0, -0.000097, 
+                      -2.111151, -0.853902, 0, -0.003328, 
+                      0, 0, 1, 0, 
+                      558.052806, 292.984931, 0, 1);
+   -webkit-transform: matrix3d(0.20064, -0.056084, 0, -0.000097, 
+                      -2.111151, -0.853902, 0, -0.003328, 
+                      0, 0, 1, 0, 
+                      558.052806, 292.984931, 0, 1);
+   -o-transform:      matrix3d(0.20064, -0.056084, 0, -0.000097, 
+                      -2.111151, -0.853902, 0, -0.003328, 
+                      0, 0, 1, 0, 
+                      558.052806, 292.984931, 0, 1);
+   transform:         matrix3d(0.20064, -0.056084, 0, -0.000097, 
+                      -2.111151, -0.853902, 0, -0.003328, 
+                      0, 0, 1, 0, 
+                      558.052806, 292.984931, 0, 1);
+   
+   /* The transform origin is needed to place the transformed object in the right place. */
+   -moz-transform-origin:    -29px -22px 0px;
+   -webkit-transform-origin: -29px -22px 0px;
+   -o-transform-origin:      -29px -22px 0px;
+   transform-origin:         -29px -22px 0px;
+   
+   /* Need to make sure you define the width and height */
+   width: 261px;
+   height: 256px;
+                 
+}
+
+
+#o1, #o2 {
+  font-family: "hinted-AmericanCaptain";
+  font-weight: bold;
+  color: transparent;
+  text-shadow: 0 0 10px #fff;
+  letter-spacing: 0.3em;
+  
+
+}
+
+#o1 p, #o2 p {
+  line-height: 0.9;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  font-size: 87px;
+  text-transform: uppercase;
+  hyphens: auto;
+}
+
+.container {
+  padding: 10px;
+}
+
+/* CSS for the grid */
+#grid {
+  /* Original from https://flic.kr/p/6o6VhM */
+  background: url("need-for-speed2.jpg")  0 0 white no-repeat;
+  background-size: 1024px 600px;
+  border: none;
+  height: 1600px;
+  position: relative;
+  overflow: hidden;
+  
+  width: 1024px;
+  height: 680px;
+
+}

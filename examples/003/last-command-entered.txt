@@ -1,0 +1,1 @@
+../../bin/html5ImageConverter.sh --jpg-quals=80 --webp-quals=68 --jp2-rates=0.99 --sizes=1436 --no-png --jxr-quals=29.5 --use-mozjpeg 003.png

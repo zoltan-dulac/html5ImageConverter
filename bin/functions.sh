@@ -100,6 +100,8 @@ JXR_IE9_FIX=`getArg jxr-ie9-fix`
 IS_SHARP=`getArg is-sharp`
 COMPRESS_SVG=`getArg compress-svg`
 KEEP_TEMP_DIR=`getArg keep-temp-dir`
+NO_BAIL=`getArg no-bail`
+NO_SRGB=`getArg no-srgb`
 
 SCRIPT_DIR="$(dirname "$0")"
 
@@ -108,7 +110,10 @@ SCRIPT_DIR="$(dirname "$0")"
 # Safari is the one we nee to worry about.
 #
 
-IM_COLORSPACE_NORM_OPTIONS="-profile $SCRIPT_DIR/../data/sRGB_IEC61966-2-1_black_scaled.icc"
+if [ "$NO_SRGB" != "true" ]
+then
+  IM_COLORSPACE_NORM_OPTIONS="-profile $SCRIPT_DIR/../data/sRGB_IEC61966-2-1_black_scaled.icc"
+fi
 
 if [ "$IS_SHARP" = "true" ]
 then
@@ -153,7 +158,10 @@ ifErrorPrintAndExit () {
     
     if [ "$TMPDIR" != "" ]
     then
-      if [ "$KEEP_TEMP_DIR" = "true" ]
+      if [ "$NO_BAIL" = "true" ]
+      then
+	echo "Continuing becuase --no-bail was set. "
+      elif [ "$KEEP_TEMP_DIR" = "true" ]
       then
         echo "Bailing.  You can check the working files in $TMPDIR"
       else
@@ -163,7 +171,10 @@ ifErrorPrintAndExit () {
       fi
     fi
     
-    exit $CODE
+    if [ "$NO_BAIL" != "true" ]
+    then
+    	exit $CODE
+    fi
   fi
   
 }
@@ -223,7 +234,7 @@ function toBPG () {
     exit 200
   fi
   
-  bpgenc -q $BPG_QUAL -o $outfile $infile >> log.txt
+  bpgenc -q $BPG_QUAL -o $outfile -keepmetadata $infile >> log.txt
   ifErrorPrintAndExit "Creating bpg failed.  Bailing"  100
 }
 

@@ -67,7 +67,7 @@ IMAGE_WIDTH=`echo $DIMS | awk -F"x" '{print $1}'`
 IMAGE_HEIGHT=`echo $DIMS | awk -F"x" '{print $2}'`
 SPRITE_WIDTH=`expr $IMAGE_WIDTH \* $NUM_FRAMES`
 ANIM_LENGTH=`expr $NUM_FRAMES \* $MS`
-
+echo "Start"
 BG_IMAGE=`getArg  bg-image 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAACWBAMAAABp8toqAAAALVBMVEUJCQkAAMAyAGoTExMWFhYdHR0AIUw9GmXAAADAAMAAwAAAwMDAwADAwMD////k4POZAAAAn0lEQVRo3u3OsRFBQRSG0W3B6IAGzGwk0AUt6EOmBK8FqVAJlEAsU4M3ov3XKIA5X7Q7d+aeW+7R7dp2OUfHaIgO+7bdJCoQCAQCgUAgEAgEAoFAIBAIBAKBQCAQCAQCgUAgEAgEAoH8AZLfaW1b5qKY1TzgFLNVng6BQCA/iWw/evY9Zn3z2rcoY+/XZmydQwgEAoFAIBAIBAKBQL4hL8jp+jVpb0RHAAAAAElFTkSuQmCC'`
 ORIG_DIR="$PWD"
 cd $SCRIPT_DIR
@@ -222,7 +222,7 @@ convert $FILES +append $OUTPUT-stitched.png
 ##################################################################################
 
 echoBoth "Creating TIF (for use with kdu_compress)"
-convert $OUTPUT-stitched.png -compress none -define tiff:alpha=associated  $OUTPUT-stitched.tif
+convert $OUTPUT-stitched.png -compress none -interlace none -define tiff:alpha=associated  $OUTPUT-stitched.tif
 ifErrorPrintAndExit "Could not convert to TIF." 5
 
 echoBoth "Creating JP2 (with kdu_compress)"
