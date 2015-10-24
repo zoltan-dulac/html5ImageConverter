@@ -1,0 +1,1 @@
+../../bin/html5ImageConverter.sh --sizes=2048 --jp2-rates=2 --jxr-quals=85 --webp-quals=15 --background=mt-fuji.jpg --has-alpha --use-quant --jxr-nconvert --is-sharp --additional-css=saturn.css --jpg-quals=24 --compress-svg leaves.png

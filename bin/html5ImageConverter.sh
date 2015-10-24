@@ -423,6 +423,11 @@ do
     }
     
     $MEDIA_QUERY_CSS
+    
+    #alternate-image.showDiff {
+    		-webkit-filter: invert(100%) opacity(50%);
+    		filter: url(\"data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='invert' color-interpolation-filters='srgb'><feColorMatrix color-interpolation-filters='srgb' in='SourceGraphic' type='matrix' values='-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 0 0.5'/></filter></svg>#invert\");
+    }
     </style>
       
     $ADDITIONAL_CSS_TAG
@@ -444,7 +449,7 @@ do
       
   
     <figure class='cd-image-container'>
-    <picture title='alternative image format'>
+    <picture title='alternative image format' id='original-image'>
       <!--[if IE 9]><video style='display: none;'><![endif]-->
       <source srcset='$ORIG_SRCSET' />
       <!--[if IE 9]></video><![endif]-->
@@ -454,7 +459,7 @@ do
       <span class='cd-image-label' data-type='original'>$ORIG_FORMAT </span>
   
       <div class='cd-resize-img'> <!-- the resizable image on top -->
-        <picture title='alternative image format'>
+        <picture title='alternative image format' id='alternate-image'>
               <!--[if IE 9]><video style='display: none;'><![endif]-->
               <source srcset='$JXR_SRCSET' type='image/vnd.ms-photo'>
               <source srcset='$JP2_SRCSET' type='image/jp2'>
@@ -469,9 +474,11 @@ do
       <span class='cd-handle'></span>
     </figure> <!-- cd-image-container -->
     $CREDIT
+    <label for='doDiff'><input type='checkbox' id='doDiff' /> Do diff</label>
   <script src='../../js/image-comparison-slider/js/jquery-2.1.1.js'></script>
   <script src='../../js/image-comparison-slider/js/jquery.mobile.custom.min.js'></script> <!-- Resource jQuery -->
-  <script src='../../js/image-comparison-slider/js/main.js'></script> 
+  <script src='../../js/image-comparison-slider/js/main.js'></script>
+  <script src='../../js/imageDiff.js'></script>
   </body>
   </html>"  > $STUB.html
   

@@ -1,1 +1,1 @@
-../../bin/html5ImageConverter.sh --sizes=320/600/640/1024/1200/2016 --jp2-rates=0.6/0.6/0.5/0.5/0.5/0.5 --jxr-quals=85 --webp-quals=85 --background=space.jpg --has-alpha --use-quant --jxr-nconvert --is-sharp --additional-css=saturn.css --jpg-quals=50 saturn.png
+../../bin/html5ImageConverter.sh --sizes=320/600/640/1024/1200/2016 --jp2-rates=0.6/0.6/0.5/0.5/0.5/0.5 --jxr-quals=85 --webp-quals=60 --background=space.jpg --has-alpha --use-quant --jxr-nconvert --is-sharp --jpg-quals=50 --compress-svg --additional-css=saturn.css saturn.png

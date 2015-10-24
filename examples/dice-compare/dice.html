@@ -125,9 +125,6 @@
       
     }
     
-    
-    
-    
     </style>
       
     
@@ -149,7 +146,7 @@
       
   
     <figure class='cd-image-container'>
-    <picture title='alternative image format'>
+    <picture title='alternative image format' id='original-image'>
       <!--[if IE 9]><video style='display: none;'><![endif]-->
       <source srcset='dice-320.png 320w, dice-600.png 600w, dice-1024.png 1024w' />
       <!--[if IE 9]></video><![endif]-->
@@ -159,7 +156,7 @@
       <span class='cd-image-label' data-type='original'>png </span>
   
       <div class='cd-resize-img'> <!-- the resizable image on top -->
-        <picture title='alternative image format'>
+        <picture title='alternative image format' id='alternate-image'>
               <!--[if IE 9]><video style='display: none;'><![endif]-->
               <source srcset='dice-320.jxr 320w, dice-600.jxr 600w, dice-1024.jxr 1024w' type='image/vnd.ms-photo'>
               <source srcset='dice-320.jp2 320w, dice-600.jp2 600w, dice-1024.jp2 1024w' type='image/jp2'>
@@ -174,8 +171,10 @@
       <span class='cd-handle'></span>
     </figure> <!-- cd-image-container -->
     
+    <label for='doDiff' id="doDiff-label"><input type='checkbox' id='doDiff' /> Do diff</label>
   <script src='../../js/image-comparison-slider/js/jquery-2.1.1.js'></script>
   <script src='../../js/image-comparison-slider/js/jquery.mobile.custom.min.js'></script> <!-- Resource jQuery -->
-  <script src='../../js/image-comparison-slider/js/main.js'></script> 
+  <script src='../../js/image-comparison-slider/js/main.js'></script>
+  <script src='../../js/imageDiff.js'></script>
   </body>
   </html>

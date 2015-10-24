@@ -11,12 +11,12 @@
     http://codyhouse.co/gem/css-jquery-image-comparison-slider/
     
     Command that generated this page and assoicated images:
-    ../../bin/html5ImageConverter.sh --sizes=320/600/640/1024/1200/2016 --jp2-rates=0.6/0.6/0.5/0.5/0.5/0.5 --jxr-quals=85 --webp-quals=85 --background=space.jpg --has-alpha --use-quant --jxr-nconvert --is-sharp --additional-css=saturn.css --jpg-quals=50 saturn.png 
+    ../../bin/html5ImageConverter.sh --sizes=320/600/640/1024/1200/2016 --jp2-rates=0.6/0.6/0.5/0.5/0.5/0.5 --jxr-quals=85 --webp-quals=60 --background=space.jpg --has-alpha --use-quant --jxr-nconvert --is-sharp --jpg-quals=50 --compress-svg --additional-css=saturn.css saturn.png 
   
   -->
   
   
-  <html lang='en' class='no-js has-alpha'>
+  <html lang='en' class='no-js has-alpha compressed-svg-available'>
   <head>
     <meta charset='UTF-8'>
     <meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1.0'>
@@ -37,12 +37,12 @@
           content: '583.8K'
         }
       
-      html.has-alpha.svg .size:after {
-        content: '196.2K';
+      html.has-alpha.svg.no-webp.no-jpeg2000.no-jpegxr .size:after {
+        content: '142.8K';
       }
       
       html.jpeg2000 .size:after {
-        content: '142.8K';
+        content: '146.2K';
       }
       
       html.jpegxr .size:after {
@@ -50,7 +50,7 @@
       }
       
       html.webp .size:after {
-        content: '323.6K';
+        content: '265.6K';
       }
       
     
@@ -72,12 +72,12 @@
           content: '237.8K'
         }
       
-      html.has-alpha.svg .size:after {
-        content: '86.6K';
+      html.has-alpha.svg.no-webp.no-jpeg2000.no-jpegxr .size:after {
+        content: '64.3K';
       }
       
       html.jpeg2000 .size:after {
-        content: '51.3K';
+        content: '54.3K';
       }
       
       html.jpegxr .size:after {
@@ -85,7 +85,7 @@
       }
       
       html.webp .size:after {
-        content: '139.3K';
+        content: '115.0K';
       }
       
     }
@@ -107,12 +107,12 @@
           content: '183.6K'
         }
       
-      html.has-alpha.svg .size:after {
-        content: '68.6K';
+      html.has-alpha.svg.no-webp.no-jpeg2000.no-jpegxr .size:after {
+        content: '51.3K';
       }
       
       html.jpeg2000 .size:after {
-        content: '37.0K';
+        content: '40.0K';
       }
       
       html.jpegxr .size:after {
@@ -120,7 +120,7 @@
       }
       
       html.webp .size:after {
-        content: '108.1K';
+        content: '89.8K';
       }
       
     }
@@ -142,12 +142,12 @@
           content: '73.6K'
         }
       
-      html.has-alpha.svg .size:after {
-        content: '32.5K';
+      html.has-alpha.svg.no-webp.no-jpeg2000.no-jpegxr .size:after {
+        content: '26.3K';
       }
       
       html.jpeg2000 .size:after {
-        content: '14.7K';
+        content: '17.7K';
       }
       
       html.jpegxr .size:after {
@@ -155,7 +155,7 @@
       }
       
       html.webp .size:after {
-        content: '47.5K';
+        content: '40.1K';
       }
       
     }
@@ -177,12 +177,12 @@
           content: '66.0K'
         }
       
-      html.has-alpha.svg .size:after {
-        content: '29.7K';
+      html.has-alpha.svg.no-webp.no-jpeg2000.no-jpegxr .size:after {
+        content: '24.3K';
       }
       
       html.jpeg2000 .size:after {
-        content: '15.5K';
+        content: '18.5K';
       }
       
       html.jpegxr .size:after {
@@ -190,7 +190,7 @@
       }
       
       html.webp .size:after {
-        content: '42.8K';
+        content: '36.3K';
       }
       
     }
@@ -212,12 +212,12 @@
           content: '22.6K'
         }
       
-      html.has-alpha.svg .size:after {
-        content: '12.0K';
+      html.has-alpha.svg.no-webp.no-jpeg2000.no-jpegxr .size:after {
+        content: '11.4K';
       }
       
       html.jpeg2000 .size:after {
-        content: '4.5K';
+        content: '7.5K';
       }
       
       html.jpegxr .size:after {
@@ -225,7 +225,7 @@
       }
       
       html.webp .size:after {
-        content: '15.1K';
+        content: '14.4K';
       }
       
     }
@@ -236,6 +236,11 @@
     
     
     
+    
+    #alternate-image.showDiff {
+    		-webkit-filter: invert(100%) opacity(50%);
+    		filter: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='invert' color-interpolation-filters='srgb'><feColorMatrix color-interpolation-filters='srgb' in='SourceGraphic' type='matrix' values='-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 0 0.5'/></filter></svg>#invert");
+    }
     </style>
       
     <link rel='stylesheet' href='saturn.css'> <!-- Additional User Styles -->
@@ -257,7 +262,7 @@
       
   
     <figure class='cd-image-container'>
-    <picture title='alternative image format'>
+    <picture title='alternative image format' id='original-image'>
       <!--[if IE 9]><video style='display: none;'><![endif]-->
       <source srcset='saturn-320-quant.png 320w, saturn-600-quant.png 600w, saturn-640-quant.png 640w, saturn-1024-quant.png 1024w, saturn-1200-quant.png 1200w, saturn-2016-quant.png 2016w' />
       <!--[if IE 9]></video><![endif]-->
@@ -267,12 +272,12 @@
       <span class='cd-image-label' data-type='original'>png </span>
   
       <div class='cd-resize-img'> <!-- the resizable image on top -->
-        <picture title='alternative image format'>
+        <picture title='alternative image format' id='alternate-image'>
               <!--[if IE 9]><video style='display: none;'><![endif]-->
               <source srcset='saturn-320.jxr 320w, saturn-600.jxr 600w, saturn-640.jxr 640w, saturn-1024.jxr 1024w, saturn-1200.jxr 1200w, saturn-2016.jxr 2016w' type='image/vnd.ms-photo'>
               <source srcset='saturn-320.jp2 320w, saturn-600.jp2 600w, saturn-640.jp2 640w, saturn-1024.jp2 1024w, saturn-1200.jp2 1200w, saturn-2016.jp2 2016w' type='image/jp2'>
               <source srcset='saturn-320.webp 320w, saturn-600.webp 600w, saturn-640.webp 640w, saturn-1024.webp 1024w, saturn-1200.webp 1200w, saturn-2016.webp 2016w' type='image/webp'>
-              <source srcset='saturn-320.svg 320w, saturn-600.svg 600w, saturn-640.svg 640w, saturn-1024.svg 1024w, saturn-1200.svg 1200w, saturn-2016.svg 2016w' type='image/svg+xml'>
+              <source srcset='saturn-320.svgz 320w, saturn-600.svgz 600w, saturn-640.svgz 640w, saturn-1024.svgz 1024w, saturn-1200.svgz 1200w, saturn-2016.svgz 2016w' type='image/svg+xml'>
               <!--[if IE 9]></video><![endif]-->
               <img srcset='saturn-320-quant.png 320w, saturn-600-quant.png 600w, saturn-640-quant.png 640w, saturn-1024-quant.png 1024w, saturn-1200-quant.png 1200w, saturn-2016-quant.png 2016w'  />
         </picture>
@@ -282,8 +287,10 @@
       <span class='cd-handle'></span>
     </figure> <!-- cd-image-container -->
     
+    <label for='doDiff'><input type='checkbox' id='doDiff' /> Do diff</label>
   <script src='../../js/image-comparison-slider/js/jquery-2.1.1.js'></script>
   <script src='../../js/image-comparison-slider/js/jquery.mobile.custom.min.js'></script> <!-- Resource jQuery -->
-  <script src='../../js/image-comparison-slider/js/main.js'></script> 
+  <script src='../../js/image-comparison-slider/js/main.js'></script>
+  <script src='../../js/imageDiff.js'></script>
   </body>
   </html>
