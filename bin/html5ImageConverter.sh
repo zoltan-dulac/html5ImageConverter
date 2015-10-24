@@ -424,10 +424,6 @@ do
     
     $MEDIA_QUERY_CSS
     
-    #alternate-image.showDiff {
-    		-webkit-filter: invert(100%) opacity(50%);
-    		filter: url(\"data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='invert' color-interpolation-filters='srgb'><feColorMatrix color-interpolation-filters='srgb' in='SourceGraphic' type='matrix' values='-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 0 0.5'/></filter></svg>#invert\");
-    }
     </style>
       
     $ADDITIONAL_CSS_TAG
@@ -474,7 +470,7 @@ do
       <span class='cd-handle'></span>
     </figure> <!-- cd-image-container -->
     $CREDIT
-    <label for='doDiff'><input type='checkbox' id='doDiff' /> Do diff</label>
+    <label for='doDiff' id="doDiff-label"><input type='checkbox' id='doDiff' /> Do diff</label>
   <script src='../../js/image-comparison-slider/js/jquery-2.1.1.js'></script>
   <script src='../../js/image-comparison-slider/js/jquery.mobile.custom.min.js'></script> <!-- Resource jQuery -->
   <script src='../../js/image-comparison-slider/js/main.js'></script>
