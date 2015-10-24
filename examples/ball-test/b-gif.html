@@ -4,7 +4,7 @@
     
     <title>CSS3 TrueColor Animator Test Sheet</title>
     <meta http-equiv='X-UA-Compatible' content='IE=Edge' />
-    <link href='b.css' type='text/css' rel='stylesheet' />
+    <link href='b-gif.css' type='text/css' rel='stylesheet' />
     <style>
     header {
     	position: absolute;
@@ -28,14 +28,14 @@
     <script src='//code.jquery.com/ui/1.11.2/jquery-ui.js'></script>
     <script>
       $(function() {
-        $('.b' ).draggable();
+        $('.b, .b-gif' ).draggable();
       });
     </script>
   </head>
 
   <body>
   <!-- <header>
-   <br />
+  ../../bin/html5AnimatedImageConverter --input-apng --output=b --ms=50 --jxr-quality=80 --jp2-rate=1.0 --webp-quality=50 ballanim.png<br />
   b-stitched.jp2 24949, 
 b-stitched.jxr 109337, 
 b-stitched.png 66147, 
@@ -43,8 +43,12 @@ b.gif 19829,
 b.png 65993, 
 b.webp 18396, 
   </header> -->
+    <div class='b-gif'>
+    </div>
     <div class='b'>
     </div>
+    
+    <img src="b-stitched.jxr" />
   </body>
 </html>
 

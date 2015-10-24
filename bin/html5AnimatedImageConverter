@@ -96,7 +96,10 @@ do
 		
 		echoBoth "Disassembling PNG $i"
 		apngdis $i "file" >> $LOG 2>> $LOG
-		ifErrorPrintAndExit "Could not dissassemble $i"
+		ifErrorPrintAndExit "Could not dissassemble $i.  You may be missing apngdis.
+You can get a copy at: http://sourceforge.net/projects/apngdis/files/2.6/ (Hint:
+get the non-gui versions in order to use this script correctly.
+"
 		
 		FILEARGS=`ls file*.png`
 		NUM_FRAMES=`echo "$FILEARGS" | wc -l`
@@ -130,7 +133,9 @@ then
 	echoBoth "Optimising apng" 
 	apngopt $OUTPUT.unopt.png $OUTPUT.png >> $LOG 2>> $$LOG
 	
-	ifErrorPrintAndExit "Error: could not convert to apng"  1
+	ifErrorPrintAndExit "Error: could not convert to apng. You may be missing apngopt.
+You can get a copy at: http://sourceforge.net/projects/apng/files/APNG_Optimizer/1.0/
+"  1
 
 fi
 
@@ -140,7 +145,11 @@ then
 	echoBoth "Converting to animated GIF"
 	apng2gif $OUTPUT.png >> $LOG 2>> $LOG
 
-	ifErrorPrintAndExit "Error: could not convert to animated GIF. Please ensure apng2gif is installed" 2
+	ifErrorPrintAndExit "Error: could not convert to animated GIF. Please ensure apng2gif is installed.
+You can get a copy at http://sourceforge.net/projects/apng2gif/files/1.6/
+(Hint: get the non-gui version).
+" 2
+
 else 
 	echoBoth "Not creating animated gif."
 fi
