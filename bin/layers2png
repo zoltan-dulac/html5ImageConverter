@@ -1,0 +1,56 @@
+#!/bin/bash
+
+SCRIPT_DIR="$(dirname "$0")"
+source "$SCRIPT_DIR/functions.sh"
+
+COUNTER=0
+ARGS=`echo $* | tr ' ' '
+'`
+
+SKIP=`getArg skip 0`
+OUTPUT=`getArg output output.png`
+
+FILE=`echo "$ARGS" | grep -v '\--' | head -1`
+
+FILESTUB=`basename $FILE .xcf`
+
+convert $FILE $FILESTUB.png
+
+#.. now, let's move the single and double digit files to triple digit ones.
+FILES_TO_MV=`ls $FILESTUB-[0-9].png $FILESTUB-[0-9][0-9].png $FILESTUB-[0-9][0-9][0-9].png`
+
+for i in $FILES_TO_MV
+do
+	INDEX=`echo $i | sed "s/^$FILESTUB-//g; s/.png$//g"`
+	INDEX=`expr $INDEX + 1`
+	FORMATTED_INDEX=`printf "%03d" $INDEX`
+	CMD="mv $i apngframe-$FORMATTED_INDEX.png"
+	echo $CMD
+	$CMD
+done
+
+echo "$SKIP"
+
+if [ "$SKIP" -ge "2" ]
+then
+	INDEX="1"
+	ORDER_COUNTER="1"
+	for i in apngframe-*.png
+	do
+		FORMATTED_INDEX=`printf "%03d" $INDEX`
+		REMAINDER=`expr \( $INDEX - 1 \) % $SKIP`
+		if [ "$REMAINDER" != "0" ]
+		then
+			rm apngframe-$FORMATTED_INDEX.png
+		elif [ "$ORDER_COUNTER" != "$INDEX" ]
+		then
+			FORMATTED_ORDER_COUNTER=`printf "%03d" $ORDER_COUNTER`
+			mv apngframe-$FORMATTED_INDEX.png apngframe-$FORMATTED_ORDER_COUNTER.png
+			ORDER_COUNTER=`expr $ORDER_COUNTER + 1`
+		fi
+		INDEX=`expr $INDEX + 1`
+	done
+fi
+
+apngasm $OUTPUT apngframe*.png
+rm apngframe*.png

@@ -1,0 +1,2568 @@
+Started ../../bin/html5AnimatedImageConverter --  Sat Oct 31 14:13:48 EDT 2015
+Creating dir /tmp/46801.html5Anim.tmp/
+Disassembling PNG output.png
+
+APNG Disassembler 2.7
+
+Reading 'output.png'...
+extracting frame 1 of 100
+extracting frame 2 of 100
+extracting frame 3 of 100
+extracting frame 4 of 100
+extracting frame 5 of 100
+extracting frame 6 of 100
+extracting frame 7 of 100
+extracting frame 8 of 100
+extracting frame 9 of 100
+extracting frame 10 of 100
+extracting frame 11 of 100
+extracting frame 12 of 100
+extracting frame 13 of 100
+extracting frame 14 of 100
+extracting frame 15 of 100
+extracting frame 16 of 100
+extracting frame 17 of 100
+extracting frame 18 of 100
+extracting frame 19 of 100
+extracting frame 20 of 100
+extracting frame 21 of 100
+extracting frame 22 of 100
+extracting frame 23 of 100
+extracting frame 24 of 100
+extracting frame 25 of 100
+extracting frame 26 of 100
+extracting frame 27 of 100
+extracting frame 28 of 100
+extracting frame 29 of 100
+extracting frame 30 of 100
+extracting frame 31 of 100
+extracting frame 32 of 100
+extracting frame 33 of 100
+extracting frame 34 of 100
+extracting frame 35 of 100
+extracting frame 36 of 100
+extracting frame 37 of 100
+extracting frame 38 of 100
+extracting frame 39 of 100
+extracting frame 40 of 100
+extracting frame 41 of 100
+extracting frame 42 of 100
+extracting frame 43 of 100
+extracting frame 44 of 100
+extracting frame 45 of 100
+extracting frame 46 of 100
+extracting frame 47 of 100
+extracting frame 48 of 100
+extracting frame 49 of 100
+extracting frame 50 of 100
+extracting frame 51 of 100
+extracting frame 52 of 100
+extracting frame 53 of 100
+extracting frame 54 of 100
+extracting frame 55 of 100
+extracting frame 56 of 100
+extracting frame 57 of 100
+extracting frame 58 of 100
+extracting frame 59 of 100
+extracting frame 60 of 100
+extracting frame 61 of 100
+extracting frame 62 of 100
+extracting frame 63 of 100
+extracting frame 64 of 100
+extracting frame 65 of 100
+extracting frame 66 of 100
+extracting frame 67 of 100
+extracting frame 68 of 100
+extracting frame 69 of 100
+extracting frame 70 of 100
+extracting frame 71 of 100
+extracting frame 72 of 100
+extracting frame 73 of 100
+extracting frame 74 of 100
+extracting frame 75 of 100
+extracting frame 76 of 100
+extracting frame 77 of 100
+extracting frame 78 of 100
+extracting frame 79 of 100
+extracting frame 80 of 100
+extracting frame 81 of 100
+extracting frame 82 of 100
+extracting frame 83 of 100
+extracting frame 84 of 100
+extracting frame 85 of 100
+extracting frame 86 of 100
+extracting frame 87 of 100
+extracting frame 88 of 100
+extracting frame 89 of 100
+extracting frame 90 of 100
+extracting frame 91 of 100
+extracting frame 92 of 100
+extracting frame 93 of 100
+extracting frame 94 of 100
+extracting frame 95 of 100
+extracting frame 96 of 100
+extracting frame 97 of 100
+extracting frame 98 of 100
+extracting frame 99 of 100
+extracting frame 100 of 100
+all done
+Converting to apng
+
+APNG Assembler 2.8 using 7ZIP with 15 iterations
+
+reading apngframe001.png (1 of 100)
+reading apngframe002.png (2 of 100)
+reading apngframe003.png (3 of 100)
+reading apngframe004.png (4 of 100)
+reading apngframe005.png (5 of 100)
+reading apngframe006.png (6 of 100)
+reading apngframe007.png (7 of 100)
+reading apngframe008.png (8 of 100)
+reading apngframe009.png (9 of 100)
+reading apngframe010.png (10 of 100)
+reading apngframe011.png (11 of 100)
+reading apngframe012.png (12 of 100)
+reading apngframe013.png (13 of 100)
+reading apngframe014.png (14 of 100)
+reading apngframe015.png (15 of 100)
+reading apngframe016.png (16 of 100)
+reading apngframe017.png (17 of 100)
+reading apngframe018.png (18 of 100)
+reading apngframe019.png (19 of 100)
+reading apngframe020.png (20 of 100)
+reading apngframe021.png (21 of 100)
+reading apngframe022.png (22 of 100)
+reading apngframe023.png (23 of 100)
+reading apngframe024.png (24 of 100)
+reading apngframe025.png (25 of 100)
+reading apngframe026.png (26 of 100)
+reading apngframe027.png (27 of 100)
+reading apngframe028.png (28 of 100)
+reading apngframe029.png (29 of 100)
+reading apngframe030.png (30 of 100)
+reading apngframe031.png (31 of 100)
+reading apngframe032.png (32 of 100)
+reading apngframe033.png (33 of 100)
+reading apngframe034.png (34 of 100)
+reading apngframe035.png (35 of 100)
+reading apngframe036.png (36 of 100)
+reading apngframe037.png (37 of 100)
+reading apngframe038.png (38 of 100)
+reading apngframe039.png (39 of 100)
+reading apngframe040.png (40 of 100)
+reading apngframe041.png (41 of 100)
+reading apngframe042.png (42 of 100)
+reading apngframe043.png (43 of 100)
+reading apngframe044.png (44 of 100)
+reading apngframe045.png (45 of 100)
+reading apngframe046.png (46 of 100)
+reading apngframe047.png (47 of 100)
+reading apngframe048.png (48 of 100)
+reading apngframe049.png (49 of 100)
+reading apngframe050.png (50 of 100)
+reading apngframe051.png (51 of 100)
+reading apngframe052.png (52 of 100)
+reading apngframe053.png (53 of 100)
+reading apngframe054.png (54 of 100)
+reading apngframe055.png (55 of 100)
+reading apngframe056.png (56 of 100)
+reading apngframe057.png (57 of 100)
+reading apngframe058.png (58 of 100)
+reading apngframe059.png (59 of 100)
+reading apngframe060.png (60 of 100)
+reading apngframe061.png (61 of 100)
+reading apngframe062.png (62 of 100)
+reading apngframe063.png (63 of 100)
+reading apngframe064.png (64 of 100)
+reading apngframe065.png (65 of 100)
+reading apngframe066.png (66 of 100)
+reading apngframe067.png (67 of 100)
+reading apngframe068.png (68 of 100)
+reading apngframe069.png (69 of 100)
+reading apngframe070.png (70 of 100)
+reading apngframe071.png (71 of 100)
+reading apngframe072.png (72 of 100)
+reading apngframe073.png (73 of 100)
+reading apngframe074.png (74 of 100)
+reading apngframe075.png (75 of 100)
+reading apngframe076.png (76 of 100)
+reading apngframe077.png (77 of 100)
+reading apngframe078.png (78 of 100)
+reading apngframe079.png (79 of 100)
+reading apngframe080.png (80 of 100)
+reading apngframe081.png (81 of 100)
+reading apngframe082.png (82 of 100)
+reading apngframe083.png (83 of 100)
+reading apngframe084.png (84 of 100)
+reading apngframe085.png (85 of 100)
+reading apngframe086.png (86 of 100)
+reading apngframe087.png (87 of 100)
+reading apngframe088.png (88 of 100)
+reading apngframe089.png (89 of 100)
+reading apngframe090.png (90 of 100)
+reading apngframe091.png (91 of 100)
+reading apngframe092.png (92 of 100)
+reading apngframe093.png (93 of 100)
+reading apngframe094.png (94 of 100)
+reading apngframe095.png (95 of 100)
+reading apngframe096.png (96 of 100)
+reading apngframe097.png (97 of 100)
+reading apngframe098.png (98 of 100)
+reading apngframe099.png (99 of 100)
+reading apngframe100.png (100 of 100)
+saving outfile.unopt.png (frame 1 of 100)
+saving outfile.unopt.png (frame 2 of 100)
+saving outfile.unopt.png (frame 3 of 100)
+saving outfile.unopt.png (frame 4 of 100)
+saving outfile.unopt.png (frame 5 of 100)
+saving outfile.unopt.png (frame 6 of 100)
+saving outfile.unopt.png (frame 7 of 100)
+saving outfile.unopt.png (frame 8 of 100)
+saving outfile.unopt.png (frame 9 of 100)
+saving outfile.unopt.png (frame 10 of 100)
+saving outfile.unopt.png (frame 11 of 100)
+saving outfile.unopt.png (frame 12 of 100)
+saving outfile.unopt.png (frame 13 of 100)
+saving outfile.unopt.png (frame 14 of 100)
+saving outfile.unopt.png (frame 15 of 100)
+saving outfile.unopt.png (frame 16 of 100)
+saving outfile.unopt.png (frame 17 of 100)
+saving outfile.unopt.png (frame 18 of 100)
+saving outfile.unopt.png (frame 19 of 100)
+saving outfile.unopt.png (frame 20 of 100)
+saving outfile.unopt.png (frame 21 of 100)
+saving outfile.unopt.png (frame 22 of 100)
+saving outfile.unopt.png (frame 23 of 100)
+saving outfile.unopt.png (frame 24 of 100)
+saving outfile.unopt.png (frame 25 of 100)
+saving outfile.unopt.png (frame 26 of 100)
+saving outfile.unopt.png (frame 27 of 100)
+saving outfile.unopt.png (frame 28 of 100)
+saving outfile.unopt.png (frame 29 of 100)
+saving outfile.unopt.png (frame 30 of 100)
+saving outfile.unopt.png (frame 31 of 100)
+saving outfile.unopt.png (frame 32 of 100)
+saving outfile.unopt.png (frame 33 of 100)
+saving outfile.unopt.png (frame 34 of 100)
+saving outfile.unopt.png (frame 35 of 100)
+saving outfile.unopt.png (frame 36 of 100)
+saving outfile.unopt.png (frame 37 of 100)
+saving outfile.unopt.png (frame 38 of 100)
+saving outfile.unopt.png (frame 39 of 100)
+saving outfile.unopt.png (frame 40 of 100)
+saving outfile.unopt.png (frame 41 of 100)
+saving outfile.unopt.png (frame 42 of 100)
+saving outfile.unopt.png (frame 43 of 100)
+saving outfile.unopt.png (frame 44 of 100)
+saving outfile.unopt.png (frame 45 of 100)
+saving outfile.unopt.png (frame 46 of 100)
+saving outfile.unopt.png (frame 47 of 100)
+saving outfile.unopt.png (frame 48 of 100)
+saving outfile.unopt.png (frame 49 of 100)
+saving outfile.unopt.png (frame 50 of 100)
+saving outfile.unopt.png (frame 51 of 100)
+saving outfile.unopt.png (frame 52 of 100)
+saving outfile.unopt.png (frame 53 of 100)
+saving outfile.unopt.png (frame 54 of 100)
+saving outfile.unopt.png (frame 55 of 100)
+saving outfile.unopt.png (frame 56 of 100)
+saving outfile.unopt.png (frame 57 of 100)
+saving outfile.unopt.png (frame 58 of 100)
+saving outfile.unopt.png (frame 59 of 100)
+saving outfile.unopt.png (frame 60 of 100)
+saving outfile.unopt.png (frame 61 of 100)
+saving outfile.unopt.png (frame 62 of 100)
+saving outfile.unopt.png (frame 63 of 100)
+saving outfile.unopt.png (frame 64 of 100)
+saving outfile.unopt.png (frame 65 of 100)
+saving outfile.unopt.png (frame 66 of 100)
+saving outfile.unopt.png (frame 67 of 100)
+saving outfile.unopt.png (frame 68 of 100)
+saving outfile.unopt.png (frame 69 of 100)
+saving outfile.unopt.png (frame 70 of 100)
+saving outfile.unopt.png (frame 71 of 100)
+saving outfile.unopt.png (frame 72 of 100)
+saving outfile.unopt.png (frame 73 of 100)
+saving outfile.unopt.png (frame 74 of 100)
+saving outfile.unopt.png (frame 75 of 100)
+saving outfile.unopt.png (frame 76 of 100)
+saving outfile.unopt.png (frame 77 of 100)
+saving outfile.unopt.png (frame 78 of 100)
+saving outfile.unopt.png (frame 79 of 100)
+saving outfile.unopt.png (frame 80 of 100)
+saving outfile.unopt.png (frame 81 of 100)
+saving outfile.unopt.png (frame 82 of 100)
+saving outfile.unopt.png (frame 83 of 100)
+saving outfile.unopt.png (frame 84 of 100)
+saving outfile.unopt.png (frame 85 of 100)
+saving outfile.unopt.png (frame 86 of 100)
+saving outfile.unopt.png (frame 87 of 100)
+saving outfile.unopt.png (frame 88 of 100)
+saving outfile.unopt.png (frame 89 of 100)
+saving outfile.unopt.png (frame 90 of 100)
+saving outfile.unopt.png (frame 91 of 100)
+saving outfile.unopt.png (frame 92 of 100)
+saving outfile.unopt.png (frame 93 of 100)
+saving outfile.unopt.png (frame 94 of 100)
+saving outfile.unopt.png (frame 95 of 100)
+saving outfile.unopt.png (frame 96 of 100)
+saving outfile.unopt.png (frame 97 of 100)
+saving outfile.unopt.png (frame 98 of 100)
+saving outfile.unopt.png (frame 99 of 100)
+saving outfile.unopt.png (frame 100 of 100)
+all done
+Optimising apng
+
+APNG Optimizer 1.2
+
+Reading 'outfile.unopt.png'...
+OK
+saving frame 1 of 100
+saving frame 2 of 100
+saving frame 3 of 100
+saving frame 4 of 100
+saving frame 5 of 100
+saving frame 6 of 100
+saving frame 7 of 100
+saving frame 8 of 100
+saving frame 9 of 100
+saving frame 10 of 100
+saving frame 11 of 100
+saving frame 12 of 100
+saving frame 13 of 100
+saving frame 14 of 100
+saving frame 15 of 100
+saving frame 16 of 100
+saving frame 17 of 100
+saving frame 18 of 100
+saving frame 19 of 100
+saving frame 20 of 100
+saving frame 21 of 100
+saving frame 22 of 100
+saving frame 23 of 100
+saving frame 24 of 100
+saving frame 25 of 100
+saving frame 26 of 100
+saving frame 27 of 100
+saving frame 28 of 100
+saving frame 29 of 100
+saving frame 30 of 100
+saving frame 31 of 100
+saving frame 32 of 100
+saving frame 33 of 100
+saving frame 34 of 100
+saving frame 35 of 100
+saving frame 36 of 100
+saving frame 37 of 100
+saving frame 38 of 100
+saving frame 39 of 100
+saving frame 40 of 100
+saving frame 41 of 100
+saving frame 42 of 100
+saving frame 43 of 100
+saving frame 44 of 100
+saving frame 45 of 100
+saving frame 46 of 100
+saving frame 47 of 100
+saving frame 48 of 100
+saving frame 49 of 100
+saving frame 50 of 100
+saving frame 51 of 100
+saving frame 52 of 100
+saving frame 53 of 100
+saving frame 54 of 100
+saving frame 55 of 100
+saving frame 56 of 100
+saving frame 57 of 100
+saving frame 58 of 100
+saving frame 59 of 100
+saving frame 60 of 100
+saving frame 61 of 100
+saving frame 62 of 100
+saving frame 63 of 100
+saving frame 64 of 100
+saving frame 65 of 100
+saving frame 66 of 100
+saving frame 67 of 100
+saving frame 68 of 100
+saving frame 69 of 100
+saving frame 70 of 100
+saving frame 71 of 100
+saving frame 72 of 100
+saving frame 73 of 100
+saving frame 74 of 100
+saving frame 75 of 100
+saving frame 76 of 100
+saving frame 77 of 100
+saving frame 78 of 100
+saving frame 79 of 100
+saving frame 80 of 100
+saving frame 81 of 100
+saving frame 82 of 100
+saving frame 83 of 100
+saving frame 84 of 100
+saving frame 85 of 100
+saving frame 86 of 100
+saving frame 87 of 100
+saving frame 88 of 100
+saving frame 89 of 100
+saving frame 90 of 100
+saving frame 91 of 100
+saving frame 92 of 100
+saving frame 93 of 100
+saving frame 94 of 100
+saving frame 95 of 100
+saving frame 96 of 100
+saving frame 97 of 100
+saving frame 98 of 100
+saving frame 99 of 100
+saving frame 100 of 100
+OK
+Converting to animated GIF
+
+apng2gif 1.6
+
+Reading 'outfile.png'...
+100 frames.
+552 colors.
+Wu quantization...
+Writing 'outfile.gif'...
+all done
+Converting frames to webp
+Saving file 'apngframe001.webp'
+File:      apngframe001.png
+Dimension: 300 x 225 (with alpha)
+Output:    10206 bytes Y-U-V-All-PSNR 43.85 41.37 43.66   43.30 dB
+block count:  intra4: 120
+              intra16: 165  (-> 57.89%)
+              skipped block: 152 (53.33%)
+bytes used:  header:            221  (2.2%)
+             mode-partition:    616  (6.0%)
+             transparency:     4410 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      10%|      21%|      10%|      57%|     285
+      quantizer:  |      27 |      26 |      21 |      14 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4409 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   69
+Saving file 'apngframe002.webp'
+File:      apngframe002.png
+Dimension: 300 x 225 (with alpha)
+Output:    10528 bytes Y-U-V-All-PSNR 43.83 41.34 43.64   43.28 dB
+block count:  intra4: 125
+              intra16: 160  (-> 56.14%)
+              skipped block: 150 (52.63%)
+bytes used:  header:            227  (2.2%)
+             mode-partition:    646  (6.1%)
+             transparency:     4666 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      17%|      17%|      58%|     285
+      quantizer:  |      27 |      26 |      23 |      15 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4665 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   68
+Saving file 'apngframe003.webp'
+File:      apngframe003.png
+Dimension: 300 x 225 (with alpha)
+Output:    10508 bytes Y-U-V-All-PSNR 43.56 41.22 44.14   43.15 dB
+block count:  intra4: 125
+              intra16: 160  (-> 56.14%)
+              skipped block: 156 (54.74%)
+bytes used:  header:            215  (2.0%)
+             mode-partition:    634  (6.0%)
+             transparency:     4770 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      18%|      13%|      60%|     285
+      quantizer:  |      27 |      26 |      23 |      15 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4769 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   69
+Saving file 'apngframe004.webp'
+File:      apngframe004.png
+Dimension: 300 x 225 (with alpha)
+Output:    10308 bytes Y-U-V-All-PSNR 43.81 41.91 44.68   43.55 dB
+block count:  intra4: 116
+              intra16: 169  (-> 59.30%)
+              skipped block: 164 (57.54%)
+bytes used:  header:            233  (2.3%)
+             mode-partition:    615  (6.0%)
+             transparency:     4604 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      14%|      14%|      64%|     285
+      quantizer:  |      27 |      27 |      23 |      16 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4603 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   71
+Saving file 'apngframe005.webp'
+File:      apngframe005.png
+Dimension: 300 x 225 (with alpha)
+Output:    10696 bytes Y-U-V-All-PSNR 43.92 42.37 44.99   43.77 dB
+block count:  intra4: 112
+              intra16: 173  (-> 60.70%)
+              skipped block: 166 (58.25%)
+bytes used:  header:            236  (2.2%)
+             mode-partition:    575  (5.4%)
+             transparency:     4859 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|      18%|      12%|      63%|     285
+      quantizer:  |      27 |      26 |      22 |      16 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4858 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   66
+Saving file 'apngframe006.webp'
+File:      apngframe006.png
+Dimension: 300 x 225 (with alpha)
+Output:    9766 bytes Y-U-V-All-PSNR 44.25 42.83 45.61   44.17 dB
+block count:  intra4: 104
+              intra16: 181  (-> 63.51%)
+              skipped block: 173 (60.70%)
+bytes used:  header:            236  (2.4%)
+             mode-partition:    499  (5.1%)
+             transparency:     4387 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      17%|      10%|      66%|     285
+      quantizer:  |      27 |      26 |      22 |      16 |
+   filter level:  |       8 |       5 |       4 |       3 |
+Lossless-alpha compressed size: 4386 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   64
+Saving file 'apngframe007.webp'
+File:      apngframe007.png
+Dimension: 300 x 225 (with alpha)
+Output:    9524 bytes Y-U-V-All-PSNR 44.50 43.27 45.59   44.43 dB
+block count:  intra4: 102
+              intra16: 183  (-> 64.21%)
+              skipped block: 171 (60.00%)
+bytes used:  header:            246  (2.6%)
+             mode-partition:    475  (5.0%)
+             transparency:     4166 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|      10%|      20%|      68%|     285
+      quantizer:  |      27 |      27 |      24 |      17 |
+   filter level:  |       8 |       6 |       5 |       2 |
+Lossless-alpha compressed size: 4165 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   67
+Saving file 'apngframe008.webp'
+File:      apngframe008.png
+Dimension: 300 x 225 (with alpha)
+Output:    9676 bytes Y-U-V-All-PSNR 44.11 43.08 44.74   44.01 dB
+block count:  intra4: 108
+              intra16: 177  (-> 62.11%)
+              skipped block: 161 (56.49%)
+bytes used:  header:            241  (2.5%)
+             mode-partition:    516  (5.3%)
+             transparency:     4208 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      20%|       7%|      65%|     285
+      quantizer:  |      27 |      27 |      22 |      16 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4207 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   67
+Saving file 'apngframe009.webp'
+File:      apngframe009.png
+Dimension: 300 x 225 (with alpha)
+Output:    10572 bytes Y-U-V-All-PSNR 43.70 43.45 44.75   43.81 dB
+block count:  intra4: 118
+              intra16: 167  (-> 58.60%)
+              skipped block: 156 (54.74%)
+bytes used:  header:            236  (2.2%)
+             mode-partition:    587  (5.6%)
+             transparency:     4925 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      21%|       7%|      61%|     285
+      quantizer:  |      27 |      27 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4924 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   64
+Saving file 'apngframe010.webp'
+File:      apngframe010.png
+Dimension: 300 x 225 (with alpha)
+Output:    10540 bytes Y-U-V-All-PSNR 43.56 43.69 44.11   43.67 dB
+block count:  intra4: 122
+              intra16: 163  (-> 57.19%)
+              skipped block: 149 (52.28%)
+bytes used:  header:            212  (2.0%)
+             mode-partition:    647  (6.1%)
+             transparency:     4887 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      12%|      18%|      11%|      57%|     285
+      quantizer:  |      27 |      26 |      21 |      14 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4886 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   64
+Saving file 'apngframe011.webp'
+File:      apngframe011.png
+Dimension: 300 x 225 (with alpha)
+Output:    10878 bytes Y-U-V-All-PSNR 43.51 43.74 44.33   43.67 dB
+block count:  intra4: 121
+              intra16: 164  (-> 57.54%)
+              skipped block: 155 (54.39%)
+bytes used:  header:            219  (2.0%)
+             mode-partition:    655  (6.0%)
+             transparency:     5250 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      20%|      14%|      58%|     285
+      quantizer:  |      27 |      26 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       3 |
+Lossless-alpha compressed size: 5249 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   63
+Saving file 'apngframe012.webp'
+File:      apngframe012.png
+Dimension: 300 x 225 (with alpha)
+Output:    10612 bytes Y-U-V-All-PSNR 43.90 44.34 44.29   44.04 dB
+block count:  intra4: 120
+              intra16: 165  (-> 57.89%)
+              skipped block: 149 (52.28%)
+bytes used:  header:            221  (2.1%)
+             mode-partition:    596  (5.6%)
+             transparency:     5233 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|      15%|      22%|      61%|     285
+      quantizer:  |      27 |      27 |      22 |      16 |
+   filter level:  |       8 |       6 |       4 |       3 |
+Lossless-alpha compressed size: 5232 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   65
+Saving file 'apngframe013.webp'
+File:      apngframe013.png
+Dimension: 300 x 225 (with alpha)
+Output:    9848 bytes Y-U-V-All-PSNR 43.99 45.73 44.26   44.28 dB
+block count:  intra4: 113
+              intra16: 172  (-> 60.35%)
+              skipped block: 159 (55.79%)
+bytes used:  header:            213  (2.2%)
+             mode-partition:    549  (5.6%)
+             transparency:     5029 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      12%|      20%|      61%|     285
+      quantizer:  |      27 |      27 |      23 |      15 |
+   filter level:  |       8 |       6 |       4 |       3 |
+Lossless-alpha compressed size: 5028 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   67
+Saving file 'apngframe014.webp'
+File:      apngframe014.png
+Dimension: 300 x 225 (with alpha)
+Output:    9188 bytes Y-U-V-All-PSNR 44.22 45.83 44.25   44.45 dB
+block count:  intra4: 104
+              intra16: 181  (-> 63.51%)
+              skipped block: 161 (56.49%)
+bytes used:  header:            221  (2.4%)
+             mode-partition:    506  (5.5%)
+             transparency:     4478 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      18%|      13%|      62%|     285
+      quantizer:  |      27 |      27 |      22 |      15 |
+   filter level:  |       8 |       6 |       5 |       3 |
+Lossless-alpha compressed size: 4477 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   61
+Saving file 'apngframe015.webp'
+File:      apngframe015.png
+Dimension: 300 x 225 (with alpha)
+Output:    9390 bytes Y-U-V-All-PSNR 44.43 45.10 43.72   44.40 dB
+block count:  intra4: 110
+              intra16: 175  (-> 61.40%)
+              skipped block: 159 (55.79%)
+bytes used:  header:            229  (2.4%)
+             mode-partition:    518  (5.5%)
+             transparency:     4426 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|      13%|      20%|      63%|     285
+      quantizer:  |      27 |      27 |      23 |      16 |
+   filter level:  |       8 |       6 |       4 |       3 |
+Lossless-alpha compressed size: 4425 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   59
+Saving file 'apngframe016.webp'
+File:      apngframe016.png
+Dimension: 300 x 225 (with alpha)
+Output:    8724 bytes Y-U-V-All-PSNR 44.59 44.18 43.40   44.30 dB
+block count:  intra4: 105
+              intra16: 180  (-> 63.16%)
+              skipped block: 163 (57.19%)
+bytes used:  header:            220  (2.5%)
+             mode-partition:    515  (5.9%)
+             transparency:     3866 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      22%|       6%|      64%|     285
+      quantizer:  |      27 |      27 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       3 |
+Lossless-alpha compressed size: 3865 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   62
+Saving file 'apngframe017.webp'
+File:      apngframe017.png
+Dimension: 300 x 225 (with alpha)
+Output:    7488 bytes Y-U-V-All-PSNR 45.29 45.04 44.00   45.01 dB
+block count:  intra4: 101
+              intra16: 184  (-> 64.56%)
+              skipped block: 157 (55.09%)
+bytes used:  header:            222  (3.0%)
+             mode-partition:    495  (6.6%)
+             transparency:     3206 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      21%|       9%|      62%|     285
+      quantizer:  |      27 |      27 |      22 |      15 |
+   filter level:  |       8 |       6 |       5 |       3 |
+Lossless-alpha compressed size: 3205 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   63
+Saving file 'apngframe018.webp'
+File:      apngframe018.png
+Dimension: 300 x 225 (with alpha)
+Output:    7086 bytes Y-U-V-All-PSNR 45.35 45.38 44.36   45.17 dB
+block count:  intra4: 97
+              intra16: 188  (-> 65.96%)
+              skipped block: 159 (55.79%)
+bytes used:  header:            201  (2.8%)
+             mode-partition:    475  (6.7%)
+             transparency:     3091 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|      28%|       5%|      63%|     285
+      quantizer:  |      27 |      26 |      21 |      15 |
+   filter level:  |       8 |       6 |       4 |       7 |
+Lossless-alpha compressed size: 3090 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   64
+Saving file 'apngframe019.webp'
+File:      apngframe019.png
+Dimension: 300 x 225 (with alpha)
+Output:    8062 bytes Y-U-V-All-PSNR 44.96 43.93 43.63   44.53 dB
+block count:  intra4: 108
+              intra16: 177  (-> 62.11%)
+              skipped block: 155 (54.39%)
+bytes used:  header:            180  (2.2%)
+             mode-partition:    534  (6.6%)
+             transparency:     3482 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      12%|      64%|     285
+      quantizer:  |      27 |      27 |      24 |      15 |
+   filter level:  |       8 |       6 |       5 |       3 |
+Lossless-alpha compressed size: 3481 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   64
+Saving file 'apngframe020.webp'
+File:      apngframe020.png
+Dimension: 300 x 225 (with alpha)
+Output:    9726 bytes Y-U-V-All-PSNR 44.06 42.53 42.15   43.40 dB
+block count:  intra4: 118
+              intra16: 167  (-> 58.60%)
+              skipped block: 147 (51.58%)
+bytes used:  header:            217  (2.2%)
+             mode-partition:    596  (6.1%)
+             transparency:     4136 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      12%|      18%|      11%|      57%|     285
+      quantizer:  |      27 |      26 |      22 |      14 |
+   filter level:  |       8 |       6 |       5 |       2 |
+Lossless-alpha compressed size: 4135 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   67
+Saving file 'apngframe021.webp'
+File:      apngframe021.png
+Dimension: 300 x 225 (with alpha)
+Output:    10746 bytes Y-U-V-All-PSNR 43.70 42.12 41.75   43.03 dB
+block count:  intra4: 120
+              intra16: 165  (-> 57.89%)
+              skipped block: 155 (54.39%)
+bytes used:  header:            213  (2.0%)
+             mode-partition:    638  (5.9%)
+             transparency:     4790 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      20%|      12%|      57%|     285
+      quantizer:  |      27 |      26 |      22 |      14 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4789 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   65
+Saving file 'apngframe022.webp'
+File:      apngframe022.png
+Dimension: 300 x 225 (with alpha)
+Output:    10700 bytes Y-U-V-All-PSNR 43.75 42.08 41.90   43.08 dB
+block count:  intra4: 126
+              intra16: 159  (-> 55.79%)
+              skipped block: 153 (53.68%)
+bytes used:  header:            222  (2.1%)
+             mode-partition:    630  (5.9%)
+             transparency:     4785 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      20%|      14%|      56%|     285
+      quantizer:  |      27 |      26 |      22 |      14 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4784 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   67
+Saving file 'apngframe023.webp'
+File:      apngframe023.png
+Dimension: 300 x 225 (with alpha)
+Output:    10294 bytes Y-U-V-All-PSNR 44.02 42.79 42.43   43.50 dB
+block count:  intra4: 125
+              intra16: 160  (-> 56.14%)
+              skipped block: 150 (52.63%)
+bytes used:  header:            220  (2.1%)
+             mode-partition:    599  (5.8%)
+             transparency:     4599 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      10%|      14%|      15%|      58%|     285
+      quantizer:  |      27 |      27 |      23 |      14 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4598 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   66
+Saving file 'apngframe024.webp'
+File:      apngframe024.png
+Dimension: 300 x 225 (with alpha)
+Output:    10012 bytes Y-U-V-All-PSNR 44.26 43.43 42.92   43.86 dB
+block count:  intra4: 117
+              intra16: 168  (-> 58.95%)
+              skipped block: 153 (53.68%)
+bytes used:  header:            220  (2.2%)
+             mode-partition:    576  (5.8%)
+             transparency:     4439 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|      18%|      15%|      61%|     285
+      quantizer:  |      27 |      27 |      23 |      15 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4438 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   65
+Saving file 'apngframe025.webp'
+File:      apngframe025.png
+Dimension: 300 x 225 (with alpha)
+Output:    9460 bytes Y-U-V-All-PSNR 44.48 43.81 43.67   44.22 dB
+block count:  intra4: 113
+              intra16: 172  (-> 60.35%)
+              skipped block: 160 (56.14%)
+bytes used:  header:            207  (2.2%)
+             mode-partition:    549  (5.8%)
+             transparency:     4383 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      12%|      17%|      64%|     285
+      quantizer:  |      27 |      27 |      24 |      15 |
+   filter level:  |       8 |       6 |       5 |       3 |
+Lossless-alpha compressed size: 4382 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   66
+Saving file 'apngframe026.webp'
+File:      apngframe026.png
+Dimension: 300 x 225 (with alpha)
+Output:    8270 bytes Y-U-V-All-PSNR 45.00 44.81 44.60   44.90 dB
+block count:  intra4: 102
+              intra16: 183  (-> 64.21%)
+              skipped block: 163 (57.19%)
+bytes used:  header:            184  (2.2%)
+             mode-partition:    493  (6.0%)
+             transparency:     3924 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|      13%|      16%|      67%|     285
+      quantizer:  |      27 |      27 |      24 |      16 |
+   filter level:  |       8 |       6 |       5 |       3 |
+Lossless-alpha compressed size: 3923 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   63
+Saving file 'apngframe027.webp'
+File:      apngframe027.png
+Dimension: 300 x 225 (with alpha)
+Output:    9394 bytes Y-U-V-All-PSNR 44.47 43.65 43.72   44.19 dB
+block count:  intra4: 111
+              intra16: 174  (-> 61.05%)
+              skipped block: 155 (54.39%)
+bytes used:  header:            201  (2.1%)
+             mode-partition:    552  (5.9%)
+             transparency:     4346 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|      14%|      18%|      64%|     285
+      quantizer:  |      27 |      27 |      24 |      16 |
+   filter level:  |       8 |       6 |       5 |       3 |
+Lossless-alpha compressed size: 4345 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   70
+Saving file 'apngframe028.webp'
+File:      apngframe028.png
+Dimension: 300 x 225 (with alpha)
+Output:    9926 bytes Y-U-V-All-PSNR 44.22 43.03 43.13   43.81 dB
+block count:  intra4: 112
+              intra16: 173  (-> 60.70%)
+              skipped block: 157 (55.09%)
+bytes used:  header:            215  (2.2%)
+             mode-partition:    581  (5.9%)
+             transparency:     4326 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|      17%|      18%|      62%|     285
+      quantizer:  |      27 |      27 |      24 |      15 |
+   filter level:  |       8 |       6 |       5 |       2 |
+Lossless-alpha compressed size: 4325 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   71
+Saving file 'apngframe029.webp'
+File:      apngframe029.png
+Dimension: 300 x 225 (with alpha)
+Output:    10216 bytes Y-U-V-All-PSNR 43.94 42.29 42.78   43.42 dB
+block count:  intra4: 122
+              intra16: 163  (-> 57.19%)
+              skipped block: 153 (53.68%)
+bytes used:  header:            219  (2.1%)
+             mode-partition:    612  (6.0%)
+             transparency:     4438 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      20%|      13%|      59%|     285
+      quantizer:  |      27 |      27 |      23 |      14 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4437 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   72
+Saving file 'apngframe030.webp'
+File:      apngframe030.png
+Dimension: 300 x 225 (with alpha)
+Output:    10392 bytes Y-U-V-All-PSNR 43.87 41.79 42.18   43.14 dB
+block count:  intra4: 124
+              intra16: 161  (-> 56.49%)
+              skipped block: 153 (53.68%)
+bytes used:  header:            227  (2.2%)
+             mode-partition:    618  (5.9%)
+             transparency:     4470 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      21%|      13%|      57%|     285
+      quantizer:  |      27 |      26 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4469 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   72
+Saving file 'apngframe031.webp'
+File:      apngframe031.png
+Dimension: 300 x 225 (with alpha)
+Output:    10410 bytes Y-U-V-All-PSNR 43.87 41.66 42.31   43.14 dB
+block count:  intra4: 122
+              intra16: 163  (-> 57.19%)
+              skipped block: 155 (54.39%)
+bytes used:  header:            218  (2.1%)
+             mode-partition:    626  (6.0%)
+             transparency:     4509 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      20%|      12%|      58%|     285
+      quantizer:  |      27 |      26 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       3 |
+Lossless-alpha compressed size: 4508 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   71
+Saving file 'apngframe032.webp'
+File:      apngframe032.png
+Dimension: 300 x 225 (with alpha)
+Output:    10364 bytes Y-U-V-All-PSNR 44.06 41.94 42.24   43.30 dB
+block count:  intra4: 125
+              intra16: 160  (-> 56.14%)
+              skipped block: 152 (53.33%)
+bytes used:  header:            229  (2.2%)
+             mode-partition:    605  (5.8%)
+             transparency:     4563 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      17%|      17%|      57%|     285
+      quantizer:  |      27 |      27 |      22 |      15 |
+   filter level:  |       8 |       6 |       5 |       3 |
+Lossless-alpha compressed size: 4562 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   72
+Saving file 'apngframe033.webp'
+File:      apngframe033.png
+Dimension: 300 x 225 (with alpha)
+Output:    9950 bytes Y-U-V-All-PSNR 44.44 42.56 42.77   43.77 dB
+block count:  intra4: 116
+              intra16: 169  (-> 59.30%)
+              skipped block: 151 (52.98%)
+bytes used:  header:            228  (2.3%)
+             mode-partition:    584  (5.9%)
+             transparency:     4415 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      18%|      17%|      58%|     285
+      quantizer:  |      27 |      27 |      22 |      15 |
+   filter level:  |       8 |       6 |       5 |       2 |
+Lossless-alpha compressed size: 4414 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   71
+Saving file 'apngframe034.webp'
+File:      apngframe034.png
+Dimension: 300 x 225 (with alpha)
+Output:    9380 bytes Y-U-V-All-PSNR 44.71 42.89 43.33   44.10 dB
+block count:  intra4: 115
+              intra16: 170  (-> 59.65%)
+              skipped block: 158 (55.44%)
+bytes used:  header:            209  (2.2%)
+             mode-partition:    550  (5.9%)
+             transparency:     4123 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|      18%|      15%|      61%|     285
+      quantizer:  |      27 |      27 |      23 |      15 |
+   filter level:  |       8 |       6 |       4 |       3 |
+Lossless-alpha compressed size: 4122 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   71
+Saving file 'apngframe035.webp'
+File:      apngframe035.png
+Dimension: 300 x 225 (with alpha)
+Output:    8786 bytes Y-U-V-All-PSNR 45.03 43.74 44.04   44.61 dB
+block count:  intra4: 100
+              intra16: 185  (-> 64.91%)
+              skipped block: 162 (56.84%)
+bytes used:  header:            205  (2.3%)
+             mode-partition:    507  (5.8%)
+             transparency:     3992 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|      13%|      17%|      64%|     285
+      quantizer:  |      27 |      27 |      23 |      16 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 3991 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   66
+Saving file 'apngframe036.webp'
+File:      apngframe036.png
+Dimension: 300 x 225 (with alpha)
+Output:    7654 bytes Y-U-V-All-PSNR 45.46 44.70 44.61   45.17 dB
+block count:  intra4: 91
+              intra16: 194  (-> 68.07%)
+              skipped block: 165 (57.89%)
+bytes used:  header:            184  (2.4%)
+             mode-partition:    467  (6.1%)
+             transparency:     3557 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|      15%|      14%|      66%|     285
+      quantizer:  |      27 |      27 |      23 |      16 |
+   filter level:  |       8 |       6 |       4 |       3 |
+Lossless-alpha compressed size: 3556 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   65
+Saving file 'apngframe037.webp'
+File:      apngframe037.png
+Dimension: 300 x 225 (with alpha)
+Output:    8646 bytes Y-U-V-All-PSNR 44.99 43.72 44.05   44.59 dB
+block count:  intra4: 100
+              intra16: 185  (-> 64.91%)
+              skipped block: 160 (56.14%)
+bytes used:  header:            196  (2.3%)
+             mode-partition:    498  (5.8%)
+             transparency:     3994 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|      20%|      10%|      64%|     285
+      quantizer:  |      27 |      27 |      22 |      16 |
+   filter level:  |       8 |       6 |       4 |       3 |
+Lossless-alpha compressed size: 3993 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   73
+Saving file 'apngframe038.webp'
+File:      apngframe038.png
+Dimension: 300 x 225 (with alpha)
+Output:    9404 bytes Y-U-V-All-PSNR 44.55 42.99 43.61   44.09 dB
+block count:  intra4: 107
+              intra16: 178  (-> 62.46%)
+              skipped block: 157 (55.09%)
+bytes used:  header:            219  (2.3%)
+             mode-partition:    539  (5.7%)
+             transparency:     4137 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      18%|      11%|      61%|     285
+      quantizer:  |      27 |      27 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4136 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   73
+Saving file 'apngframe039.webp'
+File:      apngframe039.png
+Dimension: 300 x 225 (with alpha)
+Output:    10042 bytes Y-U-V-All-PSNR 44.10 42.28 43.18   43.58 dB
+block count:  intra4: 114
+              intra16: 171  (-> 60.00%)
+              skipped block: 157 (55.09%)
+bytes used:  header:            214  (2.1%)
+             mode-partition:    576  (5.7%)
+             transparency:     4449 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      10%|      21%|      10%|      58%|     285
+      quantizer:  |      27 |      26 |      21 |      14 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4448 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   74
+Saving file 'apngframe040.webp'
+File:      apngframe040.png
+Dimension: 300 x 225 (with alpha)
+Output:    10544 bytes Y-U-V-All-PSNR 43.99 41.94 42.74   43.36 dB
+block count:  intra4: 120
+              intra16: 165  (-> 57.89%)
+              skipped block: 152 (53.33%)
+bytes used:  header:            224  (2.1%)
+             mode-partition:    598  (5.7%)
+             transparency:     4743 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      21%|      14%|      58%|     285
+      quantizer:  |      27 |      26 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4742 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   74
+Saving file 'apngframe041.webp'
+File:      apngframe041.png
+Dimension: 300 x 225 (with alpha)
+Output:    10546 bytes Y-U-V-All-PSNR 43.67 41.79 42.53   43.10 dB
+block count:  intra4: 122
+              intra16: 163  (-> 57.19%)
+              skipped block: 155 (54.39%)
+bytes used:  header:            225  (2.1%)
+             mode-partition:    616  (5.8%)
+             transparency:     4670 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      11%|      20%|      10%|      57%|     285
+      quantizer:  |      27 |      26 |      21 |      14 |
+   filter level:  |       8 |       6 |       4 |       3 |
+Lossless-alpha compressed size: 4669 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   74
+Saving file 'apngframe042.webp'
+File:      apngframe042.png
+Dimension: 300 x 225 (with alpha)
+Output:    10600 bytes Y-U-V-All-PSNR 43.70 41.70 42.52   43.10 dB
+block count:  intra4: 125
+              intra16: 160  (-> 56.14%)
+              skipped block: 151 (52.98%)
+bytes used:  header:            218  (2.1%)
+             mode-partition:    621  (5.9%)
+             transparency:     4749 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      23%|      11%|      57%|     285
+      quantizer:  |      27 |      26 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4748 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   72
+Saving file 'apngframe043.webp'
+File:      apngframe043.png
+Dimension: 300 x 225 (with alpha)
+Output:    10450 bytes Y-U-V-All-PSNR 43.74 41.92 42.70   43.20 dB
+block count:  intra4: 119
+              intra16: 166  (-> 58.25%)
+              skipped block: 156 (54.74%)
+bytes used:  header:            225  (2.2%)
+             mode-partition:    596  (5.7%)
+             transparency:     4728 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      24%|       8%|      60%|     285
+      quantizer:  |      27 |      26 |      21 |      15 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4727 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   72
+Saving file 'apngframe044.webp'
+File:      apngframe044.png
+Dimension: 300 x 225 (with alpha)
+Output:    10488 bytes Y-U-V-All-PSNR 43.70 42.15 42.99   43.28 dB
+block count:  intra4: 117
+              intra16: 168  (-> 58.95%)
+              skipped block: 160 (56.14%)
+bytes used:  header:            228  (2.2%)
+             mode-partition:    571  (5.4%)
+             transparency:     4721 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      20%|       8%|      61%|     285
+      quantizer:  |      27 |      26 |      21 |      15 |
+   filter level:  |       8 |       6 |       4 |       7 |
+Lossless-alpha compressed size: 4720 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   74
+Saving file 'apngframe045.webp'
+File:      apngframe045.png
+Dimension: 300 x 225 (with alpha)
+Output:    10588 bytes Y-U-V-All-PSNR 43.89 42.31 43.19   43.46 dB
+block count:  intra4: 115
+              intra16: 170  (-> 59.65%)
+              skipped block: 156 (54.74%)
+bytes used:  header:            233  (2.2%)
+             mode-partition:    574  (5.4%)
+             transparency:     4722 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|      14%|      18%|      63%|     285
+      quantizer:  |      27 |      27 |      23 |      16 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4721 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   71
+Saving file 'apngframe046.webp'
+File:      apngframe046.png
+Dimension: 300 x 225 (with alpha)
+Output:    10206 bytes Y-U-V-All-PSNR 43.87 42.45 43.31   43.51 dB
+block count:  intra4: 113
+              intra16: 172  (-> 60.35%)
+              skipped block: 159 (55.79%)
+bytes used:  header:            233  (2.3%)
+             mode-partition:    558  (5.5%)
+             transparency:     4631 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      17%|      13%|      62%|     285
+      quantizer:  |      27 |      26 |      23 |      15 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4630 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   71
+Saving file 'apngframe047.webp'
+File:      apngframe047.png
+Dimension: 300 x 225 (with alpha)
+Output:    10154 bytes Y-U-V-All-PSNR 43.90 42.53 43.34   43.55 dB
+block count:  intra4: 115
+              intra16: 170  (-> 59.65%)
+              skipped block: 165 (57.89%)
+bytes used:  header:            226  (2.2%)
+             mode-partition:    566  (5.6%)
+             transparency:     4548 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      22%|       9%|      62%|     285
+      quantizer:  |      27 |      26 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4547 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   73
+Saving file 'apngframe048.webp'
+File:      apngframe048.png
+Dimension: 300 x 225 (with alpha)
+Output:    10360 bytes Y-U-V-All-PSNR 43.73 42.03 42.94   43.26 dB
+block count:  intra4: 120
+              intra16: 165  (-> 57.89%)
+              skipped block: 155 (54.39%)
+bytes used:  header:            217  (2.1%)
+             mode-partition:    566  (5.5%)
+             transparency:     4577 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|      21%|      14%|      60%|     285
+      quantizer:  |      27 |      27 |      23 |      15 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4576 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   71
+Saving file 'apngframe049.webp'
+File:      apngframe049.png
+Dimension: 300 x 225 (with alpha)
+Output:    10640 bytes Y-U-V-All-PSNR 43.63 41.78 42.67   43.10 dB
+block count:  intra4: 123
+              intra16: 162  (-> 56.84%)
+              skipped block: 154 (54.04%)
+bytes used:  header:            221  (2.1%)
+             mode-partition:    616  (5.8%)
+             transparency:     4672 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      11%|      22%|       8%|      57%|     285
+      quantizer:  |      27 |      26 |      21 |      14 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4671 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   72
+Saving file 'apngframe050.webp'
+File:      apngframe050.png
+Dimension: 300 x 225 (with alpha)
+Output:    10700 bytes Y-U-V-All-PSNR 43.73 42.01 42.57   43.19 dB
+block count:  intra4: 123
+              intra16: 162  (-> 56.84%)
+              skipped block: 151 (52.98%)
+bytes used:  header:            238  (2.2%)
+             mode-partition:    635  (5.9%)
+             transparency:     4779 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      22%|      11%|      57%|     285
+      quantizer:  |      27 |      26 |      22 |      14 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4778 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   72
+Saving file 'apngframe051.webp'
+File:      apngframe051.png
+Dimension: 300 x 225 (with alpha)
+Output:    10820 bytes Y-U-V-All-PSNR 43.85 41.77 42.75   43.24 dB
+block count:  intra4: 120
+              intra16: 165  (-> 57.89%)
+              skipped block: 150 (52.63%)
+bytes used:  header:            214  (2.0%)
+             mode-partition:    629  (5.8%)
+             transparency:     4973 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      21%|      12%|      58%|     285
+      quantizer:  |      27 |      26 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       3 |
+Lossless-alpha compressed size: 4972 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   73
+Saving file 'apngframe052.webp'
+File:      apngframe052.png
+Dimension: 300 x 225 (with alpha)
+Output:    10500 bytes Y-U-V-All-PSNR 44.10 41.88 42.56   43.37 dB
+block count:  intra4: 121
+              intra16: 164  (-> 57.54%)
+              skipped block: 149 (52.28%)
+bytes used:  header:            208  (2.0%)
+             mode-partition:    605  (5.8%)
+             transparency:     4772 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      10%|      22%|       9%|      57%|     285
+      quantizer:  |      27 |      26 |      21 |      14 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4771 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   70
+Saving file 'apngframe053.webp'
+File:      apngframe053.png
+Dimension: 300 x 225 (with alpha)
+Output:    9904 bytes Y-U-V-All-PSNR 44.12 42.48 43.51   43.70 dB
+block count:  intra4: 116
+              intra16: 169  (-> 59.30%)
+              skipped block: 154 (54.04%)
+bytes used:  header:            232  (2.3%)
+             mode-partition:    558  (5.6%)
+             transparency:     4382 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      16%|      16%|       8%|      59%|     285
+      quantizer:  |      27 |      26 |      21 |      14 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4381 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   74
+Saving file 'apngframe054.webp'
+File:      apngframe054.png
+Dimension: 300 x 225 (with alpha)
+Output:    9336 bytes Y-U-V-All-PSNR 44.58 43.02 44.12   44.20 dB
+block count:  intra4: 109
+              intra16: 176  (-> 61.75%)
+              skipped block: 154 (54.04%)
+bytes used:  header:            215  (2.3%)
+             mode-partition:    540  (5.8%)
+             transparency:     4050 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      21%|      10%|      62%|     285
+      quantizer:  |      27 |      27 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4049 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   70
+Saving file 'apngframe055.webp'
+File:      apngframe055.png
+Dimension: 300 x 225 (with alpha)
+Output:    8388 bytes Y-U-V-All-PSNR 45.02 44.25 45.04   44.88 dB
+block count:  intra4: 102
+              intra16: 183  (-> 64.21%)
+              skipped block: 156 (54.74%)
+bytes used:  header:            223  (2.7%)
+             mode-partition:    505  (6.0%)
+             transparency:     3878 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       0%|      16%|      17%|      65%|     285
+      quantizer:  |      27 |      27 |      24 |      16 |
+   filter level:  |       8 |       6 |       5 |       3 |
+Lossless-alpha compressed size: 3877 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   69
+Saving file 'apngframe056.webp'
+File:      apngframe056.png
+Dimension: 300 x 225 (with alpha)
+Output:    7052 bytes Y-U-V-All-PSNR 45.58 45.41 45.83   45.59 dB
+block count:  intra4: 95
+              intra16: 190  (-> 66.67%)
+              skipped block: 162 (56.84%)
+bytes used:  header:            196  (2.8%)
+             mode-partition:    454  (6.4%)
+             transparency:     3266 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      10%|      17%|       6%|      66%|     285
+      quantizer:  |      27 |      27 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 3265 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   71
+Saving file 'apngframe057.webp'
+File:      apngframe057.png
+Dimension: 300 x 225 (with alpha)
+Output:    8412 bytes Y-U-V-All-PSNR 44.88 44.12 44.77   44.73 dB
+block count:  intra4: 109
+              intra16: 176  (-> 61.75%)
+              skipped block: 159 (55.79%)
+bytes used:  header:            222  (2.6%)
+             mode-partition:    503  (6.0%)
+             transparency:     3845 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      12%|      16%|       7%|      63%|     285
+      quantizer:  |      27 |      27 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 3844 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   72
+Saving file 'apngframe058.webp'
+File:      apngframe058.png
+Dimension: 300 x 225 (with alpha)
+Output:    9268 bytes Y-U-V-All-PSNR 44.53 43.24 44.19   44.23 dB
+block count:  intra4: 111
+              intra16: 174  (-> 61.05%)
+              skipped block: 158 (55.44%)
+bytes used:  header:            226  (2.4%)
+             mode-partition:    530  (5.7%)
+             transparency:     4043 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      19%|      10%|      62%|     285
+      quantizer:  |      27 |      27 |      23 |      15 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4042 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   71
+Saving file 'apngframe059.webp'
+File:      apngframe059.png
+Dimension: 300 x 225 (with alpha)
+Output:    9936 bytes Y-U-V-All-PSNR 44.32 42.59 43.74   43.89 dB
+block count:  intra4: 120
+              intra16: 165  (-> 57.89%)
+              skipped block: 150 (52.63%)
+bytes used:  header:            228  (2.3%)
+             mode-partition:    575  (5.8%)
+             transparency:     4472 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      18%|      13%|      59%|     285
+      quantizer:  |      27 |      27 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       7 |
+Lossless-alpha compressed size: 4471 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   73
+Saving file 'apngframe060.webp'
+File:      apngframe060.png
+Dimension: 300 x 225 (with alpha)
+Output:    10578 bytes Y-U-V-All-PSNR 44.13 42.28 43.11   43.59 dB
+block count:  intra4: 125
+              intra16: 160  (-> 56.14%)
+              skipped block: 149 (52.28%)
+bytes used:  header:            236  (2.2%)
+             mode-partition:    601  (5.7%)
+             transparency:     4846 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      19%|      14%|      56%|     285
+      quantizer:  |      27 |      26 |      22 |      14 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4845 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   74
+Saving file 'apngframe061.webp'
+File:      apngframe061.png
+Dimension: 300 x 225 (with alpha)
+Output:    10312 bytes Y-U-V-All-PSNR 44.01 42.12 43.38   43.53 dB
+block count:  intra4: 119
+              intra16: 166  (-> 58.25%)
+              skipped block: 153 (53.68%)
+bytes used:  header:            224  (2.2%)
+             mode-partition:    637  (6.2%)
+             transparency:     4549 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      19%|      16%|      58%|     285
+      quantizer:  |      27 |      26 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4548 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   74
+Saving file 'apngframe062.webp'
+File:      apngframe062.png
+Dimension: 300 x 225 (with alpha)
+Output:    10082 bytes Y-U-V-All-PSNR 44.15 42.01 43.13   43.55 dB
+block count:  intra4: 126
+              intra16: 159  (-> 55.79%)
+              skipped block: 151 (52.98%)
+bytes used:  header:            223  (2.2%)
+             mode-partition:    613  (6.1%)
+             transparency:     4389 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|      23%|      14%|      57%|     285
+      quantizer:  |      27 |      26 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       3 |
+Lossless-alpha compressed size: 4388 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   74
+Saving file 'apngframe063.webp'
+File:      apngframe063.png
+Dimension: 300 x 225 (with alpha)
+Output:    10070 bytes Y-U-V-All-PSNR 44.14 42.76 43.80   43.82 dB
+block count:  intra4: 120
+              intra16: 165  (-> 57.89%)
+              skipped block: 152 (53.33%)
+bytes used:  header:            230  (2.3%)
+             mode-partition:    596  (5.9%)
+             transparency:     4595 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      12%|      17%|      10%|      58%|     285
+      quantizer:  |      27 |      26 |      22 |      14 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4594 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   72
+Saving file 'apngframe064.webp'
+File:      apngframe064.png
+Dimension: 300 x 225 (with alpha)
+Output:    9468 bytes Y-U-V-All-PSNR 44.38 43.51 44.03   44.16 dB
+block count:  intra4: 114
+              intra16: 171  (-> 60.00%)
+              skipped block: 161 (56.49%)
+bytes used:  header:            219  (2.3%)
+             mode-partition:    562  (5.9%)
+             transparency:     4266 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      20%|       8%|      61%|     285
+      quantizer:  |      27 |      27 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4265 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   72
+Saving file 'apngframe065.webp'
+File:      apngframe065.png
+Dimension: 300 x 225 (with alpha)
+Output:    8708 bytes Y-U-V-All-PSNR 44.75 44.45 45.29   44.79 dB
+block count:  intra4: 109
+              intra16: 176  (-> 61.75%)
+              skipped block: 156 (54.74%)
+bytes used:  header:            218  (2.5%)
+             mode-partition:    524  (6.0%)
+             transparency:     4114 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      16%|       9%|      64%|     285
+      quantizer:  |      27 |      27 |      22 |      15 |
+   filter level:  |       8 |       6 |       5 |       3 |
+Lossless-alpha compressed size: 4113 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   70
+Saving file 'apngframe066.webp'
+File:      apngframe066.png
+Dimension: 300 x 225 (with alpha)
+Output:    7362 bytes Y-U-V-All-PSNR 45.38 46.03 46.22   45.61 dB
+block count:  intra4: 94
+              intra16: 191  (-> 67.02%)
+              skipped block: 156 (54.74%)
+bytes used:  header:            197  (2.7%)
+             mode-partition:    476  (6.5%)
+             transparency:     3566 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      16%|       8%|      66%|     285
+      quantizer:  |      27 |      27 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 3565 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   65
+Saving file 'apngframe067.webp'
+File:      apngframe067.png
+Dimension: 300 x 225 (with alpha)
+Output:    8766 bytes Y-U-V-All-PSNR 44.64 44.58 45.22   44.72 dB
+block count:  intra4: 109
+              intra16: 176  (-> 61.75%)
+              skipped block: 158 (55.44%)
+bytes used:  header:            222  (2.5%)
+             mode-partition:    523  (6.0%)
+             transparency:     4138 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      21%|       6%|      64%|     285
+      quantizer:  |      27 |      27 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4137 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   71
+Saving file 'apngframe068.webp'
+File:      apngframe068.png
+Dimension: 300 x 225 (with alpha)
+Output:    9482 bytes Y-U-V-All-PSNR 44.38 43.86 44.23   44.26 dB
+block count:  intra4: 117
+              intra16: 168  (-> 58.95%)
+              skipped block: 156 (54.74%)
+bytes used:  header:            221  (2.3%)
+             mode-partition:    559  (5.9%)
+             transparency:     4290 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      21%|       6%|      62%|     285
+      quantizer:  |      27 |      27 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       3 |
+Lossless-alpha compressed size: 4289 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   74
+Saving file 'apngframe069.webp'
+File:      apngframe069.png
+Dimension: 300 x 225 (with alpha)
+Output:    10050 bytes Y-U-V-All-PSNR 44.24 42.85 43.64   43.88 dB
+block count:  intra4: 118
+              intra16: 167  (-> 58.60%)
+              skipped block: 149 (52.28%)
+bytes used:  header:            229  (2.3%)
+             mode-partition:    576  (5.7%)
+             transparency:     4699 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      16%|      13%|      59%|     285
+      quantizer:  |      27 |      27 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4698 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   74
+Saving file 'apngframe070.webp'
+File:      apngframe070.png
+Dimension: 300 x 225 (with alpha)
+Output:    10226 bytes Y-U-V-All-PSNR 43.93 42.47 43.13   43.52 dB
+block count:  intra4: 126
+              intra16: 159  (-> 55.79%)
+              skipped block: 145 (50.88%)
+bytes used:  header:            236  (2.3%)
+             mode-partition:    605  (5.9%)
+             transparency:     4545 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      21%|      15%|      57%|     285
+      quantizer:  |      27 |      26 |      22 |      15 |
+   filter level:  |       8 |       6 |       5 |       2 |
+Lossless-alpha compressed size: 4544 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   74
+Saving file 'apngframe071.webp'
+File:      apngframe071.png
+Dimension: 300 x 225 (with alpha)
+Output:    10520 bytes Y-U-V-All-PSNR 43.88 42.44 43.66   43.57 dB
+block count:  intra4: 123
+              intra16: 162  (-> 56.84%)
+              skipped block: 151 (52.98%)
+bytes used:  header:            215  (2.0%)
+             mode-partition:    630  (6.0%)
+             transparency:     4749 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      20%|      14%|      58%|     285
+      quantizer:  |      27 |      26 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4748 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   73
+Saving file 'apngframe072.webp'
+File:      apngframe072.png
+Dimension: 300 x 225 (with alpha)
+Output:    10318 bytes Y-U-V-All-PSNR 43.95 42.45 43.28   43.55 dB
+block count:  intra4: 126
+              intra16: 159  (-> 55.79%)
+              skipped block: 145 (50.88%)
+bytes used:  header:            207  (2.0%)
+             mode-partition:    617  (6.0%)
+             transparency:     4582 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      20%|      14%|      57%|     285
+      quantizer:  |      27 |      26 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       3 |
+Lossless-alpha compressed size: 4581 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   73
+Saving file 'apngframe073.webp'
+File:      apngframe073.png
+Dimension: 300 x 225 (with alpha)
+Output:    10540 bytes Y-U-V-All-PSNR 44.16 42.29 43.27   43.64 dB
+block count:  intra4: 120
+              intra16: 165  (-> 57.89%)
+              skipped block: 151 (52.98%)
+bytes used:  header:            214  (2.0%)
+             mode-partition:    601  (5.7%)
+             transparency:     4806 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|      19%|      17%|      58%|     285
+      quantizer:  |      27 |      26 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       3 |
+Lossless-alpha compressed size: 4805 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   73
+Saving file 'apngframe074.webp'
+File:      apngframe074.png
+Dimension: 300 x 225 (with alpha)
+Output:    10266 bytes Y-U-V-All-PSNR 44.16 42.32 43.28   43.65 dB
+block count:  intra4: 118
+              intra16: 167  (-> 58.60%)
+              skipped block: 150 (52.63%)
+bytes used:  header:            213  (2.1%)
+             mode-partition:    583  (5.7%)
+             transparency:     4613 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|      17%|      19%|      58%|     285
+      quantizer:  |      27 |      27 |      23 |      15 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4612 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   73
+Saving file 'apngframe075.webp'
+File:      apngframe075.png
+Dimension: 300 x 225 (with alpha)
+Output:    10386 bytes Y-U-V-All-PSNR 44.19 42.33 43.56   43.72 dB
+block count:  intra4: 121
+              intra16: 164  (-> 57.54%)
+              skipped block: 149 (52.28%)
+bytes used:  header:            234  (2.3%)
+             mode-partition:    598  (5.8%)
+             transparency:     4681 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      21%|      13%|      59%|     285
+      quantizer:  |      27 |      26 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       3 |
+Lossless-alpha compressed size: 4680 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   73
+Saving file 'apngframe076.webp'
+File:      apngframe076.png
+Dimension: 300 x 225 (with alpha)
+Output:    10254 bytes Y-U-V-All-PSNR 44.26 42.50 43.31   43.75 dB
+block count:  intra4: 124
+              intra16: 161  (-> 56.49%)
+              skipped block: 145 (50.88%)
+bytes used:  header:            227  (2.2%)
+             mode-partition:    596  (5.8%)
+             transparency:     4561 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      17%|      18%|      58%|     285
+      quantizer:  |      27 |      26 |      22 |      15 |
+   filter level:  |       8 |       6 |       5 |       3 |
+Lossless-alpha compressed size: 4560 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   73
+Saving file 'apngframe077.webp'
+File:      apngframe077.png
+Dimension: 300 x 225 (with alpha)
+Output:    10248 bytes Y-U-V-All-PSNR 44.25 42.18 43.32   43.67 dB
+block count:  intra4: 120
+              intra16: 165  (-> 57.89%)
+              skipped block: 149 (52.28%)
+bytes used:  header:            229  (2.2%)
+             mode-partition:    590  (5.8%)
+             transparency:     4563 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      18%|      15%|      59%|     285
+      quantizer:  |      27 |      26 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       3 |
+Lossless-alpha compressed size: 4562 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   75
+Saving file 'apngframe078.webp'
+File:      apngframe078.png
+Dimension: 300 x 225 (with alpha)
+Output:    10412 bytes Y-U-V-All-PSNR 44.18 42.41 43.21   43.67 dB
+block count:  intra4: 121
+              intra16: 164  (-> 57.54%)
+              skipped block: 152 (53.33%)
+bytes used:  header:            232  (2.2%)
+             mode-partition:    605  (5.8%)
+             transparency:     4596 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|      17%|      19%|      59%|     285
+      quantizer:  |      27 |      26 |      23 |      15 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4595 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   77
+Saving file 'apngframe079.webp'
+File:      apngframe079.png
+Dimension: 300 x 225 (with alpha)
+Output:    10230 bytes Y-U-V-All-PSNR 44.28 42.24 43.11   43.67 dB
+block count:  intra4: 122
+              intra16: 163  (-> 57.19%)
+              skipped block: 153 (53.68%)
+bytes used:  header:            210  (2.1%)
+             mode-partition:    606  (5.9%)
+             transparency:     4582 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|      18%|      20%|      57%|     285
+      quantizer:  |      27 |      26 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       3 |
+Lossless-alpha compressed size: 4581 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   78
+Saving file 'apngframe080.webp'
+File:      apngframe080.png
+Dimension: 300 x 225 (with alpha)
+Output:    10550 bytes Y-U-V-All-PSNR 43.95 41.89 42.66   43.31 dB
+block count:  intra4: 120
+              intra16: 165  (-> 57.89%)
+              skipped block: 148 (51.93%)
+bytes used:  header:            223  (2.1%)
+             mode-partition:    609  (5.8%)
+             transparency:     4744 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      22%|      15%|      56%|     285
+      quantizer:  |      27 |      26 |      22 |      15 |
+   filter level:  |       8 |       6 |       5 |       3 |
+Lossless-alpha compressed size: 4743 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   76
+Saving file 'apngframe081.webp'
+File:      apngframe081.png
+Dimension: 300 x 225 (with alpha)
+Output:    10718 bytes Y-U-V-All-PSNR 43.75 41.70 42.53   43.12 dB
+block count:  intra4: 122
+              intra16: 163  (-> 57.19%)
+              skipped block: 151 (52.98%)
+bytes used:  header:            220  (2.1%)
+             mode-partition:    632  (5.9%)
+             transparency:     4802 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      21%|      12%|      57%|     285
+      quantizer:  |      27 |      26 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4801 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   85
+Saving file 'apngframe082.webp'
+File:      apngframe082.png
+Dimension: 300 x 225 (with alpha)
+Output:    10628 bytes Y-U-V-All-PSNR 44.08 41.87 42.60   43.37 dB
+block count:  intra4: 122
+              intra16: 163  (-> 57.19%)
+              skipped block: 150 (52.63%)
+bytes used:  header:            220  (2.1%)
+             mode-partition:    613  (5.8%)
+             transparency:     4774 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       3%|      18%|      18%|      59%|     285
+      quantizer:  |      27 |      26 |      23 |      15 |
+   filter level:  |       8 |       6 |       4 |       3 |
+Lossless-alpha compressed size: 4773 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   73
+Saving file 'apngframe083.webp'
+File:      apngframe083.png
+Dimension: 300 x 225 (with alpha)
+Output:    10298 bytes Y-U-V-All-PSNR 44.01 42.41 43.09   43.54 dB
+block count:  intra4: 114
+              intra16: 171  (-> 60.00%)
+              skipped block: 154 (54.04%)
+bytes used:  header:            222  (2.2%)
+             mode-partition:    574  (5.6%)
+             transparency:     4686 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      14%|      18%|       8%|      58%|     285
+      quantizer:  |      27 |      26 |      21 |      14 |
+   filter level:  |       8 |       6 |       4 |       3 |
+Lossless-alpha compressed size: 4685 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   71
+Saving file 'apngframe084.webp'
+File:      apngframe084.png
+Dimension: 300 x 225 (with alpha)
+Output:    9694 bytes Y-U-V-All-PSNR 44.57 43.13 43.71   44.15 dB
+block count:  intra4: 108
+              intra16: 177  (-> 62.11%)
+              skipped block: 159 (55.79%)
+bytes used:  header:            226  (2.3%)
+             mode-partition:    540  (5.6%)
+             transparency:     4251 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|      18%|      18%|      61%|     285
+      quantizer:  |      27 |      27 |      23 |      15 |
+   filter level:  |       8 |       6 |       4 |       3 |
+Lossless-alpha compressed size: 4250 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   72
+Saving file 'apngframe085.webp'
+File:      apngframe085.png
+Dimension: 300 x 225 (with alpha)
+Output:    8866 bytes Y-U-V-All-PSNR 44.86 43.65 44.65   44.60 dB
+block count:  intra4: 102
+              intra16: 183  (-> 64.21%)
+              skipped block: 156 (54.74%)
+bytes used:  header:            200  (2.3%)
+             mode-partition:    517  (5.8%)
+             transparency:     4122 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|      17%|      14%|      64%|     285
+      quantizer:  |      27 |      27 |      24 |      15 |
+   filter level:  |       8 |       6 |       5 |       3 |
+Lossless-alpha compressed size: 4121 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   70
+Saving file 'apngframe086.webp'
+File:      apngframe086.png
+Dimension: 300 x 225 (with alpha)
+Output:    7816 bytes Y-U-V-All-PSNR 45.26 44.22 45.34   45.08 dB
+block count:  intra4: 96
+              intra16: 189  (-> 66.32%)
+              skipped block: 167 (58.60%)
+bytes used:  header:            190  (2.4%)
+             mode-partition:    479  (6.1%)
+             transparency:     3706 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      15%|      11%|      67%|     285
+      quantizer:  |      27 |      27 |      24 |      16 |
+   filter level:  |       8 |       6 |       5 |       3 |
+Lossless-alpha compressed size: 3705 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   71
+Saving file 'apngframe087.webp'
+File:      apngframe087.png
+Dimension: 300 x 225 (with alpha)
+Output:    9002 bytes Y-U-V-All-PSNR 44.77 43.63 44.55   44.52 dB
+block count:  intra4: 105
+              intra16: 180  (-> 63.16%)
+              skipped block: 159 (55.79%)
+bytes used:  header:            199  (2.2%)
+             mode-partition:    514  (5.7%)
+             transparency:     4174 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      11%|      17%|       6%|      64%|     285
+      quantizer:  |      27 |      26 |      23 |      15 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4173 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   71
+Saving file 'apngframe088.webp'
+File:      apngframe088.png
+Dimension: 300 x 225 (with alpha)
+Output:    9678 bytes Y-U-V-All-PSNR 44.42 42.81 43.43   43.94 dB
+block count:  intra4: 113
+              intra16: 172  (-> 60.35%)
+              skipped block: 158 (55.44%)
+bytes used:  header:            201  (2.1%)
+             mode-partition:    556  (5.7%)
+             transparency:     4352 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      15%|      14%|      61%|     285
+      quantizer:  |      27 |      27 |      24 |      15 |
+   filter level:  |       8 |       6 |       5 |       3 |
+Lossless-alpha compressed size: 4351 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   72
+Saving file 'apngframe089.webp'
+File:      apngframe089.png
+Dimension: 300 x 225 (with alpha)
+Output:    10212 bytes Y-U-V-All-PSNR 44.09 42.38 43.31   43.62 dB
+block count:  intra4: 121
+              intra16: 164  (-> 57.54%)
+              skipped block: 154 (54.04%)
+bytes used:  header:            219  (2.1%)
+             mode-partition:    575  (5.6%)
+             transparency:     4628 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      14%|      19%|       6%|      58%|     285
+      quantizer:  |      27 |      26 |      21 |      14 |
+   filter level:  |       8 |       6 |       4 |       3 |
+Lossless-alpha compressed size: 4627 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   71
+Saving file 'apngframe090.webp'
+File:      apngframe090.png
+Dimension: 300 x 225 (with alpha)
+Output:    10820 bytes Y-U-V-All-PSNR 43.77 41.70 42.83   43.19 dB
+block count:  intra4: 125
+              intra16: 160  (-> 56.14%)
+              skipped block: 146 (51.23%)
+bytes used:  header:            233  (2.2%)
+             mode-partition:    597  (5.5%)
+             transparency:     4938 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      18%|      16%|      57%|     285
+      quantizer:  |      27 |      27 |      23 |      14 |
+   filter level:  |       8 |       6 |       5 |       3 |
+Lossless-alpha compressed size: 4937 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   72
+Saving file 'apngframe091.webp'
+File:      apngframe091.png
+Dimension: 300 x 225 (with alpha)
+Output:    10790 bytes Y-U-V-All-PSNR 43.68 41.57 42.95   43.13 dB
+block count:  intra4: 123
+              intra16: 162  (-> 56.84%)
+              skipped block: 150 (52.63%)
+bytes used:  header:            229  (2.1%)
+             mode-partition:    634  (5.9%)
+             transparency:     4851 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      23%|       9%|      58%|     285
+      quantizer:  |      27 |      26 |      22 |      14 |
+   filter level:  |       8 |       6 |       4 |       3 |
+Lossless-alpha compressed size: 4850 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   72
+Saving file 'apngframe092.webp'
+File:      apngframe092.png
+Dimension: 300 x 225 (with alpha)
+Output:    10790 bytes Y-U-V-All-PSNR 43.79 41.79 43.04   43.27 dB
+block count:  intra4: 128
+              intra16: 157  (-> 55.09%)
+              skipped block: 155 (54.39%)
+bytes used:  header:            234  (2.2%)
+             mode-partition:    645  (6.0%)
+             transparency:     4836 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      22%|      14%|      57%|     285
+      quantizer:  |      27 |      26 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4835 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   70
+Saving file 'apngframe093.webp'
+File:      apngframe093.png
+Dimension: 300 x 225 (with alpha)
+Output:    10474 bytes Y-U-V-All-PSNR 43.68 42.25 43.77   43.42 dB
+block count:  intra4: 122
+              intra16: 163  (-> 57.19%)
+              skipped block: 153 (53.68%)
+bytes used:  header:            219  (2.1%)
+             mode-partition:    626  (6.0%)
+             transparency:     4654 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      14%|      20%|       7%|      58%|     285
+      quantizer:  |      27 |      26 |      21 |      14 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4653 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   71
+Saving file 'apngframe094.webp'
+File:      apngframe094.png
+Dimension: 300 x 225 (with alpha)
+Output:    10144 bytes Y-U-V-All-PSNR 44.13 42.92 44.43   43.95 dB
+block count:  intra4: 115
+              intra16: 170  (-> 59.65%)
+              skipped block: 155 (54.39%)
+bytes used:  header:            221  (2.2%)
+             mode-partition:    587  (5.8%)
+             transparency:     4503 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|      18%|      18%|      61%|     285
+      quantizer:  |      27 |      27 |      23 |      16 |
+   filter level:  |       8 |       6 |       4 |       3 |
+Lossless-alpha compressed size: 4502 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   70
+Saving file 'apngframe095.webp'
+File:      apngframe095.png
+Dimension: 300 x 225 (with alpha)
+Output:    9422 bytes Y-U-V-All-PSNR 44.38 43.29 45.41   44.33 dB
+block count:  intra4: 106
+              intra16: 179  (-> 62.81%)
+              skipped block: 158 (55.44%)
+bytes used:  header:            205  (2.2%)
+             mode-partition:    547  (5.8%)
+             transparency:     4399 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|      15%|      18%|      64%|     285
+      quantizer:  |      27 |      27 |      24 |      16 |
+   filter level:  |       8 |       6 |       5 |       3 |
+Lossless-alpha compressed size: 4398 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   70
+Saving file 'apngframe096.webp'
+File:      apngframe096.png
+Dimension: 300 x 225 (with alpha)
+Output:    8216 bytes Y-U-V-All-PSNR 44.88 43.78 46.43   44.89 dB
+block count:  intra4: 103
+              intra16: 182  (-> 63.86%)
+              skipped block: 163 (57.19%)
+bytes used:  header:            199  (2.4%)
+             mode-partition:    509  (6.2%)
+             transparency:     3876 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|      14%|      14%|      67%|     285
+      quantizer:  |      27 |      27 |      24 |      16 |
+   filter level:  |       8 |       6 |       5 |       3 |
+Lossless-alpha compressed size: 3875 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   71
+Saving file 'apngframe097.webp'
+File:      apngframe097.png
+Dimension: 300 x 225 (with alpha)
+Output:    9352 bytes Y-U-V-All-PSNR 44.33 43.13 45.63   44.29 dB
+block count:  intra4: 113
+              intra16: 172  (-> 60.35%)
+              skipped block: 160 (56.14%)
+bytes used:  header:            209  (2.2%)
+             mode-partition:    572  (6.1%)
+             transparency:     4349 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      10%|      18%|       5%|      64%|     285
+      quantizer:  |      27 |      27 |      22 |      15 |
+   filter level:  |       8 |       6 |       4 |       3 |
+Lossless-alpha compressed size: 4348 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   71
+Saving file 'apngframe098.webp'
+File:      apngframe098.png
+Dimension: 300 x 225 (with alpha)
+Output:    9804 bytes Y-U-V-All-PSNR 44.22 42.53 44.56   43.94 dB
+block count:  intra4: 118
+              intra16: 167  (-> 58.60%)
+              skipped block: 157 (55.09%)
+bytes used:  header:            222  (2.3%)
+             mode-partition:    594  (6.1%)
+             transparency:     4354 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      16%|      12%|      61%|     285
+      quantizer:  |      27 |      27 |      23 |      15 |
+   filter level:  |       8 |       6 |       4 |       3 |
+Lossless-alpha compressed size: 4353 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   71
+Saving file 'apngframe099.webp'
+File:      apngframe099.png
+Dimension: 300 x 225 (with alpha)
+Output:    9874 bytes Y-U-V-All-PSNR 43.96 42.05 44.38   43.64 dB
+block count:  intra4: 121
+              intra16: 164  (-> 57.54%)
+              skipped block: 156 (54.74%)
+bytes used:  header:            228  (2.3%)
+             mode-partition:    616  (6.2%)
+             transparency:     4333 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      15%|      18%|       8%|      57%|     285
+      quantizer:  |      27 |      26 |      21 |      14 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4332 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   70
+Saving file 'apngframe100.webp'
+File:      apngframe100.png
+Dimension: 300 x 225 (with alpha)
+Output:    10062 bytes Y-U-V-All-PSNR 43.80 41.42 43.59   43.27 dB
+block count:  intra4: 124
+              intra16: 161  (-> 56.49%)
+              skipped block: 151 (52.98%)
+bytes used:  header:            229  (2.3%)
+             mode-partition:    618  (6.1%)
+             transparency:     4345 (99.0 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      10%|      22%|       9%|      57%|     285
+      quantizer:  |      27 |      26 |      21 |      14 |
+   filter level:  |       8 |       6 |       4 |       2 |
+Lossless-alpha compressed size: 4344 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   71
+Putting webp frames into one animated webp ...
+Using command: 
+webpmux -frame apngframe001.webp +100+0+0+0-b -frame apngframe002.webp +100+0+0+0-b -frame apngframe003.webp +100+0+0+0-b -frame apngframe004.webp +100+0+0+0-b -frame apngframe005.webp +100+0+0+0-b -frame apngframe006.webp +100+0+0+0-b -frame apngframe007.webp +100+0+0+0-b -frame apngframe008.webp +100+0+0+0-b -frame apngframe009.webp +100+0+0+0-b -frame apngframe010.webp +100+0+0+0-b -frame apngframe011.webp +100+0+0+0-b -frame apngframe012.webp +100+0+0+0-b -frame apngframe013.webp +100+0+0+0-b -frame apngframe014.webp +100+0+0+0-b -frame apngframe015.webp +100+0+0+0-b -frame apngframe016.webp +100+0+0+0-b -frame apngframe017.webp +100+0+0+0-b -frame apngframe018.webp +100+0+0+0-b -frame apngframe019.webp +100+0+0+0-b -frame apngframe020.webp +100+0+0+0-b -frame apngframe021.webp +100+0+0+0-b -frame apngframe022.webp +100+0+0+0-b -frame apngframe023.webp +100+0+0+0-b -frame apngframe024.webp +100+0+0+0-b -frame apngframe025.webp +100+0+0+0-b -frame apngframe026.webp +100+0+0+0-b -frame apngframe027.webp +100+0+0+0-b -frame apngframe028.webp +100+0+0+0-b -frame apngframe029.webp +100+0+0+0-b -frame apngframe030.webp +100+0+0+0-b -frame apngframe031.webp +100+0+0+0-b -frame apngframe032.webp +100+0+0+0-b -frame apngframe033.webp +100+0+0+0-b -frame apngframe034.webp +100+0+0+0-b -frame apngframe035.webp +100+0+0+0-b -frame apngframe036.webp +100+0+0+0-b -frame apngframe037.webp +100+0+0+0-b -frame apngframe038.webp +100+0+0+0-b -frame apngframe039.webp +100+0+0+0-b -frame apngframe040.webp +100+0+0+0-b -frame apngframe041.webp +100+0+0+0-b -frame apngframe042.webp +100+0+0+0-b -frame apngframe043.webp +100+0+0+0-b -frame apngframe044.webp +100+0+0+0-b -frame apngframe045.webp +100+0+0+0-b -frame apngframe046.webp +100+0+0+0-b -frame apngframe047.webp +100+0+0+0-b -frame apngframe048.webp +100+0+0+0-b -frame apngframe049.webp +100+0+0+0-b -frame apngframe050.webp +100+0+0+0-b -frame apngframe051.webp +100+0+0+0-b -frame apngframe052.webp +100+0+0+0-b -frame apngframe053.webp +100+0+0+0-b -frame apngframe054.webp +100+0+0+0-b -frame apngframe055.webp +100+0+0+0-b -frame apngframe056.webp +100+0+0+0-b -frame apngframe057.webp +100+0+0+0-b -frame apngframe058.webp +100+0+0+0-b -frame apngframe059.webp +100+0+0+0-b -frame apngframe060.webp +100+0+0+0-b -frame apngframe061.webp +100+0+0+0-b -frame apngframe062.webp +100+0+0+0-b -frame apngframe063.webp +100+0+0+0-b -frame apngframe064.webp +100+0+0+0-b -frame apngframe065.webp +100+0+0+0-b -frame apngframe066.webp +100+0+0+0-b -frame apngframe067.webp +100+0+0+0-b -frame apngframe068.webp +100+0+0+0-b -frame apngframe069.webp +100+0+0+0-b -frame apngframe070.webp +100+0+0+0-b -frame apngframe071.webp +100+0+0+0-b -frame apngframe072.webp +100+0+0+0-b -frame apngframe073.webp +100+0+0+0-b -frame apngframe074.webp +100+0+0+0-b -frame apngframe075.webp +100+0+0+0-b -frame apngframe076.webp +100+0+0+0-b -frame apngframe077.webp +100+0+0+0-b -frame apngframe078.webp +100+0+0+0-b -frame apngframe079.webp +100+0+0+0-b -frame apngframe080.webp +100+0+0+0-b -frame apngframe081.webp +100+0+0+0-b -frame apngframe082.webp +100+0+0+0-b -frame apngframe083.webp +100+0+0+0-b -frame apngframe084.webp +100+0+0+0-b -frame apngframe085.webp +100+0+0+0-b -frame apngframe086.webp +100+0+0+0-b -frame apngframe087.webp +100+0+0+0-b -frame apngframe088.webp +100+0+0+0-b -frame apngframe089.webp +100+0+0+0-b -frame apngframe090.webp +100+0+0+0-b -frame apngframe091.webp +100+0+0+0-b -frame apngframe092.webp +100+0+0+0-b -frame apngframe093.webp +100+0+0+0-b -frame apngframe094.webp +100+0+0+0-b -frame apngframe095.webp +100+0+0+0-b -frame apngframe096.webp +100+0+0+0-b -frame apngframe097.webp +100+0+0+0-b -frame apngframe098.webp +100+0+0+0-b -frame apngframe099.webp +100+0+0+0-b -frame apngframe100.webp +100+0+0+0-b -loop 0 -o outfile.webp
+
+Saved file outfile.webp (981196 bytes)
+Creating stitched PNG
+Creating TIF (for use with kdu_compress)
+Creating JP2 (with kdu_compress)
+kdu_compress -i outfile-stitched.tif -o outfile-stitched.jp2 -jp2_alpha -rate -,0.8
+Creating TIF file for JXREncApp
+Creating JXR with JxrEncApp with q=0.8
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Removing temp TIF file
+Creating stylesheet
+
+Moving files and cleaning up
+Current files: 46801LOG
+apngframe001.png
+apngframe001.txt
+apngframe001.webp
+apngframe002.png
+apngframe002.txt
+apngframe002.webp
+apngframe003.png
+apngframe003.txt
+apngframe003.webp
+apngframe004.png
+apngframe004.txt
+apngframe004.webp
+apngframe005.png
+apngframe005.txt
+apngframe005.webp
+apngframe006.png
+apngframe006.txt
+apngframe006.webp
+apngframe007.png
+apngframe007.txt
+apngframe007.webp
+apngframe008.png
+apngframe008.txt
+apngframe008.webp
+apngframe009.png
+apngframe009.txt
+apngframe009.webp
+apngframe010.png
+apngframe010.txt
+apngframe010.webp
+apngframe011.png
+apngframe011.txt
+apngframe011.webp
+apngframe012.png
+apngframe012.txt
+apngframe012.webp
+apngframe013.png
+apngframe013.txt
+apngframe013.webp
+apngframe014.png
+apngframe014.txt
+apngframe014.webp
+apngframe015.png
+apngframe015.txt
+apngframe015.webp
+apngframe016.png
+apngframe016.txt
+apngframe016.webp
+apngframe017.png
+apngframe017.txt
+apngframe017.webp
+apngframe018.png
+apngframe018.txt
+apngframe018.webp
+apngframe019.png
+apngframe019.txt
+apngframe019.webp
+apngframe020.png
+apngframe020.txt
+apngframe020.webp
+apngframe021.png
+apngframe021.txt
+apngframe021.webp
+apngframe022.png
+apngframe022.txt
+apngframe022.webp
+apngframe023.png
+apngframe023.txt
+apngframe023.webp
+apngframe024.png
+apngframe024.txt
+apngframe024.webp
+apngframe025.png
+apngframe025.txt
+apngframe025.webp
+apngframe026.png
+apngframe026.txt
+apngframe026.webp
+apngframe027.png
+apngframe027.txt
+apngframe027.webp
+apngframe028.png
+apngframe028.txt
+apngframe028.webp
+apngframe029.png
+apngframe029.txt
+apngframe029.webp
+apngframe030.png
+apngframe030.txt
+apngframe030.webp
+apngframe031.png
+apngframe031.txt
+apngframe031.webp
+apngframe032.png
+apngframe032.txt
+apngframe032.webp
+apngframe033.png
+apngframe033.txt
+apngframe033.webp
+apngframe034.png
+apngframe034.txt
+apngframe034.webp
+apngframe035.png
+apngframe035.txt
+apngframe035.webp
+apngframe036.png
+apngframe036.txt
+apngframe036.webp
+apngframe037.png
+apngframe037.txt
+apngframe037.webp
+apngframe038.png
+apngframe038.txt
+apngframe038.webp
+apngframe039.png
+apngframe039.txt
+apngframe039.webp
+apngframe040.png
+apngframe040.txt
+apngframe040.webp
+apngframe041.png
+apngframe041.txt
+apngframe041.webp
+apngframe042.png
+apngframe042.txt
+apngframe042.webp
+apngframe043.png
+apngframe043.txt
+apngframe043.webp
+apngframe044.png
+apngframe044.txt
+apngframe044.webp
+apngframe045.png
+apngframe045.txt
+apngframe045.webp
+apngframe046.png
+apngframe046.txt
+apngframe046.webp
+apngframe047.png
+apngframe047.txt
+apngframe047.webp
+apngframe048.png
+apngframe048.txt
+apngframe048.webp
+apngframe049.png
+apngframe049.txt
+apngframe049.webp
+apngframe050.png
+apngframe050.txt
+apngframe050.webp
+apngframe051.png
+apngframe051.txt
+apngframe051.webp
+apngframe052.png
+apngframe052.txt
+apngframe052.webp
+apngframe053.png
+apngframe053.txt
+apngframe053.webp
+apngframe054.png
+apngframe054.txt
+apngframe054.webp
+apngframe055.png
+apngframe055.txt
+apngframe055.webp
+apngframe056.png
+apngframe056.txt
+apngframe056.webp
+apngframe057.png
+apngframe057.txt
+apngframe057.webp
+apngframe058.png
+apngframe058.txt
+apngframe058.webp
+apngframe059.png
+apngframe059.txt
+apngframe059.webp
+apngframe060.png
+apngframe060.txt
+apngframe060.webp
+apngframe061.png
+apngframe061.txt
+apngframe061.webp
+apngframe062.png
+apngframe062.txt
+apngframe062.webp
+apngframe063.png
+apngframe063.txt
+apngframe063.webp
+apngframe064.png
+apngframe064.txt
+apngframe064.webp
+apngframe065.png
+apngframe065.txt
+apngframe065.webp
+apngframe066.png
+apngframe066.txt
+apngframe066.webp
+apngframe067.png
+apngframe067.txt
+apngframe067.webp
+apngframe068.png
+apngframe068.txt
+apngframe068.webp
+apngframe069.png
+apngframe069.txt
+apngframe069.webp
+apngframe070.png
+apngframe070.txt
+apngframe070.webp
+apngframe071.png
+apngframe071.txt
+apngframe071.webp
+apngframe072.png
+apngframe072.txt
+apngframe072.webp
+apngframe073.png
+apngframe073.txt
+apngframe073.webp
+apngframe074.png
+apngframe074.txt
+apngframe074.webp
+apngframe075.png
+apngframe075.txt
+apngframe075.webp
+apngframe076.png
+apngframe076.txt
+apngframe076.webp
+apngframe077.png
+apngframe077.txt
+apngframe077.webp
+apngframe078.png
+apngframe078.txt
+apngframe078.webp
+apngframe079.png
+apngframe079.txt
+apngframe079.webp
+apngframe080.png
+apngframe080.txt
+apngframe080.webp
+apngframe081.png
+apngframe081.txt
+apngframe081.webp
+apngframe082.png
+apngframe082.txt
+apngframe082.webp
+apngframe083.png
+apngframe083.txt
+apngframe083.webp
+apngframe084.png
+apngframe084.txt
+apngframe084.webp
+apngframe085.png
+apngframe085.txt
+apngframe085.webp
+apngframe086.png
+apngframe086.txt
+apngframe086.webp
+apngframe087.png
+apngframe087.txt
+apngframe087.webp
+apngframe088.png
+apngframe088.txt
+apngframe088.webp
+apngframe089.png
+apngframe089.txt
+apngframe089.webp
+apngframe090.png
+apngframe090.txt
+apngframe090.webp
+apngframe091.png
+apngframe091.txt
+apngframe091.webp
+apngframe092.png
+apngframe092.txt
+apngframe092.webp
+apngframe093.png
+apngframe093.txt
+apngframe093.webp
+apngframe094.png
+apngframe094.txt
+apngframe094.webp
+apngframe095.png
+apngframe095.txt
+apngframe095.webp
+apngframe096.png
+apngframe096.txt
+apngframe096.webp
+apngframe097.png
+apngframe097.txt
+apngframe097.webp
+apngframe098.png
+apngframe098.txt
+apngframe098.webp
+apngframe099.png
+apngframe099.txt
+apngframe099.webp
+apngframe100.png
+apngframe100.txt
+apngframe100.webp
+log.txt
+outfile-stitched.jp2
+outfile-stitched.jpg
+outfile-stitched.jxr
+outfile-stitched.png
+outfile-stitched.svgz
+outfile-stitched_alpha.jpg
+outfile-stitched_alpha.png
+outfile.css
+outfile.gif
+outfile.html
+outfile.png
+outfile.unopt.png
+outfile.webp
+output.png
+mv: rename *.tif to /Users/zhawry/git/apng-webp-images-now/examples/2x2-cube/*.tif: No such file or directory
+mv: outfile-stitched.svgz: No such file or directory

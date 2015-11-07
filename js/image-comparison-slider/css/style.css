@@ -282,6 +282,9 @@ html.has-alpha.no-webp.no-jpegxr.no-jpeg2000.no-svg .size:before {
 
 
 body.showDiff #alternate-image {
+  -webkit-color-interpolation-filters: sRGB;
+  color-interpolation-filters: sRGB;
+  color-interpolation: sRGB;
 	-webkit-filter: invert(100%) opacity(50%) saturate(200%);
 	filter: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='invert' color-interpolation-filters='srgb'><feColorMatrix color-interpolation-filters='srgb' in='SourceGraphic' type='matrix' values='-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 0 0.5'/></filter></svg>#invert");
 }

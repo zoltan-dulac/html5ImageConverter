@@ -1,5 +1,11 @@
 #!/bin/bash
 
+if [ "$#" = "0" ]
+then
+	echo "Usage: $0 <image>" 1>&2
+	exit
+fi
+
 #.. include global functions
 SCRIPT_DIR="$(dirname "$0")"
 source "$SCRIPT_DIR/functions.sh"
@@ -52,7 +58,7 @@ MODERNIZR_SRC=`getArg 'modernizr-src' '../../js/modernizr.custom.29822.js'`
 JXR_QUAL=`getArg 'jxr-quality' '80'`
 JP2_QUAL=`getArg 'jp2-quality' '80'`
 JP2_RATE=`getArg 'jp2-rate' '1.0'`
-WEBP_QUAL=`getArg 'webp-quality' '80'`
+WEBP_QUAL=`getArg 'webp-qual' '80'`
 INPUT_APNG=`getArg 'input-apng'`
 JXR_NCONVERT=`getArg 'jxr-nconvert'`
 JXR_COMPARE=`getArg 'jxr-compare'`
@@ -67,6 +73,7 @@ IMAGE_WIDTH=`echo $DIMS | awk -F"x" '{print $1}'`
 IMAGE_HEIGHT=`echo $DIMS | awk -F"x" '{print $2}'`
 SPRITE_WIDTH=`expr $IMAGE_WIDTH \* $NUM_FRAMES`
 ANIM_LENGTH=`expr $NUM_FRAMES \* $MS`
+APNG_OPT=`getArg 'apng-opt'`
 
 BG_IMAGE=`getArg  bg-image 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAACWBAMAAABp8toqAAAALVBMVEUJCQkAAMAyAGoTExMWFhYdHR0AIUw9GmXAAADAAMAAwAAAwMDAwADAwMD////k4POZAAAAn0lEQVRo3u3OsRFBQRSG0W3B6IAGzGwk0AUt6EOmBK8FqVAJlEAsU4M3ov3XKIA5X7Q7d+aeW+7R7dp2OUfHaIgO+7bdJCoQCAQCgUAgEAgEAoFAIBAIBAKBQCAQCAQCgUAgEAgEAoH8AZLfaW1b5qKY1TzgFLNVng6BQCA/iWw/evY9Zn3z2rcoY+/XZmydQwgEAoFAIBAIBAKBQL4hL8jp+jVpb0RHAAAAAElFTkSuQmCC'`
 ORIG_DIR="$PWD"
@@ -104,6 +111,7 @@ do
 	
 		cp $i $TMPDIR
 		cd $TMPDIR
+		cp $i $OUTPUT.unopt.png
 		
 		echoBoth "Disassembling PNG $i"
 		apngdis $i "apngframe" >> $LOG 2>> $LOG
@@ -138,23 +146,30 @@ FILES="apngframe[0-9]*.png"
 #.. Convert files to animated apng
 if [ "$NOAPNG" = "" ]
 then
-	echoBoth "Converting to apng" 
-	apngasm $OUTPUT.unopt.png $FILES $MS 1000 >> $LOG 2>> $LOG
-	
+
+	# we don't need to convert to APNG if the input is APNG.
+	if [ "$INPUT_APNG" != "true" ]
+	then
+		echo "Converting to apng" 
+		apngasm $OUTPUT.unopt.png $FILES $MS 1000 >> $LOG 2>> $LOG
+	fi
 	if [ "$APNG_QUANT" = "true" ]
 	then
-		echo "Quantizing apng"
+		echoBoth "Quantizing apng"
 		$BIN_DIR/apngOptim.sh $OUTPUT.unopt.png
 		ifErrorPrintAndExit "Error: could not quantize apng" 1
 		
 		mv $OUTPUT.unopt-quant.png $OUTPUT.png
 		ifErrorPrintAndExit "Error: could not move $OUTPUT.unopt-quant.png to $OUTPUT.png" 1
 		
-	else
+	elif [ "$APNG_OPT" = "true" ]
+	then
 		echoBoth "Optimising apng" 
 		apngopt $OUTPUT.unopt.png $OUTPUT.png >> $LOG 2>> $$LOG
 	
 		ifErrorPrintAndExit "Error: could not convert to apng"  1
+	else 
+		cp $OUTPUT.unopt.png $OUTPUT.png
 	fi
 
 fi

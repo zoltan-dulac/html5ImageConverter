@@ -96,7 +96,10 @@ IS_SHARP=`getArg is-sharp`
 COMPRESS_SVG=`getArg compress-svg`
 KEEP_TEMP_DIR=`getArg keep-temp-dir`
 
-SCRIPT_DIR="$(dirname "$0")"
+#.. get absolute path for script
+pushd `dirname $0` > /dev/null
+SCRIPT_DIR=`pwd`
+popd > /dev/null
 
 #
 # This ensures the images appear consistant between all browsers.
@@ -104,6 +107,7 @@ SCRIPT_DIR="$(dirname "$0")"
 #
 
 IM_COLORSPACE_NORM_OPTIONS="-profile $SCRIPT_DIR/../data/sRGB_IEC61966-2-1_black_scaled.icc"
+#IM_COLORSPACE_NORM_OPTIONS="-colorspace sRGB"
 
 if [ "$IS_SHARP" = "true" ]
 then
