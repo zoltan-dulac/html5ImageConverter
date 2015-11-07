@@ -19,3 +19,3481 @@ Unrecognized TIFTag: 266(0x10a), 3, 1
 Unrecognized TIFTag: 297(0x129), 3, 2
 Unrecognized TIFTag: 318(0x13e), 5, 2
 Unrecognized TIFTag: 319(0x13f), 5, 6
+Saving file 'bacolor-crater-320.webp'
+File:      bacolor-crater-320.png
+Dimension: 320 x 188
+Output:    2392 bytes Y-U-V-All-PSNR 28.30 39.59 40.39   29.92 dB
+block count:  intra4: 171
+              intra16: 69  (-> 28.75%)
+              skipped block: 0 (0.00%)
+bytes used:  header:             50  (2.1%)
+             mode-partition:    541  (22.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      11%|      24%|      36%|      27%|     240
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      31 |      22 |      15 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 732 = 0.097340 bits/pel.
+Compressed bytes (excludes codestream headers) = 503 = 0.066888 bpp.
+Body bytes (excludes packet and codestream headers) = 457 = 0.060771 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.097340
+Layer thresholds:
+        44948
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-600.webp'
+File:      bacolor-crater-600.png
+Dimension: 600 x 352
+Output:    7082 bytes Y-U-V-All-PSNR 28.42 38.87 40.07   30.02 dB
+block count:  intra4: 569
+              intra16: 267  (-> 31.94%)
+              skipped block: 16 (1.91%)
+bytes used:  header:             80  (1.1%)
+             mode-partition:   1704  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      23%|      34%|      28%|     836
+      quantizer:  |     102 |      94 |      82 |      66 |
+   filter level:  |      50 |      63 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,411 = 0.167083 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,182 = 0.158409 bpp.
+Body bytes (excludes packet and codestream headers) = 4,095 = 0.155114 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.167083
+Layer thresholds:
+        44282
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-640.webp'
+File:      bacolor-crater-640.png
+Dimension: 640 x 375
+Output:    7864 bytes Y-U-V-All-PSNR 28.44 39.13 40.71   30.05 dB
+block count:  intra4: 632
+              intra16: 328  (-> 34.17%)
+              skipped block: 18 (1.88%)
+bytes used:  header:             89  (1.1%)
+             mode-partition:   1847  (23.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      24%|      32%|      29%|     960
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 2,982 = 0.099400 bits/pel.
+Compressed bytes (excludes codestream headers) = 2,753 = 0.091767 bpp.
+Body bytes (excludes packet and codestream headers) = 2,677 = 0.089233 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.099400
+Layer thresholds:
+        44587
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1024.webp'
+File:      bacolor-crater-1024.png
+Dimension: 1024 x 600
+Output:    18512 bytes Y-U-V-All-PSNR 28.46 39.17 43.36   30.10 dB
+block count:  intra4: 1596
+              intra16: 836  (-> 34.38%)
+              skipped block: 112 (4.61%)
+bytes used:  header:            112  (0.6%)
+             mode-partition:   4517  (24.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      12%|      26%|      33%|      27%|    2432
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 7,613 = 0.099128 bits/pel.
+Compressed bytes (excludes codestream headers) = 7,384 = 0.096146 bpp.
+Body bytes (excludes packet and codestream headers) = 7,270 = 0.094661 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.099128
+Layer thresholds:
+        44489
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-320.webp'
+File:      bacolor-crater-320.png
+Dimension: 320 x 188
+Output:    2392 bytes Y-U-V-All-PSNR 28.30 39.59 40.39   29.92 dB
+block count:  intra4: 171
+              intra16: 69  (-> 28.75%)
+              skipped block: 0 (0.00%)
+bytes used:  header:             50  (2.1%)
+             mode-partition:    541  (22.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      11%|      24%|      36%|      27%|     240
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      31 |      22 |      15 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 732 = 0.097340 bits/pel.
+Compressed bytes (excludes codestream headers) = 503 = 0.066888 bpp.
+Body bytes (excludes packet and codestream headers) = 457 = 0.060771 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.097340
+Layer thresholds:
+        44948
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-600.webp'
+File:      bacolor-crater-600.png
+Dimension: 600 x 352
+Output:    7082 bytes Y-U-V-All-PSNR 28.42 38.87 40.07   30.02 dB
+block count:  intra4: 569
+              intra16: 267  (-> 31.94%)
+              skipped block: 16 (1.91%)
+bytes used:  header:             80  (1.1%)
+             mode-partition:   1704  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      23%|      34%|      28%|     836
+      quantizer:  |     102 |      94 |      82 |      66 |
+   filter level:  |      50 |      63 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,488 = 0.170000 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,259 = 0.161326 bpp.
+Body bytes (excludes packet and codestream headers) = 4,169 = 0.157917 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.170000
+Layer thresholds:
+        44272
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-640.webp'
+File:      bacolor-crater-640.png
+Dimension: 640 x 375
+Output:    7864 bytes Y-U-V-All-PSNR 28.44 39.13 40.71   30.05 dB
+block count:  intra4: 632
+              intra16: 328  (-> 34.17%)
+              skipped block: 18 (1.88%)
+bytes used:  header:             89  (1.1%)
+             mode-partition:   1847  (23.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      24%|      32%|      29%|     960
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 2,986 = 0.099533 bits/pel.
+Compressed bytes (excludes codestream headers) = 2,757 = 0.091900 bpp.
+Body bytes (excludes packet and codestream headers) = 2,681 = 0.089367 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.099533
+Layer thresholds:
+        44578
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1024.webp'
+File:      bacolor-crater-1024.png
+Dimension: 1024 x 600
+Output:    18512 bytes Y-U-V-All-PSNR 28.46 39.17 43.36   30.10 dB
+block count:  intra4: 1596
+              intra16: 836  (-> 34.38%)
+              skipped block: 112 (4.61%)
+bytes used:  header:            112  (0.6%)
+             mode-partition:   4517  (24.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      12%|      26%|      33%|      27%|    2432
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 7,613 = 0.099128 bits/pel.
+Compressed bytes (excludes codestream headers) = 7,384 = 0.096146 bpp.
+Body bytes (excludes packet and codestream headers) = 7,270 = 0.094661 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.099128
+Layer thresholds:
+        44489
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1200.webp'
+File:      bacolor-crater-1200.png
+Dimension: 1200 x 703
+Output:    24402 bytes Y-U-V-All-PSNR 28.45 38.98 43.45   30.08 dB
+block count:  intra4: 2127
+              intra16: 1173  (-> 35.55%)
+              skipped block: 169 (5.12%)
+bytes used:  header:            127  (0.5%)
+             mode-partition:   6085  (24.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      27%|      30%|      28%|    3300
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      31 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 20,921 = 0.198397 bits/pel.
+Compressed bytes (excludes codestream headers) = 20,692 = 0.196226 bpp.
+Body bytes (excludes packet and codestream headers) = 20,466 = 0.194083 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.198397
+Layer thresholds:
+        44092
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-2016.webp'
+File:      bacolor-crater-2016.png
+Dimension: 2016 x 1181
+Output:    64262 bytes Y-U-V-All-PSNR 28.87 38.95 43.62   30.49 dB
+block count:  intra4: 5687
+              intra16: 3637  (-> 39.01%)
+              skipped block: 658 (7.06%)
+bytes used:  header:            196  (0.3%)
+             mode-partition:  15889  (24.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      24%|      36%|      31%|    9324
+      quantizer:  |     102 |      95 |      85 |      68 |
+   filter level:  |      50 |      58 |      47 |      33 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 58,515 = 0.196615 bits/pel.
+Compressed bytes (excludes codestream headers) = 58,286 = 0.195846 bpp.
+Body bytes (excludes packet and codestream headers) = 57,816 = 0.194266 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.196615
+Layer thresholds:
+        44030
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-320.webp'
+File:      bacolor-crater-320.png
+Dimension: 320 x 188
+Output:    2392 bytes Y-U-V-All-PSNR 28.30 39.59 40.39   29.92 dB
+block count:  intra4: 171
+              intra16: 69  (-> 28.75%)
+              skipped block: 0 (0.00%)
+bytes used:  header:             50  (2.1%)
+             mode-partition:    541  (22.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      11%|      24%|      36%|      27%|     240
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      31 |      22 |      15 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 732 = 0.097340 bits/pel.
+Compressed bytes (excludes codestream headers) = 503 = 0.066888 bpp.
+Body bytes (excludes packet and codestream headers) = 457 = 0.060771 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.097340
+Layer thresholds:
+        44948
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-600.webp'
+File:      bacolor-crater-600.png
+Dimension: 600 x 352
+Output:    7082 bytes Y-U-V-All-PSNR 28.42 38.87 40.07   30.02 dB
+block count:  intra4: 569
+              intra16: 267  (-> 31.94%)
+              skipped block: 16 (1.91%)
+bytes used:  header:             80  (1.1%)
+             mode-partition:   1704  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      23%|      34%|      28%|     836
+      quantizer:  |     102 |      94 |      82 |      66 |
+   filter level:  |      50 |      63 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,488 = 0.170000 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,259 = 0.161326 bpp.
+Body bytes (excludes packet and codestream headers) = 4,169 = 0.157917 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.170000
+Layer thresholds:
+        44269
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-640.webp'
+File:      bacolor-crater-640.png
+Dimension: 640 x 375
+Output:    7864 bytes Y-U-V-All-PSNR 28.44 39.13 40.71   30.05 dB
+block count:  intra4: 632
+              intra16: 328  (-> 34.17%)
+              skipped block: 18 (1.88%)
+bytes used:  header:             89  (1.1%)
+             mode-partition:   1847  (23.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      24%|      32%|      29%|     960
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 2,986 = 0.099533 bits/pel.
+Compressed bytes (excludes codestream headers) = 2,757 = 0.091900 bpp.
+Body bytes (excludes packet and codestream headers) = 2,681 = 0.089367 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.099533
+Layer thresholds:
+        44581
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1024.webp'
+File:      bacolor-crater-1024.png
+Dimension: 1024 x 600
+Output:    18512 bytes Y-U-V-All-PSNR 28.46 39.17 43.36   30.10 dB
+block count:  intra4: 1596
+              intra16: 836  (-> 34.38%)
+              skipped block: 112 (4.61%)
+bytes used:  header:            112  (0.6%)
+             mode-partition:   4517  (24.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      12%|      26%|      33%|      27%|    2432
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 7,613 = 0.099128 bits/pel.
+Compressed bytes (excludes codestream headers) = 7,384 = 0.096146 bpp.
+Body bytes (excludes packet and codestream headers) = 7,270 = 0.094661 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.099128
+Layer thresholds:
+        44489
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1200.webp'
+File:      bacolor-crater-1200.png
+Dimension: 1200 x 703
+Output:    24402 bytes Y-U-V-All-PSNR 28.45 38.98 43.45   30.08 dB
+block count:  intra4: 2127
+              intra16: 1173  (-> 35.55%)
+              skipped block: 169 (5.12%)
+bytes used:  header:            127  (0.5%)
+             mode-partition:   6085  (24.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      27%|      30%|      28%|    3300
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      31 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 20,921 = 0.198397 bits/pel.
+Compressed bytes (excludes codestream headers) = 20,692 = 0.196226 bpp.
+Body bytes (excludes packet and codestream headers) = 20,466 = 0.194083 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.198397
+Layer thresholds:
+        44089
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-2016.webp'
+File:      bacolor-crater-2016.png
+Dimension: 2016 x 1181
+Output:    64262 bytes Y-U-V-All-PSNR 28.87 38.95 43.62   30.49 dB
+block count:  intra4: 5687
+              intra16: 3637  (-> 39.01%)
+              skipped block: 658 (7.06%)
+bytes used:  header:            196  (0.3%)
+             mode-partition:  15889  (24.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      24%|      36%|      31%|    9324
+      quantizer:  |     102 |      95 |      85 |      68 |
+   filter level:  |      50 |      58 |      47 |      33 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 89,188 = 0.299679 bits/pel.
+Compressed bytes (excludes codestream headers) = 88,959 = 0.298909 bpp.
+Body bytes (excludes packet and codestream headers) = 88,401 = 0.297034 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.299679
+Layer thresholds:
+        43803
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-320.webp'
+File:      bacolor-crater-320.png
+Dimension: 320 x 188
+Output:    2392 bytes Y-U-V-All-PSNR 28.30 39.59 40.39   29.92 dB
+block count:  intra4: 171
+              intra16: 69  (-> 28.75%)
+              skipped block: 0 (0.00%)
+bytes used:  header:             50  (2.1%)
+             mode-partition:    541  (22.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      11%|      24%|      36%|      27%|     240
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      31 |      22 |      15 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 732 = 0.097340 bits/pel.
+Compressed bytes (excludes codestream headers) = 503 = 0.066888 bpp.
+Body bytes (excludes packet and codestream headers) = 457 = 0.060771 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.097340
+Layer thresholds:
+        44948
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-600.webp'
+File:      bacolor-crater-600.png
+Dimension: 600 x 352
+Output:    7082 bytes Y-U-V-All-PSNR 28.42 38.87 40.07   30.02 dB
+block count:  intra4: 569
+              intra16: 267  (-> 31.94%)
+              skipped block: 16 (1.91%)
+bytes used:  header:             80  (1.1%)
+             mode-partition:   1704  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      23%|      34%|      28%|     836
+      quantizer:  |     102 |      94 |      82 |      66 |
+   filter level:  |      50 |      63 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,488 = 0.170000 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,259 = 0.161326 bpp.
+Body bytes (excludes packet and codestream headers) = 4,169 = 0.157917 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.170000
+Layer thresholds:
+        44270
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-640.webp'
+File:      bacolor-crater-640.png
+Dimension: 640 x 375
+Output:    7864 bytes Y-U-V-All-PSNR 28.44 39.13 40.71   30.05 dB
+block count:  intra4: 632
+              intra16: 328  (-> 34.17%)
+              skipped block: 18 (1.88%)
+bytes used:  header:             89  (1.1%)
+             mode-partition:   1847  (23.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      24%|      32%|      29%|     960
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 2,982 = 0.099400 bits/pel.
+Compressed bytes (excludes codestream headers) = 2,753 = 0.091767 bpp.
+Body bytes (excludes packet and codestream headers) = 2,677 = 0.089233 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.099400
+Layer thresholds:
+        44586
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1024.webp'
+File:      bacolor-crater-1024.png
+Dimension: 1024 x 600
+Output:    18512 bytes Y-U-V-All-PSNR 28.46 39.17 43.36   30.10 dB
+block count:  intra4: 1596
+              intra16: 836  (-> 34.38%)
+              skipped block: 112 (4.61%)
+bytes used:  header:            112  (0.6%)
+             mode-partition:   4517  (24.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      12%|      26%|      33%|      27%|    2432
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 7,613 = 0.099128 bits/pel.
+Compressed bytes (excludes codestream headers) = 7,384 = 0.096146 bpp.
+Body bytes (excludes packet and codestream headers) = 7,270 = 0.094661 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.099128
+Layer thresholds:
+        44489
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1200.webp'
+File:      bacolor-crater-1200.png
+Dimension: 1200 x 703
+Output:    24402 bytes Y-U-V-All-PSNR 28.45 38.98 43.45   30.08 dB
+block count:  intra4: 2127
+              intra16: 1173  (-> 35.55%)
+              skipped block: 169 (5.12%)
+bytes used:  header:            127  (0.5%)
+             mode-partition:   6085  (24.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      27%|      30%|      28%|    3300
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      31 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 21,089 = 0.199991 bits/pel.
+Compressed bytes (excludes codestream headers) = 20,860 = 0.197819 bpp.
+Body bytes (excludes packet and codestream headers) = 20,634 = 0.195676 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.199991
+Layer thresholds:
+        44087
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-2016.webp'
+File:      bacolor-crater-2016.png
+Dimension: 2016 x 1181
+Output:    64262 bytes Y-U-V-All-PSNR 28.87 38.95 43.62   30.49 dB
+block count:  intra4: 5687
+              intra16: 3637  (-> 39.01%)
+              skipped block: 658 (7.06%)
+bytes used:  header:            196  (0.3%)
+             mode-partition:  15889  (24.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      24%|      36%|      31%|    9324
+      quantizer:  |     102 |      95 |      85 |      68 |
+   filter level:  |      50 |      58 |      47 |      33 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 74,373 = 0.249899 bits/pel.
+Compressed bytes (excludes codestream headers) = 74,144 = 0.249130 bpp.
+Body bytes (excludes packet and codestream headers) = 73,641 = 0.247440 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.249899
+Layer thresholds:
+        43921
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-320.webp'
+File:      bacolor-crater-320.png
+Dimension: 320 x 188
+Output:    2392 bytes Y-U-V-All-PSNR 28.30 39.59 40.39   29.92 dB
+block count:  intra4: 171
+              intra16: 69  (-> 28.75%)
+              skipped block: 0 (0.00%)
+bytes used:  header:             50  (2.1%)
+             mode-partition:    541  (22.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      11%|      24%|      36%|      27%|     240
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      31 |      22 |      15 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 732 = 0.097340 bits/pel.
+Compressed bytes (excludes codestream headers) = 503 = 0.066888 bpp.
+Body bytes (excludes packet and codestream headers) = 457 = 0.060771 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.097340
+Layer thresholds:
+        44948
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-600.webp'
+File:      bacolor-crater-600.png
+Dimension: 600 x 352
+Output:    7082 bytes Y-U-V-All-PSNR 28.42 38.87 40.07   30.02 dB
+block count:  intra4: 569
+              intra16: 267  (-> 31.94%)
+              skipped block: 16 (1.91%)
+bytes used:  header:             80  (1.1%)
+             mode-partition:   1704  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      23%|      34%|      28%|     836
+      quantizer:  |     102 |      94 |      82 |      66 |
+   filter level:  |      50 |      63 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,463 = 0.169053 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,234 = 0.160379 bpp.
+Body bytes (excludes packet and codestream headers) = 4,147 = 0.157083 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.169053
+Layer thresholds:
+        44278
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-640.webp'
+File:      bacolor-crater-640.png
+Dimension: 640 x 375
+Output:    7864 bytes Y-U-V-All-PSNR 28.44 39.13 40.71   30.05 dB
+block count:  intra4: 632
+              intra16: 328  (-> 34.17%)
+              skipped block: 18 (1.88%)
+bytes used:  header:             89  (1.1%)
+             mode-partition:   1847  (23.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      24%|      32%|      29%|     960
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 2,982 = 0.099400 bits/pel.
+Compressed bytes (excludes codestream headers) = 2,753 = 0.091767 bpp.
+Body bytes (excludes packet and codestream headers) = 2,677 = 0.089233 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.099400
+Layer thresholds:
+        44583
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1024.webp'
+File:      bacolor-crater-1024.png
+Dimension: 1024 x 600
+Output:    18512 bytes Y-U-V-All-PSNR 28.46 39.17 43.36   30.10 dB
+block count:  intra4: 1596
+              intra16: 836  (-> 34.38%)
+              skipped block: 112 (4.61%)
+bytes used:  header:            112  (0.6%)
+             mode-partition:   4517  (24.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      12%|      26%|      33%|      27%|    2432
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 7,613 = 0.099128 bits/pel.
+Compressed bytes (excludes codestream headers) = 7,384 = 0.096146 bpp.
+Body bytes (excludes packet and codestream headers) = 7,270 = 0.094661 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.099128
+Layer thresholds:
+        44489
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1200.webp'
+File:      bacolor-crater-1200.png
+Dimension: 1200 x 703
+Output:    24402 bytes Y-U-V-All-PSNR 28.45 38.98 43.45   30.08 dB
+block count:  intra4: 2127
+              intra16: 1173  (-> 35.55%)
+              skipped block: 169 (5.12%)
+bytes used:  header:            127  (0.5%)
+             mode-partition:   6085  (24.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      27%|      30%|      28%|    3300
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      31 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 20,921 = 0.198397 bits/pel.
+Compressed bytes (excludes codestream headers) = 20,692 = 0.196226 bpp.
+Body bytes (excludes packet and codestream headers) = 20,466 = 0.194083 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.198397
+Layer thresholds:
+        44088
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-2016.webp'
+File:      bacolor-crater-2016.png
+Dimension: 2016 x 1181
+Output:    64262 bytes Y-U-V-All-PSNR 28.87 38.95 43.62   30.49 dB
+block count:  intra4: 5687
+              intra16: 3637  (-> 39.01%)
+              skipped block: 658 (7.06%)
+bytes used:  header:            196  (0.3%)
+             mode-partition:  15889  (24.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      24%|      36%|      31%|    9324
+      quantizer:  |     102 |      95 |      85 |      68 |
+   filter level:  |      50 |      58 |      47 |      33 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 70,998 = 0.238559 bits/pel.
+Compressed bytes (excludes codestream headers) = 70,769 = 0.237789 bpp.
+Body bytes (excludes packet and codestream headers) = 70,275 = 0.236130 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.238559
+Layer thresholds:
+        43957
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-320.webp'
+File:      bacolor-crater-320.png
+Dimension: 320 x 188
+Output:    2392 bytes Y-U-V-All-PSNR 28.30 39.59 40.39   29.92 dB
+block count:  intra4: 171
+              intra16: 69  (-> 28.75%)
+              skipped block: 0 (0.00%)
+bytes used:  header:             50  (2.1%)
+             mode-partition:    541  (22.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      11%|      24%|      36%|      27%|     240
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      31 |      22 |      15 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 732 = 0.097340 bits/pel.
+Compressed bytes (excludes codestream headers) = 503 = 0.066888 bpp.
+Body bytes (excludes packet and codestream headers) = 457 = 0.060771 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.097340
+Layer thresholds:
+        44948
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-600.webp'
+File:      bacolor-crater-600.png
+Dimension: 600 x 352
+Output:    7082 bytes Y-U-V-All-PSNR 28.42 38.87 40.07   30.02 dB
+block count:  intra4: 569
+              intra16: 267  (-> 31.94%)
+              skipped block: 16 (1.91%)
+bytes used:  header:             80  (1.1%)
+             mode-partition:   1704  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      23%|      34%|      28%|     836
+      quantizer:  |     102 |      94 |      82 |      66 |
+   filter level:  |      50 |      63 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,411 = 0.167083 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,182 = 0.158409 bpp.
+Body bytes (excludes packet and codestream headers) = 4,095 = 0.155114 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.167083
+Layer thresholds:
+        44282
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-640.webp'
+File:      bacolor-crater-640.png
+Dimension: 640 x 375
+Output:    7864 bytes Y-U-V-All-PSNR 28.44 39.13 40.71   30.05 dB
+block count:  intra4: 632
+              intra16: 328  (-> 34.17%)
+              skipped block: 18 (1.88%)
+bytes used:  header:             89  (1.1%)
+             mode-partition:   1847  (23.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      24%|      32%|      29%|     960
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 2,982 = 0.099400 bits/pel.
+Compressed bytes (excludes codestream headers) = 2,753 = 0.091767 bpp.
+Body bytes (excludes packet and codestream headers) = 2,677 = 0.089233 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.099400
+Layer thresholds:
+        44587
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1024.webp'
+File:      bacolor-crater-1024.png
+Dimension: 1024 x 600
+Output:    18512 bytes Y-U-V-All-PSNR 28.46 39.17 43.36   30.10 dB
+block count:  intra4: 1596
+              intra16: 836  (-> 34.38%)
+              skipped block: 112 (4.61%)
+bytes used:  header:            112  (0.6%)
+             mode-partition:   4517  (24.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      12%|      26%|      33%|      27%|    2432
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 7,613 = 0.099128 bits/pel.
+Compressed bytes (excludes codestream headers) = 7,384 = 0.096146 bpp.
+Body bytes (excludes packet and codestream headers) = 7,270 = 0.094661 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.099128
+Layer thresholds:
+        44489
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1200.webp'
+File:      bacolor-crater-1200.png
+Dimension: 1200 x 703
+Output:    24402 bytes Y-U-V-All-PSNR 28.45 38.98 43.45   30.08 dB
+block count:  intra4: 2127
+              intra16: 1173  (-> 35.55%)
+              skipped block: 169 (5.12%)
+bytes used:  header:            127  (0.5%)
+             mode-partition:   6085  (24.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      27%|      30%|      28%|    3300
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      31 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 31,567 = 0.299355 bits/pel.
+Compressed bytes (excludes codestream headers) = 31,338 = 0.297183 bpp.
+Body bytes (excludes packet and codestream headers) = 31,070 = 0.294642 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.299355
+Layer thresholds:
+        43814
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-2016.webp'
+File:      bacolor-crater-2016.png
+Dimension: 2016 x 1181
+Output:    64262 bytes Y-U-V-All-PSNR 28.87 38.95 43.62   30.49 dB
+block count:  intra4: 5687
+              intra16: 3637  (-> 39.01%)
+              skipped block: 658 (7.06%)
+bytes used:  header:            196  (0.3%)
+             mode-partition:  15889  (24.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      24%|      36%|      31%|    9324
+      quantizer:  |     102 |      95 |      85 |      68 |
+   filter level:  |      50 |      58 |      47 |      33 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 70,463 = 0.236761 bits/pel.
+Compressed bytes (excludes codestream headers) = 70,234 = 0.235992 bpp.
+Body bytes (excludes packet and codestream headers) = 69,742 = 0.234339 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.236761
+Layer thresholds:
+        43959
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-320.webp'
+File:      bacolor-crater-320.png
+Dimension: 320 x 188
+Output:    2392 bytes Y-U-V-All-PSNR 28.30 39.59 40.39   29.92 dB
+block count:  intra4: 171
+              intra16: 69  (-> 28.75%)
+              skipped block: 0 (0.00%)
+bytes used:  header:             50  (2.1%)
+             mode-partition:    541  (22.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      11%|      24%|      36%|      27%|     240
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      31 |      22 |      15 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 732 = 0.097340 bits/pel.
+Compressed bytes (excludes codestream headers) = 503 = 0.066888 bpp.
+Body bytes (excludes packet and codestream headers) = 457 = 0.060771 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.097340
+Layer thresholds:
+        44948
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-600.webp'
+File:      bacolor-crater-600.png
+Dimension: 600 x 352
+Output:    7082 bytes Y-U-V-All-PSNR 28.42 38.87 40.07   30.02 dB
+block count:  intra4: 569
+              intra16: 267  (-> 31.94%)
+              skipped block: 16 (1.91%)
+bytes used:  header:             80  (1.1%)
+             mode-partition:   1704  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      23%|      34%|      28%|     836
+      quantizer:  |     102 |      94 |      82 |      66 |
+   filter level:  |      50 |      63 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,480 = 0.169697 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,251 = 0.161023 bpp.
+Body bytes (excludes packet and codestream headers) = 4,163 = 0.157689 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.169697
+Layer thresholds:
+        44275
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-640.webp'
+File:      bacolor-crater-640.png
+Dimension: 640 x 375
+Output:    7864 bytes Y-U-V-All-PSNR 28.44 39.13 40.71   30.05 dB
+block count:  intra4: 632
+              intra16: 328  (-> 34.17%)
+              skipped block: 18 (1.88%)
+bytes used:  header:             89  (1.1%)
+             mode-partition:   1847  (23.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      24%|      32%|      29%|     960
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 2,982 = 0.099400 bits/pel.
+Compressed bytes (excludes codestream headers) = 2,753 = 0.091767 bpp.
+Body bytes (excludes packet and codestream headers) = 2,677 = 0.089233 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.099400
+Layer thresholds:
+        44584
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1024.webp'
+File:      bacolor-crater-1024.png
+Dimension: 1024 x 600
+Output:    18512 bytes Y-U-V-All-PSNR 28.46 39.17 43.36   30.10 dB
+block count:  intra4: 1596
+              intra16: 836  (-> 34.38%)
+              skipped block: 112 (4.61%)
+bytes used:  header:            112  (0.6%)
+             mode-partition:   4517  (24.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      12%|      26%|      33%|      27%|    2432
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 7,613 = 0.099128 bits/pel.
+Compressed bytes (excludes codestream headers) = 7,384 = 0.096146 bpp.
+Body bytes (excludes packet and codestream headers) = 7,270 = 0.094661 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.099128
+Layer thresholds:
+        44489
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1200.webp'
+File:      bacolor-crater-1200.png
+Dimension: 1200 x 703
+Output:    24402 bytes Y-U-V-All-PSNR 28.45 38.98 43.45   30.08 dB
+block count:  intra4: 2127
+              intra16: 1173  (-> 35.55%)
+              skipped block: 169 (5.12%)
+bytes used:  header:            127  (0.5%)
+             mode-partition:   6085  (24.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      27%|      30%|      28%|    3300
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      31 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 24,939 = 0.236501 bits/pel.
+Compressed bytes (excludes codestream headers) = 24,710 = 0.234329 bpp.
+Body bytes (excludes packet and codestream headers) = 24,472 = 0.232072 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.236501
+Layer thresholds:
+        43975
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-2016.webp'
+File:      bacolor-crater-2016.png
+Dimension: 2016 x 1181
+Output:    64262 bytes Y-U-V-All-PSNR 28.87 38.95 43.62   30.49 dB
+block count:  intra4: 5687
+              intra16: 3637  (-> 39.01%)
+              skipped block: 658 (7.06%)
+bytes used:  header:            196  (0.3%)
+             mode-partition:  15889  (24.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      24%|      36%|      31%|    9324
+      quantizer:  |     102 |      95 |      85 |      68 |
+   filter level:  |      50 |      58 |      47 |      33 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 70,998 = 0.238559 bits/pel.
+Compressed bytes (excludes codestream headers) = 70,769 = 0.237789 bpp.
+Body bytes (excludes packet and codestream headers) = 70,275 = 0.236130 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.238559
+Layer thresholds:
+        43957
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-320.webp'
+File:      bacolor-crater-320.png
+Dimension: 320 x 188
+Output:    2392 bytes Y-U-V-All-PSNR 28.30 39.59 40.39   29.92 dB
+block count:  intra4: 171
+              intra16: 69  (-> 28.75%)
+              skipped block: 0 (0.00%)
+bytes used:  header:             50  (2.1%)
+             mode-partition:    541  (22.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      11%|      24%|      36%|      27%|     240
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      31 |      22 |      15 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 732 = 0.097340 bits/pel.
+Compressed bytes (excludes codestream headers) = 503 = 0.066888 bpp.
+Body bytes (excludes packet and codestream headers) = 457 = 0.060771 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.097340
+Layer thresholds:
+        44948
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-600.webp'
+File:      bacolor-crater-600.png
+Dimension: 600 x 352
+Output:    7082 bytes Y-U-V-All-PSNR 28.42 38.87 40.07   30.02 dB
+block count:  intra4: 569
+              intra16: 267  (-> 31.94%)
+              skipped block: 16 (1.91%)
+bytes used:  header:             80  (1.1%)
+             mode-partition:   1704  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      23%|      34%|      28%|     836
+      quantizer:  |     102 |      94 |      82 |      66 |
+   filter level:  |      50 |      63 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,480 = 0.169697 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,251 = 0.161023 bpp.
+Body bytes (excludes packet and codestream headers) = 4,163 = 0.157689 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.169697
+Layer thresholds:
+        44274
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-640.webp'
+File:      bacolor-crater-640.png
+Dimension: 640 x 375
+Output:    7864 bytes Y-U-V-All-PSNR 28.44 39.13 40.71   30.05 dB
+block count:  intra4: 632
+              intra16: 328  (-> 34.17%)
+              skipped block: 18 (1.88%)
+bytes used:  header:             89  (1.1%)
+             mode-partition:   1847  (23.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      24%|      32%|      29%|     960
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 2,986 = 0.099533 bits/pel.
+Compressed bytes (excludes codestream headers) = 2,757 = 0.091900 bpp.
+Body bytes (excludes packet and codestream headers) = 2,681 = 0.089367 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.099533
+Layer thresholds:
+        44581
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1024.webp'
+File:      bacolor-crater-1024.png
+Dimension: 1024 x 600
+Output:    18512 bytes Y-U-V-All-PSNR 28.46 39.17 43.36   30.10 dB
+block count:  intra4: 1596
+              intra16: 836  (-> 34.38%)
+              skipped block: 112 (4.61%)
+bytes used:  header:            112  (0.6%)
+             mode-partition:   4517  (24.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      12%|      26%|      33%|      27%|    2432
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 7,613 = 0.099128 bits/pel.
+Compressed bytes (excludes codestream headers) = 7,384 = 0.096146 bpp.
+Body bytes (excludes packet and codestream headers) = 7,270 = 0.094661 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.099128
+Layer thresholds:
+        44489
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1200.webp'
+File:      bacolor-crater-1200.png
+Dimension: 1200 x 703
+Output:    24402 bytes Y-U-V-All-PSNR 28.45 38.98 43.45   30.08 dB
+block count:  intra4: 2127
+              intra16: 1173  (-> 35.55%)
+              skipped block: 169 (5.12%)
+bytes used:  header:            127  (0.5%)
+             mode-partition:   6085  (24.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      27%|      30%|      28%|    3300
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      31 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 25,939 = 0.245984 bits/pel.
+Compressed bytes (excludes codestream headers) = 25,710 = 0.243812 bpp.
+Body bytes (excludes packet and codestream headers) = 25,471 = 0.241546 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.245984
+Layer thresholds:
+        43962
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-2016.webp'
+File:      bacolor-crater-2016.png
+Dimension: 2016 x 1181
+Output:    64262 bytes Y-U-V-All-PSNR 28.87 38.95 43.62   30.49 dB
+block count:  intra4: 5687
+              intra16: 3637  (-> 39.01%)
+              skipped block: 658 (7.06%)
+bytes used:  header:            196  (0.3%)
+             mode-partition:  15889  (24.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      24%|      36%|      31%|    9324
+      quantizer:  |     102 |      95 |      85 |      68 |
+   filter level:  |      50 |      58 |      47 |      33 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 71,324 = 0.239654 bits/pel.
+Compressed bytes (excludes codestream headers) = 71,095 = 0.238885 bpp.
+Body bytes (excludes packet and codestream headers) = 70,601 = 0.237225 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.239654
+Layer thresholds:
+        43954
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-320.webp'
+File:      bacolor-crater-320.png
+Dimension: 320 x 188
+Output:    2392 bytes Y-U-V-All-PSNR 28.30 39.59 40.39   29.92 dB
+block count:  intra4: 171
+              intra16: 69  (-> 28.75%)
+              skipped block: 0 (0.00%)
+bytes used:  header:             50  (2.1%)
+             mode-partition:    541  (22.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      11%|      24%|      36%|      27%|     240
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      31 |      22 |      15 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 732 = 0.097340 bits/pel.
+Compressed bytes (excludes codestream headers) = 503 = 0.066888 bpp.
+Body bytes (excludes packet and codestream headers) = 457 = 0.060771 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.097340
+Layer thresholds:
+        44948
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-600.webp'
+File:      bacolor-crater-600.png
+Dimension: 600 x 352
+Output:    7082 bytes Y-U-V-All-PSNR 28.42 38.87 40.07   30.02 dB
+block count:  intra4: 569
+              intra16: 267  (-> 31.94%)
+              skipped block: 16 (1.91%)
+bytes used:  header:             80  (1.1%)
+             mode-partition:   1704  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      23%|      34%|      28%|     836
+      quantizer:  |     102 |      94 |      82 |      66 |
+   filter level:  |      50 |      63 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,488 = 0.170000 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,259 = 0.161326 bpp.
+Body bytes (excludes packet and codestream headers) = 4,169 = 0.157917 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.170000
+Layer thresholds:
+        44271
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-640.webp'
+File:      bacolor-crater-640.png
+Dimension: 640 x 375
+Output:    7864 bytes Y-U-V-All-PSNR 28.44 39.13 40.71   30.05 dB
+block count:  intra4: 632
+              intra16: 328  (-> 34.17%)
+              skipped block: 18 (1.88%)
+bytes used:  header:             89  (1.1%)
+             mode-partition:   1847  (23.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      24%|      32%|      29%|     960
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 2,982 = 0.099400 bits/pel.
+Compressed bytes (excludes codestream headers) = 2,753 = 0.091767 bpp.
+Body bytes (excludes packet and codestream headers) = 2,677 = 0.089233 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.099400
+Layer thresholds:
+        44587
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1024.webp'
+File:      bacolor-crater-1024.png
+Dimension: 1024 x 600
+Output:    18512 bytes Y-U-V-All-PSNR 28.46 39.17 43.36   30.10 dB
+block count:  intra4: 1596
+              intra16: 836  (-> 34.38%)
+              skipped block: 112 (4.61%)
+bytes used:  header:            112  (0.6%)
+             mode-partition:   4517  (24.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      12%|      26%|      33%|      27%|    2432
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 19,023 = 0.247695 bits/pel.
+Compressed bytes (excludes codestream headers) = 18,794 = 0.244714 bpp.
+Body bytes (excludes packet and codestream headers) = 18,608 = 0.242292 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.247695
+Layer thresholds:
+        43974
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1200.webp'
+File:      bacolor-crater-1200.png
+Dimension: 1200 x 703
+Output:    24402 bytes Y-U-V-All-PSNR 28.45 38.98 43.45   30.08 dB
+block count:  intra4: 2127
+              intra16: 1173  (-> 35.55%)
+              skipped block: 169 (5.12%)
+bytes used:  header:            127  (0.5%)
+             mode-partition:   6085  (24.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      27%|      30%|      28%|    3300
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      31 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 26,242 = 0.248857 bits/pel.
+Compressed bytes (excludes codestream headers) = 26,013 = 0.246686 bpp.
+Body bytes (excludes packet and codestream headers) = 25,773 = 0.244410 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.248857
+Layer thresholds:
+        43961
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-2016.webp'
+File:      bacolor-crater-2016.png
+Dimension: 2016 x 1181
+Output:    64262 bytes Y-U-V-All-PSNR 28.87 38.95 43.62   30.49 dB
+block count:  intra4: 5687
+              intra16: 3637  (-> 39.01%)
+              skipped block: 658 (7.06%)
+bytes used:  header:            196  (0.3%)
+             mode-partition:  15889  (24.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      24%|      36%|      31%|    9324
+      quantizer:  |     102 |      95 |      85 |      68 |
+   filter level:  |      50 |      58 |      47 |      33 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 70,463 = 0.236761 bits/pel.
+Compressed bytes (excludes codestream headers) = 70,234 = 0.235992 bpp.
+Body bytes (excludes packet and codestream headers) = 69,742 = 0.234339 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.236761
+Layer thresholds:
+        43959
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-320.webp'
+File:      bacolor-crater-320.png
+Dimension: 320 x 188
+Output:    2392 bytes Y-U-V-All-PSNR 28.30 39.59 40.39   29.92 dB
+block count:  intra4: 171
+              intra16: 69  (-> 28.75%)
+              skipped block: 0 (0.00%)
+bytes used:  header:             50  (2.1%)
+             mode-partition:    541  (22.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      11%|      24%|      36%|      27%|     240
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      31 |      22 |      15 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 732 = 0.097340 bits/pel.
+Compressed bytes (excludes codestream headers) = 503 = 0.066888 bpp.
+Body bytes (excludes packet and codestream headers) = 457 = 0.060771 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.097340
+Layer thresholds:
+        44948
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-600.webp'
+File:      bacolor-crater-600.png
+Dimension: 600 x 352
+Output:    7082 bytes Y-U-V-All-PSNR 28.42 38.87 40.07   30.02 dB
+block count:  intra4: 569
+              intra16: 267  (-> 31.94%)
+              skipped block: 16 (1.91%)
+bytes used:  header:             80  (1.1%)
+             mode-partition:   1704  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      23%|      34%|      28%|     836
+      quantizer:  |     102 |      94 |      82 |      66 |
+   filter level:  |      50 |      63 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,411 = 0.167083 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,182 = 0.158409 bpp.
+Body bytes (excludes packet and codestream headers) = 4,095 = 0.155114 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.167083
+Layer thresholds:
+        44282
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-640.webp'
+File:      bacolor-crater-640.png
+Dimension: 640 x 375
+Output:    7864 bytes Y-U-V-All-PSNR 28.44 39.13 40.71   30.05 dB
+block count:  intra4: 632
+              intra16: 328  (-> 34.17%)
+              skipped block: 18 (1.88%)
+bytes used:  header:             89  (1.1%)
+             mode-partition:   1847  (23.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      24%|      32%|      29%|     960
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 7,488 = 0.249600 bits/pel.
+Compressed bytes (excludes codestream headers) = 7,259 = 0.241967 bpp.
+Body bytes (excludes packet and codestream headers) = 7,147 = 0.238233 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.249600
+Layer thresholds:
+        44005
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1024.webp'
+File:      bacolor-crater-1024.png
+Dimension: 1024 x 600
+Output:    18512 bytes Y-U-V-All-PSNR 28.46 39.17 43.36   30.10 dB
+block count:  intra4: 1596
+              intra16: 836  (-> 34.38%)
+              skipped block: 112 (4.61%)
+bytes used:  header:            112  (0.6%)
+             mode-partition:   4517  (24.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      12%|      26%|      33%|      27%|    2432
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 19,023 = 0.247695 bits/pel.
+Compressed bytes (excludes codestream headers) = 18,794 = 0.244714 bpp.
+Body bytes (excludes packet and codestream headers) = 18,608 = 0.242292 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.247695
+Layer thresholds:
+        43973
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1200.webp'
+File:      bacolor-crater-1200.png
+Dimension: 1200 x 703
+Output:    24402 bytes Y-U-V-All-PSNR 28.45 38.98 43.45   30.08 dB
+block count:  intra4: 2127
+              intra16: 1173  (-> 35.55%)
+              skipped block: 169 (5.12%)
+bytes used:  header:            127  (0.5%)
+             mode-partition:   6085  (24.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      27%|      30%|      28%|    3300
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      31 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 26,242 = 0.248857 bits/pel.
+Compressed bytes (excludes codestream headers) = 26,013 = 0.246686 bpp.
+Body bytes (excludes packet and codestream headers) = 25,773 = 0.244410 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.248857
+Layer thresholds:
+        43961
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-2016.webp'
+File:      bacolor-crater-2016.png
+Dimension: 2016 x 1181
+Output:    64262 bytes Y-U-V-All-PSNR 28.87 38.95 43.62   30.49 dB
+block count:  intra4: 5687
+              intra16: 3637  (-> 39.01%)
+              skipped block: 658 (7.06%)
+bytes used:  header:            196  (0.3%)
+             mode-partition:  15889  (24.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      24%|      36%|      31%|    9324
+      quantizer:  |     102 |      95 |      85 |      68 |
+   filter level:  |      50 |      58 |      47 |      33 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 70,998 = 0.238559 bits/pel.
+Compressed bytes (excludes codestream headers) = 70,769 = 0.237789 bpp.
+Body bytes (excludes packet and codestream headers) = 70,275 = 0.236130 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.238559
+Layer thresholds:
+        43957
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-320.webp'
+File:      bacolor-crater-320.png
+Dimension: 320 x 188
+Output:    2392 bytes Y-U-V-All-PSNR 28.30 39.59 40.39   29.92 dB
+block count:  intra4: 171
+              intra16: 69  (-> 28.75%)
+              skipped block: 0 (0.00%)
+bytes used:  header:             50  (2.1%)
+             mode-partition:    541  (22.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      11%|      24%|      36%|      27%|     240
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      31 |      22 |      15 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 732 = 0.097340 bits/pel.
+Compressed bytes (excludes codestream headers) = 503 = 0.066888 bpp.
+Body bytes (excludes packet and codestream headers) = 457 = 0.060771 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.097340
+Layer thresholds:
+        44948
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-600.webp'
+File:      bacolor-crater-600.png
+Dimension: 600 x 352
+Output:    7082 bytes Y-U-V-All-PSNR 28.42 38.87 40.07   30.02 dB
+block count:  intra4: 569
+              intra16: 267  (-> 31.94%)
+              skipped block: 16 (1.91%)
+bytes used:  header:             80  (1.1%)
+             mode-partition:   1704  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      23%|      34%|      28%|     836
+      quantizer:  |     102 |      94 |      82 |      66 |
+   filter level:  |      50 |      63 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,411 = 0.167083 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,182 = 0.158409 bpp.
+Body bytes (excludes packet and codestream headers) = 4,095 = 0.155114 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.167083
+Layer thresholds:
+        44281
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-640.webp'
+File:      bacolor-crater-640.png
+Dimension: 640 x 375
+Output:    7864 bytes Y-U-V-All-PSNR 28.44 39.13 40.71   30.05 dB
+block count:  intra4: 632
+              intra16: 328  (-> 34.17%)
+              skipped block: 18 (1.88%)
+bytes used:  header:             89  (1.1%)
+             mode-partition:   1847  (23.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      24%|      32%|      29%|     960
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 7,664 = 0.255467 bits/pel.
+Compressed bytes (excludes codestream headers) = 7,435 = 0.247833 bpp.
+Body bytes (excludes packet and codestream headers) = 7,322 = 0.244067 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.255467
+Layer thresholds:
+        43982
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1024.webp'
+File:      bacolor-crater-1024.png
+Dimension: 1024 x 600
+Output:    18512 bytes Y-U-V-All-PSNR 28.46 39.17 43.36   30.10 dB
+block count:  intra4: 1596
+              intra16: 836  (-> 34.38%)
+              skipped block: 112 (4.61%)
+bytes used:  header:            112  (0.6%)
+             mode-partition:   4517  (24.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      12%|      26%|      33%|      27%|    2432
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 19,023 = 0.247695 bits/pel.
+Compressed bytes (excludes codestream headers) = 18,794 = 0.244714 bpp.
+Body bytes (excludes packet and codestream headers) = 18,608 = 0.242292 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.247695
+Layer thresholds:
+        43973
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1200.webp'
+File:      bacolor-crater-1200.png
+Dimension: 1200 x 703
+Output:    24402 bytes Y-U-V-All-PSNR 28.45 38.98 43.45   30.08 dB
+block count:  intra4: 2127
+              intra16: 1173  (-> 35.55%)
+              skipped block: 169 (5.12%)
+bytes used:  header:            127  (0.5%)
+             mode-partition:   6085  (24.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      27%|      30%|      28%|    3300
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      31 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 26,242 = 0.248857 bits/pel.
+Compressed bytes (excludes codestream headers) = 26,013 = 0.246686 bpp.
+Body bytes (excludes packet and codestream headers) = 25,773 = 0.244410 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.248857
+Layer thresholds:
+        43961
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-2016.webp'
+File:      bacolor-crater-2016.png
+Dimension: 2016 x 1181
+Output:    64262 bytes Y-U-V-All-PSNR 28.87 38.95 43.62   30.49 dB
+block count:  intra4: 5687
+              intra16: 3637  (-> 39.01%)
+              skipped block: 658 (7.06%)
+bytes used:  header:            196  (0.3%)
+             mode-partition:  15889  (24.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      24%|      36%|      31%|    9324
+      quantizer:  |     102 |      95 |      85 |      68 |
+   filter level:  |      50 |      58 |      47 |      33 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 70,131 = 0.235646 bits/pel.
+Compressed bytes (excludes codestream headers) = 69,902 = 0.234876 bpp.
+Body bytes (excludes packet and codestream headers) = 69,410 = 0.233223 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.235646
+Layer thresholds:
+        43960
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-320.webp'
+File:      bacolor-crater-320.png
+Dimension: 320 x 188
+Output:    2392 bytes Y-U-V-All-PSNR 28.30 39.59 40.39   29.92 dB
+block count:  intra4: 171
+              intra16: 69  (-> 28.75%)
+              skipped block: 0 (0.00%)
+bytes used:  header:             50  (2.1%)
+             mode-partition:    541  (22.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      11%|      24%|      36%|      27%|     240
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      31 |      22 |      15 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 732 = 0.097340 bits/pel.
+Compressed bytes (excludes codestream headers) = 503 = 0.066888 bpp.
+Body bytes (excludes packet and codestream headers) = 457 = 0.060771 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.097340
+Layer thresholds:
+        44948
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-600.webp'
+File:      bacolor-crater-600.png
+Dimension: 600 x 352
+Output:    7082 bytes Y-U-V-All-PSNR 28.42 38.87 40.07   30.02 dB
+block count:  intra4: 569
+              intra16: 267  (-> 31.94%)
+              skipped block: 16 (1.91%)
+bytes used:  header:             80  (1.1%)
+             mode-partition:   1704  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      23%|      34%|      28%|     836
+      quantizer:  |     102 |      94 |      82 |      66 |
+   filter level:  |      50 |      63 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 7,104 = 0.269091 bits/pel.
+Compressed bytes (excludes codestream headers) = 6,875 = 0.260417 bpp.
+Body bytes (excludes packet and codestream headers) = 6,762 = 0.256136 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.269091
+Layer thresholds:
+        43970
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-640.webp'
+File:      bacolor-crater-640.png
+Dimension: 640 x 375
+Output:    7864 bytes Y-U-V-All-PSNR 28.44 39.13 40.71   30.05 dB
+block count:  intra4: 632
+              intra16: 328  (-> 34.17%)
+              skipped block: 18 (1.88%)
+bytes used:  header:             89  (1.1%)
+             mode-partition:   1847  (23.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      24%|      32%|      29%|     960
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 8,091 = 0.269700 bits/pel.
+Compressed bytes (excludes codestream headers) = 7,862 = 0.262067 bpp.
+Body bytes (excludes packet and codestream headers) = 7,748 = 0.258267 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.269700
+Layer thresholds:
+        43963
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1024.webp'
+File:      bacolor-crater-1024.png
+Dimension: 1024 x 600
+Output:    18512 bytes Y-U-V-All-PSNR 28.46 39.17 43.36   30.10 dB
+block count:  intra4: 1596
+              intra16: 836  (-> 34.38%)
+              skipped block: 112 (4.61%)
+bytes used:  header:            112  (0.6%)
+             mode-partition:   4517  (24.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      12%|      26%|      33%|      27%|    2432
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 19,023 = 0.247695 bits/pel.
+Compressed bytes (excludes codestream headers) = 18,794 = 0.244714 bpp.
+Body bytes (excludes packet and codestream headers) = 18,608 = 0.242292 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.247695
+Layer thresholds:
+        43973
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1200.webp'
+File:      bacolor-crater-1200.png
+Dimension: 1200 x 703
+Output:    24402 bytes Y-U-V-All-PSNR 28.45 38.98 43.45   30.08 dB
+block count:  intra4: 2127
+              intra16: 1173  (-> 35.55%)
+              skipped block: 169 (5.12%)
+bytes used:  header:            127  (0.5%)
+             mode-partition:   6085  (24.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      27%|      30%|      28%|    3300
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      31 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 26,242 = 0.248857 bits/pel.
+Compressed bytes (excludes codestream headers) = 26,013 = 0.246686 bpp.
+Body bytes (excludes packet and codestream headers) = 25,773 = 0.244410 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.248857
+Layer thresholds:
+        43961
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-2016.webp'
+File:      bacolor-crater-2016.png
+Dimension: 2016 x 1181
+Output:    64262 bytes Y-U-V-All-PSNR 28.87 38.95 43.62   30.49 dB
+block count:  intra4: 5687
+              intra16: 3637  (-> 39.01%)
+              skipped block: 658 (7.06%)
+bytes used:  header:            196  (0.3%)
+             mode-partition:  15889  (24.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      24%|      36%|      31%|    9324
+      quantizer:  |     102 |      95 |      85 |      68 |
+   filter level:  |      50 |      58 |      47 |      33 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 70,463 = 0.236761 bits/pel.
+Compressed bytes (excludes codestream headers) = 70,234 = 0.235992 bpp.
+Body bytes (excludes packet and codestream headers) = 69,742 = 0.234339 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.236761
+Layer thresholds:
+        43959
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-320.webp'
+File:      bacolor-crater-320.png
+Dimension: 320 x 188
+Output:    2392 bytes Y-U-V-All-PSNR 28.30 39.59 40.39   29.92 dB
+block count:  intra4: 171
+              intra16: 69  (-> 28.75%)
+              skipped block: 0 (0.00%)
+bytes used:  header:             50  (2.1%)
+             mode-partition:    541  (22.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      11%|      24%|      36%|      27%|     240
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      31 |      22 |      15 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 732 = 0.097340 bits/pel.
+Compressed bytes (excludes codestream headers) = 503 = 0.066888 bpp.
+Body bytes (excludes packet and codestream headers) = 457 = 0.060771 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.097340
+Layer thresholds:
+        44948
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-600.webp'
+File:      bacolor-crater-600.png
+Dimension: 600 x 352
+Output:    7082 bytes Y-U-V-All-PSNR 28.42 38.87 40.07   30.02 dB
+block count:  intra4: 569
+              intra16: 267  (-> 31.94%)
+              skipped block: 16 (1.91%)
+bytes used:  header:             80  (1.1%)
+             mode-partition:   1704  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      23%|      34%|      28%|     836
+      quantizer:  |     102 |      94 |      82 |      66 |
+   filter level:  |      50 |      63 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 7,104 = 0.269091 bits/pel.
+Compressed bytes (excludes codestream headers) = 6,875 = 0.260417 bpp.
+Body bytes (excludes packet and codestream headers) = 6,762 = 0.256136 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.269091
+Layer thresholds:
+        43969
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-640.webp'
+File:      bacolor-crater-640.png
+Dimension: 640 x 375
+Output:    7864 bytes Y-U-V-All-PSNR 28.44 39.13 40.71   30.05 dB
+block count:  intra4: 632
+              intra16: 328  (-> 34.17%)
+              skipped block: 18 (1.88%)
+bytes used:  header:             89  (1.1%)
+             mode-partition:   1847  (23.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      24%|      32%|      29%|     960
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 7,664 = 0.255467 bits/pel.
+Compressed bytes (excludes codestream headers) = 7,435 = 0.247833 bpp.
+Body bytes (excludes packet and codestream headers) = 7,322 = 0.244067 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.255467
+Layer thresholds:
+        43980
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1024.webp'
+File:      bacolor-crater-1024.png
+Dimension: 1024 x 600
+Output:    18512 bytes Y-U-V-All-PSNR 28.46 39.17 43.36   30.10 dB
+block count:  intra4: 1596
+              intra16: 836  (-> 34.38%)
+              skipped block: 112 (4.61%)
+bytes used:  header:            112  (0.6%)
+             mode-partition:   4517  (24.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      12%|      26%|      33%|      27%|    2432
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 19,023 = 0.247695 bits/pel.
+Compressed bytes (excludes codestream headers) = 18,794 = 0.244714 bpp.
+Body bytes (excludes packet and codestream headers) = 18,608 = 0.242292 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.247695
+Layer thresholds:
+        43973
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1200.webp'
+File:      bacolor-crater-1200.png
+Dimension: 1200 x 703
+Output:    24402 bytes Y-U-V-All-PSNR 28.45 38.98 43.45   30.08 dB
+block count:  intra4: 2127
+              intra16: 1173  (-> 35.55%)
+              skipped block: 169 (5.12%)
+bytes used:  header:            127  (0.5%)
+             mode-partition:   6085  (24.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      27%|      30%|      28%|    3300
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      31 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 25,939 = 0.245984 bits/pel.
+Compressed bytes (excludes codestream headers) = 25,710 = 0.243812 bpp.
+Body bytes (excludes packet and codestream headers) = 25,471 = 0.241546 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.245984
+Layer thresholds:
+        43962
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-2016.webp'
+File:      bacolor-crater-2016.png
+Dimension: 2016 x 1181
+Output:    64262 bytes Y-U-V-All-PSNR 28.87 38.95 43.62   30.49 dB
+block count:  intra4: 5687
+              intra16: 3637  (-> 39.01%)
+              skipped block: 658 (7.06%)
+bytes used:  header:            196  (0.3%)
+             mode-partition:  15889  (24.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      24%|      36%|      31%|    9324
+      quantizer:  |     102 |      95 |      85 |      68 |
+   filter level:  |      50 |      58 |      47 |      33 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 71,324 = 0.239654 bits/pel.
+Compressed bytes (excludes codestream headers) = 71,095 = 0.238885 bpp.
+Body bytes (excludes packet and codestream headers) = 70,601 = 0.237225 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.239654
+Layer thresholds:
+        43954
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-320.webp'
+File:      bacolor-crater-320.png
+Dimension: 320 x 188
+Output:    2392 bytes Y-U-V-All-PSNR 28.30 39.59 40.39   29.92 dB
+block count:  intra4: 171
+              intra16: 69  (-> 28.75%)
+              skipped block: 0 (0.00%)
+bytes used:  header:             50  (2.1%)
+             mode-partition:    541  (22.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      11%|      24%|      36%|      27%|     240
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      31 |      22 |      15 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 2,029 = 0.269814 bits/pel.
+Compressed bytes (excludes codestream headers) = 1,800 = 0.239362 bpp.
+Body bytes (excludes packet and codestream headers) = 1,734 = 0.230585 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.269814
+Layer thresholds:
+        44116
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-600.webp'
+File:      bacolor-crater-600.png
+Dimension: 600 x 352
+Output:    7082 bytes Y-U-V-All-PSNR 28.42 38.87 40.07   30.02 dB
+block count:  intra4: 569
+              intra16: 267  (-> 31.94%)
+              skipped block: 16 (1.91%)
+bytes used:  header:             80  (1.1%)
+             mode-partition:   1704  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      23%|      34%|      28%|     836
+      quantizer:  |     102 |      94 |      82 |      66 |
+   filter level:  |      50 |      63 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 7,104 = 0.269091 bits/pel.
+Compressed bytes (excludes codestream headers) = 6,875 = 0.260417 bpp.
+Body bytes (excludes packet and codestream headers) = 6,762 = 0.256136 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.269091
+Layer thresholds:
+        43959
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-640.webp'
+File:      bacolor-crater-640.png
+Dimension: 640 x 375
+Output:    7864 bytes Y-U-V-All-PSNR 28.44 39.13 40.71   30.05 dB
+block count:  intra4: 632
+              intra16: 328  (-> 34.17%)
+              skipped block: 18 (1.88%)
+bytes used:  header:             89  (1.1%)
+             mode-partition:   1847  (23.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      24%|      32%|      29%|     960
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 7,664 = 0.255467 bits/pel.
+Compressed bytes (excludes codestream headers) = 7,435 = 0.247833 bpp.
+Body bytes (excludes packet and codestream headers) = 7,322 = 0.244067 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.255467
+Layer thresholds:
+        43981
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1024.webp'
+File:      bacolor-crater-1024.png
+Dimension: 1024 x 600
+Output:    18512 bytes Y-U-V-All-PSNR 28.46 39.17 43.36   30.10 dB
+block count:  intra4: 1596
+              intra16: 836  (-> 34.38%)
+              skipped block: 112 (4.61%)
+bytes used:  header:            112  (0.6%)
+             mode-partition:   4517  (24.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      12%|      26%|      33%|      27%|    2432
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 19,023 = 0.247695 bits/pel.
+Compressed bytes (excludes codestream headers) = 18,794 = 0.244714 bpp.
+Body bytes (excludes packet and codestream headers) = 18,608 = 0.242292 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.247695
+Layer thresholds:
+        43973
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1200.webp'
+File:      bacolor-crater-1200.png
+Dimension: 1200 x 703
+Output:    24402 bytes Y-U-V-All-PSNR 28.45 38.98 43.45   30.08 dB
+block count:  intra4: 2127
+              intra16: 1173  (-> 35.55%)
+              skipped block: 169 (5.12%)
+bytes used:  header:            127  (0.5%)
+             mode-partition:   6085  (24.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      27%|      30%|      28%|    3300
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      31 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 26,242 = 0.248857 bits/pel.
+Compressed bytes (excludes codestream headers) = 26,013 = 0.246686 bpp.
+Body bytes (excludes packet and codestream headers) = 25,773 = 0.244410 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.248857
+Layer thresholds:
+        43961
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-2016.webp'
+File:      bacolor-crater-2016.png
+Dimension: 2016 x 1181
+Output:    64262 bytes Y-U-V-All-PSNR 28.87 38.95 43.62   30.49 dB
+block count:  intra4: 5687
+              intra16: 3637  (-> 39.01%)
+              skipped block: 658 (7.06%)
+bytes used:  header:            196  (0.3%)
+             mode-partition:  15889  (24.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      24%|      36%|      31%|    9324
+      quantizer:  |     102 |      95 |      85 |      68 |
+   filter level:  |      50 |      58 |      47 |      33 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 71,324 = 0.239654 bits/pel.
+Compressed bytes (excludes codestream headers) = 71,095 = 0.238885 bpp.
+Body bytes (excludes packet and codestream headers) = 70,601 = 0.237225 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.239654
+Layer thresholds:
+        43955
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-320.webp'
+File:      bacolor-crater-320.png
+Dimension: 320 x 188
+Output:    2392 bytes Y-U-V-All-PSNR 28.30 39.59 40.39   29.92 dB
+block count:  intra4: 171
+              intra16: 69  (-> 28.75%)
+              skipped block: 0 (0.00%)
+bytes used:  header:             50  (2.1%)
+             mode-partition:    541  (22.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      11%|      24%|      36%|      27%|     240
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      31 |      22 |      15 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 2,029 = 0.269814 bits/pel.
+Compressed bytes (excludes codestream headers) = 1,800 = 0.239362 bpp.
+Body bytes (excludes packet and codestream headers) = 1,734 = 0.230585 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.269814
+Layer thresholds:
+        44114
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-600.webp'
+File:      bacolor-crater-600.png
+Dimension: 600 x 352
+Output:    7082 bytes Y-U-V-All-PSNR 28.42 38.87 40.07   30.02 dB
+block count:  intra4: 569
+              intra16: 267  (-> 31.94%)
+              skipped block: 16 (1.91%)
+bytes used:  header:             80  (1.1%)
+             mode-partition:   1704  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      23%|      34%|      28%|     836
+      quantizer:  |     102 |      94 |      82 |      66 |
+   filter level:  |      50 |      63 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 7,104 = 0.269091 bits/pel.
+Compressed bytes (excludes codestream headers) = 6,875 = 0.260417 bpp.
+Body bytes (excludes packet and codestream headers) = 6,762 = 0.256136 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.269091
+Layer thresholds:
+        43964
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-640.webp'
+File:      bacolor-crater-640.png
+Dimension: 640 x 375
+Output:    7864 bytes Y-U-V-All-PSNR 28.44 39.13 40.71   30.05 dB
+block count:  intra4: 632
+              intra16: 328  (-> 34.17%)
+              skipped block: 18 (1.88%)
+bytes used:  header:             89  (1.1%)
+             mode-partition:   1847  (23.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      24%|      32%|      29%|     960
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 7,664 = 0.255467 bits/pel.
+Compressed bytes (excludes codestream headers) = 7,435 = 0.247833 bpp.
+Body bytes (excludes packet and codestream headers) = 7,322 = 0.244067 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.255467
+Layer thresholds:
+        43980
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1024.webp'
+File:      bacolor-crater-1024.png
+Dimension: 1024 x 600
+Output:    18512 bytes Y-U-V-All-PSNR 28.46 39.17 43.36   30.10 dB
+block count:  intra4: 1596
+              intra16: 836  (-> 34.38%)
+              skipped block: 112 (4.61%)
+bytes used:  header:            112  (0.6%)
+             mode-partition:   4517  (24.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      12%|      26%|      33%|      27%|    2432
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 19,023 = 0.247695 bits/pel.
+Compressed bytes (excludes codestream headers) = 18,794 = 0.244714 bpp.
+Body bytes (excludes packet and codestream headers) = 18,608 = 0.242292 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.247695
+Layer thresholds:
+        43973
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1200.webp'
+File:      bacolor-crater-1200.png
+Dimension: 1200 x 703
+Output:    24402 bytes Y-U-V-All-PSNR 28.45 38.98 43.45   30.08 dB
+block count:  intra4: 2127
+              intra16: 1173  (-> 35.55%)
+              skipped block: 169 (5.12%)
+bytes used:  header:            127  (0.5%)
+             mode-partition:   6085  (24.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      27%|      30%|      28%|    3300
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      31 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 25,939 = 0.245984 bits/pel.
+Compressed bytes (excludes codestream headers) = 25,710 = 0.243812 bpp.
+Body bytes (excludes packet and codestream headers) = 25,471 = 0.241546 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.245984
+Layer thresholds:
+        43962
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-2016.webp'
+File:      bacolor-crater-2016.png
+Dimension: 2016 x 1181
+Output:    73420 bytes Y-U-V-All-PSNR 29.24 38.99 43.62   30.85 dB
+block count:  intra4: 6025
+              intra16: 3299  (-> 35.38%)
+              skipped block: 598 (6.41%)
+bytes used:  header:            193  (0.3%)
+             mode-partition:  17388  (23.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      24%|      36%|      31%|    9324
+      quantizer:  |      98 |      90 |      80 |      64 |
+   filter level:  |      46 |      53 |      42 |      30 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 70,463 = 0.236761 bits/pel.
+Compressed bytes (excludes codestream headers) = 70,234 = 0.235992 bpp.
+Body bytes (excludes packet and codestream headers) = 69,742 = 0.234339 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.236761
+Layer thresholds:
+        43959
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-320.webp'
+File:      bacolor-crater-320.png
+Dimension: 320 x 188
+Output:    2392 bytes Y-U-V-All-PSNR 28.30 39.59 40.39   29.92 dB
+block count:  intra4: 171
+              intra16: 69  (-> 28.75%)
+              skipped block: 0 (0.00%)
+bytes used:  header:             50  (2.1%)
+             mode-partition:    541  (22.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      11%|      24%|      36%|      27%|     240
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      31 |      22 |      15 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 2,029 = 0.269814 bits/pel.
+Compressed bytes (excludes codestream headers) = 1,800 = 0.239362 bpp.
+Body bytes (excludes packet and codestream headers) = 1,734 = 0.230585 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.269814
+Layer thresholds:
+        44116
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-600.webp'
+File:      bacolor-crater-600.png
+Dimension: 600 x 352
+Output:    7082 bytes Y-U-V-All-PSNR 28.42 38.87 40.07   30.02 dB
+block count:  intra4: 569
+              intra16: 267  (-> 31.94%)
+              skipped block: 16 (1.91%)
+bytes used:  header:             80  (1.1%)
+             mode-partition:   1704  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      23%|      34%|      28%|     836
+      quantizer:  |     102 |      94 |      82 |      66 |
+   filter level:  |      50 |      63 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 7,104 = 0.269091 bits/pel.
+Compressed bytes (excludes codestream headers) = 6,875 = 0.260417 bpp.
+Body bytes (excludes packet and codestream headers) = 6,762 = 0.256136 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.269091
+Layer thresholds:
+        43966
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-640.webp'
+File:      bacolor-crater-640.png
+Dimension: 640 x 375
+Output:    7864 bytes Y-U-V-All-PSNR 28.44 39.13 40.71   30.05 dB
+block count:  intra4: 632
+              intra16: 328  (-> 34.17%)
+              skipped block: 18 (1.88%)
+bytes used:  header:             89  (1.1%)
+             mode-partition:   1847  (23.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      24%|      32%|      29%|     960
+      quantizer:  |     102 |      94 |      83 |      66 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 7,664 = 0.255467 bits/pel.
+Compressed bytes (excludes codestream headers) = 7,435 = 0.247833 bpp.
+Body bytes (excludes packet and codestream headers) = 7,322 = 0.244067 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.255467
+Layer thresholds:
+        43981
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1024.webp'
+File:      bacolor-crater-1024.png
+Dimension: 1024 x 600
+Output:    18512 bytes Y-U-V-All-PSNR 28.46 39.17 43.36   30.10 dB
+block count:  intra4: 1596
+              intra16: 836  (-> 34.38%)
+              skipped block: 112 (4.61%)
+bytes used:  header:            112  (0.6%)
+             mode-partition:   4517  (24.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      12%|      26%|      33%|      27%|    2432
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      57 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 19,055 = 0.248112 bits/pel.
+Compressed bytes (excludes codestream headers) = 18,826 = 0.245130 bpp.
+Body bytes (excludes packet and codestream headers) = 18,639 = 0.242695 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.248112
+Layer thresholds:
+        43972
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-1200.webp'
+File:      bacolor-crater-1200.png
+Dimension: 1200 x 703
+Output:    24402 bytes Y-U-V-All-PSNR 28.45 38.98 43.45   30.08 dB
+block count:  intra4: 2127
+              intra16: 1173  (-> 35.55%)
+              skipped block: 169 (5.12%)
+bytes used:  header:            127  (0.5%)
+             mode-partition:   6085  (24.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      27%|      30%|      28%|    3300
+      quantizer:  |     102 |      94 |      82 |      65 |
+   filter level:  |      50 |      31 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 26,242 = 0.248857 bits/pel.
+Compressed bytes (excludes codestream headers) = 26,013 = 0.246686 bpp.
+Body bytes (excludes packet and codestream headers) = 25,773 = 0.244410 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.248857
+Layer thresholds:
+        43961
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048
+Saving file 'bacolor-crater-2016.webp'
+File:      bacolor-crater-2016.png
+Dimension: 2016 x 1181
+Output:    69204 bytes Y-U-V-All-PSNR 29.08 38.89 43.62   30.69 dB
+block count:  intra4: 5820
+              intra16: 3504  (-> 37.58%)
+              skipped block: 640 (6.86%)
+bytes used:  header:            197  (0.3%)
+             mode-partition:  16762  (24.2%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      24%|      36%|      31%|    9324
+      quantizer:  |     100 |      92 |      82 |      66 |
+   filter level:  |      48 |      55 |      44 |      31 |
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 70,131 = 0.235646 bits/pel.
+Compressed bytes (excludes codestream headers) = 69,902 = 0.234876 bpp.
+Body bytes (excludes packet and codestream headers) = 69,410 = 0.233223 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.235646
+Layer thresholds:
+        43960
+Processed using the multi-threaded environment, with
+    8 parallel threads of execution
+Unrecognized TIFTag: 266(0x10a), 3, 1
+Unrecognized TIFTag: 297(0x129), 3, 2
+Unrecognized TIFTag: 318(0x13e), 5, 2
+Unrecognized TIFTag: 319(0x13f), 5, 6
+Unrecognized TIFTag: 34675(0x8773), 7, 3048

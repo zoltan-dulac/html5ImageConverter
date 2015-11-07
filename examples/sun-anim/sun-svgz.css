@@ -21,14 +21,35 @@
 	.sun {
 	  width: 128px;
 	  height: 122px;
-	  background: url('./sun-stitched.svgz') left center;
-    animation: sunplay 13400ms steps(134) infinite;
-    -webkit-animation: sunplay 13400ms steps(134) infinite;
-  }
+	}
+	
+	html.webp .sun {
+	  background: url('./sun.webp');
+	}
+	
+  
+     html.svg.no-webp.no-jpegxr.no-jpeg2000.cssanimations .sun {
+       background: url('./sun-stitched.svgz') left center;
+       animation: sunplay 13400ms steps(     134) infinite;
+       -webkit-animation: sunplay 13400ms steps(     134) infinite;
+     }
   
 	
+	html.no-apng.no-webp.cssanimations .sun {
+	    background: url('./sun-stitched.png') left center;
+	    animation: sunplay 13400ms steps( 134) infinite;
+	    -webkit-animation: sunplay 13400ms steps( 134) infinite;
+	}
 	
-	html.no-svg.no-cssanimations .sun {
+	html.no-apng.no-webp.jpegxr.cssanimations .sun {
+	    background: url('./sun-stitched.jxr') left center;
+	}
+	
+	html.no-apng.no-webp.jpeg2000.cssanimations .sun {
+	    background: url('./sun-stitched.jp2') left center;
+	}
+	
+	html.no-apng.no-webp.no-cssanimations .sun {
 	    background: url('./sun.gif') left center;
 	}
 	
