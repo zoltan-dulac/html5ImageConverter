@@ -1,0 +1,1 @@
+../../bin/html5ImageConverter.sh --webp-quals=90 --jxr-quals=87 --jp2-rates=0.4 --jpg-quals=20 --sizes=1225 --jxr-nconvert --has-alpha --compress-svg --use-mozjpeg swirl.png

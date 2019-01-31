@@ -1,0 +1,237 @@
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'charles-800.webp'
+File:      charles-800.png
+Dimension: 800 x 680 (with alpha)
+Output:    57038 bytes Y-U-V-All-PSNR 49.93 51.78 51.20   50.39 dB
+block count:  intra4: 489
+              intra16: 1661  (-> 77.26%)
+              skipped block: 1637 (76.14%)
+bytes used:  header:            481  (0.8%)
+             mode-partition:   3240  (5.7%)
+             transparency:    11459 (68.7 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      10%|      11%|      77%|       0%|    2150
+      quantizer:  |      12 |      10 |       8 |       8 |
+   filter level:  |       8 |       6 |       0 |       0 |
+Lossless-alpha compressed size: 11458 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 26,723 = 0.392985 bits/pel.
+Compressed bytes (excludes codestream headers) = 26,491 = 0.389574 bpp.
+Body bytes (excludes packet and codestream headers) = 26,005 = 0.382426 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.392985
+Layer thresholds:
+        43488
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+charles-800.png:
+  read 207KB file
+  made histogram...41693 colors found
+  selecting colors...3%
+  selecting colors...15%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...61 entries transparent
+  mapped image to new colors...MSE=14.023 (Q=58)
+  writing 256-color image as charles-800-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'charles-800.webp'
+File:      charles-800.png
+Dimension: 800 x 680 (with alpha)
+Output:    57038 bytes Y-U-V-All-PSNR 49.93 51.78 51.20   50.39 dB
+block count:  intra4: 489
+              intra16: 1661  (-> 77.26%)
+              skipped block: 1637 (76.14%)
+bytes used:  header:            481  (0.8%)
+             mode-partition:   3240  (5.7%)
+             transparency:    11459 (68.7 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      10%|      11%|      77%|       0%|    2150
+      quantizer:  |      12 |      10 |       8 |       8 |
+   filter level:  |       8 |       6 |       0 |       0 |
+Lossless-alpha compressed size: 11458 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 26,723 = 0.392985 bits/pel.
+Compressed bytes (excludes codestream headers) = 26,491 = 0.389574 bpp.
+Body bytes (excludes packet and codestream headers) = 26,005 = 0.382426 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.392985
+Layer thresholds:
+        43488
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+charles-800.png:
+  read 207KB file
+  made histogram...41693 colors found
+  selecting colors...3%
+  selecting colors...15%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...61 entries transparent
+  mapped image to new colors...MSE=14.023 (Q=58)
+  writing 256-color image as charles-800-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'charles-arm-down-800.webp'
+File:      charles-arm-down-800.png
+Dimension: 800 x 680 (with alpha)
+Output:    54544 bytes Y-U-V-All-PSNR 49.60 51.65 51.05   50.11 dB
+block count:  intra4: 467
+              intra16: 1683  (-> 78.28%)
+              skipped block: 1675 (77.91%)
+bytes used:  header:            468  (0.9%)
+             mode-partition:   3249  (6.0%)
+             transparency:    11795 (68.7 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      11%|       9%|      79%|       0%|    2150
+      quantizer:  |      12 |      11 |       8 |       8 |
+   filter level:  |       8 |       5 |       0 |       0 |
+Lossless-alpha compressed size: 11794 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 26,939 = 0.396162 bits/pel.
+Compressed bytes (excludes codestream headers) = 26,707 = 0.392750 bpp.
+Body bytes (excludes packet and codestream headers) = 26,200 = 0.385294 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.396162
+Layer thresholds:
+        43519
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+charles-arm-down-800.png:
+  read 207KB file
+  made histogram...42074 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...20%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...47%
+  selecting colors...49%
+  selecting colors...62%
+  selecting colors...75%
+  selecting colors...88%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...56 entries transparent
+  mapped image to new colors...MSE=14.210 (Q=57)
+  writing 256-color image as charles-arm-down-800-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'charles-arm-up-800.webp'
+File:      charles-arm-up-800.png
+Dimension: 800 x 680 (with alpha)
+Output:    54090 bytes Y-U-V-All-PSNR 49.58 51.58 50.95   50.07 dB
+block count:  intra4: 475
+              intra16: 1675  (-> 77.91%)
+              skipped block: 1662 (77.30%)
+bytes used:  header:            467  (0.9%)
+             mode-partition:   3231  (6.0%)
+             transparency:    11151 (69.3 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      10%|      10%|      78%|       0%|    2150
+      quantizer:  |      12 |      11 |       8 |       8 |
+   filter level:  |       8 |       5 |       0 |       0 |
+Lossless-alpha compressed size: 11150 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 26,696 = 0.392588 bits/pel.
+Compressed bytes (excludes codestream headers) = 26,464 = 0.389176 bpp.
+Body bytes (excludes packet and codestream headers) = 25,962 = 0.381794 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.392588
+Layer thresholds:
+        43588
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+charles-arm-up-800.png:
+  read 210KB file
+  made histogram...41251 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...20%
+  selecting colors...32%
+  selecting colors...35%
+  selecting colors...47%
+  selecting colors...49%
+  selecting colors...52%
+  selecting colors...64%
+  selecting colors...77%
+  selecting colors...90%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...54 entries transparent
+  mapped image to new colors...MSE=13.865 (Q=58)
+  writing 256-color image as charles-arm-up-800-quant.png
+No errors detected while quantizing 1 image.

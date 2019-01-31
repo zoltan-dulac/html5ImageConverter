@@ -1,0 +1,1 @@
+../../bin/html5ImageConverter.sh --jxr-nconvert --jpg-quals=70 --webp-quals=60 --jp2-rates=0.13 --sizes=360/720/768/835/1536/1670 --no-png --use-mozjpeg --jxr-quals=30 epilepsy.png

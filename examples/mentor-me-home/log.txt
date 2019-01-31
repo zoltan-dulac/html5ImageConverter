@@ -1,0 +1,329 @@
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'mentor-me-320.webp'
+File:      mentor-me-320.png
+Dimension: 320 x 374
+Output:    14492 bytes Y-U-V-All-PSNR 36.72 42.11 41.79   37.87 dB
+block count:  intra4: 349
+              intra16: 131  (-> 27.29%)
+              skipped block: 102 (21.25%)
+bytes used:  header:            142  (1.0%)
+             mode-partition:   1717  (11.8%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      12%|      20%|      33%|      33%|     480
+      quantizer:  |      45 |      39 |      32 |      24 |
+   filter level:  |      14 |       8 |       6 |       4 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 8,947 = 0.598061 bits/pel.
+Compressed bytes (excludes codestream headers) = 8,718 = 0.582754 bpp.
+Body bytes (excludes packet and codestream headers) = 8,549 = 0.571457 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.598061
+Layer thresholds:
+        43533
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+mentor-me-320.png:
+  read 130KB file
+  made histogram...23691 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...20%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...71%
+  selecting colors...83%
+  selecting colors...96%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=8.161 (Q=73)
+  writing 256-color image as mentor-me-320-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'mentor-me-600.webp'
+File:      mentor-me-600.png
+Dimension: 600 x 701
+Output:    43382 bytes Y-U-V-All-PSNR 37.58 42.38 42.04   38.65 dB
+block count:  intra4: 1078
+              intra16: 594  (-> 35.53%)
+              skipped block: 521 (31.16%)
+bytes used:  header:            255  (0.6%)
+             mode-partition:   5120  (11.8%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      16%|      36%|      38%|    1672
+      quantizer:  |      45 |      41 |      33 |      25 |
+   filter level:  |      14 |       9 |       6 |       4 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 31,495 = 0.599049 bits/pel.
+Compressed bytes (excludes codestream headers) = 31,266 = 0.594693 bpp.
+Body bytes (excludes packet and codestream headers) = 30,935 = 0.588398 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.599049
+Layer thresholds:
+        43496
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+mentor-me-600.png:
+  read 376KB file
+  made histogram...66486 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...20%
+  selecting colors...22%
+  selecting colors...24%
+  selecting colors...37%
+  selecting colors...49%
+  selecting colors...62%
+  selecting colors...75%
+  selecting colors...88%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=10.825 (Q=66)
+  writing 256-color image as mentor-me-600-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'mentor-me-640.webp'
+File:      mentor-me-640.png
+Dimension: 640 x 748
+Output:    47758 bytes Y-U-V-All-PSNR 37.67 42.38 42.20   38.74 dB
+block count:  intra4: 1223
+              intra16: 657  (-> 34.95%)
+              skipped block: 575 (30.59%)
+bytes used:  header:            247  (0.5%)
+             mode-partition:   5605  (11.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      16%|      36%|      39%|    1880
+      quantizer:  |      45 |      41 |      33 |      25 |
+   filter level:  |      14 |       9 |       6 |       4 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 29,770 = 0.497493 bits/pel.
+Compressed bytes (excludes codestream headers) = 29,541 = 0.493666 bpp.
+Body bytes (excludes packet and codestream headers) = 29,205 = 0.488051 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.497493
+Layer thresholds:
+        43645
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+mentor-me-640.png:
+  read 420KB file
+  made histogram...73746 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...20%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...71%
+  selecting colors...83%
+  selecting colors...96%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=11.089 (Q=65)
+  writing 256-color image as mentor-me-640-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'mentor-me-1024.webp'
+File:      mentor-me-1024.png
+Dimension: 1024 x 1196
+Output:    98220 bytes Y-U-V-All-PSNR 38.44 42.46 42.19   39.39 dB
+block count:  intra4: 2733
+              intra16: 2067  (-> 43.06%)
+              skipped block: 1852 (38.58%)
+bytes used:  header:            300  (0.3%)
+             mode-partition:  12293  (12.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      11%|      36%|      45%|    4800
+      quantizer:  |      45 |      41 |      35 |      26 |
+   filter level:  |      14 |       9 |       7 |       5 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 76,481 = 0.499588 bits/pel.
+Compressed bytes (excludes codestream headers) = 76,252 = 0.498093 bpp.
+Body bytes (excludes packet and codestream headers) = 75,578 = 0.493690 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.499588
+Layer thresholds:
+        43528
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+mentor-me-1024.png:
+  read 923KB file
+  made histogram...151604 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=12.967 (Q=60)
+  writing 256-color image as mentor-me-1024-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'mentor-me-1200.webp'
+File:      mentor-me-1200.png
+Dimension: 1200 x 1402
+Output:    125194 bytes Y-U-V-All-PSNR 38.75 42.62 42.30   39.67 dB
+block count:  intra4: 3585
+              intra16: 3015  (-> 45.68%)
+              skipped block: 2681 (40.62%)
+bytes used:  header:            327  (0.3%)
+             mode-partition:  16168  (12.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       4%|      10%|      36%|      48%|    6600
+      quantizer:  |      45 |      43 |      35 |      27 |
+   filter level:  |      14 |       9 |       7 |       6 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 104,060 = 0.494817 bits/pel.
+Compressed bytes (excludes codestream headers) = 103,831 = 0.493728 bpp.
+Body bytes (excludes packet and codestream headers) = 102,935 = 0.489467 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.494817
+Layer thresholds:
+        43443
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+mentor-me-1200.png:
+  read 1205KB file
+  made histogram...191316 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...22%
+  selecting colors...24%
+  selecting colors...26%
+  selecting colors...28%
+  selecting colors...41%
+  selecting colors...54%
+  selecting colors...66%
+  selecting colors...79%
+  selecting colors...92%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=13.738 (Q=58)
+  writing 256-color image as mentor-me-1200-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'mentor-me-2016.webp'
+File:      mentor-me-2016.png
+Dimension: 2016 x 2355
+Output:    254466 bytes Y-U-V-All-PSNR 39.71 42.88 42.71   40.51 dB
+block count:  intra4: 8294
+              intra16: 10354  (-> 55.52%)
+              skipped block: 9265 (49.68%)
+bytes used:  header:            320  (0.1%)
+             mode-partition:  38452  (15.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       9%|      29%|      57%|   18648
+      quantizer:  |      45 |      44 |      37 |      28 |
+   filter level:  |      14 |      10 |      15 |      12 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 296,179 = 0.499072 bits/pel.
+Compressed bytes (excludes codestream headers) = 295,950 = 0.498686 bpp.
+Body bytes (excludes packet and codestream headers) = 293,640 = 0.494793 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.499072
+Layer thresholds:
+        43125
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+mentor-me-2016.png:
+  conserving memory
+  read 2879KB file
+  made histogram...394522 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...20%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...71%
+  selecting colors...83%
+  selecting colors...96%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...0 entries transparent
+  mapped image to new colors...MSE=15.689 (Q=53)
+  writing 256-color image as mentor-me-2016-quant.png
+No errors detected while quantizing 1 image.

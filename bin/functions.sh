@@ -144,7 +144,9 @@ ifErrorPrintAndExit () {
   
   if [ "$PREV_RETURN" != "0" ]
   then
-    echo "$1" 1>&2
+    echo 1>&2
+    echo "$ERROR" 1>&2
+    echo 1>&2
     
     if [ "$TMPDIR" != "" ]
     then
@@ -188,8 +190,20 @@ function toJPEG {
   if [ "$USE_MOZJPEG" = "true" -a "$MOZJPEG" != "" ]
   then
     echo "   - jpeg using mozjpeg (Quality: $JPG_QUAL)"
-    $MOZJPEG -quality $JPG_QUAL -outfile $2 $1 >> log.txt
+    echo "Converting to PPM"
+    convert $1 $1.ppm
     MOZ_JPEG_SUCCESS="$?"
+    
+    if [ "$MOZ_JPEG_SUCCESS" = "0" ]
+    then
+	    CMD="$MOZJPEG -quality $JPG_QUAL -outfile $2 $1.ppm"
+	    echo "Command: $CMD"
+	    $CMD >> log.txt
+	    MOZ_JPEG_SUCCESS="$?"
+	  fi
+	  
+	  #.. This needs to remain a separate if from the one above since the one 
+	  #   above changes the value of $MOZ_JPEG_SUCCESS
     if [ "$MOZ_JPEG_SUCCESS" != "0" ]
     then
       echo "mozjpeg failed (maybe you didn't set the value of MOZ_JPEG" 
@@ -235,7 +249,7 @@ function createJPEGwithSVGfilter () {
       ifErrorPrintAndExit "Could not convert $stub"_alpha.jpg" to base64.  Bailing"  204
       
       #.. Remove the intermediate files
-      # rm $stub"_alpha.png" $stub"_alpha.jpg" $stub".jpg"
+      rm $stub"_alpha.png" $stub"_alpha.jpg" $stub".jpg"
       
       echo 'Creating SVG'
       echo '<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 '$WIDTH' '$HEIGHT'" width="'$WIDTH'" height="'$HEIGHT'" xmlns="http://www.w3.org/2000/svg">
@@ -317,7 +331,8 @@ function cutImages() {
     then
       echo "   - quantized png" 1>&2
       pngquant --speed 1 --ext -quant.png -v $stub.png >> log.txt 2>> log.txt
-      ifErrorPrintAndExit "Creating QUANTIZED png failed.  Bailing"  104
+      ifErrorPrintAndExit "Creating QUANTIZED png failed.  If it is not installed, 
+you can get the latest at https://pngquant.org/.  Bailing" 104
     fi
     
     rm $stub.tif

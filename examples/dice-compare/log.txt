@@ -8820,3 +8820,864 @@ dice-1024.png:
   mapped image to new colors...MSE=7.642 (Q=75)
   writing 256-color image as dice-1024-quant.png
 No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'dice-320.webp'
+File:      dice-320.png
+Dimension: 320 x 240 (with alpha)
+Output:    17022 bytes Y-U-V-All-PSNR 48.08 46.22 46.70   47.47 dB
+block count:  intra4: 134
+              intra16: 166  (-> 55.33%)
+              skipped block: 162 (54.00%)
+bytes used:  header:            280  (1.6%)
+             mode-partition:    820  (4.8%)
+             transparency:     8298 (58.9 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      25%|      19%|      55%|       0%|     300
+      quantizer:  |      12 |      10 |       6 |       6 |
+   filter level:  |      12 |      10 |       6 |       0 |
+Lossless-alpha compressed size: 8297 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   121
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 1,917 = 0.199687 bits/pel.
+Compressed bytes (excludes codestream headers) = 1,685 = 0.175521 bpp.
+Body bytes (excludes packet and codestream headers) = 1,569 = 0.163438 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.199687
+Layer thresholds:
+        44536
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+../../bin/functions.sh: line 319: pngquant: command not found
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'dice-320.webp'
+File:      dice-320.png
+Dimension: 320 x 240 (with alpha)
+Output:    17022 bytes Y-U-V-All-PSNR 48.08 46.22 46.70   47.47 dB
+block count:  intra4: 134
+              intra16: 166  (-> 55.33%)
+              skipped block: 162 (54.00%)
+bytes used:  header:            280  (1.6%)
+             mode-partition:    820  (4.8%)
+             transparency:     8298 (58.9 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      25%|      19%|      55%|       0%|     300
+      quantizer:  |      12 |      10 |       6 |       6 |
+   filter level:  |      12 |      10 |       6 |       0 |
+Lossless-alpha compressed size: 8297 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   121
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 1,917 = 0.199687 bits/pel.
+Compressed bytes (excludes codestream headers) = 1,685 = 0.175521 bpp.
+Body bytes (excludes packet and codestream headers) = 1,569 = 0.163438 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.199687
+Layer thresholds:
+        44536
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+../../bin/functions.sh: line 319: pngquant: command not found
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'dice-320.webp'
+File:      dice-320.png
+Dimension: 320 x 240 (with alpha)
+Output:    17022 bytes Y-U-V-All-PSNR 48.08 46.22 46.70   47.47 dB
+block count:  intra4: 134
+              intra16: 166  (-> 55.33%)
+              skipped block: 162 (54.00%)
+bytes used:  header:            280  (1.6%)
+             mode-partition:    820  (4.8%)
+             transparency:     8298 (58.9 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      25%|      19%|      55%|       0%|     300
+      quantizer:  |      12 |      10 |       6 |       6 |
+   filter level:  |      12 |      10 |       6 |       0 |
+Lossless-alpha compressed size: 8297 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   121
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 1,917 = 0.199687 bits/pel.
+Compressed bytes (excludes codestream headers) = 1,685 = 0.175521 bpp.
+Body bytes (excludes packet and codestream headers) = 1,569 = 0.163438 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.199687
+Layer thresholds:
+        44536
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+../../bin/functions.sh: line 321: pngquant: command not found
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'dice-320.webp'
+File:      dice-320.png
+Dimension: 320 x 240 (with alpha)
+Output:    17022 bytes Y-U-V-All-PSNR 48.08 46.22 46.70   47.47 dB
+block count:  intra4: 134
+              intra16: 166  (-> 55.33%)
+              skipped block: 162 (54.00%)
+bytes used:  header:            280  (1.6%)
+             mode-partition:    820  (4.8%)
+             transparency:     8298 (58.9 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      25%|      19%|      55%|       0%|     300
+      quantizer:  |      12 |      10 |       6 |       6 |
+   filter level:  |      12 |      10 |       6 |       0 |
+Lossless-alpha compressed size: 8297 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   121
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 1,915 = 0.199479 bits/pel.
+Compressed bytes (excludes codestream headers) = 1,683 = 0.175313 bpp.
+Body bytes (excludes packet and codestream headers) = 1,567 = 0.163229 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.199479
+Layer thresholds:
+        44541
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+dice-320.png:
+  read 57KB file
+  made histogram...16922 colors found
+  selecting colors...3%
+  selecting colors...15%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...71%
+  selecting colors...83%
+  selecting colors...96%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...204 entries transparent
+  mapped image to new colors...MSE=20.304 (Q=43)
+  writing 256-color image as dice-320-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'dice-600.webp'
+File:      dice-600.png
+Dimension: 600 x 450 (with alpha)
+Output:    38536 bytes Y-U-V-All-PSNR 50.00 49.34 49.40   49.78 dB
+block count:  intra4: 397
+              intra16: 705  (-> 63.97%)
+              skipped block: 683 (61.98%)
+bytes used:  header:            317  (0.8%)
+             mode-partition:   2335  (6.1%)
+             transparency:    20478 (59.5 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      22%|      11%|      66%|       0%|    1102
+      quantizer:  |      12 |      10 |       7 |       7 |
+   filter level:  |      12 |      10 |       5 |       0 |
+Lossless-alpha compressed size: 20477 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 13,468 = 0.399052 bits/pel.
+Compressed bytes (excludes codestream headers) = 13,236 = 0.392178 bpp.
+Body bytes (excludes packet and codestream headers) = 12,985 = 0.384741 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.399052
+Layer thresholds:
+        43012
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+dice-600.png:
+  read 143KB file
+  made histogram...45710 colors found
+  selecting colors...3%
+  selecting colors...15%
+  selecting colors...28%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...194 entries transparent
+  mapped image to new colors...MSE=19.522 (Q=44)
+  writing 256-color image as dice-600-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'dice-1024.webp'
+File:      dice-1024.png
+Dimension: 1024 x 768 (with alpha)
+Output:    80330 bytes Y-U-V-All-PSNR 51.34 51.28 51.52   51.36 dB
+block count:  intra4: 1017
+              intra16: 2055  (-> 66.89%)
+              skipped block: 1960 (63.80%)
+bytes used:  header:            376  (0.5%)
+             mode-partition:   5475  (6.8%)
+             transparency:    47006 (59.5 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      14%|      13%|      72%|       0%|    3072
+      quantizer:  |      12 |      11 |       7 |       7 |
+   filter level:  |      12 |       9 |       5 |       0 |
+Lossless-alpha compressed size: 47005 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 29,067 = 0.295685 bits/pel.
+Compressed bytes (excludes codestream headers) = 28,835 = 0.293325 bpp.
+Body bytes (excludes packet and codestream headers) = 28,399 = 0.288890 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.295685
+Layer thresholds:
+        42640
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+dice-1024.png:
+  read 329KB file
+  made histogram...104778 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...187 entries transparent
+  mapped image to new colors...MSE=19.452 (Q=45)
+  writing 256-color image as dice-1024-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'dice-320.webp'
+File:      dice-320.png
+Dimension: 320 x 240 (with alpha)
+Output:    17022 bytes Y-U-V-All-PSNR 48.08 46.22 46.70   47.47 dB
+block count:  intra4: 134
+              intra16: 166  (-> 55.33%)
+              skipped block: 162 (54.00%)
+bytes used:  header:            280  (1.6%)
+             mode-partition:    820  (4.8%)
+             transparency:     8298 (58.9 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      25%|      19%|      55%|       0%|     300
+      quantizer:  |      12 |      10 |       6 |       6 |
+   filter level:  |      12 |      10 |       6 |       0 |
+Lossless-alpha compressed size: 8297 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   121
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 1,915 = 0.199479 bits/pel.
+Compressed bytes (excludes codestream headers) = 1,683 = 0.175313 bpp.
+Body bytes (excludes packet and codestream headers) = 1,567 = 0.163229 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.199479
+Layer thresholds:
+        44541
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+dice-320.png:
+  read 57KB file
+  made histogram...16922 colors found
+  selecting colors...3%
+  selecting colors...15%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...71%
+  selecting colors...83%
+  selecting colors...96%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...204 entries transparent
+  mapped image to new colors...MSE=20.304 (Q=43)
+  writing 256-color image as dice-320-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'dice-600.webp'
+File:      dice-600.png
+Dimension: 600 x 450 (with alpha)
+Output:    38536 bytes Y-U-V-All-PSNR 50.00 49.34 49.40   49.78 dB
+block count:  intra4: 397
+              intra16: 705  (-> 63.97%)
+              skipped block: 683 (61.98%)
+bytes used:  header:            317  (0.8%)
+             mode-partition:   2335  (6.1%)
+             transparency:    20478 (59.5 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      22%|      11%|      66%|       0%|    1102
+      quantizer:  |      12 |      10 |       7 |       7 |
+   filter level:  |      12 |      10 |       5 |       0 |
+Lossless-alpha compressed size: 20477 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 13,468 = 0.399052 bits/pel.
+Compressed bytes (excludes codestream headers) = 13,236 = 0.392178 bpp.
+Body bytes (excludes packet and codestream headers) = 12,985 = 0.384741 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.399052
+Layer thresholds:
+        43012
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+dice-600.png:
+  read 143KB file
+  made histogram...45710 colors found
+  selecting colors...3%
+  selecting colors...15%
+  selecting colors...28%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...194 entries transparent
+  mapped image to new colors...MSE=19.522 (Q=44)
+  writing 256-color image as dice-600-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'dice-1024.webp'
+File:      dice-1024.png
+Dimension: 1024 x 768 (with alpha)
+Output:    80330 bytes Y-U-V-All-PSNR 51.34 51.28 51.52   51.36 dB
+block count:  intra4: 1017
+              intra16: 2055  (-> 66.89%)
+              skipped block: 1960 (63.80%)
+bytes used:  header:            376  (0.5%)
+             mode-partition:   5475  (6.8%)
+             transparency:    47006 (59.5 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      14%|      13%|      72%|       0%|    3072
+      quantizer:  |      12 |      11 |       7 |       7 |
+   filter level:  |      12 |       9 |       5 |       0 |
+Lossless-alpha compressed size: 47005 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 29,067 = 0.295685 bits/pel.
+Compressed bytes (excludes codestream headers) = 28,835 = 0.293325 bpp.
+Body bytes (excludes packet and codestream headers) = 28,399 = 0.288890 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.295685
+Layer thresholds:
+        42640
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+dice-1024.png:
+  read 329KB file
+  made histogram...104778 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...187 entries transparent
+  mapped image to new colors...MSE=19.452 (Q=45)
+  writing 256-color image as dice-1024-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'dice-320.webp'
+File:      dice-320.png
+Dimension: 320 x 240 (with alpha)
+Output:    17022 bytes Y-U-V-All-PSNR 48.08 46.22 46.70   47.47 dB
+block count:  intra4: 134
+              intra16: 166  (-> 55.33%)
+              skipped block: 162 (54.00%)
+bytes used:  header:            280  (1.6%)
+             mode-partition:    820  (4.8%)
+             transparency:     8298 (58.9 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      25%|      19%|      55%|       0%|     300
+      quantizer:  |      12 |      10 |       6 |       6 |
+   filter level:  |      12 |      10 |       6 |       0 |
+Lossless-alpha compressed size: 8297 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   121
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 1,917 = 0.199687 bits/pel.
+Compressed bytes (excludes codestream headers) = 1,685 = 0.175521 bpp.
+Body bytes (excludes packet and codestream headers) = 1,569 = 0.163438 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.199687
+Layer thresholds:
+        44536
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+dice-320.png:
+  read 57KB file
+  made histogram...16922 colors found
+  selecting colors...3%
+  selecting colors...15%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...71%
+  selecting colors...83%
+  selecting colors...96%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...204 entries transparent
+  mapped image to new colors...MSE=20.304 (Q=43)
+  writing 256-color image as dice-320-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'dice-600.webp'
+File:      dice-600.png
+Dimension: 600 x 450 (with alpha)
+Output:    38536 bytes Y-U-V-All-PSNR 50.00 49.34 49.40   49.78 dB
+block count:  intra4: 397
+              intra16: 705  (-> 63.97%)
+              skipped block: 683 (61.98%)
+bytes used:  header:            317  (0.8%)
+             mode-partition:   2335  (6.1%)
+             transparency:    20478 (59.5 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      22%|      11%|      66%|       0%|    1102
+      quantizer:  |      12 |      10 |       7 |       7 |
+   filter level:  |      12 |      10 |       5 |       0 |
+Lossless-alpha compressed size: 20477 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 13,468 = 0.399052 bits/pel.
+Compressed bytes (excludes codestream headers) = 13,236 = 0.392178 bpp.
+Body bytes (excludes packet and codestream headers) = 12,985 = 0.384741 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.399052
+Layer thresholds:
+        43012
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+dice-600.png:
+  read 143KB file
+  made histogram...45710 colors found
+  selecting colors...3%
+  selecting colors...15%
+  selecting colors...28%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...194 entries transparent
+  mapped image to new colors...MSE=19.522 (Q=44)
+  writing 256-color image as dice-600-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'dice-1024.webp'
+File:      dice-1024.png
+Dimension: 1024 x 768 (with alpha)
+Output:    80330 bytes Y-U-V-All-PSNR 51.34 51.28 51.52   51.36 dB
+block count:  intra4: 1017
+              intra16: 2055  (-> 66.89%)
+              skipped block: 1960 (63.80%)
+bytes used:  header:            376  (0.5%)
+             mode-partition:   5475  (6.8%)
+             transparency:    47006 (59.5 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      14%|      13%|      72%|       0%|    3072
+      quantizer:  |      12 |      11 |       7 |       7 |
+   filter level:  |      12 |       9 |       5 |       0 |
+Lossless-alpha compressed size: 47005 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 29,067 = 0.295685 bits/pel.
+Compressed bytes (excludes codestream headers) = 28,835 = 0.293325 bpp.
+Body bytes (excludes packet and codestream headers) = 28,399 = 0.288890 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.295685
+Layer thresholds:
+        42640
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+dice-1024.png:
+  read 329KB file
+  made histogram...104778 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...187 entries transparent
+  mapped image to new colors...MSE=19.452 (Q=45)
+  writing 256-color image as dice-1024-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'dice-320.webp'
+File:      dice-320.png
+Dimension: 320 x 240 (with alpha)
+Output:    17022 bytes Y-U-V-All-PSNR 48.08 46.22 46.70   47.47 dB
+block count:  intra4: 134
+              intra16: 166  (-> 55.33%)
+              skipped block: 162 (54.00%)
+bytes used:  header:            280  (1.6%)
+             mode-partition:    820  (4.8%)
+             transparency:     8298 (58.9 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      25%|      19%|      55%|       0%|     300
+      quantizer:  |      12 |      10 |       6 |       6 |
+   filter level:  |      12 |      10 |       6 |       0 |
+Lossless-alpha compressed size: 8297 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   121
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 1,917 = 0.199687 bits/pel.
+Compressed bytes (excludes codestream headers) = 1,685 = 0.175521 bpp.
+Body bytes (excludes packet and codestream headers) = 1,569 = 0.163438 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.199687
+Layer thresholds:
+        44536
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+dice-320.png:
+  read 57KB file
+  made histogram...16922 colors found
+  selecting colors...3%
+  selecting colors...15%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...71%
+  selecting colors...83%
+  selecting colors...96%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...204 entries transparent
+  mapped image to new colors...MSE=20.304 (Q=43)
+  writing 256-color image as dice-320-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'dice-600.webp'
+File:      dice-600.png
+Dimension: 600 x 450 (with alpha)
+Output:    38536 bytes Y-U-V-All-PSNR 50.00 49.34 49.40   49.78 dB
+block count:  intra4: 397
+              intra16: 705  (-> 63.97%)
+              skipped block: 683 (61.98%)
+bytes used:  header:            317  (0.8%)
+             mode-partition:   2335  (6.1%)
+             transparency:    20478 (59.5 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      22%|      11%|      66%|       0%|    1102
+      quantizer:  |      12 |      10 |       7 |       7 |
+   filter level:  |      12 |      10 |       5 |       0 |
+Lossless-alpha compressed size: 20477 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 13,468 = 0.399052 bits/pel.
+Compressed bytes (excludes codestream headers) = 13,236 = 0.392178 bpp.
+Body bytes (excludes packet and codestream headers) = 12,985 = 0.384741 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.399052
+Layer thresholds:
+        43012
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+dice-600.png:
+  read 143KB file
+  made histogram...45710 colors found
+  selecting colors...3%
+  selecting colors...15%
+  selecting colors...28%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...194 entries transparent
+  mapped image to new colors...MSE=19.522 (Q=44)
+  writing 256-color image as dice-600-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'dice-1024.webp'
+File:      dice-1024.png
+Dimension: 1024 x 768 (with alpha)
+Output:    80330 bytes Y-U-V-All-PSNR 51.34 51.28 51.52   51.36 dB
+block count:  intra4: 1017
+              intra16: 2055  (-> 66.89%)
+              skipped block: 1960 (63.80%)
+bytes used:  header:            376  (0.5%)
+             mode-partition:   5475  (6.8%)
+             transparency:    47006 (59.5 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      14%|      13%|      72%|       0%|    3072
+      quantizer:  |      12 |      11 |       7 |       7 |
+   filter level:  |      12 |       9 |       5 |       0 |
+Lossless-alpha compressed size: 47005 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Metadata:
+  * ICC profile:    3048 bytes
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 29,067 = 0.295685 bits/pel.
+Compressed bytes (excludes codestream headers) = 28,835 = 0.293325 bpp.
+Body bytes (excludes packet and codestream headers) = 28,399 = 0.288890 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.295685
+Layer thresholds:
+        42640
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+dice-1024.png:
+  read 329KB file
+  made histogram...104778 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...187 entries transparent
+  mapped image to new colors...MSE=19.452 (Q=45)
+  writing 256-color image as dice-1024-quant.png
+No errors detected while quantizing 1 image.

@@ -1,0 +1,292 @@
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'swirl-433.webp'
+File:      swirl-433.png
+Dimension: 433 x 452 (with alpha)
+Output:    32994 bytes Y-U-V-All-PSNR 49.92 52.84 56.07   50.93 dB
+block count:  intra4: 287
+              intra16: 525  (-> 64.66%)
+              skipped block: 511 (62.93%)
+bytes used:  header:            321  (1.0%)
+             mode-partition:   1358  (4.1%)
+             transparency:    14969 (63.1 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      25%|      64%|       0%|     812
+      quantizer:  |      12 |      10 |       8 |       8 |
+   filter level:  |       0 |       0 |       0 |       0 |
+Lossless-alpha compressed size: 14968 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 9,657 = 0.394735 bits/pel.
+Compressed bytes (excludes codestream headers) = 9,425 = 0.385252 bpp.
+Body bytes (excludes packet and codestream headers) = 9,257 = 0.378385 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.394735
+Layer thresholds:
+        44129
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+swirl-433.png:
+  read 75KB file
+  made histogram...9533 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...20%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...47%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...75%
+  selecting colors...88%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...240 entries transparent
+  mapped image to new colors...MSE=1.087 (Q=96)
+  writing 256-color image as swirl-433-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'swirl-1225.webp'
+File:      swirl-1225.png
+Dimension: 1225 x 1279 (with alpha)
+Output:    99638 bytes Y-U-V-All-PSNR 52.68 54.72 57.09   53.48 dB
+block count:  intra4: 1143
+              intra16: 5017  (-> 81.44%)
+              skipped block: 4967 (80.63%)
+bytes used:  header:            435  (0.4%)
+             mode-partition:   6148  (6.2%)
+             transparency:    49095 (65.8 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      18%|      81%|       0%|       0%|    6160
+      quantizer:  |      12 |       8 |       8 |       8 |
+   filter level:  |       0 |       0 |       0 |       0 |
+Lossless-alpha compressed size: 49094 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 77,530 = 0.395870 bits/pel.
+Compressed bytes (excludes codestream headers) = 77,298 = 0.394686 bpp.
+Body bytes (excludes packet and codestream headers) = 76,012 = 0.388120 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.395870
+Layer thresholds:
+        43250
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+swirl-1225.png:
+  read 232KB file
+  made histogram...24665 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...236 entries transparent
+  mapped image to new colors...MSE=1.895 (Q=93)
+  writing 256-color image as swirl-1225-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'swirl-1225.webp'
+File:      swirl-1225.png
+Dimension: 1225 x 1279 (with alpha)
+Output:    99638 bytes Y-U-V-All-PSNR 52.68 54.72 57.09   53.48 dB
+block count:  intra4: 1143
+              intra16: 5017  (-> 81.44%)
+              skipped block: 4967 (80.63%)
+bytes used:  header:            435  (0.4%)
+             mode-partition:   6148  (6.2%)
+             transparency:    49095 (65.8 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      18%|      81%|       0%|       0%|    6160
+      quantizer:  |      12 |       8 |       8 |       8 |
+   filter level:  |       0 |       0 |       0 |       0 |
+Lossless-alpha compressed size: 49094 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 77,530 = 0.395870 bits/pel.
+Compressed bytes (excludes codestream headers) = 77,298 = 0.394686 bpp.
+Body bytes (excludes packet and codestream headers) = 76,012 = 0.388120 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.395870
+Layer thresholds:
+        43251
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+swirl-1225.png:
+  read 232KB file
+  made histogram...24665 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...236 entries transparent
+  mapped image to new colors...MSE=1.895 (Q=93)
+  writing 256-color image as swirl-1225-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'swirl-1225.webp'
+File:      swirl-1225.png
+Dimension: 1225 x 1279 (with alpha)
+Output:    99638 bytes Y-U-V-All-PSNR 52.68 54.72 57.09   53.48 dB
+block count:  intra4: 1143
+              intra16: 5017  (-> 81.44%)
+              skipped block: 4967 (80.63%)
+bytes used:  header:            435  (0.4%)
+             mode-partition:   6148  (6.2%)
+             transparency:    49095 (65.8 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      18%|      81%|       0%|       0%|    6160
+      quantizer:  |      12 |       8 |       8 |       8 |
+   filter level:  |       0 |       0 |       0 |       0 |
+Lossless-alpha compressed size: 49094 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 77,530 = 0.395870 bits/pel.
+Compressed bytes (excludes codestream headers) = 77,298 = 0.394686 bpp.
+Body bytes (excludes packet and codestream headers) = 76,012 = 0.388120 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.395870
+Layer thresholds:
+        43249
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+swirl-1225.png:
+  read 232KB file
+  made histogram...24665 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...236 entries transparent
+  mapped image to new colors...MSE=1.895 (Q=93)
+  writing 256-color image as swirl-1225-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'swirl-1225.webp'
+File:      swirl-1225.png
+Dimension: 1225 x 1279 (with alpha)
+Output:    99638 bytes Y-U-V-All-PSNR 52.68 54.72 57.09   53.48 dB
+block count:  intra4: 1143
+              intra16: 5017  (-> 81.44%)
+              skipped block: 4967 (80.63%)
+bytes used:  header:            435  (0.4%)
+             mode-partition:   6148  (6.2%)
+             transparency:    49095 (65.8 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      18%|      81%|       0%|       0%|    6160
+      quantizer:  |      12 |       8 |       8 |       8 |
+   filter level:  |       0 |       0 |       0 |       0 |
+Lossless-alpha compressed size: 49094 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 77,530 = 0.395870 bits/pel.
+Compressed bytes (excludes codestream headers) = 77,298 = 0.394686 bpp.
+Body bytes (excludes packet and codestream headers) = 76,012 = 0.388120 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.395870
+Layer thresholds:
+        43249
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+swirl-1225.png:
+  read 232KB file
+  made histogram...24665 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...43%
+  selecting colors...56%
+  selecting colors...69%
+  selecting colors...81%
+  selecting colors...94%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...236 entries transparent
+  mapped image to new colors...MSE=1.895 (Q=93)
+  writing 256-color image as swirl-1225-quant.png
+No errors detected while quantizing 1 image.

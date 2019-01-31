@@ -1,0 +1,780 @@
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'janet-800.webp'
+File:      janet-800.png
+Dimension: 800 x 1153 (with alpha)
+Output:    95896 bytes Y-U-V-All-PSNR 49.63 51.06 49.99   49.90 dB
+block count:  intra4: 1070
+              intra16: 2580  (-> 70.68%)
+              skipped block: 2540 (69.59%)
+bytes used:  header:            570  (0.6%)
+             mode-partition:   6686  (7.0%)
+             transparency:    32713 (65.1 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      14%|      14%|      71%|       0%|    3650
+      quantizer:  |      12 |      11 |       7 |       7 |
+   filter level:  |      12 |       9 |       0 |       0 |
+Lossless-alpha compressed size: 32712 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   144
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 46,105 = 0.399870 bits/pel.
+Compressed bytes (excludes codestream headers) = 45,873 = 0.397858 bpp.
+Body bytes (excludes packet and codestream headers) = 45,121 = 0.391336 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.399870
+Layer thresholds:
+        42984
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+janet-800.png:
+  read 441KB file
+  made histogram...115113 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...22%
+  selecting colors...35%
+  selecting colors...47%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...77 entries transparent
+  mapped image to new colors...MSE=13.237 (Q=60)
+  writing 256-color image as janet-800-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'janet-433.webp'
+File:      janet-433.png
+Dimension: 433 x 624 (with alpha)
+Output:    42460 bytes Y-U-V-All-PSNR 48.09 49.95 49.07   48.50 dB
+block count:  intra4: 361
+              intra16: 731  (-> 66.94%)
+              skipped block: 720 (65.93%)
+bytes used:  header:            488  (1.1%)
+             mode-partition:   2239  (5.3%)
+             transparency:     9703 (67.2 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      15%|      17%|      67%|       0%|    1092
+      quantizer:  |      12 |      10 |       7 |       7 |
+   filter level:  |       8 |       6 |       0 |       0 |
+Lossless-alpha compressed size: 9702 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 13,507 = 0.399923 bits/pel.
+Compressed bytes (excludes codestream headers) = 13,275 = 0.393054 bpp.
+Body bytes (excludes packet and codestream headers) = 12,931 = 0.382868 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.399923
+Layer thresholds:
+        43784
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+janet-433.png:
+  read 157KB file
+  made histogram...35389 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...22%
+  selecting colors...35%
+  selecting colors...37%
+  selecting colors...49%
+  selecting colors...62%
+  selecting colors...75%
+  selecting colors...88%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...64 entries transparent
+  mapped image to new colors...MSE=12.500 (Q=61)
+  writing 256-color image as janet-433-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'janet-433.webp'
+File:      janet-433.png
+Dimension: 433 x 624 (with alpha)
+Output:    42460 bytes Y-U-V-All-PSNR 48.09 49.95 49.07   48.50 dB
+block count:  intra4: 361
+              intra16: 731  (-> 66.94%)
+              skipped block: 720 (65.93%)
+bytes used:  header:            488  (1.1%)
+             mode-partition:   2239  (5.3%)
+             transparency:     9703 (67.2 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      15%|      17%|      67%|       0%|    1092
+      quantizer:  |      12 |      10 |       7 |       7 |
+   filter level:  |       8 |       6 |       0 |       0 |
+Lossless-alpha compressed size: 9702 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 13,507 = 0.399923 bits/pel.
+Compressed bytes (excludes codestream headers) = 13,275 = 0.393054 bpp.
+Body bytes (excludes packet and codestream headers) = 12,931 = 0.382868 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.399923
+Layer thresholds:
+        43784
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+janet-433.png:
+  read 157KB file
+  made histogram...35389 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...22%
+  selecting colors...35%
+  selecting colors...37%
+  selecting colors...49%
+  selecting colors...62%
+  selecting colors...75%
+  selecting colors...88%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...64 entries transparent
+  mapped image to new colors...MSE=12.500 (Q=61)
+  writing 256-color image as janet-433-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'janet-433.webp'
+File:      janet-433.png
+Dimension: 433 x 624 (with alpha)
+Output:    42460 bytes Y-U-V-All-PSNR 48.09 49.95 49.07   48.50 dB
+block count:  intra4: 361
+              intra16: 731  (-> 66.94%)
+              skipped block: 720 (65.93%)
+bytes used:  header:            488  (1.1%)
+             mode-partition:   2239  (5.3%)
+             transparency:     9703 (67.2 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      15%|      17%|      67%|       0%|    1092
+      quantizer:  |      12 |      10 |       7 |       7 |
+   filter level:  |       8 |       6 |       0 |       0 |
+Lossless-alpha compressed size: 9702 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 13,507 = 0.399923 bits/pel.
+Compressed bytes (excludes codestream headers) = 13,275 = 0.393054 bpp.
+Body bytes (excludes packet and codestream headers) = 12,931 = 0.382868 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.399923
+Layer thresholds:
+        43784
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+janet-433.png:
+  read 157KB file
+  made histogram...35389 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...22%
+  selecting colors...35%
+  selecting colors...37%
+  selecting colors...49%
+  selecting colors...62%
+  selecting colors...75%
+  selecting colors...88%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...64 entries transparent
+  mapped image to new colors...MSE=12.500 (Q=61)
+  writing 256-color image as janet-433-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'janet-433.webp'
+File:      janet-433.png
+Dimension: 433 x 624 (with alpha)
+Output:    42460 bytes Y-U-V-All-PSNR 48.09 49.95 49.07   48.50 dB
+block count:  intra4: 361
+              intra16: 731  (-> 66.94%)
+              skipped block: 720 (65.93%)
+bytes used:  header:            488  (1.1%)
+             mode-partition:   2239  (5.3%)
+             transparency:     9703 (67.2 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      15%|      17%|      67%|       0%|    1092
+      quantizer:  |      12 |      10 |       7 |       7 |
+   filter level:  |       8 |       6 |       0 |       0 |
+Lossless-alpha compressed size: 9702 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 13,507 = 0.399923 bits/pel.
+Compressed bytes (excludes codestream headers) = 13,275 = 0.393054 bpp.
+Body bytes (excludes packet and codestream headers) = 12,931 = 0.382868 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.399923
+Layer thresholds:
+        43784
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+janet-433.png:
+  read 157KB file
+  made histogram...35389 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...22%
+  selecting colors...35%
+  selecting colors...37%
+  selecting colors...49%
+  selecting colors...62%
+  selecting colors...75%
+  selecting colors...88%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...64 entries transparent
+  mapped image to new colors...MSE=12.500 (Q=61)
+  writing 256-color image as janet-433-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'janet-433.webp'
+File:      janet-433.png
+Dimension: 433 x 624 (with alpha)
+Output:    42460 bytes Y-U-V-All-PSNR 48.09 49.95 49.07   48.50 dB
+block count:  intra4: 361
+              intra16: 731  (-> 66.94%)
+              skipped block: 720 (65.93%)
+bytes used:  header:            488  (1.1%)
+             mode-partition:   2239  (5.3%)
+             transparency:     9703 (67.2 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      15%|      17%|      67%|       0%|    1092
+      quantizer:  |      12 |      10 |       7 |       7 |
+   filter level:  |       8 |       6 |       0 |       0 |
+Lossless-alpha compressed size: 9702 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 13,507 = 0.399923 bits/pel.
+Compressed bytes (excludes codestream headers) = 13,275 = 0.393054 bpp.
+Body bytes (excludes packet and codestream headers) = 12,931 = 0.382868 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.399923
+Layer thresholds:
+        43784
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+janet-433.png:
+  read 157KB file
+  made histogram...35389 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...22%
+  selecting colors...35%
+  selecting colors...37%
+  selecting colors...49%
+  selecting colors...62%
+  selecting colors...75%
+  selecting colors...88%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...64 entries transparent
+  mapped image to new colors...MSE=12.500 (Q=61)
+  writing 256-color image as janet-433-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'janet-433.webp'
+File:      janet-433.png
+Dimension: 433 x 624 (with alpha)
+Output:    42460 bytes Y-U-V-All-PSNR 48.09 49.95 49.07   48.50 dB
+block count:  intra4: 361
+              intra16: 731  (-> 66.94%)
+              skipped block: 720 (65.93%)
+bytes used:  header:            488  (1.1%)
+             mode-partition:   2239  (5.3%)
+             transparency:     9703 (67.2 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      15%|      17%|      67%|       0%|    1092
+      quantizer:  |      12 |      10 |       7 |       7 |
+   filter level:  |       8 |       6 |       0 |       0 |
+Lossless-alpha compressed size: 9702 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 13,507 = 0.399923 bits/pel.
+Compressed bytes (excludes codestream headers) = 13,275 = 0.393054 bpp.
+Body bytes (excludes packet and codestream headers) = 12,931 = 0.382868 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.399923
+Layer thresholds:
+        43784
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+janet-433.png:
+  read 157KB file
+  made histogram...35389 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...22%
+  selecting colors...35%
+  selecting colors...37%
+  selecting colors...49%
+  selecting colors...62%
+  selecting colors...75%
+  selecting colors...88%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...64 entries transparent
+  mapped image to new colors...MSE=12.500 (Q=61)
+  writing 256-color image as janet-433-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'janet-433.webp'
+File:      janet-433.png
+Dimension: 433 x 624 (with alpha)
+Output:    42460 bytes Y-U-V-All-PSNR 48.09 49.95 49.07   48.50 dB
+block count:  intra4: 361
+              intra16: 731  (-> 66.94%)
+              skipped block: 720 (65.93%)
+bytes used:  header:            488  (1.1%)
+             mode-partition:   2239  (5.3%)
+             transparency:     9703 (67.2 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      15%|      17%|      67%|       0%|    1092
+      quantizer:  |      12 |      10 |       7 |       7 |
+   filter level:  |       8 |       6 |       0 |       0 |
+Lossless-alpha compressed size: 9702 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 13,507 = 0.399923 bits/pel.
+Compressed bytes (excludes codestream headers) = 13,275 = 0.393054 bpp.
+Body bytes (excludes packet and codestream headers) = 12,931 = 0.382868 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.399923
+Layer thresholds:
+        43784
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+janet-433.png:
+  read 157KB file
+  made histogram...35389 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...22%
+  selecting colors...35%
+  selecting colors...37%
+  selecting colors...49%
+  selecting colors...62%
+  selecting colors...75%
+  selecting colors...88%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...64 entries transparent
+  mapped image to new colors...MSE=12.500 (Q=61)
+  writing 256-color image as janet-433-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'janet-433.webp'
+File:      janet-433.png
+Dimension: 433 x 624 (with alpha)
+Output:    42460 bytes Y-U-V-All-PSNR 48.09 49.95 49.07   48.50 dB
+block count:  intra4: 361
+              intra16: 731  (-> 66.94%)
+              skipped block: 720 (65.93%)
+bytes used:  header:            488  (1.1%)
+             mode-partition:   2239  (5.3%)
+             transparency:     9703 (67.2 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      15%|      17%|      67%|       0%|    1092
+      quantizer:  |      12 |      10 |       7 |       7 |
+   filter level:  |       8 |       6 |       0 |       0 |
+Lossless-alpha compressed size: 9702 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 13,507 = 0.399923 bits/pel.
+Compressed bytes (excludes codestream headers) = 13,275 = 0.393054 bpp.
+Body bytes (excludes packet and codestream headers) = 12,931 = 0.382868 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.399923
+Layer thresholds:
+        43784
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+janet-433.png:
+  read 157KB file
+  made histogram...35389 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...22%
+  selecting colors...35%
+  selecting colors...37%
+  selecting colors...49%
+  selecting colors...62%
+  selecting colors...75%
+  selecting colors...88%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...64 entries transparent
+  mapped image to new colors...MSE=12.500 (Q=61)
+  writing 256-color image as janet-433-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'janet-433.webp'
+File:      janet-433.png
+Dimension: 433 x 624 (with alpha)
+Output:    42460 bytes Y-U-V-All-PSNR 48.09 49.95 49.07   48.50 dB
+block count:  intra4: 361
+              intra16: 731  (-> 66.94%)
+              skipped block: 720 (65.93%)
+bytes used:  header:            488  (1.1%)
+             mode-partition:   2239  (5.3%)
+             transparency:     9703 (67.2 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      15%|      17%|      67%|       0%|    1092
+      quantizer:  |      12 |      10 |       7 |       7 |
+   filter level:  |       8 |       6 |       0 |       0 |
+Lossless-alpha compressed size: 9702 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 13,507 = 0.399923 bits/pel.
+Compressed bytes (excludes codestream headers) = 13,275 = 0.393054 bpp.
+Body bytes (excludes packet and codestream headers) = 12,931 = 0.382868 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.399923
+Layer thresholds:
+        43784
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+janet-433.png:
+  read 157KB file
+  made histogram...35389 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...22%
+  selecting colors...35%
+  selecting colors...37%
+  selecting colors...49%
+  selecting colors...62%
+  selecting colors...75%
+  selecting colors...88%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...64 entries transparent
+  mapped image to new colors...MSE=12.500 (Q=61)
+  writing 256-color image as janet-433-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'janet-433.webp'
+File:      janet-433.png
+Dimension: 433 x 624 (with alpha)
+Output:    42460 bytes Y-U-V-All-PSNR 48.09 49.95 49.07   48.50 dB
+block count:  intra4: 361
+              intra16: 731  (-> 66.94%)
+              skipped block: 720 (65.93%)
+bytes used:  header:            488  (1.1%)
+             mode-partition:   2239  (5.3%)
+             transparency:     9703 (67.2 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      15%|      17%|      67%|       0%|    1092
+      quantizer:  |      12 |      10 |       7 |       7 |
+   filter level:  |       8 |       6 |       0 |       0 |
+Lossless-alpha compressed size: 9702 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 13,507 = 0.399923 bits/pel.
+Compressed bytes (excludes codestream headers) = 13,275 = 0.393054 bpp.
+Body bytes (excludes packet and codestream headers) = 12,931 = 0.382868 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.399923
+Layer thresholds:
+        43784
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+janet-433.png:
+  read 157KB file
+  made histogram...35389 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...9%
+  selecting colors...22%
+  selecting colors...35%
+  selecting colors...37%
+  selecting colors...49%
+  selecting colors...62%
+  selecting colors...75%
+  selecting colors...88%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...64 entries transparent
+  mapped image to new colors...MSE=12.500 (Q=61)
+  writing 256-color image as janet-433-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'janet-433.webp'
+File:      janet-433.png
+Dimension: 433 x 624 (with alpha)
+Output:    41374 bytes Y-U-V-All-PSNR 48.09 49.94 49.07   48.50 dB
+block count:  intra4: 361
+              intra16: 731  (-> 66.94%)
+              skipped block: 720 (65.93%)
+bytes used:  header:            486  (1.2%)
+             mode-partition:   2239  (5.4%)
+             transparency:     8631 (67.8 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      15%|      17%|      67%|       0%|    1092
+      quantizer:  |      12 |      10 |       7 |       7 |
+   filter level:  |       8 |       6 |       0 |       0 |
+Lossless-alpha compressed size: 8630 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   96
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 13,366 = 0.395748 bits/pel.
+Compressed bytes (excludes codestream headers) = 13,134 = 0.388879 bpp.
+Body bytes (excludes packet and codestream headers) = 12,793 = 0.378782 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.395748
+Layer thresholds:
+        43684
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+janet-433.png:
+  read 155KB file
+  made histogram...34589 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...18%
+  selecting colors...30%
+  selecting colors...32%
+  selecting colors...45%
+  selecting colors...58%
+  selecting colors...60%
+  selecting colors...73%
+  selecting colors...86%
+  selecting colors...98%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...56 entries transparent
+  mapped image to new colors...MSE=11.856 (Q=63)
+  writing 256-color image as janet-433-quant.png
+No errors detected while quantizing 1 image.
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'janet-800.webp'
+File:      janet-800.png
+Dimension: 800 x 1153 (with alpha)
+Output:    88862 bytes Y-U-V-All-PSNR 49.83 51.16 50.10   50.07 dB
+block count:  intra4: 1011
+              intra16: 2639  (-> 72.30%)
+              skipped block: 2598 (71.18%)
+bytes used:  header:            546  (0.6%)
+             mode-partition:   6452  (7.3%)
+             transparency:    29052 (65.7 dB)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      13%|      13%|      73%|       0%|    3650
+      quantizer:  |      12 |      11 |       7 |       7 |
+   filter level:  |      12 |       9 |       0 |       0 |
+Lossless-alpha compressed size: 29051 bytes
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=5 transform=5 cache=0
+  * Palette size:   141
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 46,075 = 0.399610 bits/pel.
+Compressed bytes (excludes codestream headers) = 45,843 = 0.397598 bpp.
+Body bytes (excludes packet and codestream headers) = 45,182 = 0.391865 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.399610
+Layer thresholds:
+        42849
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+janet-800.png:
+  read 428KB file
+  made histogram...112721 colors found
+  selecting colors...3%
+  selecting colors...5%
+  selecting colors...7%
+  selecting colors...20%
+  selecting colors...22%
+  selecting colors...35%
+  selecting colors...37%
+  selecting colors...49%
+  selecting colors...62%
+  selecting colors...75%
+  selecting colors...88%
+  selecting colors...100%
+  moving colormap towards local minimum
+  eliminated opaque tRNS-chunk entries...66 entries transparent
+  mapped image to new colors...MSE=12.400 (Q=62)
+  writing 256-color image as janet-800-quant.png
+No errors detected while quantizing 1 image.

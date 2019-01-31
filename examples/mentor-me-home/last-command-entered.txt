@@ -1,0 +1,1 @@
+../../bin/html5ImageConverter.sh --sizes=320/600/640/1024/1200/2016 --jp2-rates=0.6/0.6/0.5/0.5/0.5/0.5 --jxr-quals=85 --webp-quals=60 --background=cloud1.jpg --jxr-nconvert mentor-me.png

@@ -1,0 +1,1645 @@
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-2048.webp'
+File:      blog-post-2048.png
+Dimension: 2048 x 1565
+Output:    138302 bytes Y-U-V-All-PSNR 33.93 39.43 37.98   35.01 dB
+block count:  intra4: 7018
+              intra16: 5526  (-> 44.05%)
+              skipped block: 3214 (25.62%)
+bytes used:  header:            303  (0.2%)
+             mode-partition:  30723  (22.2%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      13%|      32%|      47%|   12544
+      quantizer:  |      73 |      68 |      59 |      47 |
+   filter level:  |      28 |      17 |      39 |      29 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 150,785 = 0.376360 bits/pel.
+Compressed bytes (excludes codestream headers) = 150,556 = 0.375789 bpp.
+Body bytes (excludes packet and codestream headers) = 149,416 = 0.372943 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.376360
+Layer thresholds:
+        43485
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-2048.webp'
+File:      blog-post-2048.png
+Dimension: 2048 x 1565
+Output:    138302 bytes Y-U-V-All-PSNR 33.93 39.43 37.98   35.01 dB
+block count:  intra4: 7018
+              intra16: 5526  (-> 44.05%)
+              skipped block: 3214 (25.62%)
+bytes used:  header:            303  (0.2%)
+             mode-partition:  30723  (22.2%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      13%|      32%|      47%|   12544
+      quantizer:  |      73 |      68 |      59 |      47 |
+   filter level:  |      28 |      17 |      39 |      29 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 150,926 = 0.376712 bits/pel.
+Compressed bytes (excludes codestream headers) = 150,697 = 0.376141 bpp.
+Body bytes (excludes packet and codestream headers) = 149,554 = 0.373288 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.376712
+Layer thresholds:
+        43484
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-2048.webp'
+File:      blog-post-2048.png
+Dimension: 2048 x 1565
+Output:    138302 bytes Y-U-V-All-PSNR 33.93 39.43 37.98   35.01 dB
+block count:  intra4: 7018
+              intra16: 5526  (-> 44.05%)
+              skipped block: 3214 (25.62%)
+bytes used:  header:            303  (0.2%)
+             mode-partition:  30723  (22.2%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      13%|      32%|      47%|   12544
+      quantizer:  |      73 |      68 |      59 |      47 |
+   filter level:  |      28 |      17 |      39 |      29 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 150,931 = 0.376725 bits/pel.
+Compressed bytes (excludes codestream headers) = 150,702 = 0.376153 bpp.
+Body bytes (excludes packet and codestream headers) = 149,559 = 0.373300 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.376725
+Layer thresholds:
+        43483
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-2048.webp'
+File:      blog-post-2048.png
+Dimension: 2048 x 1565
+Output:    138302 bytes Y-U-V-All-PSNR 33.93 39.43 37.98   35.01 dB
+block count:  intra4: 7018
+              intra16: 5526  (-> 44.05%)
+              skipped block: 3214 (25.62%)
+bytes used:  header:            303  (0.2%)
+             mode-partition:  30723  (22.2%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      13%|      32%|      47%|   12544
+      quantizer:  |      73 |      68 |      59 |      47 |
+   filter level:  |      28 |      17 |      39 |      29 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 150,926 = 0.376712 bits/pel.
+Compressed bytes (excludes codestream headers) = 150,697 = 0.376141 bpp.
+Body bytes (excludes packet and codestream headers) = 149,554 = 0.373288 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.376712
+Layer thresholds:
+        43484
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-2048.webp'
+File:      blog-post-2048.png
+Dimension: 2048 x 1565
+Output:    153944 bytes Y-U-V-All-PSNR 34.58 39.97 38.61   35.66 dB
+block count:  intra4: 7123
+              intra16: 5421  (-> 43.22%)
+              skipped block: 3176 (25.32%)
+bytes used:  header:            322  (0.2%)
+             mode-partition:  31991  (20.8%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      13%|      32%|      47%|   12544
+      quantizer:  |      68 |      63 |      55 |      43 |
+   filter level:  |      24 |      15 |      34 |      27 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 150,931 = 0.376725 bits/pel.
+Compressed bytes (excludes codestream headers) = 150,702 = 0.376153 bpp.
+Body bytes (excludes packet and codestream headers) = 149,559 = 0.373300 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.376725
+Layer thresholds:
+        43483
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-2048.webp'
+File:      blog-post-2048.png
+Dimension: 2048 x 1565
+Output:    123282 bytes Y-U-V-All-PSNR 33.23 38.53 37.07   34.28 dB
+block count:  intra4: 6826
+              intra16: 5718  (-> 45.58%)
+              skipped block: 3208 (25.57%)
+bytes used:  header:            281  (0.2%)
+             mode-partition:  29314  (23.8%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      13%|      32%|      47%|   12544
+      quantizer:  |      78 |      74 |      65 |      51 |
+   filter level:  |      30 |      20 |      46 |      31 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 150,931 = 0.376725 bits/pel.
+Compressed bytes (excludes codestream headers) = 150,702 = 0.376153 bpp.
+Body bytes (excludes packet and codestream headers) = 149,559 = 0.373300 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.376725
+Layer thresholds:
+        43483
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-2048.webp'
+File:      blog-post-2048.png
+Dimension: 2048 x 1565
+Output:    153944 bytes Y-U-V-All-PSNR 34.58 39.97 38.61   35.66 dB
+block count:  intra4: 7123
+              intra16: 5421  (-> 43.22%)
+              skipped block: 3176 (25.32%)
+bytes used:  header:            322  (0.2%)
+             mode-partition:  31991  (20.8%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      13%|      32%|      47%|   12544
+      quantizer:  |      68 |      63 |      55 |      43 |
+   filter level:  |      24 |      15 |      34 |      27 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 150,931 = 0.376725 bits/pel.
+Compressed bytes (excludes codestream headers) = 150,702 = 0.376153 bpp.
+Body bytes (excludes packet and codestream headers) = 149,559 = 0.373300 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.376725
+Layer thresholds:
+        43483
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-2048.webp'
+File:      blog-post-2048.png
+Dimension: 2048 x 1565
+Output:    162522 bytes Y-U-V-All-PSNR 34.94 40.10 38.82   35.99 dB
+block count:  intra4: 7183
+              intra16: 5361  (-> 42.74%)
+              skipped block: 3083 (24.58%)
+bytes used:  header:            326  (0.2%)
+             mode-partition:  32812  (20.2%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      13%|      32%|      47%|   12544
+      quantizer:  |      65 |      61 |      53 |      41 |
+   filter level:  |      23 |      15 |      33 |      25 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 150,931 = 0.376725 bits/pel.
+Compressed bytes (excludes codestream headers) = 150,702 = 0.376153 bpp.
+Body bytes (excludes packet and codestream headers) = 149,559 = 0.373300 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.376725
+Layer thresholds:
+        43483
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-2048.webp'
+File:      blog-post-2048.png
+Dimension: 2048 x 1565
+Output:    153944 bytes Y-U-V-All-PSNR 34.58 39.97 38.61   35.66 dB
+block count:  intra4: 7123
+              intra16: 5421  (-> 43.22%)
+              skipped block: 3176 (25.32%)
+bytes used:  header:            322  (0.2%)
+             mode-partition:  31991  (20.8%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      13%|      32%|      47%|   12544
+      quantizer:  |      68 |      63 |      55 |      43 |
+   filter level:  |      24 |      15 |      34 |      27 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 150,931 = 0.376725 bits/pel.
+Compressed bytes (excludes codestream headers) = 150,702 = 0.376153 bpp.
+Body bytes (excludes packet and codestream headers) = 149,559 = 0.373300 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.376725
+Layer thresholds:
+        43483
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-2048.webp'
+File:      blog-post-2048.png
+Dimension: 2048 x 1565
+Output:    153944 bytes Y-U-V-All-PSNR 34.58 39.97 38.61   35.66 dB
+block count:  intra4: 7123
+              intra16: 5421  (-> 43.22%)
+              skipped block: 3176 (25.32%)
+bytes used:  header:            322  (0.2%)
+             mode-partition:  31991  (20.8%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      13%|      32%|      47%|   12544
+      quantizer:  |      68 |      63 |      55 |      43 |
+   filter level:  |      24 |      15 |      34 |      27 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 151,280 = 0.377596 bits/pel.
+Compressed bytes (excludes codestream headers) = 151,051 = 0.377024 bpp.
+Body bytes (excludes packet and codestream headers) = 149,906 = 0.374166 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.377596
+Layer thresholds:
+        43482
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-2048.webp'
+File:      blog-post-2048.png
+Dimension: 2048 x 1565
+Output:    153944 bytes Y-U-V-All-PSNR 34.58 39.97 38.61   35.66 dB
+block count:  intra4: 7123
+              intra16: 5421  (-> 43.22%)
+              skipped block: 3176 (25.32%)
+bytes used:  header:            322  (0.2%)
+             mode-partition:  31991  (20.8%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      13%|      32%|      47%|   12544
+      quantizer:  |      68 |      63 |      55 |      43 |
+   filter level:  |      24 |      15 |      34 |      27 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 150,926 = 0.376712 bits/pel.
+Compressed bytes (excludes codestream headers) = 150,697 = 0.376141 bpp.
+Body bytes (excludes packet and codestream headers) = 149,554 = 0.373288 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.376712
+Layer thresholds:
+        43484
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-2048.webp'
+File:      blog-post-2048.png
+Dimension: 2048 x 1565
+Output:    153944 bytes Y-U-V-All-PSNR 34.58 39.97 38.61   35.66 dB
+block count:  intra4: 7123
+              intra16: 5421  (-> 43.22%)
+              skipped block: 3176 (25.32%)
+bytes used:  header:            322  (0.2%)
+             mode-partition:  31991  (20.8%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      13%|      32%|      47%|   12544
+      quantizer:  |      68 |      63 |      55 |      43 |
+   filter level:  |      24 |      15 |      34 |      27 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 150,931 = 0.376725 bits/pel.
+Compressed bytes (excludes codestream headers) = 150,702 = 0.376153 bpp.
+Body bytes (excludes packet and codestream headers) = 149,559 = 0.373300 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.376725
+Layer thresholds:
+        43483
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-2048.webp'
+File:      blog-post-2048.png
+Dimension: 2048 x 1565
+Output:    153944 bytes Y-U-V-All-PSNR 34.58 39.97 38.61   35.66 dB
+block count:  intra4: 7123
+              intra16: 5421  (-> 43.22%)
+              skipped block: 3176 (25.32%)
+bytes used:  header:            322  (0.2%)
+             mode-partition:  31991  (20.8%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      13%|      32%|      47%|   12544
+      quantizer:  |      68 |      63 |      55 |      43 |
+   filter level:  |      24 |      15 |      34 |      27 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 150,394 = 0.375384 bits/pel.
+Compressed bytes (excludes codestream headers) = 150,165 = 0.374813 bpp.
+Body bytes (excludes packet and codestream headers) = 149,030 = 0.371980 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.375384
+Layer thresholds:
+        43486
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-2048.webp'
+File:      blog-post-2048.png
+Dimension: 2048 x 1565
+Output:    153944 bytes Y-U-V-All-PSNR 34.58 39.97 38.61   35.66 dB
+block count:  intra4: 7123
+              intra16: 5421  (-> 43.22%)
+              skipped block: 3176 (25.32%)
+bytes used:  header:            322  (0.2%)
+             mode-partition:  31991  (20.8%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      13%|      32%|      47%|   12544
+      quantizer:  |      68 |      63 |      55 |      43 |
+   filter level:  |      24 |      15 |      34 |      27 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 150,931 = 0.376725 bits/pel.
+Compressed bytes (excludes codestream headers) = 150,702 = 0.376153 bpp.
+Body bytes (excludes packet and codestream headers) = 149,559 = 0.373300 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.376725
+Layer thresholds:
+        43483
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-2048.webp'
+File:      blog-post-2048.png
+Dimension: 2048 x 1565
+Output:    153944 bytes Y-U-V-All-PSNR 34.58 39.97 38.61   35.66 dB
+block count:  intra4: 7123
+              intra16: 5421  (-> 43.22%)
+              skipped block: 3176 (25.32%)
+bytes used:  header:            322  (0.2%)
+             mode-partition:  31991  (20.8%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      13%|      32%|      47%|   12544
+      quantizer:  |      68 |      63 |      55 |      43 |
+   filter level:  |      24 |      15 |      34 |      27 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 159,610 = 0.398388 bits/pel.
+Compressed bytes (excludes codestream headers) = 159,381 = 0.397816 bpp.
+Body bytes (excludes packet and codestream headers) = 158,179 = 0.394816 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.398388
+Layer thresholds:
+        43449
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-2048.webp'
+File:      blog-post-2048.png
+Dimension: 2048 x 1565
+Output:    153944 bytes Y-U-V-All-PSNR 34.58 39.97 38.61   35.66 dB
+block count:  intra4: 7123
+              intra16: 5421  (-> 43.22%)
+              skipped block: 3176 (25.32%)
+bytes used:  header:            322  (0.2%)
+             mode-partition:  31991  (20.8%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      13%|      32%|      47%|   12544
+      quantizer:  |      68 |      63 |      55 |      43 |
+   filter level:  |      24 |      15 |      34 |      27 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 154,971 = 0.386809 bits/pel.
+Compressed bytes (excludes codestream headers) = 154,742 = 0.386237 bpp.
+Body bytes (excludes packet and codestream headers) = 153,569 = 0.383309 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.386809
+Layer thresholds:
+        43470
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-320.webp'
+File:      blog-post-320.png
+Dimension: 320 x 244
+Output:    7016 bytes Y-U-V-All-PSNR 33.27 36.16 34.19   33.79 dB
+block count:  intra4: 257
+              intra16: 63  (-> 19.69%)
+              skipped block: 32 (10.00%)
+bytes used:  header:             98  (1.4%)
+             mode-partition:   1250  (17.8%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      17%|      30%|      33%|      18%|     320
+      quantizer:  |      68 |      58 |      47 |      32 |
+   filter level:  |      24 |      14 |       8 |       5 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 3,748 = 0.384016 bits/pel.
+Compressed bytes (excludes codestream headers) = 3,519 = 0.360553 bpp.
+Body bytes (excludes packet and codestream headers) = 3,416 = 0.350000 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.384016
+Layer thresholds:
+        44152
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-640.webp'
+File:      blog-post-640.png
+Dimension: 640 x 489
+Output:    21070 bytes Y-U-V-All-PSNR 33.75 37.61 35.82   34.52 dB
+block count:  intra4: 903
+              intra16: 337  (-> 27.18%)
+              skipped block: 188 (15.16%)
+bytes used:  header:            145  (0.7%)
+             mode-partition:   4245  (20.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      11%|      23%|      36%|      29%|    1240
+      quantizer:  |      68 |      61 |      51 |      36 |
+   filter level:  |      24 |      15 |      10 |      15 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 15,227 = 0.389238 bits/pel.
+Compressed bytes (excludes codestream headers) = 14,998 = 0.383384 bpp.
+Body bytes (excludes packet and codestream headers) = 14,802 = 0.378374 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.389238
+Layer thresholds:
+        43831
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-768.webp'
+File:      blog-post-768.png
+Dimension: 768 x 587
+Output:    28488 bytes Y-U-V-All-PSNR 33.90 37.90 36.20   34.71 dB
+block count:  intra4: 1259
+              intra16: 517  (-> 29.11%)
+              skipped block: 304 (17.12%)
+bytes used:  header:            155  (0.5%)
+             mode-partition:   5825  (20.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      24%|      34%|      31%|    1776
+      quantizer:  |      68 |      61 |      52 |      38 |
+   filter level:  |      24 |      15 |      10 |      16 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 21,890 = 0.388451 bits/pel.
+Compressed bytes (excludes codestream headers) = 21,661 = 0.384387 bpp.
+Body bytes (excludes packet and codestream headers) = 21,397 = 0.379703 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.388451
+Layer thresholds:
+        43805
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-1536.webp'
+File:      blog-post-1536.png
+Dimension: 1536 x 1174
+Output:    93916 bytes Y-U-V-All-PSNR 34.41 39.35 37.84   35.40 dB
+block count:  intra4: 4327
+              intra16: 2777  (-> 39.09%)
+              skipped block: 1696 (23.87%)
+bytes used:  header:            274  (0.3%)
+             mode-partition:  19287  (20.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      16%|      32%|      42%|    7104
+      quantizer:  |      68 |      62 |      54 |      42 |
+   filter level:  |      24 |      14 |      33 |      26 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 87,422 = 0.387839 bits/pel.
+Compressed bytes (excludes codestream headers) = 87,193 = 0.386823 bpp.
+Body bytes (excludes packet and codestream headers) = 86,447 = 0.383513 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.387839
+Layer thresholds:
+        43554
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-1024.webp'
+File:      blog-post-1024.png
+Dimension: 1024 x 782
+Output:    46068 bytes Y-U-V-All-PSNR 34.08 38.44 36.86   34.97 dB
+block count:  intra4: 2057
+              intra16: 1079  (-> 34.41%)
+              skipped block: 665 (21.21%)
+bytes used:  header:            183  (0.4%)
+             mode-partition:   9441  (20.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      21%|      32%|      37%|    3136
+      quantizer:  |      68 |      61 |      53 |      40 |
+   filter level:  |      24 |      15 |      22 |      25 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 38,867 = 0.388297 bits/pel.
+Compressed bytes (excludes codestream headers) = 38,638 = 0.386009 bpp.
+Body bytes (excludes packet and codestream headers) = 38,317 = 0.382803 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.388297
+Layer thresholds:
+        43663
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-2048.webp'
+File:      blog-post-2048.png
+Dimension: 2048 x 1565
+Output:    153944 bytes Y-U-V-All-PSNR 34.58 39.97 38.61   35.66 dB
+block count:  intra4: 7123
+              intra16: 5421  (-> 43.22%)
+              skipped block: 3176 (25.32%)
+bytes used:  header:            322  (0.2%)
+             mode-partition:  31991  (20.8%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      13%|      32%|      47%|   12544
+      quantizer:  |      68 |      63 |      55 |      43 |
+   filter level:  |      24 |      15 |      34 |      27 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 155,532 = 0.388209 bits/pel.
+Compressed bytes (excludes codestream headers) = 155,303 = 0.387637 bpp.
+Body bytes (excludes packet and codestream headers) = 154,128 = 0.384704 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.388209
+Layer thresholds:
+        43468
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-360.webp'
+File:      blog-post-360.png
+Dimension: 360 x 275
+Output:    8454 bytes Y-U-V-All-PSNR 33.31 36.59 34.48   33.91 dB
+block count:  intra4: 316
+              intra16: 98  (-> 23.67%)
+              skipped block: 46 (11.11%)
+bytes used:  header:            103  (1.2%)
+             mode-partition:   1530  (18.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      15%|      25%|      37%|      21%|     414
+      quantizer:  |      68 |      60 |      49 |      33 |
+   filter level:  |      24 |      15 |       9 |       7 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,765 = 0.385051 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,536 = 0.366545 bpp.
+Body bytes (excludes packet and codestream headers) = 4,420 = 0.357172 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.385051
+Layer thresholds:
+        44114
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-720.webp'
+File:      blog-post-720.png
+Dimension: 720 x 550
+Output:    25470 bytes Y-U-V-All-PSNR 33.92 37.87 35.99   34.69 dB
+block count:  intra4: 1111
+              intra16: 464  (-> 29.46%)
+              skipped block: 301 (19.11%)
+bytes used:  header:            143  (0.6%)
+             mode-partition:   5220  (20.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      25%|      33%|      31%|    1575
+      quantizer:  |      68 |      61 |      51 |      37 |
+   filter level:  |      24 |      15 |      21 |      15 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 19,265 = 0.389192 bits/pel.
+Compressed bytes (excludes codestream headers) = 19,036 = 0.384566 bpp.
+Body bytes (excludes packet and codestream headers) = 18,805 = 0.379899 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.389192
+Layer thresholds:
+        43810
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-768.webp'
+File:      blog-post-768.png
+Dimension: 768 x 587
+Output:    28488 bytes Y-U-V-All-PSNR 33.90 37.90 36.20   34.71 dB
+block count:  intra4: 1259
+              intra16: 517  (-> 29.11%)
+              skipped block: 304 (17.12%)
+bytes used:  header:            155  (0.5%)
+             mode-partition:   5825  (20.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      24%|      34%|      31%|    1776
+      quantizer:  |      68 |      61 |      52 |      38 |
+   filter level:  |      24 |      15 |      10 |      16 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 21,890 = 0.388451 bits/pel.
+Compressed bytes (excludes codestream headers) = 21,661 = 0.384387 bpp.
+Body bytes (excludes packet and codestream headers) = 21,397 = 0.379703 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.388451
+Layer thresholds:
+        43805
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-1536.webp'
+File:      blog-post-1536.png
+Dimension: 1536 x 1174
+Output:    93916 bytes Y-U-V-All-PSNR 34.41 39.35 37.84   35.40 dB
+block count:  intra4: 4327
+              intra16: 2777  (-> 39.09%)
+              skipped block: 1696 (23.87%)
+bytes used:  header:            274  (0.3%)
+             mode-partition:  19287  (20.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      16%|      32%|      42%|    7104
+      quantizer:  |      68 |      62 |      54 |      42 |
+   filter level:  |      24 |      14 |      33 |      26 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 87,422 = 0.387839 bits/pel.
+Compressed bytes (excludes codestream headers) = 87,193 = 0.386823 bpp.
+Body bytes (excludes packet and codestream headers) = 86,447 = 0.383513 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.387839
+Layer thresholds:
+        43554
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-1024.webp'
+File:      blog-post-1024.png
+Dimension: 1024 x 782
+Output:    46068 bytes Y-U-V-All-PSNR 34.08 38.44 36.86   34.97 dB
+block count:  intra4: 2057
+              intra16: 1079  (-> 34.41%)
+              skipped block: 665 (21.21%)
+bytes used:  header:            183  (0.4%)
+             mode-partition:   9441  (20.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       8%|      21%|      32%|      37%|    3136
+      quantizer:  |      68 |      61 |      53 |      40 |
+   filter level:  |      24 |      15 |      22 |      25 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 38,867 = 0.388297 bits/pel.
+Compressed bytes (excludes codestream headers) = 38,638 = 0.386009 bpp.
+Body bytes (excludes packet and codestream headers) = 38,317 = 0.382803 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.388297
+Layer thresholds:
+        43663
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-2048.webp'
+File:      blog-post-2048.png
+Dimension: 2048 x 1565
+Output:    153944 bytes Y-U-V-All-PSNR 34.58 39.97 38.61   35.66 dB
+block count:  intra4: 7123
+              intra16: 5421  (-> 43.22%)
+              skipped block: 3176 (25.32%)
+bytes used:  header:            322  (0.2%)
+             mode-partition:  31991  (20.8%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       6%|      13%|      32%|      47%|   12544
+      quantizer:  |      68 |      63 |      55 |      43 |
+   filter level:  |      24 |      15 |      34 |      27 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 154,581 = 0.385835 bits/pel.
+Compressed bytes (excludes codestream headers) = 154,352 = 0.385264 bpp.
+Body bytes (excludes packet and codestream headers) = 153,182 = 0.382343 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.385835
+Layer thresholds:
+        43471
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-360.webp'
+File:      blog-post-360.png
+Dimension: 360 x 275
+Output:    8454 bytes Y-U-V-All-PSNR 33.31 36.59 34.48   33.91 dB
+block count:  intra4: 316
+              intra16: 98  (-> 23.67%)
+              skipped block: 46 (11.11%)
+bytes used:  header:            103  (1.2%)
+             mode-partition:   1530  (18.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      15%|      25%|      37%|      21%|     414
+      quantizer:  |      68 |      60 |      49 |      33 |
+   filter level:  |      24 |      15 |       9 |       7 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,765 = 0.385051 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,536 = 0.366545 bpp.
+Body bytes (excludes packet and codestream headers) = 4,420 = 0.357172 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.385051
+Layer thresholds:
+        44113
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-360.webp'
+File:      blog-post-360.png
+Dimension: 360 x 275
+Output:    8454 bytes Y-U-V-All-PSNR 33.31 36.59 34.48   33.91 dB
+block count:  intra4: 316
+              intra16: 98  (-> 23.67%)
+              skipped block: 46 (11.11%)
+bytes used:  header:            103  (1.2%)
+             mode-partition:   1530  (18.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      15%|      25%|      37%|      21%|     414
+      quantizer:  |      68 |      60 |      49 |      33 |
+   filter level:  |      24 |      15 |       9 |       7 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,765 = 0.385051 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,536 = 0.366545 bpp.
+Body bytes (excludes packet and codestream headers) = 4,420 = 0.357172 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.385051
+Layer thresholds:
+        44113
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-720.webp'
+File:      blog-post-720.png
+Dimension: 720 x 550
+Output:    25470 bytes Y-U-V-All-PSNR 33.92 37.87 35.99   34.69 dB
+block count:  intra4: 1111
+              intra16: 464  (-> 29.46%)
+              skipped block: 301 (19.11%)
+bytes used:  header:            143  (0.6%)
+             mode-partition:   5220  (20.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      25%|      33%|      31%|    1575
+      quantizer:  |      68 |      61 |      51 |      37 |
+   filter level:  |      24 |      15 |      21 |      15 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 19,265 = 0.389192 bits/pel.
+Compressed bytes (excludes codestream headers) = 19,036 = 0.384566 bpp.
+Body bytes (excludes packet and codestream headers) = 18,805 = 0.379899 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.389192
+Layer thresholds:
+        43808
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-768.webp'
+File:      blog-post-768.png
+Dimension: 768 x 587
+Output:    28488 bytes Y-U-V-All-PSNR 33.90 37.90 36.20   34.71 dB
+block count:  intra4: 1259
+              intra16: 517  (-> 29.11%)
+              skipped block: 304 (17.12%)
+bytes used:  header:            155  (0.5%)
+             mode-partition:   5825  (20.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      24%|      34%|      31%|    1776
+      quantizer:  |      68 |      61 |      52 |      38 |
+   filter level:  |      24 |      15 |      10 |      16 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 21,595 = 0.383216 bits/pel.
+Compressed bytes (excludes codestream headers) = 21,366 = 0.379152 bpp.
+Body bytes (excludes packet and codestream headers) = 21,102 = 0.374468 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.383216
+Layer thresholds:
+        43809
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-835.webp'
+File:      blog-post-835.png
+Dimension: 835 x 638
+Output:    32498 bytes Y-U-V-All-PSNR 34.00 38.04 36.30   34.81 dB
+block count:  intra4: 1454
+              intra16: 666  (-> 31.42%)
+              skipped block: 410 (19.34%)
+bytes used:  header:            171  (0.5%)
+             mode-partition:   6706  (20.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      24%|      31%|      34%|    2120
+      quantizer:  |      68 |      61 |      52 |      39 |
+   filter level:  |      24 |      15 |      21 |      16 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 25,970 = 0.389991 bits/pel.
+Compressed bytes (excludes codestream headers) = 25,741 = 0.386552 bpp.
+Body bytes (excludes packet and codestream headers) = 25,455 = 0.382257 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.389991
+Layer thresholds:
+        43743
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-1536.webp'
+File:      blog-post-1536.png
+Dimension: 1536 x 1174
+Output:    93916 bytes Y-U-V-All-PSNR 34.41 39.35 37.84   35.40 dB
+block count:  intra4: 4327
+              intra16: 2777  (-> 39.09%)
+              skipped block: 1696 (23.87%)
+bytes used:  header:            274  (0.3%)
+             mode-partition:  19287  (20.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      16%|      32%|      42%|    7104
+      quantizer:  |      68 |      62 |      54 |      42 |
+   filter level:  |      24 |      14 |      33 |      26 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 87,422 = 0.387839 bits/pel.
+Compressed bytes (excludes codestream headers) = 87,193 = 0.386823 bpp.
+Body bytes (excludes packet and codestream headers) = 86,447 = 0.383513 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.387839
+Layer thresholds:
+        43554
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-1670.webp'
+File:      blog-post-1670.png
+Dimension: 1670 x 1276
+Output:    108838 bytes Y-U-V-All-PSNR 34.49 39.54 38.08   35.50 dB
+block count:  intra4: 5002
+              intra16: 3398  (-> 40.45%)
+              skipped block: 2042 (24.31%)
+bytes used:  header:            273  (0.3%)
+             mode-partition:  22454  (20.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      32%|      44%|    8400
+      quantizer:  |      68 |      62 |      54 |      42 |
+   filter level:  |      24 |      14 |      33 |      26 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 103,343 = 0.387975 bits/pel.
+Compressed bytes (excludes codestream headers) = 103,114 = 0.387115 bpp.
+Body bytes (excludes packet and codestream headers) = 102,244 = 0.383849 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.387975
+Layer thresholds:
+        43502
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-360.webp'
+File:      blog-post-360.png
+Dimension: 360 x 275
+Output:    8454 bytes Y-U-V-All-PSNR 33.31 36.59 34.48   33.91 dB
+block count:  intra4: 316
+              intra16: 98  (-> 23.67%)
+              skipped block: 46 (11.11%)
+bytes used:  header:            103  (1.2%)
+             mode-partition:   1530  (18.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      15%|      25%|      37%|      21%|     414
+      quantizer:  |      68 |      60 |      49 |      33 |
+   filter level:  |      24 |      15 |       9 |       7 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,765 = 0.385051 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,536 = 0.366545 bpp.
+Body bytes (excludes packet and codestream headers) = 4,420 = 0.357172 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.385051
+Layer thresholds:
+        44107
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-720.webp'
+File:      blog-post-720.png
+Dimension: 720 x 550
+Output:    25470 bytes Y-U-V-All-PSNR 33.92 37.87 35.99   34.69 dB
+block count:  intra4: 1111
+              intra16: 464  (-> 29.46%)
+              skipped block: 301 (19.11%)
+bytes used:  header:            143  (0.6%)
+             mode-partition:   5220  (20.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      25%|      33%|      31%|    1575
+      quantizer:  |      68 |      61 |      51 |      37 |
+   filter level:  |      24 |      15 |      21 |      15 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 19,295 = 0.389798 bits/pel.
+Compressed bytes (excludes codestream headers) = 19,066 = 0.385172 bpp.
+Body bytes (excludes packet and codestream headers) = 18,835 = 0.380505 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.389798
+Layer thresholds:
+        43805
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-768.webp'
+File:      blog-post-768.png
+Dimension: 768 x 587
+Output:    28488 bytes Y-U-V-All-PSNR 33.90 37.90 36.20   34.71 dB
+block count:  intra4: 1259
+              intra16: 517  (-> 29.11%)
+              skipped block: 304 (17.12%)
+bytes used:  header:            155  (0.5%)
+             mode-partition:   5825  (20.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      24%|      34%|      31%|    1776
+      quantizer:  |      68 |      61 |      52 |      38 |
+   filter level:  |      24 |      15 |      10 |      16 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 21,890 = 0.388451 bits/pel.
+Compressed bytes (excludes codestream headers) = 21,661 = 0.384387 bpp.
+Body bytes (excludes packet and codestream headers) = 21,397 = 0.379703 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.388451
+Layer thresholds:
+        43806
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-835.webp'
+File:      blog-post-835.png
+Dimension: 835 x 638
+Output:    32498 bytes Y-U-V-All-PSNR 34.00 38.04 36.30   34.81 dB
+block count:  intra4: 1454
+              intra16: 666  (-> 31.42%)
+              skipped block: 410 (19.34%)
+bytes used:  header:            171  (0.5%)
+             mode-partition:   6706  (20.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      24%|      31%|      34%|    2120
+      quantizer:  |      68 |      61 |      52 |      39 |
+   filter level:  |      24 |      15 |      21 |      16 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 25,970 = 0.389991 bits/pel.
+Compressed bytes (excludes codestream headers) = 25,741 = 0.386552 bpp.
+Body bytes (excludes packet and codestream headers) = 25,455 = 0.382257 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.389991
+Layer thresholds:
+        43743
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-1536.webp'
+File:      blog-post-1536.png
+Dimension: 1536 x 1174
+Output:    93916 bytes Y-U-V-All-PSNR 34.41 39.35 37.84   35.40 dB
+block count:  intra4: 4327
+              intra16: 2777  (-> 39.09%)
+              skipped block: 1696 (23.87%)
+bytes used:  header:            274  (0.3%)
+             mode-partition:  19287  (20.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      16%|      32%|      42%|    7104
+      quantizer:  |      68 |      62 |      54 |      42 |
+   filter level:  |      24 |      14 |      33 |      26 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 87,422 = 0.387839 bits/pel.
+Compressed bytes (excludes codestream headers) = 87,193 = 0.386823 bpp.
+Body bytes (excludes packet and codestream headers) = 86,447 = 0.383513 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.387839
+Layer thresholds:
+        43554
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-1670.webp'
+File:      blog-post-1670.png
+Dimension: 1670 x 1276
+Output:    108838 bytes Y-U-V-All-PSNR 34.49 39.54 38.08   35.50 dB
+block count:  intra4: 5002
+              intra16: 3398  (-> 40.45%)
+              skipped block: 2042 (24.31%)
+bytes used:  header:            273  (0.3%)
+             mode-partition:  22454  (20.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      32%|      44%|    8400
+      quantizer:  |      68 |      62 |      54 |      42 |
+   filter level:  |      24 |      14 |      33 |      26 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 103,146 = 0.387236 bits/pel.
+Compressed bytes (excludes codestream headers) = 102,917 = 0.386376 bpp.
+Body bytes (excludes packet and codestream headers) = 102,049 = 0.383117 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.387236
+Layer thresholds:
+        43505
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-360.webp'
+File:      blog-post-360.png
+Dimension: 360 x 275
+Output:    8454 bytes Y-U-V-All-PSNR 33.31 36.59 34.48   33.91 dB
+block count:  intra4: 316
+              intra16: 98  (-> 23.67%)
+              skipped block: 46 (11.11%)
+bytes used:  header:            103  (1.2%)
+             mode-partition:   1530  (18.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |      15%|      25%|      37%|      21%|     414
+      quantizer:  |      68 |      60 |      49 |      33 |
+   filter level:  |      24 |      15 |       9 |       7 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,765 = 0.385051 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,536 = 0.366545 bpp.
+Body bytes (excludes packet and codestream headers) = 4,420 = 0.357172 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.385051
+Layer thresholds:
+        44112
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-720.webp'
+File:      blog-post-720.png
+Dimension: 720 x 550
+Output:    25470 bytes Y-U-V-All-PSNR 33.92 37.87 35.99   34.69 dB
+block count:  intra4: 1111
+              intra16: 464  (-> 29.46%)
+              skipped block: 301 (19.11%)
+bytes used:  header:            143  (0.6%)
+             mode-partition:   5220  (20.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      25%|      33%|      31%|    1575
+      quantizer:  |      68 |      61 |      51 |      37 |
+   filter level:  |      24 |      15 |      21 |      15 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 19,295 = 0.389798 bits/pel.
+Compressed bytes (excludes codestream headers) = 19,066 = 0.385172 bpp.
+Body bytes (excludes packet and codestream headers) = 18,835 = 0.380505 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.389798
+Layer thresholds:
+        43805
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-768.webp'
+File:      blog-post-768.png
+Dimension: 768 x 587
+Output:    28488 bytes Y-U-V-All-PSNR 33.90 37.90 36.20   34.71 dB
+block count:  intra4: 1259
+              intra16: 517  (-> 29.11%)
+              skipped block: 304 (17.12%)
+bytes used:  header:            155  (0.5%)
+             mode-partition:   5825  (20.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      24%|      34%|      31%|    1776
+      quantizer:  |      68 |      61 |      52 |      38 |
+   filter level:  |      24 |      15 |      10 |      16 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 21,890 = 0.388451 bits/pel.
+Compressed bytes (excludes codestream headers) = 21,661 = 0.384387 bpp.
+Body bytes (excludes packet and codestream headers) = 21,397 = 0.379703 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.388451
+Layer thresholds:
+        43803
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-835.webp'
+File:      blog-post-835.png
+Dimension: 835 x 638
+Output:    32498 bytes Y-U-V-All-PSNR 34.00 38.04 36.30   34.81 dB
+block count:  intra4: 1454
+              intra16: 666  (-> 31.42%)
+              skipped block: 410 (19.34%)
+bytes used:  header:            171  (0.5%)
+             mode-partition:   6706  (20.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       9%|      24%|      31%|      34%|    2120
+      quantizer:  |      68 |      61 |      52 |      39 |
+   filter level:  |      24 |      15 |      21 |      16 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 25,944 = 0.389601 bits/pel.
+Compressed bytes (excludes codestream headers) = 25,715 = 0.386162 bpp.
+Body bytes (excludes packet and codestream headers) = 25,429 = 0.381867 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.389601
+Layer thresholds:
+        43746
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-1536.webp'
+File:      blog-post-1536.png
+Dimension: 1536 x 1174
+Output:    93916 bytes Y-U-V-All-PSNR 34.41 39.35 37.84   35.40 dB
+block count:  intra4: 4327
+              intra16: 2777  (-> 39.09%)
+              skipped block: 1696 (23.87%)
+bytes used:  header:            274  (0.3%)
+             mode-partition:  19287  (20.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      16%|      32%|      42%|    7104
+      quantizer:  |      68 |      62 |      54 |      42 |
+   filter level:  |      24 |      14 |      33 |      26 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 87,422 = 0.387839 bits/pel.
+Compressed bytes (excludes codestream headers) = 87,193 = 0.386823 bpp.
+Body bytes (excludes packet and codestream headers) = 86,447 = 0.383513 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.387839
+Layer thresholds:
+        43554
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'blog-post-1670.webp'
+File:      blog-post-1670.png
+Dimension: 1670 x 1276
+Output:    108838 bytes Y-U-V-All-PSNR 34.49 39.54 38.08   35.50 dB
+block count:  intra4: 5002
+              intra16: 3398  (-> 40.45%)
+              skipped block: 2042 (24.31%)
+bytes used:  header:            273  (0.3%)
+             mode-partition:  22454  (20.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       7%|      15%|      32%|      44%|    8400
+      quantizer:  |      68 |      62 |      54 |      42 |
+   filter level:  |      24 |      14 |      33 |      26 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 103,271 = 0.387705 bits/pel.
+Compressed bytes (excludes codestream headers) = 103,042 = 0.386845 bpp.
+Body bytes (excludes packet and codestream headers) = 102,172 = 0.383579 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.387705
+Layer thresholds:
+        43504
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+

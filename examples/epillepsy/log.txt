@@ -1,0 +1,2940 @@
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-360.webp'
+File:      epilepsy-360.png
+Dimension: 360 x 275
+Output:    3592 bytes Y-U-V-All-PSNR 38.62 36.40 35.93   37.64 dB
+block count:  intra4: 136
+              intra16: 278  (-> 67.15%)
+              skipped block: 82 (19.81%)
+bytes used:  header:             93  (2.6%)
+             mode-partition:    680  (18.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      12%|      17%|      63%|     414
+      quantizer:  |      68 |      66 |      57 |      45 |
+   filter level:  |      24 |      31 |      49 |       9 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,740 = 0.383030 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,511 = 0.364525 bpp.
+Body bytes (excludes packet and codestream headers) = 4,371 = 0.353212 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.383030
+Layer thresholds:
+        43279
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-720.webp'
+File:      epilepsy-720.png
+Dimension: 720 x 550
+Output:    9044 bytes Y-U-V-All-PSNR 40.23 37.65 37.05   39.04 dB
+block count:  intra4: 668
+              intra16: 907  (-> 57.59%)
+              skipped block: 388 (24.63%)
+bytes used:  header:            140  (1.5%)
+             mode-partition:   2051  (22.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       8%|      14%|      73%|    1575
+      quantizer:  |      68 |      68 |      59 |      48 |
+   filter level:  |      24 |      33 |      26 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 19,007 = 0.383980 bits/pel.
+Compressed bytes (excludes codestream headers) = 18,778 = 0.379354 bpp.
+Body bytes (excludes packet and codestream headers) = 18,435 = 0.372424 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.383980
+Layer thresholds:
+        42727
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-768.webp'
+File:      epilepsy-768.png
+Dimension: 768 x 587
+Output:    9838 bytes Y-U-V-All-PSNR 40.48 37.72 37.17   39.21 dB
+block count:  intra4: 775
+              intra16: 1001  (-> 56.36%)
+              skipped block: 465 (26.18%)
+bytes used:  header:            150  (1.5%)
+             mode-partition:   2329  (23.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       8%|      14%|      75%|    1776
+      quantizer:  |      68 |      68 |      59 |      48 |
+   filter level:  |      33 |      49 |      26 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 21,902 = 0.388664 bits/pel.
+Compressed bytes (excludes codestream headers) = 21,673 = 0.384600 bpp.
+Body bytes (excludes packet and codestream headers) = 21,263 = 0.377325 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.388664
+Layer thresholds:
+        42664
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-835.webp'
+File:      epilepsy-835.png
+Dimension: 835 x 638
+Output:    11016 bytes Y-U-V-All-PSNR 40.75 38.22 37.54   39.56 dB
+block count:  intra4: 890
+              intra16: 1230  (-> 58.02%)
+              skipped block: 617 (29.10%)
+bytes used:  header:            138  (1.3%)
+             mode-partition:   2594  (23.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       7%|      14%|      76%|    2120
+      quantizer:  |      68 |      68 |      59 |      48 |
+   filter level:  |      33 |      33 |      52 |      10 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 25,893 = 0.388835 bits/pel.
+Compressed bytes (excludes codestream headers) = 25,664 = 0.385396 bpp.
+Body bytes (excludes packet and codestream headers) = 25,221 = 0.378743 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.388835
+Layer thresholds:
+        42604
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1536.webp'
+File:      epilepsy-1536.png
+Dimension: 1536 x 1174
+Output:    24950 bytes Y-U-V-All-PSNR 42.68 38.71 38.22   40.78 dB
+block count:  intra4: 2867
+              intra16: 4237  (-> 59.64%)
+              skipped block: 2683 (37.77%)
+bytes used:  header:            172  (0.7%)
+             mode-partition:   6770  (27.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       5%|       8%|      84%|    7104
+      quantizer:  |      68 |      68 |      61 |      50 |
+   filter level:  |      33 |      18 |      27 |      31 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 87,172 = 0.386730 bits/pel.
+Compressed bytes (excludes codestream headers) = 86,943 = 0.385714 bpp.
+Body bytes (excludes packet and codestream headers) = 85,768 = 0.380501 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.386730
+Layer thresholds:
+        42175
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1670.webp'
+File:      epilepsy-1670.png
+Dimension: 1670 x 1276
+Output:    26272 bytes Y-U-V-All-PSNR 43.52 39.67 38.53   41.48 dB
+block count:  intra4: 3424
+              intra16: 4976  (-> 59.24%)
+              skipped block: 3261 (38.82%)
+bytes used:  header:            180  (0.7%)
+             mode-partition:   7845  (29.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       6%|       8%|      84%|    8400
+      quantizer:  |      68 |      68 |      60 |      49 |
+   filter level:  |      24 |      18 |      27 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 102,805 = 0.385955 bits/pel.
+Compressed bytes (excludes codestream headers) = 102,576 = 0.385096 bpp.
+Body bytes (excludes packet and codestream headers) = 101,402 = 0.380688 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.385955
+Layer thresholds:
+        42022
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-360.webp'
+File:      epilepsy-360.png
+Dimension: 360 x 275
+Output:    3592 bytes Y-U-V-All-PSNR 38.62 36.40 35.93   37.64 dB
+block count:  intra4: 136
+              intra16: 278  (-> 67.15%)
+              skipped block: 82 (19.81%)
+bytes used:  header:             93  (2.6%)
+             mode-partition:    680  (18.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      12%|      17%|      63%|     414
+      quantizer:  |      68 |      66 |      57 |      45 |
+   filter level:  |      24 |      31 |      49 |       9 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,740 = 0.383030 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,511 = 0.364525 bpp.
+Body bytes (excludes packet and codestream headers) = 4,371 = 0.353212 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.383030
+Layer thresholds:
+        43279
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-720.webp'
+File:      epilepsy-720.png
+Dimension: 720 x 550
+Output:    9044 bytes Y-U-V-All-PSNR 40.23 37.65 37.05   39.04 dB
+block count:  intra4: 668
+              intra16: 907  (-> 57.59%)
+              skipped block: 388 (24.63%)
+bytes used:  header:            140  (1.5%)
+             mode-partition:   2051  (22.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       8%|      14%|      73%|    1575
+      quantizer:  |      68 |      68 |      59 |      48 |
+   filter level:  |      24 |      33 |      26 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 19,007 = 0.383980 bits/pel.
+Compressed bytes (excludes codestream headers) = 18,778 = 0.379354 bpp.
+Body bytes (excludes packet and codestream headers) = 18,435 = 0.372424 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.383980
+Layer thresholds:
+        42727
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-768.webp'
+File:      epilepsy-768.png
+Dimension: 768 x 587
+Output:    9838 bytes Y-U-V-All-PSNR 40.48 37.72 37.17   39.21 dB
+block count:  intra4: 775
+              intra16: 1001  (-> 56.36%)
+              skipped block: 465 (26.18%)
+bytes used:  header:            150  (1.5%)
+             mode-partition:   2329  (23.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       8%|      14%|      75%|    1776
+      quantizer:  |      68 |      68 |      59 |      48 |
+   filter level:  |      33 |      49 |      26 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 21,902 = 0.388664 bits/pel.
+Compressed bytes (excludes codestream headers) = 21,673 = 0.384600 bpp.
+Body bytes (excludes packet and codestream headers) = 21,263 = 0.377325 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.388664
+Layer thresholds:
+        42664
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-835.webp'
+File:      epilepsy-835.png
+Dimension: 835 x 638
+Output:    11016 bytes Y-U-V-All-PSNR 40.75 38.22 37.54   39.56 dB
+block count:  intra4: 890
+              intra16: 1230  (-> 58.02%)
+              skipped block: 617 (29.10%)
+bytes used:  header:            138  (1.3%)
+             mode-partition:   2594  (23.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       7%|      14%|      76%|    2120
+      quantizer:  |      68 |      68 |      59 |      48 |
+   filter level:  |      33 |      33 |      52 |      10 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 25,956 = 0.389781 bits/pel.
+Compressed bytes (excludes codestream headers) = 25,727 = 0.386342 bpp.
+Body bytes (excludes packet and codestream headers) = 25,284 = 0.379690 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.389781
+Layer thresholds:
+        42603
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1536.webp'
+File:      epilepsy-1536.png
+Dimension: 1536 x 1174
+Output:    24950 bytes Y-U-V-All-PSNR 42.68 38.71 38.22   40.78 dB
+block count:  intra4: 2867
+              intra16: 4237  (-> 59.64%)
+              skipped block: 2683 (37.77%)
+bytes used:  header:            172  (0.7%)
+             mode-partition:   6770  (27.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       5%|       8%|      84%|    7104
+      quantizer:  |      68 |      68 |      61 |      50 |
+   filter level:  |      33 |      18 |      27 |      31 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 87,172 = 0.386730 bits/pel.
+Compressed bytes (excludes codestream headers) = 86,943 = 0.385714 bpp.
+Body bytes (excludes packet and codestream headers) = 85,768 = 0.380501 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.386730
+Layer thresholds:
+        42175
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1670.webp'
+File:      epilepsy-1670.png
+Dimension: 1670 x 1276
+Output:    26272 bytes Y-U-V-All-PSNR 43.52 39.67 38.53   41.48 dB
+block count:  intra4: 3424
+              intra16: 4976  (-> 59.24%)
+              skipped block: 3261 (38.82%)
+bytes used:  header:            180  (0.7%)
+             mode-partition:   7845  (29.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       6%|       8%|      84%|    8400
+      quantizer:  |      68 |      68 |      60 |      49 |
+   filter level:  |      24 |      18 |      27 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 102,761 = 0.385790 bits/pel.
+Compressed bytes (excludes codestream headers) = 102,532 = 0.384930 bpp.
+Body bytes (excludes packet and codestream headers) = 101,358 = 0.380523 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.385790
+Layer thresholds:
+        42023
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-360.webp'
+File:      epilepsy-360.png
+Dimension: 360 x 275
+Output:    3592 bytes Y-U-V-All-PSNR 38.62 36.40 35.93   37.64 dB
+block count:  intra4: 136
+              intra16: 278  (-> 67.15%)
+              skipped block: 82 (19.81%)
+bytes used:  header:             93  (2.6%)
+             mode-partition:    680  (18.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      12%|      17%|      63%|     414
+      quantizer:  |      68 |      66 |      57 |      45 |
+   filter level:  |      24 |      31 |      49 |       9 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,740 = 0.383030 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,511 = 0.364525 bpp.
+Body bytes (excludes packet and codestream headers) = 4,371 = 0.353212 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.383030
+Layer thresholds:
+        43279
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-720.webp'
+File:      epilepsy-720.png
+Dimension: 720 x 550
+Output:    9044 bytes Y-U-V-All-PSNR 40.23 37.65 37.05   39.04 dB
+block count:  intra4: 668
+              intra16: 907  (-> 57.59%)
+              skipped block: 388 (24.63%)
+bytes used:  header:            140  (1.5%)
+             mode-partition:   2051  (22.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       8%|      14%|      73%|    1575
+      quantizer:  |      68 |      68 |      59 |      48 |
+   filter level:  |      24 |      33 |      26 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 19,007 = 0.383980 bits/pel.
+Compressed bytes (excludes codestream headers) = 18,778 = 0.379354 bpp.
+Body bytes (excludes packet and codestream headers) = 18,435 = 0.372424 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.383980
+Layer thresholds:
+        42727
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-768.webp'
+File:      epilepsy-768.png
+Dimension: 768 x 587
+Output:    9838 bytes Y-U-V-All-PSNR 40.48 37.72 37.17   39.21 dB
+block count:  intra4: 775
+              intra16: 1001  (-> 56.36%)
+              skipped block: 465 (26.18%)
+bytes used:  header:            150  (1.5%)
+             mode-partition:   2329  (23.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       8%|      14%|      75%|    1776
+      quantizer:  |      68 |      68 |      59 |      48 |
+   filter level:  |      33 |      49 |      26 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 21,952 = 0.389551 bits/pel.
+Compressed bytes (excludes codestream headers) = 21,723 = 0.385488 bpp.
+Body bytes (excludes packet and codestream headers) = 21,313 = 0.378212 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.389551
+Layer thresholds:
+        42662
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-835.webp'
+File:      epilepsy-835.png
+Dimension: 835 x 638
+Output:    11016 bytes Y-U-V-All-PSNR 40.75 38.22 37.54   39.56 dB
+block count:  intra4: 890
+              intra16: 1230  (-> 58.02%)
+              skipped block: 617 (29.10%)
+bytes used:  header:            138  (1.3%)
+             mode-partition:   2594  (23.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       7%|      14%|      76%|    2120
+      quantizer:  |      68 |      68 |      59 |      48 |
+   filter level:  |      33 |      33 |      52 |      10 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 25,893 = 0.388835 bits/pel.
+Compressed bytes (excludes codestream headers) = 25,664 = 0.385396 bpp.
+Body bytes (excludes packet and codestream headers) = 25,221 = 0.378743 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.388835
+Layer thresholds:
+        42604
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1536.webp'
+File:      epilepsy-1536.png
+Dimension: 1536 x 1174
+Output:    24950 bytes Y-U-V-All-PSNR 42.68 38.71 38.22   40.78 dB
+block count:  intra4: 2867
+              intra16: 4237  (-> 59.64%)
+              skipped block: 2683 (37.77%)
+bytes used:  header:            172  (0.7%)
+             mode-partition:   6770  (27.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       5%|       8%|      84%|    7104
+      quantizer:  |      68 |      68 |      61 |      50 |
+   filter level:  |      33 |      18 |      27 |      31 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 86,682 = 0.384556 bits/pel.
+Compressed bytes (excludes codestream headers) = 86,453 = 0.383540 bpp.
+Body bytes (excludes packet and codestream headers) = 85,290 = 0.378381 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.384556
+Layer thresholds:
+        42178
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1670.webp'
+File:      epilepsy-1670.png
+Dimension: 1670 x 1276
+Output:    26272 bytes Y-U-V-All-PSNR 43.52 39.67 38.53   41.48 dB
+block count:  intra4: 3424
+              intra16: 4976  (-> 59.24%)
+              skipped block: 3261 (38.82%)
+bytes used:  header:            180  (0.7%)
+             mode-partition:   7845  (29.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       6%|       8%|      84%|    8400
+      quantizer:  |      68 |      68 |      60 |      49 |
+   filter level:  |      24 |      18 |      27 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 102,805 = 0.385955 bits/pel.
+Compressed bytes (excludes codestream headers) = 102,576 = 0.385096 bpp.
+Body bytes (excludes packet and codestream headers) = 101,402 = 0.380688 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.385955
+Layer thresholds:
+        42022
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-360.webp'
+File:      epilepsy-360.png
+Dimension: 360 x 275
+Output:    4104 bytes Y-U-V-All-PSNR 39.86 37.83 37.14   38.91 dB
+block count:  intra4: 139
+              intra16: 275  (-> 66.43%)
+              skipped block: 87 (21.01%)
+bytes used:  header:            108  (2.6%)
+             mode-partition:    736  (17.9%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      12%|      17%|      63%|     414
+      quantizer:  |      59 |      57 |      49 |      38 |
+   filter level:  |      19 |      13 |      30 |       8 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,740 = 0.383030 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,511 = 0.364525 bpp.
+Body bytes (excludes packet and codestream headers) = 4,371 = 0.353212 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.383030
+Layer thresholds:
+        43279
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-720.webp'
+File:      epilepsy-720.png
+Dimension: 720 x 550
+Output:    10544 bytes Y-U-V-All-PSNR 41.45 39.00 38.25   40.28 dB
+block count:  intra4: 675
+              intra16: 900  (-> 57.14%)
+              skipped block: 382 (24.25%)
+bytes used:  header:            160  (1.5%)
+             mode-partition:   2186  (20.7%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       8%|      14%|      73%|    1575
+      quantizer:  |      59 |      59 |      51 |      41 |
+   filter level:  |      19 |      14 |      31 |      17 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 19,007 = 0.383980 bits/pel.
+Compressed bytes (excludes codestream headers) = 18,778 = 0.379354 bpp.
+Body bytes (excludes packet and codestream headers) = 18,435 = 0.372424 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.383980
+Layer thresholds:
+        42727
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-768.webp'
+File:      epilepsy-768.png
+Dimension: 768 x 587
+Output:    11478 bytes Y-U-V-All-PSNR 41.67 39.15 38.33   40.45 dB
+block count:  intra4: 755
+              intra16: 1021  (-> 57.49%)
+              skipped block: 430 (24.21%)
+bytes used:  header:            157  (1.4%)
+             mode-partition:   2432  (21.2%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       8%|      14%|      75%|    1776
+      quantizer:  |      59 |      59 |      51 |      41 |
+   filter level:  |      19 |      26 |      21 |       8 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 21,952 = 0.389551 bits/pel.
+Compressed bytes (excludes codestream headers) = 21,723 = 0.385488 bpp.
+Body bytes (excludes packet and codestream headers) = 21,313 = 0.378212 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.389551
+Layer thresholds:
+        42662
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-835.webp'
+File:      epilepsy-835.png
+Dimension: 835 x 638
+Output:    12914 bytes Y-U-V-All-PSNR 41.97 39.34 38.72   40.75 dB
+block count:  intra4: 906
+              intra16: 1214  (-> 57.26%)
+              skipped block: 556 (26.23%)
+bytes used:  header:            162  (1.3%)
+             mode-partition:   2788  (21.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       7%|      14%|      76%|    2120
+      quantizer:  |      59 |      59 |      51 |      41 |
+   filter level:  |      19 |      26 |      31 |      17 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 25,893 = 0.388835 bits/pel.
+Compressed bytes (excludes codestream headers) = 25,664 = 0.385396 bpp.
+Body bytes (excludes packet and codestream headers) = 25,221 = 0.378743 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.388835
+Layer thresholds:
+        42604
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1536.webp'
+File:      epilepsy-1536.png
+Dimension: 1536 x 1174
+Output:    28854 bytes Y-U-V-All-PSNR 43.84 40.76 39.98   42.35 dB
+block count:  intra4: 2898
+              intra16: 4206  (-> 59.21%)
+              skipped block: 2585 (36.39%)
+bytes used:  header:            216  (0.7%)
+             mode-partition:   7143  (24.8%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       5%|       8%|      84%|    7104
+      quantizer:  |      59 |      59 |      53 |      42 |
+   filter level:  |      26 |      26 |      22 |      26 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 87,172 = 0.386730 bits/pel.
+Compressed bytes (excludes codestream headers) = 86,943 = 0.385714 bpp.
+Body bytes (excludes packet and codestream headers) = 85,768 = 0.380501 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.386730
+Layer thresholds:
+        42175
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1670.webp'
+File:      epilepsy-1670.png
+Dimension: 1670 x 1276
+Output:    30110 bytes Y-U-V-All-PSNR 44.58 41.03 40.20   42.82 dB
+block count:  intra4: 3413
+              intra16: 4987  (-> 59.37%)
+              skipped block: 3146 (37.45%)
+bytes used:  header:            191  (0.6%)
+             mode-partition:   8175  (27.2%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       6%|       8%|      84%|    8400
+      quantizer:  |      59 |      59 |      52 |      42 |
+   filter level:  |      19 |      26 |      21 |      17 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 102,961 = 0.386541 bits/pel.
+Compressed bytes (excludes codestream headers) = 102,732 = 0.385681 bpp.
+Body bytes (excludes packet and codestream headers) = 101,558 = 0.381274 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.386541
+Layer thresholds:
+        42021
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-360.webp'
+File:      epilepsy-360.png
+Dimension: 360 x 275
+Output:    5158 bytes Y-U-V-All-PSNR 41.68 39.86 39.10   40.81 dB
+block count:  intra4: 179
+              intra16: 235  (-> 56.76%)
+              skipped block: 84 (20.29%)
+bytes used:  header:            138  (2.7%)
+             mode-partition:    802  (15.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      12%|      17%|      63%|     414
+      quantizer:  |      45 |      43 |      37 |      28 |
+   filter level:  |      14 |       9 |      23 |       6 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,740 = 0.383030 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,511 = 0.364525 bpp.
+Body bytes (excludes packet and codestream headers) = 4,371 = 0.353212 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.383030
+Layer thresholds:
+        43279
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-720.webp'
+File:      epilepsy-720.png
+Dimension: 720 x 550
+Output:    13220 bytes Y-U-V-All-PSNR 43.28 41.13 40.56   42.30 dB
+block count:  intra4: 766
+              intra16: 809  (-> 51.37%)
+              skipped block: 371 (23.56%)
+bytes used:  header:            200  (1.5%)
+             mode-partition:   2464  (18.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       8%|      14%|      73%|    1575
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      10 |      24 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 19,007 = 0.383980 bits/pel.
+Compressed bytes (excludes codestream headers) = 18,778 = 0.379354 bpp.
+Body bytes (excludes packet and codestream headers) = 18,435 = 0.372424 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.383980
+Layer thresholds:
+        42727
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-768.webp'
+File:      epilepsy-768.png
+Dimension: 768 x 587
+Output:    14426 bytes Y-U-V-All-PSNR 43.46 41.20 40.69   42.45 dB
+block count:  intra4: 850
+              intra16: 926  (-> 52.14%)
+              skipped block: 431 (24.27%)
+bytes used:  header:            203  (1.4%)
+             mode-partition:   2746  (19.0%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       8%|      14%|      75%|    1776
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      10 |      24 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 21,902 = 0.388664 bits/pel.
+Compressed bytes (excludes codestream headers) = 21,673 = 0.384600 bpp.
+Body bytes (excludes packet and codestream headers) = 21,263 = 0.377325 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.388664
+Layer thresholds:
+        42664
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-835.webp'
+File:      epilepsy-835.png
+Dimension: 835 x 638
+Output:    16156 bytes Y-U-V-All-PSNR 43.79 41.61 40.99   42.79 dB
+block count:  intra4: 989
+              intra16: 1131  (-> 53.35%)
+              skipped block: 532 (25.09%)
+bytes used:  header:            196  (1.2%)
+             mode-partition:   3123  (19.3%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       7%|      14%|      76%|    2120
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      18 |      16 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 25,893 = 0.388835 bits/pel.
+Compressed bytes (excludes codestream headers) = 25,664 = 0.385396 bpp.
+Body bytes (excludes packet and codestream headers) = 25,221 = 0.378743 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.388835
+Layer thresholds:
+        42604
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1536.webp'
+File:      epilepsy-1536.png
+Dimension: 1536 x 1174
+Output:    36202 bytes Y-U-V-All-PSNR 45.46 43.25 42.55   44.42 dB
+block count:  intra4: 3141
+              intra16: 3963  (-> 55.79%)
+              skipped block: 2397 (33.74%)
+bytes used:  header:            272  (0.8%)
+             mode-partition:   7819  (21.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       5%|       8%|      84%|    7104
+      quantizer:  |      45 |      45 |      39 |      31 |
+   filter level:  |      14 |      10 |      16 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 87,172 = 0.386730 bits/pel.
+Compressed bytes (excludes codestream headers) = 86,943 = 0.385714 bpp.
+Body bytes (excludes packet and codestream headers) = 85,768 = 0.380501 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.386730
+Layer thresholds:
+        42175
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1670.webp'
+File:      epilepsy-1670.png
+Dimension: 1670 x 1276
+Output:    37550 bytes Y-U-V-All-PSNR 46.17 43.16 42.85   44.84 dB
+block count:  intra4: 3776
+              intra16: 4624  (-> 55.05%)
+              skipped block: 2982 (35.50%)
+bytes used:  header:            252  (0.7%)
+             mode-partition:   9056  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       6%|       8%|      84%|    8400
+      quantizer:  |      45 |      45 |      38 |      31 |
+   filter level:  |      14 |      18 |      16 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 102,761 = 0.385790 bits/pel.
+Compressed bytes (excludes codestream headers) = 102,532 = 0.384930 bpp.
+Body bytes (excludes packet and codestream headers) = 101,358 = 0.380523 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.385790
+Layer thresholds:
+        42023
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-360.webp'
+File:      epilepsy-360.png
+Dimension: 360 x 275
+Output:    5158 bytes Y-U-V-All-PSNR 41.68 39.86 39.10   40.81 dB
+block count:  intra4: 179
+              intra16: 235  (-> 56.76%)
+              skipped block: 84 (20.29%)
+bytes used:  header:            138  (2.7%)
+             mode-partition:    802  (15.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      12%|      17%|      63%|     414
+      quantizer:  |      45 |      43 |      37 |      28 |
+   filter level:  |      14 |       9 |      23 |       6 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,740 = 0.383030 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,511 = 0.364525 bpp.
+Body bytes (excludes packet and codestream headers) = 4,371 = 0.353212 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.383030
+Layer thresholds:
+        43279
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-720.webp'
+File:      epilepsy-720.png
+Dimension: 720 x 550
+Output:    13220 bytes Y-U-V-All-PSNR 43.28 41.13 40.56   42.30 dB
+block count:  intra4: 766
+              intra16: 809  (-> 51.37%)
+              skipped block: 371 (23.56%)
+bytes used:  header:            200  (1.5%)
+             mode-partition:   2464  (18.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       8%|      14%|      73%|    1575
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      10 |      24 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 19,007 = 0.383980 bits/pel.
+Compressed bytes (excludes codestream headers) = 18,778 = 0.379354 bpp.
+Body bytes (excludes packet and codestream headers) = 18,435 = 0.372424 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.383980
+Layer thresholds:
+        42727
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-768.webp'
+File:      epilepsy-768.png
+Dimension: 768 x 587
+Output:    14426 bytes Y-U-V-All-PSNR 43.46 41.20 40.69   42.45 dB
+block count:  intra4: 850
+              intra16: 926  (-> 52.14%)
+              skipped block: 431 (24.27%)
+bytes used:  header:            203  (1.4%)
+             mode-partition:   2746  (19.0%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       8%|      14%|      75%|    1776
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      10 |      24 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 21,952 = 0.389551 bits/pel.
+Compressed bytes (excludes codestream headers) = 21,723 = 0.385488 bpp.
+Body bytes (excludes packet and codestream headers) = 21,313 = 0.378212 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.389551
+Layer thresholds:
+        42662
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-835.webp'
+File:      epilepsy-835.png
+Dimension: 835 x 638
+Output:    16156 bytes Y-U-V-All-PSNR 43.79 41.61 40.99   42.79 dB
+block count:  intra4: 989
+              intra16: 1131  (-> 53.35%)
+              skipped block: 532 (25.09%)
+bytes used:  header:            196  (1.2%)
+             mode-partition:   3123  (19.3%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       7%|      14%|      76%|    2120
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      18 |      16 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 25,893 = 0.388835 bits/pel.
+Compressed bytes (excludes codestream headers) = 25,664 = 0.385396 bpp.
+Body bytes (excludes packet and codestream headers) = 25,221 = 0.378743 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.388835
+Layer thresholds:
+        42604
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1536.webp'
+File:      epilepsy-1536.png
+Dimension: 1536 x 1174
+Output:    36202 bytes Y-U-V-All-PSNR 45.46 43.25 42.55   44.42 dB
+block count:  intra4: 3141
+              intra16: 3963  (-> 55.79%)
+              skipped block: 2397 (33.74%)
+bytes used:  header:            272  (0.8%)
+             mode-partition:   7819  (21.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       5%|       8%|      84%|    7104
+      quantizer:  |      45 |      45 |      39 |      31 |
+   filter level:  |      14 |      10 |      16 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 86,682 = 0.384556 bits/pel.
+Compressed bytes (excludes codestream headers) = 86,453 = 0.383540 bpp.
+Body bytes (excludes packet and codestream headers) = 85,290 = 0.378381 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.384556
+Layer thresholds:
+        42178
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1670.webp'
+File:      epilepsy-1670.png
+Dimension: 1670 x 1276
+Output:    37550 bytes Y-U-V-All-PSNR 46.17 43.16 42.85   44.84 dB
+block count:  intra4: 3776
+              intra16: 4624  (-> 55.05%)
+              skipped block: 2982 (35.50%)
+bytes used:  header:            252  (0.7%)
+             mode-partition:   9056  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       6%|       8%|      84%|    8400
+      quantizer:  |      45 |      45 |      38 |      31 |
+   filter level:  |      14 |      18 |      16 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 102,805 = 0.385955 bits/pel.
+Compressed bytes (excludes codestream headers) = 102,576 = 0.385096 bpp.
+Body bytes (excludes packet and codestream headers) = 101,402 = 0.380688 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.385955
+Layer thresholds:
+        42022
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-360.webp'
+File:      epilepsy-360.png
+Dimension: 360 x 275
+Output:    5158 bytes Y-U-V-All-PSNR 41.68 39.86 39.10   40.81 dB
+block count:  intra4: 179
+              intra16: 235  (-> 56.76%)
+              skipped block: 84 (20.29%)
+bytes used:  header:            138  (2.7%)
+             mode-partition:    802  (15.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      12%|      17%|      63%|     414
+      quantizer:  |      45 |      43 |      37 |      28 |
+   filter level:  |      14 |       9 |      23 |       6 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,740 = 0.383030 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,511 = 0.364525 bpp.
+Body bytes (excludes packet and codestream headers) = 4,371 = 0.353212 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.383030
+Layer thresholds:
+        43279
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-720.webp'
+File:      epilepsy-720.png
+Dimension: 720 x 550
+Output:    13220 bytes Y-U-V-All-PSNR 43.28 41.13 40.56   42.30 dB
+block count:  intra4: 766
+              intra16: 809  (-> 51.37%)
+              skipped block: 371 (23.56%)
+bytes used:  header:            200  (1.5%)
+             mode-partition:   2464  (18.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       8%|      14%|      73%|    1575
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      10 |      24 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 19,007 = 0.383980 bits/pel.
+Compressed bytes (excludes codestream headers) = 18,778 = 0.379354 bpp.
+Body bytes (excludes packet and codestream headers) = 18,435 = 0.372424 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.383980
+Layer thresholds:
+        42727
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-768.webp'
+File:      epilepsy-768.png
+Dimension: 768 x 587
+Output:    14426 bytes Y-U-V-All-PSNR 43.46 41.20 40.69   42.45 dB
+block count:  intra4: 850
+              intra16: 926  (-> 52.14%)
+              skipped block: 431 (24.27%)
+bytes used:  header:            203  (1.4%)
+             mode-partition:   2746  (19.0%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       8%|      14%|      75%|    1776
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      10 |      24 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 21,902 = 0.388664 bits/pel.
+Compressed bytes (excludes codestream headers) = 21,673 = 0.384600 bpp.
+Body bytes (excludes packet and codestream headers) = 21,263 = 0.377325 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.388664
+Layer thresholds:
+        42664
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-835.webp'
+File:      epilepsy-835.png
+Dimension: 835 x 638
+Output:    16156 bytes Y-U-V-All-PSNR 43.79 41.61 40.99   42.79 dB
+block count:  intra4: 989
+              intra16: 1131  (-> 53.35%)
+              skipped block: 532 (25.09%)
+bytes used:  header:            196  (1.2%)
+             mode-partition:   3123  (19.3%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       7%|      14%|      76%|    2120
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      18 |      16 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 25,893 = 0.388835 bits/pel.
+Compressed bytes (excludes codestream headers) = 25,664 = 0.385396 bpp.
+Body bytes (excludes packet and codestream headers) = 25,221 = 0.378743 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.388835
+Layer thresholds:
+        42604
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1536.webp'
+File:      epilepsy-1536.png
+Dimension: 1536 x 1174
+Output:    36202 bytes Y-U-V-All-PSNR 45.46 43.25 42.55   44.42 dB
+block count:  intra4: 3141
+              intra16: 3963  (-> 55.79%)
+              skipped block: 2397 (33.74%)
+bytes used:  header:            272  (0.8%)
+             mode-partition:   7819  (21.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       5%|       8%|      84%|    7104
+      quantizer:  |      45 |      45 |      39 |      31 |
+   filter level:  |      14 |      10 |      16 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 86,682 = 0.384556 bits/pel.
+Compressed bytes (excludes codestream headers) = 86,453 = 0.383540 bpp.
+Body bytes (excludes packet and codestream headers) = 85,290 = 0.378381 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.384556
+Layer thresholds:
+        42178
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1670.webp'
+File:      epilepsy-1670.png
+Dimension: 1670 x 1276
+Output:    37550 bytes Y-U-V-All-PSNR 46.17 43.16 42.85   44.84 dB
+block count:  intra4: 3776
+              intra16: 4624  (-> 55.05%)
+              skipped block: 2982 (35.50%)
+bytes used:  header:            252  (0.7%)
+             mode-partition:   9056  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       6%|       8%|      84%|    8400
+      quantizer:  |      45 |      45 |      38 |      31 |
+   filter level:  |      14 |      18 |      16 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 102,761 = 0.385790 bits/pel.
+Compressed bytes (excludes codestream headers) = 102,532 = 0.384930 bpp.
+Body bytes (excludes packet and codestream headers) = 101,358 = 0.380523 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.385790
+Layer thresholds:
+        42023
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-360.webp'
+File:      epilepsy-360.png
+Dimension: 360 x 275
+Output:    5158 bytes Y-U-V-All-PSNR 41.68 39.86 39.10   40.81 dB
+block count:  intra4: 179
+              intra16: 235  (-> 56.76%)
+              skipped block: 84 (20.29%)
+bytes used:  header:            138  (2.7%)
+             mode-partition:    802  (15.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      12%|      17%|      63%|     414
+      quantizer:  |      45 |      43 |      37 |      28 |
+   filter level:  |      14 |       9 |      23 |       6 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,740 = 0.383030 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,511 = 0.364525 bpp.
+Body bytes (excludes packet and codestream headers) = 4,371 = 0.353212 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.383030
+Layer thresholds:
+        43279
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-720.webp'
+File:      epilepsy-720.png
+Dimension: 720 x 550
+Output:    13220 bytes Y-U-V-All-PSNR 43.28 41.13 40.56   42.30 dB
+block count:  intra4: 766
+              intra16: 809  (-> 51.37%)
+              skipped block: 371 (23.56%)
+bytes used:  header:            200  (1.5%)
+             mode-partition:   2464  (18.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       8%|      14%|      73%|    1575
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      10 |      24 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 19,007 = 0.383980 bits/pel.
+Compressed bytes (excludes codestream headers) = 18,778 = 0.379354 bpp.
+Body bytes (excludes packet and codestream headers) = 18,435 = 0.372424 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.383980
+Layer thresholds:
+        42727
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-768.webp'
+File:      epilepsy-768.png
+Dimension: 768 x 587
+Output:    14426 bytes Y-U-V-All-PSNR 43.46 41.20 40.69   42.45 dB
+block count:  intra4: 850
+              intra16: 926  (-> 52.14%)
+              skipped block: 431 (24.27%)
+bytes used:  header:            203  (1.4%)
+             mode-partition:   2746  (19.0%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       8%|      14%|      75%|    1776
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      10 |      24 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 21,952 = 0.389551 bits/pel.
+Compressed bytes (excludes codestream headers) = 21,723 = 0.385488 bpp.
+Body bytes (excludes packet and codestream headers) = 21,313 = 0.378212 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.389551
+Layer thresholds:
+        42662
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-835.webp'
+File:      epilepsy-835.png
+Dimension: 835 x 638
+Output:    16156 bytes Y-U-V-All-PSNR 43.79 41.61 40.99   42.79 dB
+block count:  intra4: 989
+              intra16: 1131  (-> 53.35%)
+              skipped block: 532 (25.09%)
+bytes used:  header:            196  (1.2%)
+             mode-partition:   3123  (19.3%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       7%|      14%|      76%|    2120
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      18 |      16 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 25,893 = 0.388835 bits/pel.
+Compressed bytes (excludes codestream headers) = 25,664 = 0.385396 bpp.
+Body bytes (excludes packet and codestream headers) = 25,221 = 0.378743 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.388835
+Layer thresholds:
+        42604
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1536.webp'
+File:      epilepsy-1536.png
+Dimension: 1536 x 1174
+Output:    36202 bytes Y-U-V-All-PSNR 45.46 43.25 42.55   44.42 dB
+block count:  intra4: 3141
+              intra16: 3963  (-> 55.79%)
+              skipped block: 2397 (33.74%)
+bytes used:  header:            272  (0.8%)
+             mode-partition:   7819  (21.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       5%|       8%|      84%|    7104
+      quantizer:  |      45 |      45 |      39 |      31 |
+   filter level:  |      14 |      10 |      16 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 87,172 = 0.386730 bits/pel.
+Compressed bytes (excludes codestream headers) = 86,943 = 0.385714 bpp.
+Body bytes (excludes packet and codestream headers) = 85,768 = 0.380501 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.386730
+Layer thresholds:
+        42175
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1670.webp'
+File:      epilepsy-1670.png
+Dimension: 1670 x 1276
+Output:    37550 bytes Y-U-V-All-PSNR 46.17 43.16 42.85   44.84 dB
+block count:  intra4: 3776
+              intra16: 4624  (-> 55.05%)
+              skipped block: 2982 (35.50%)
+bytes used:  header:            252  (0.7%)
+             mode-partition:   9056  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       6%|       8%|      84%|    8400
+      quantizer:  |      45 |      45 |      38 |      31 |
+   filter level:  |      14 |      18 |      16 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 102,761 = 0.385790 bits/pel.
+Compressed bytes (excludes codestream headers) = 102,532 = 0.384930 bpp.
+Body bytes (excludes packet and codestream headers) = 101,358 = 0.380523 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.385790
+Layer thresholds:
+        42023
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-360.webp'
+File:      epilepsy-360.png
+Dimension: 360 x 275
+Output:    5158 bytes Y-U-V-All-PSNR 41.68 39.86 39.10   40.81 dB
+block count:  intra4: 179
+              intra16: 235  (-> 56.76%)
+              skipped block: 84 (20.29%)
+bytes used:  header:            138  (2.7%)
+             mode-partition:    802  (15.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      12%|      17%|      63%|     414
+      quantizer:  |      45 |      43 |      37 |      28 |
+   filter level:  |      14 |       9 |      23 |       6 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,740 = 0.383030 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,511 = 0.364525 bpp.
+Body bytes (excludes packet and codestream headers) = 4,371 = 0.353212 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.383030
+Layer thresholds:
+        43279
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-720.webp'
+File:      epilepsy-720.png
+Dimension: 720 x 550
+Output:    13220 bytes Y-U-V-All-PSNR 43.28 41.13 40.56   42.30 dB
+block count:  intra4: 766
+              intra16: 809  (-> 51.37%)
+              skipped block: 371 (23.56%)
+bytes used:  header:            200  (1.5%)
+             mode-partition:   2464  (18.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       8%|      14%|      73%|    1575
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      10 |      24 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 19,007 = 0.383980 bits/pel.
+Compressed bytes (excludes codestream headers) = 18,778 = 0.379354 bpp.
+Body bytes (excludes packet and codestream headers) = 18,435 = 0.372424 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.383980
+Layer thresholds:
+        42727
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-768.webp'
+File:      epilepsy-768.png
+Dimension: 768 x 587
+Output:    14426 bytes Y-U-V-All-PSNR 43.46 41.20 40.69   42.45 dB
+block count:  intra4: 850
+              intra16: 926  (-> 52.14%)
+              skipped block: 431 (24.27%)
+bytes used:  header:            203  (1.4%)
+             mode-partition:   2746  (19.0%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       8%|      14%|      75%|    1776
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      10 |      24 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 21,952 = 0.389551 bits/pel.
+Compressed bytes (excludes codestream headers) = 21,723 = 0.385488 bpp.
+Body bytes (excludes packet and codestream headers) = 21,313 = 0.378212 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.389551
+Layer thresholds:
+        42662
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-835.webp'
+File:      epilepsy-835.png
+Dimension: 835 x 638
+Output:    16156 bytes Y-U-V-All-PSNR 43.79 41.61 40.99   42.79 dB
+block count:  intra4: 989
+              intra16: 1131  (-> 53.35%)
+              skipped block: 532 (25.09%)
+bytes used:  header:            196  (1.2%)
+             mode-partition:   3123  (19.3%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       7%|      14%|      76%|    2120
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      18 |      16 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 25,893 = 0.388835 bits/pel.
+Compressed bytes (excludes codestream headers) = 25,664 = 0.385396 bpp.
+Body bytes (excludes packet and codestream headers) = 25,221 = 0.378743 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.388835
+Layer thresholds:
+        42604
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1536.webp'
+File:      epilepsy-1536.png
+Dimension: 1536 x 1174
+Output:    36202 bytes Y-U-V-All-PSNR 45.46 43.25 42.55   44.42 dB
+block count:  intra4: 3141
+              intra16: 3963  (-> 55.79%)
+              skipped block: 2397 (33.74%)
+bytes used:  header:            272  (0.8%)
+             mode-partition:   7819  (21.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       5%|       8%|      84%|    7104
+      quantizer:  |      45 |      45 |      39 |      31 |
+   filter level:  |      14 |      10 |      16 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 87,172 = 0.386730 bits/pel.
+Compressed bytes (excludes codestream headers) = 86,943 = 0.385714 bpp.
+Body bytes (excludes packet and codestream headers) = 85,768 = 0.380501 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.386730
+Layer thresholds:
+        42175
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1670.webp'
+File:      epilepsy-1670.png
+Dimension: 1670 x 1276
+Output:    37550 bytes Y-U-V-All-PSNR 46.17 43.16 42.85   44.84 dB
+block count:  intra4: 3776
+              intra16: 4624  (-> 55.05%)
+              skipped block: 2982 (35.50%)
+bytes used:  header:            252  (0.7%)
+             mode-partition:   9056  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       6%|       8%|      84%|    8400
+      quantizer:  |      45 |      45 |      38 |      31 |
+   filter level:  |      14 |      18 |      16 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 102,761 = 0.385790 bits/pel.
+Compressed bytes (excludes codestream headers) = 102,532 = 0.384930 bpp.
+Body bytes (excludes packet and codestream headers) = 101,358 = 0.380523 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.385790
+Layer thresholds:
+        42023
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-360.webp'
+File:      epilepsy-360.png
+Dimension: 360 x 275
+Output:    5158 bytes Y-U-V-All-PSNR 41.68 39.86 39.10   40.81 dB
+block count:  intra4: 179
+              intra16: 235  (-> 56.76%)
+              skipped block: 84 (20.29%)
+bytes used:  header:            138  (2.7%)
+             mode-partition:    802  (15.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      12%|      17%|      63%|     414
+      quantizer:  |      45 |      43 |      37 |      28 |
+   filter level:  |      14 |       9 |      23 |       6 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 3,553 = 0.287111 bits/pel.
+Compressed bytes (excludes codestream headers) = 3,324 = 0.268606 bpp.
+Body bytes (excludes packet and codestream headers) = 3,197 = 0.258343 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.287111
+Layer thresholds:
+        43657
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-720.webp'
+File:      epilepsy-720.png
+Dimension: 720 x 550
+Output:    13220 bytes Y-U-V-All-PSNR 43.28 41.13 40.56   42.30 dB
+block count:  intra4: 766
+              intra16: 809  (-> 51.37%)
+              skipped block: 371 (23.56%)
+bytes used:  header:            200  (1.5%)
+             mode-partition:   2464  (18.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       8%|      14%|      73%|    1575
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      10 |      24 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 14,325 = 0.289394 bits/pel.
+Compressed bytes (excludes codestream headers) = 14,096 = 0.284768 bpp.
+Body bytes (excludes packet and codestream headers) = 13,817 = 0.279131 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.289394
+Layer thresholds:
+        43055
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-768.webp'
+File:      epilepsy-768.png
+Dimension: 768 x 587
+Output:    14426 bytes Y-U-V-All-PSNR 43.46 41.20 40.69   42.45 dB
+block count:  intra4: 850
+              intra16: 926  (-> 52.14%)
+              skipped block: 431 (24.27%)
+bytes used:  header:            203  (1.4%)
+             mode-partition:   2746  (19.0%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       8%|      14%|      75%|    1776
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      10 |      24 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 16,048 = 0.284781 bits/pel.
+Compressed bytes (excludes codestream headers) = 15,819 = 0.280718 bpp.
+Body bytes (excludes packet and codestream headers) = 15,491 = 0.274897 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.284781
+Layer thresholds:
+        43013
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-835.webp'
+File:      epilepsy-835.png
+Dimension: 835 x 638
+Output:    16156 bytes Y-U-V-All-PSNR 43.79 41.61 40.99   42.79 dB
+block count:  intra4: 989
+              intra16: 1131  (-> 53.35%)
+              skipped block: 532 (25.09%)
+bytes used:  header:            196  (1.2%)
+             mode-partition:   3123  (19.3%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       7%|      14%|      76%|    2120
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      18 |      16 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 19,039 = 0.285908 bits/pel.
+Compressed bytes (excludes codestream headers) = 18,810 = 0.282470 bpp.
+Body bytes (excludes packet and codestream headers) = 18,464 = 0.277274 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.285908
+Layer thresholds:
+        42950
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1536.webp'
+File:      epilepsy-1536.png
+Dimension: 1536 x 1174
+Output:    36202 bytes Y-U-V-All-PSNR 45.46 43.25 42.55   44.42 dB
+block count:  intra4: 3141
+              intra16: 3963  (-> 55.79%)
+              skipped block: 2397 (33.74%)
+bytes used:  header:            272  (0.8%)
+             mode-partition:   7819  (21.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       5%|       8%|      84%|    7104
+      quantizer:  |      45 |      45 |      39 |      31 |
+   filter level:  |      14 |      10 |      16 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 64,779 = 0.287386 bits/pel.
+Compressed bytes (excludes codestream headers) = 64,550 = 0.286370 bpp.
+Body bytes (excludes packet and codestream headers) = 63,565 = 0.282000 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.287386
+Layer thresholds:
+        42476
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1670.webp'
+File:      epilepsy-1670.png
+Dimension: 1670 x 1276
+Output:    37550 bytes Y-U-V-All-PSNR 46.17 43.16 42.85   44.84 dB
+block count:  intra4: 3776
+              intra16: 4624  (-> 55.05%)
+              skipped block: 2982 (35.50%)
+bytes used:  header:            252  (0.7%)
+             mode-partition:   9056  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       6%|       8%|      84%|    8400
+      quantizer:  |      45 |      45 |      38 |      31 |
+   filter level:  |      14 |      18 |      16 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 77,110 = 0.289490 bits/pel.
+Compressed bytes (excludes codestream headers) = 76,881 = 0.288630 bpp.
+Body bytes (excludes packet and codestream headers) = 75,911 = 0.284989 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.289490
+Layer thresholds:
+        42330
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-360.webp'
+File:      epilepsy-360.png
+Dimension: 360 x 275
+Output:    5158 bytes Y-U-V-All-PSNR 41.68 39.86 39.10   40.81 dB
+block count:  intra4: 179
+              intra16: 235  (-> 56.76%)
+              skipped block: 84 (20.29%)
+bytes used:  header:            138  (2.7%)
+             mode-partition:    802  (15.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      12%|      17%|      63%|     414
+      quantizer:  |      45 |      43 |      37 |      28 |
+   filter level:  |      14 |       9 |      23 |       6 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 2,313 = 0.186909 bits/pel.
+Compressed bytes (excludes codestream headers) = 2,084 = 0.168404 bpp.
+Body bytes (excludes packet and codestream headers) = 1,969 = 0.159111 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.186909
+Layer thresholds:
+        44083
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-720.webp'
+File:      epilepsy-720.png
+Dimension: 720 x 550
+Output:    13220 bytes Y-U-V-All-PSNR 43.28 41.13 40.56   42.30 dB
+block count:  intra4: 766
+              intra16: 809  (-> 51.37%)
+              skipped block: 371 (23.56%)
+bytes used:  header:            200  (1.5%)
+             mode-partition:   2464  (18.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       8%|      14%|      73%|    1575
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      10 |      24 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 9,380 = 0.189495 bits/pel.
+Compressed bytes (excludes codestream headers) = 9,151 = 0.184869 bpp.
+Body bytes (excludes packet and codestream headers) = 8,922 = 0.180242 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.189495
+Layer thresholds:
+        43517
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-768.webp'
+File:      epilepsy-768.png
+Dimension: 768 x 587
+Output:    14426 bytes Y-U-V-All-PSNR 43.46 41.20 40.69   42.45 dB
+block count:  intra4: 850
+              intra16: 926  (-> 52.14%)
+              skipped block: 431 (24.27%)
+bytes used:  header:            203  (1.4%)
+             mode-partition:   2746  (19.0%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       8%|      14%|      75%|    1776
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      10 |      24 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 10,580 = 0.187748 bits/pel.
+Compressed bytes (excludes codestream headers) = 10,351 = 0.183685 bpp.
+Body bytes (excludes packet and codestream headers) = 10,097 = 0.179177 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.187748
+Layer thresholds:
+        43472
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-835.webp'
+File:      epilepsy-835.png
+Dimension: 835 x 638
+Output:    16156 bytes Y-U-V-All-PSNR 43.79 41.61 40.99   42.79 dB
+block count:  intra4: 989
+              intra16: 1131  (-> 53.35%)
+              skipped block: 532 (25.09%)
+bytes used:  header:            196  (1.2%)
+             mode-partition:   3123  (19.3%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       7%|      14%|      76%|    2120
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      18 |      16 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 12,616 = 0.189454 bits/pel.
+Compressed bytes (excludes codestream headers) = 12,387 = 0.186015 bpp.
+Body bytes (excludes packet and codestream headers) = 12,109 = 0.181841 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.189454
+Layer thresholds:
+        43414
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1536.webp'
+File:      epilepsy-1536.png
+Dimension: 1536 x 1174
+Output:    36202 bytes Y-U-V-All-PSNR 45.46 43.25 42.55   44.42 dB
+block count:  intra4: 3141
+              intra16: 3963  (-> 55.79%)
+              skipped block: 2397 (33.74%)
+bytes used:  header:            272  (0.8%)
+             mode-partition:   7819  (21.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       5%|       8%|      84%|    7104
+      quantizer:  |      45 |      45 |      39 |      31 |
+   filter level:  |      14 |      10 |      16 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 42,078 = 0.186675 bits/pel.
+Compressed bytes (excludes codestream headers) = 41,849 = 0.185659 bpp.
+Body bytes (excludes packet and codestream headers) = 41,095 = 0.182314 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.186675
+Layer thresholds:
+        42965
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1670.webp'
+File:      epilepsy-1670.png
+Dimension: 1670 x 1276
+Output:    37550 bytes Y-U-V-All-PSNR 46.17 43.16 42.85   44.84 dB
+block count:  intra4: 3776
+              intra16: 4624  (-> 55.05%)
+              skipped block: 2982 (35.50%)
+bytes used:  header:            252  (0.7%)
+             mode-partition:   9056  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       6%|       8%|      84%|    8400
+      quantizer:  |      45 |      45 |      38 |      31 |
+   filter level:  |      14 |      18 |      16 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 50,280 = 0.188764 bits/pel.
+Compressed bytes (excludes codestream headers) = 50,051 = 0.187904 bpp.
+Body bytes (excludes packet and codestream headers) = 49,273 = 0.184983 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.188764
+Layer thresholds:
+        42817
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-360.webp'
+File:      epilepsy-360.png
+Dimension: 360 x 275
+Output:    5158 bytes Y-U-V-All-PSNR 41.68 39.86 39.10   40.81 dB
+block count:  intra4: 179
+              intra16: 235  (-> 56.76%)
+              skipped block: 84 (20.29%)
+bytes used:  header:            138  (2.7%)
+             mode-partition:    802  (15.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      12%|      17%|      63%|     414
+      quantizer:  |      45 |      43 |      37 |      28 |
+   filter level:  |      14 |       9 |      23 |       6 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 1,222 = 0.098747 bits/pel.
+Compressed bytes (excludes codestream headers) = 993 = 0.080242 bpp.
+Body bytes (excludes packet and codestream headers) = 908 = 0.073374 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.098747
+Layer thresholds:
+        44715
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-720.webp'
+File:      epilepsy-720.png
+Dimension: 720 x 550
+Output:    13220 bytes Y-U-V-All-PSNR 43.28 41.13 40.56   42.30 dB
+block count:  intra4: 766
+              intra16: 809  (-> 51.37%)
+              skipped block: 371 (23.56%)
+bytes used:  header:            200  (1.5%)
+             mode-partition:   2464  (18.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       8%|      14%|      73%|    1575
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      10 |      24 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 4,866 = 0.098303 bits/pel.
+Compressed bytes (excludes codestream headers) = 4,637 = 0.093677 bpp.
+Body bytes (excludes packet and codestream headers) = 4,492 = 0.090747 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.098303
+Layer thresholds:
+        44121
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-768.webp'
+File:      epilepsy-768.png
+Dimension: 768 x 587
+Output:    14426 bytes Y-U-V-All-PSNR 43.46 41.20 40.69   42.45 dB
+block count:  intra4: 850
+              intra16: 926  (-> 52.14%)
+              skipped block: 431 (24.27%)
+bytes used:  header:            203  (1.4%)
+             mode-partition:   2746  (19.0%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       8%|      14%|      75%|    1776
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      10 |      24 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 5,548 = 0.098453 bits/pel.
+Compressed bytes (excludes codestream headers) = 5,319 = 0.094389 bpp.
+Body bytes (excludes packet and codestream headers) = 5,159 = 0.091550 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.098453
+Layer thresholds:
+        44058
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-835.webp'
+File:      epilepsy-835.png
+Dimension: 835 x 638
+Output:    16156 bytes Y-U-V-All-PSNR 43.79 41.61 40.99   42.79 dB
+block count:  intra4: 989
+              intra16: 1131  (-> 53.35%)
+              skipped block: 532 (25.09%)
+bytes used:  header:            196  (1.2%)
+             mode-partition:   3123  (19.3%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       7%|      14%|      76%|    2120
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      18 |      16 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 6,549 = 0.098346 bits/pel.
+Compressed bytes (excludes codestream headers) = 6,320 = 0.094907 bpp.
+Body bytes (excludes packet and codestream headers) = 6,145 = 0.092279 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.098346
+Layer thresholds:
+        43994
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1536.webp'
+File:      epilepsy-1536.png
+Dimension: 1536 x 1174
+Output:    36202 bytes Y-U-V-All-PSNR 45.46 43.25 42.55   44.42 dB
+block count:  intra4: 3141
+              intra16: 3963  (-> 55.79%)
+              skipped block: 2397 (33.74%)
+bytes used:  header:            272  (0.8%)
+             mode-partition:   7819  (21.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       5%|       8%|      84%|    7104
+      quantizer:  |      45 |      45 |      39 |      31 |
+   filter level:  |      14 |      10 |      16 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 22,390 = 0.099331 bits/pel.
+Compressed bytes (excludes codestream headers) = 22,161 = 0.098315 bpp.
+Body bytes (excludes packet and codestream headers) = 21,677 = 0.096168 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.099331
+Layer thresholds:
+        43625
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1670.webp'
+File:      epilepsy-1670.png
+Dimension: 1670 x 1276
+Output:    37550 bytes Y-U-V-All-PSNR 46.17 43.16 42.85   44.84 dB
+block count:  intra4: 3776
+              intra16: 4624  (-> 55.05%)
+              skipped block: 2982 (35.50%)
+bytes used:  header:            252  (0.7%)
+             mode-partition:   9056  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       6%|       8%|      84%|    8400
+      quantizer:  |      45 |      45 |      38 |      31 |
+   filter level:  |      14 |      18 |      16 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 26,317 = 0.098801 bits/pel.
+Compressed bytes (excludes codestream headers) = 26,088 = 0.097941 bpp.
+Body bytes (excludes packet and codestream headers) = 25,578 = 0.096026 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.098801
+Layer thresholds:
+        43509
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-360.webp'
+File:      epilepsy-360.png
+Dimension: 360 x 275
+Output:    5158 bytes Y-U-V-All-PSNR 41.68 39.86 39.10   40.81 dB
+block count:  intra4: 179
+              intra16: 235  (-> 56.76%)
+              skipped block: 84 (20.29%)
+bytes used:  header:            138  (2.7%)
+             mode-partition:    802  (15.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      12%|      17%|      63%|     414
+      quantizer:  |      45 |      43 |      37 |      28 |
+   filter level:  |      14 |       9 |      23 |       6 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 2,440 = 0.197172 bits/pel.
+Compressed bytes (excludes codestream headers) = 2,211 = 0.178667 bpp.
+Body bytes (excludes packet and codestream headers) = 2,095 = 0.169293 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.197172
+Layer thresholds:
+        44065
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-720.webp'
+File:      epilepsy-720.png
+Dimension: 720 x 550
+Output:    13220 bytes Y-U-V-All-PSNR 43.28 41.13 40.56   42.30 dB
+block count:  intra4: 766
+              intra16: 809  (-> 51.37%)
+              skipped block: 371 (23.56%)
+bytes used:  header:            200  (1.5%)
+             mode-partition:   2464  (18.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       8%|      14%|      73%|    1575
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      10 |      24 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 9,864 = 0.199273 bits/pel.
+Compressed bytes (excludes codestream headers) = 9,635 = 0.194646 bpp.
+Body bytes (excludes packet and codestream headers) = 9,404 = 0.189980 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.199273
+Layer thresholds:
+        43458
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-768.webp'
+File:      epilepsy-768.png
+Dimension: 768 x 587
+Output:    14426 bytes Y-U-V-All-PSNR 43.46 41.20 40.69   42.45 dB
+block count:  intra4: 850
+              intra16: 926  (-> 52.14%)
+              skipped block: 431 (24.27%)
+bytes used:  header:            203  (1.4%)
+             mode-partition:   2746  (19.0%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       8%|      14%|      75%|    1776
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      10 |      24 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 11,170 = 0.198218 bits/pel.
+Compressed bytes (excludes codestream headers) = 10,941 = 0.194155 bpp.
+Body bytes (excludes packet and codestream headers) = 10,680 = 0.189523 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.198218
+Layer thresholds:
+        43423
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-835.webp'
+File:      epilepsy-835.png
+Dimension: 835 x 638
+Output:    16156 bytes Y-U-V-All-PSNR 43.79 41.61 40.99   42.79 dB
+block count:  intra4: 989
+              intra16: 1131  (-> 53.35%)
+              skipped block: 532 (25.09%)
+bytes used:  header:            196  (1.2%)
+             mode-partition:   3123  (19.3%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       7%|      14%|      76%|    2120
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      18 |      16 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 13,316 = 0.199966 bits/pel.
+Compressed bytes (excludes codestream headers) = 13,087 = 0.196527 bpp.
+Body bytes (excludes packet and codestream headers) = 12,793 = 0.192112 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.199966
+Layer thresholds:
+        43348
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1536.webp'
+File:      epilepsy-1536.png
+Dimension: 1536 x 1174
+Output:    36202 bytes Y-U-V-All-PSNR 45.46 43.25 42.55   44.42 dB
+block count:  intra4: 3141
+              intra16: 3963  (-> 55.79%)
+              skipped block: 2397 (33.74%)
+bytes used:  header:            272  (0.8%)
+             mode-partition:   7819  (21.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       5%|       8%|      84%|    7104
+      quantizer:  |      45 |      45 |      39 |      31 |
+   filter level:  |      14 |      10 |      16 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 44,842 = 0.198937 bits/pel.
+Compressed bytes (excludes codestream headers) = 44,613 = 0.197921 bpp.
+Body bytes (excludes packet and codestream headers) = 43,842 = 0.194501 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.198937
+Layer thresholds:
+        42918
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1670.webp'
+File:      epilepsy-1670.png
+Dimension: 1670 x 1276
+Output:    37550 bytes Y-U-V-All-PSNR 46.17 43.16 42.85   44.84 dB
+block count:  intra4: 3776
+              intra16: 4624  (-> 55.05%)
+              skipped block: 2982 (35.50%)
+bytes used:  header:            252  (0.7%)
+             mode-partition:   9056  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       6%|       8%|      84%|    8400
+      quantizer:  |      45 |      45 |      38 |      31 |
+   filter level:  |      14 |      18 |      16 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 52,877 = 0.198513 bits/pel.
+Compressed bytes (excludes codestream headers) = 52,648 = 0.197654 bpp.
+Body bytes (excludes packet and codestream headers) = 51,842 = 0.194628 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.198513
+Layer thresholds:
+        42750
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-360.webp'
+File:      epilepsy-360.png
+Dimension: 360 x 275
+Output:    5158 bytes Y-U-V-All-PSNR 41.68 39.86 39.10   40.81 dB
+block count:  intra4: 179
+              intra16: 235  (-> 56.76%)
+              skipped block: 84 (20.29%)
+bytes used:  header:            138  (2.7%)
+             mode-partition:    802  (15.5%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       5%|      12%|      17%|      63%|     414
+      quantizer:  |      45 |      43 |      37 |      28 |
+   filter level:  |      14 |       9 |      23 |       6 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 1,590 = 0.128485 bits/pel.
+Compressed bytes (excludes codestream headers) = 1,361 = 0.109980 bpp.
+Body bytes (excludes packet and codestream headers) = 1,270 = 0.102626 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.128485
+Layer thresholds:
+        44474
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-720.webp'
+File:      epilepsy-720.png
+Dimension: 720 x 550
+Output:    13220 bytes Y-U-V-All-PSNR 43.28 41.13 40.56   42.30 dB
+block count:  intra4: 766
+              intra16: 809  (-> 51.37%)
+              skipped block: 371 (23.56%)
+bytes used:  header:            200  (1.5%)
+             mode-partition:   2464  (18.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       8%|      14%|      73%|    1575
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      10 |      24 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 6,370 = 0.128687 bits/pel.
+Compressed bytes (excludes codestream headers) = 6,141 = 0.124061 bpp.
+Body bytes (excludes packet and codestream headers) = 5,968 = 0.120566 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.128687
+Layer thresholds:
+        43852
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-768.webp'
+File:      epilepsy-768.png
+Dimension: 768 x 587
+Output:    14426 bytes Y-U-V-All-PSNR 43.46 41.20 40.69   42.45 dB
+block count:  intra4: 850
+              intra16: 926  (-> 52.14%)
+              skipped block: 431 (24.27%)
+bytes used:  header:            203  (1.4%)
+             mode-partition:   2746  (19.0%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       8%|      14%|      75%|    1776
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      10 |      24 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 7,207 = 0.127893 bits/pel.
+Compressed bytes (excludes codestream headers) = 6,978 = 0.123829 bpp.
+Body bytes (excludes packet and codestream headers) = 6,795 = 0.120581 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.127893
+Layer thresholds:
+        43792
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-835.webp'
+File:      epilepsy-835.png
+Dimension: 835 x 638
+Output:    16156 bytes Y-U-V-All-PSNR 43.79 41.61 40.99   42.79 dB
+block count:  intra4: 989
+              intra16: 1131  (-> 53.35%)
+              skipped block: 532 (25.09%)
+bytes used:  header:            196  (1.2%)
+             mode-partition:   3123  (19.3%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       2%|       7%|      14%|      76%|    2120
+      quantizer:  |      45 |      45 |      38 |      30 |
+   filter level:  |      14 |      18 |      16 |      13 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 8,612 = 0.129326 bits/pel.
+Compressed bytes (excludes codestream headers) = 8,383 = 0.125887 bpp.
+Body bytes (excludes packet and codestream headers) = 8,173 = 0.122734 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.129326
+Layer thresholds:
+        43724
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1536.webp'
+File:      epilepsy-1536.png
+Dimension: 1536 x 1174
+Output:    36202 bytes Y-U-V-All-PSNR 45.46 43.25 42.55   44.42 dB
+block count:  intra4: 3141
+              intra16: 3963  (-> 55.79%)
+              skipped block: 2397 (33.74%)
+bytes used:  header:            272  (0.8%)
+             mode-partition:   7819  (21.6%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       5%|       8%|      84%|    7104
+      quantizer:  |      45 |      45 |      39 |      31 |
+   filter level:  |      14 |      10 |      16 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 29,139 = 0.129272 bits/pel.
+Compressed bytes (excludes codestream headers) = 28,910 = 0.128256 bpp.
+Body bytes (excludes packet and codestream headers) = 28,322 = 0.125648 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.129272
+Layer thresholds:
+        43374
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+
+Warning: only ICC profile extraction is currently supported on this platform!
+Saving file 'epilepsy-1670.webp'
+File:      epilepsy-1670.png
+Dimension: 1670 x 1276
+Output:    37550 bytes Y-U-V-All-PSNR 46.17 43.16 42.85   44.84 dB
+block count:  intra4: 3776
+              intra16: 4624  (-> 55.05%)
+              skipped block: 2982 (35.50%)
+bytes used:  header:            252  (0.7%)
+             mode-partition:   9056  (24.1%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+    macroblocks:  |       1%|       6%|       8%|      84%|    8400
+      quantizer:  |      45 |      45 |      38 |      31 |
+   filter level:  |      14 |      18 |      16 |      20 |
+Note:
+    The default rate control policy for colour images employs visual (CSF)
+    weighting factors.  To minimize MSE instead, specify `-no_weights'.
+Note:
+    If you want quality scalability, you should generate multiple layers with
+    `-rate' or by using the "Clayers" option.
+
+Generated 1 tile-part(s) for a total of 1 tile(s).
+Code-stream bytes (excluding any file format) = 34,352 = 0.128966 bits/pel.
+Compressed bytes (excludes codestream headers) = 34,123 = 0.128106 bpp.
+Body bytes (excludes packet and codestream headers) = 33,503 = 0.125779 bpp.
+Layer bit-rates (possibly inexact if tiles are divided across tile-parts):
+        0.128966
+Layer thresholds:
+        43227
+Processed using the multi-threaded environment, with
+    2 parallel threads of execution
+** NCONVERT v6.56 (c) 1991-2013 Pierre-E Gougelet (Apr  7 2014/09:38:50) **
+        Version for Windows Xp/Vista/7 x64  (All rights reserved)
+** This is freeware software (for non-commercial use)
+

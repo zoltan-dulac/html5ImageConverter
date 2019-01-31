@@ -1,0 +1,10 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 320 240" width="320" height="240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask id="a" maskUnits="userSpaceOnUse" maskContentUnits="userSpaceOnUse">
+      <image width="320px" height="240px" 
+        xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgA..."></image>
+    </mask>
+  </defs>
+  <image style="mask: url(#a);" 
+    xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQA..."></image>
+</svg>

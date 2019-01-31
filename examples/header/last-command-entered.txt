@@ -1,0 +1,1 @@
+/cygdrive/c/project3/html5ImageConverter/bin/html5ImageConverter.sh --jxr-nconvert --jpg-quals=40 --webp-quals=30 --jp2-rates=0.39 --sizes=360/720/768/835/1536/1670 --no-png --use-mozjpeg --jxr-quals=1 blog-post.png
